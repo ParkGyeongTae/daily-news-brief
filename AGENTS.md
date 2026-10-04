@@ -30,12 +30,24 @@
 
 ### 소스 가이드
 
-- 한국: 연합뉴스, 주요 일간지·경제지, 네이버/다음 "많이 본 뉴스"
-- 한국 부동산: 국토교통부·한국부동산원 발표, 경제지 부동산 섹션 (집값·전월세, 대출 규제, 공급·청약 정책 등)
-- 미국: Reuters, AP, Bloomberg, WSJ, NYT, CNBC 등
-- 유럽: Reuters, BBC, Financial Times, Politico Europe, Euronews 등 (EU 및 영국 포함)
-- 커뮤니티: Reddit(r/worldnews, r/news, r/technology, r/korea 등)의 상위 게시물, X 트렌드를 다룬 기사·웹 검색. 직접 접근이 막히면 웹 검색으로 대체한다
-- AI·모빌리티·데이터: 공식 블로그·발표, TechCrunch, The Verge, 국내 IT 매체 등
+루틴 실행 환경에서는 접근이 제한되므로 아래 규칙을 따른다.
+
+- **WebFetch는 거의 모든 언론사·Reddit 페이지가 막혀 있다.** 기사 페이지를 열려고 시간을 쓰지 말고 WebSearch 결과(제목, URL, 요약)로 확인한다
+- **WebSearch의 `allowed_domains`에 넣으면 요청 전체가 거부되는 매체**: Reuters, AP, BBC, NYT, The Guardian, Politico(EU), The Verge, Ars Technica, USA Today, The Independent, El País, 연합뉴스(yna.co.kr). 이 도메인은 도메인 지정에 넣지 않는다
+- 아래 매체는 검색 결과에 잘 나오고 링크로 쓸 수 있다. 도메인을 지정해 검색할 때 이 목록을 쓴다
+
+| 섹션 | 매체 |
+|---|---|
+| 한국 경제·정치·사회 | 머니투데이(mt.co.kr), 파이낸셜뉴스(fnnews.com), 아주경제(ajunews.com), 이투데이(etoday.co.kr), 서울신문(seoul.co.kr), 한국일보(hankookilbo.com), 경향신문(khan.co.kr), 세계일보(segye.com), 노컷뉴스(nocutnews.co.kr), 뉴시스(newsis.com), 헤럴드경제(heraldcorp.com), SBS(news.sbs.co.kr), 다음뉴스(v.daum.net) |
+| 한국 부동산 | 위 경제지의 부동산 섹션, KB부동산 리서치(kbthink.com), 정책브리핑(korea.kr). 집값·전월세, 대출 규제, 공급·청약 정책 위주 |
+| 미국 | NPR, NBC News, CBS News, ABC News, CNN, CNBC, Bloomberg, Yahoo News(AP 전재 기사 포함) |
+| 유럽 | Euronews, France 24, Al Jazeera, Il Sole 24 Ore(영문). EU 및 영국 포함 |
+| 커뮤니티 | Reddit·X에 직접 접근할 수 없으므로 "Reddit users react", "went viral", "X에서 화제" 같은 검색어로 커뮤니티 반응을 다룬 기사를 찾는다. 반응은 기사에 인용된 내용만 쓴다 |
+| AI | 기업 공식 블로그(anthropic.com 등), TechCrunch, CNBC, Bloomberg, ZDNet Korea(zdnet.co.kr), AI타임스(aitimes.com) |
+| 모빌리티 | TechCrunch(Mobility), Smart Cities Dive, 국내 경제지 산업·자동차 섹션 |
+| 데이터 | 기업 공식 블로그·보도자료(AWS, Databricks, Snowflake 등), BigDATAwire(hpcwire.com), ITPro, PYMNTS, ZDNet Korea |
+
+목록은 2026-10-05 테스트 실행에서 확인한 결과다. 목록에 없는 매체도 검색 결과에 나오면 써도 된다.
 
 ## 중복 방지
 
