@@ -23,8 +23,8 @@
 | 🇰🇷 한국 | 경제 / 정치 / 사회 / 부동산 / 모빌리티 | 각 2개 |
 | 🇺🇸 미국 | 경제 / 정치 / 사회 / 부동산 / 모빌리티 | 각 2개 |
 | 🔥 커뮤니티 화제 | X(트위터) / Reddit에서 많이 이야기되는 주제 | 각 2개 |
-| 🤖 AI | 모델·제품 출시, 연구, 규제, 업계 동향 | 2개 |
-| 📊 데이터 | 데이터 엔지니어링·분석 도구(Snowflake, Databricks, dbt, BigQuery 등), 데이터 플랫폼, 데이터 규제 | 2개 |
+| 🤖 AI | 모델·제품 출시, 연구, 규제, 업계 동향 | 3개 |
+| 📊 데이터 | 데이터 엔지니어링·분석 도구(Snowflake, Databricks, dbt, BigQuery 등), 오픈소스 릴리스(Apache Airflow, Spark, Kafka, Iceberg 등), 기업 데이터 엔지니어링 블로그 글, 데이터 플랫폼, 데이터 규제 | 3개 |
 
 한국·미국의 **모빌리티** 카테고리는 내비게이션, 지도, 자율주행, 모빌리티 플랫폼(한국: 카카오모빌리티·티맵 등, 미국: 우버·웨이모·테슬라 등), 교통 정책을 다룬다.
 
@@ -46,7 +46,7 @@
 | 미국 모빌리티 | TechCrunch(Mobility), Smart Cities Dive, CNBC, Bloomberg |
 | 커뮤니티 | Reddit·X에 직접 접근할 수 없으므로 "Reddit users react", "went viral", "X에서 화제" 같은 검색어로 커뮤니티 반응을 다룬 기사를 찾는다. 반응은 기사에 인용된 내용만 쓴다 |
 | AI | 기업 공식 블로그(anthropic.com 등), TechCrunch, CNBC, Bloomberg, ZDNet Korea(zdnet.co.kr), AI타임스(aitimes.com) |
-| 데이터 | 기업 공식 블로그·보도자료(AWS, Databricks, Snowflake 등), BigDATAwire(hpcwire.com), ITPro, PYMNTS, ZDNet Korea |
+| 데이터 | 기업 공식 블로그·보도자료(AWS, Databricks, Snowflake 등), BigDATAwire(hpcwire.com), ITPro, PYMNTS, ZDNet Korea. 오픈소스는 Apache 프로젝트 공식 블로그·릴리스 노트, 엔지니어링 블로그는 Netflix·Uber·Airbnb·토스·우아한형제들·카카오 등 기술 블로그 |
 
 목록은 2026-10-05 테스트 실행에서 확인한 결과다. 목록에 없는 매체도 검색 결과에 나오면 써도 된다.
 
@@ -135,7 +135,7 @@ _수집 기간: 10/02 06:00 ~ 10/05 06:00 KST_
 ...
 ```
 
-커뮤니티 섹션은 X와 Reddit을 나눠 각 2개씩 쓴다. 같은 주제가 양쪽에서 화제면 더 반응이 컸던 쪽에 한 번만 넣는다. AI·데이터 섹션은 소제목 없이 1~2번으로 쓴다.
+커뮤니티 섹션은 X와 Reddit을 나눠 각 2개씩 쓴다. 같은 주제가 양쪽에서 화제면 더 반응이 컸던 쪽에 한 번만 넣는다. AI·데이터 섹션은 소제목 없이 1~3번으로 쓴다.
 
 AI·데이터 섹션과 한국·미국의 모빌리티 카테고리는 3줄 중 마지막 줄을 가능하면 "실무 관점"(모빌리티 업계나 데이터 엔지니어에게 주는 의미)으로 쓴다.
 
