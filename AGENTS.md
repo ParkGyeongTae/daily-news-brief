@@ -80,7 +80,9 @@
 1. **부모 메시지 (채널)**: 오늘의 헤드라인
 2. 한국: 경제 / 정치 / 사회 / 부동산 / 모빌리티 순서로 카테고리마다 답글 1개
 3. 미국: 경제 / 정치 / 사회 / 부동산 / 모빌리티 순서로 카테고리마다 답글 1개
-기본 구성은 부모 메시지 1개와 스레드 답글 10개다.
+4. 실행 정보: 토큰 사용량과 소요 시간을 담은 마지막 답글 1개
+
+기본 구성은 부모 메시지 1개와 스레드 답글 11개다.
 
 ### 길이 제한
 
@@ -127,6 +129,62 @@ _수집 기간: 10/02 06:00 ~ 10/05 06:00 KST_
 
 - 한국·미국의 모빌리티 카테고리는 3줄 중 마지막 줄을 가능하면 "실무 관점"(모빌리티 업계에 주는 의미)으로 쓴다
 
+### 실행 정보 답글 형식
+
+뉴스 답글 10개를 모두 게시한 뒤, 아래 명령을 Bash로 실행해 이번 실행의 토큰 사용량을 집계한다.
+Claude Code가 실행 환경의 `~/.claude/projects/` 아래에 남기는 대화 기록(JSONL)에서 응답별 사용량을 합산한다.
+
+```bash
+python3 - <<'EOF'
+import glob, json, os
+from datetime import datetime, timezone, timedelta
+
+paths = set()
+for root in {os.path.expanduser("~"), "/root", "/home/user"}:
+    paths.update(glob.glob(f"{root}/.claude/projects/**/*.jsonl", recursive=True))
+if not paths:
+    print(json.dumps({"error": "기록 파일 없음"}))
+    raise SystemExit
+
+path = max(paths, key=os.path.getmtime)
+usage, first_ts, model = {}, None, None
+with open(path, encoding="utf-8") as f:
+    for n, line in enumerate(f):
+        try:
+            e = json.loads(line)
+        except ValueError:
+            continue
+        first_ts = first_ts or e.get("timestamp")
+        m = e.get("message")
+        if e.get("type") == "assistant" and isinstance(m, dict) and m.get("usage"):
+            # 한 응답이 여러 줄로 기록되면 같은 message.id가 반복되므로 마지막 값만 쓴다
+            usage[m.get("id") or n] = m["usage"]
+            model = m.get("model") or model
+
+keys = ["input_tokens", "output_tokens", "cache_creation_input_tokens", "cache_read_input_tokens"]
+result = {k: sum(u.get(k) or 0 for u in usage.values()) for k in keys}
+result.update(responses=len(usage), model=model, file=path)
+if first_ts:
+    start = datetime.fromisoformat(first_ts.replace("Z", "+00:00"))
+    result["start_kst"] = start.astimezone(timezone(timedelta(hours=9))).strftime("%H:%M")
+    result["elapsed_sec"] = int((datetime.now(timezone.utc) - start).total_seconds())
+print(json.dumps(result, ensure_ascii=False))
+EOF
+```
+
+출력값으로 아래 형식의 답글을 쓴다. 숫자는 천 단위 쉼표를 넣고, 소요 시간은 `elapsed_sec`을 `N분 N초`로 바꾼다.
+
+```
+📊 **실행 정보**
+• 토큰: 입력 12,345 · 출력 34,567 · 캐시 쓰기 123,456 · 캐시 읽기 1,234,567
+• 소요 시간: 6분 37초 (시작 06:04 KST, 집계 시점까지)
+• 모델: claude-opus-5-5 · 응답 62회
+```
+
+- 값은 명령 출력 그대로 쓰고 추정하거나 반올림하지 않는다. 집계 이후의 마지막 몇 턴은 포함되지 않는다
+- 명령이 실패하거나 `error`가 나오면 해당 줄에 `집계 불가 (오류 내용)`을 쓰고, 나머지 줄은 알 수 있는 값만 쓴다
+- 이 답글에는 기사가 없으므로 중복 방지 확인에서 무시한다
+
 ## 작성 규칙
 
 - 요약은 항목마다 정확히 3줄, 각 줄은 한 문장으로 짧게
@@ -143,6 +201,7 @@ _수집 기간: 10/02 06:00 ~ 10/05 06:00 KST_
 3. 한국·미국 섹션별로 WebSearch 결과를 바탕으로 기사를 수집·선정한다 (기사 페이지는 열지 않는다)
 4. 위 형식대로 부모 메시지 1개와 분야별 스레드 답글 10개(한국 5개, 미국 5개)를 작성한다. 기사 없는 분야도 `_해당 기간 새 기사 없음_` 답글을 포함하고, 각 메시지가 3,000자 이하인지 확인한다
 5. `slack_send_message`로 부모 메시지를 채널에 게시하고, 응답의 메시지 `ts`를 `thread_ts`로 써서 나머지를 순서대로 스레드 답글로 게시한다. 무인 실행이므로 **초안 도구(`slack_send_message_draft`)는 쓰지 않고 바로 게시한다**
+   - 뉴스 답글 10개를 게시한 뒤 "실행 정보 답글 형식"의 명령으로 사용량을 집계하고, 실행 정보 답글을 스레드의 마지막 답글로 게시한다
 6. 게시 중 실패하면 실패한 메시지만 다시 시도한다. 재시도 전에 채널(부모 메시지) 또는 스레드(답글)를 다시 읽어, 응답만 실패하고 실제로는 게시됐는지 확인한다. 이미 게시된 메시지는 다시 올리지 않는다
 7. 아래 경우에는 더 시도하지 않는다. 무엇이 게시됐고 무엇이 실패했는지, 오류 내용은 무엇인지를 최종 결과에 남기고 종료한다
    - 채널을 찾지 못한 경우
