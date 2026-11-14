@@ -1,0 +1,660 @@
+{
+ "date": "2026-11-15",
+ "period_kst": "2026-11-12 06:00 ~ 2026-11-15 06:00",
+ "headlines": [
+  {
+   "ko": "FAA 통신 장애로 미 전역 항공편 출발이 4시간 넘게 중단돼 1만편 넘는 항공편이 결항했다",
+   "en": "A telecom outage halted U.S. departures nationwide for more than four hours, and over 10,000 flights were canceled"
+  },
+  {
+   "ko": "서울 6개 구 임대차 거래에서 월세 비중이 52.8%로 올라 전세를 앞질렀다",
+   "en": "Monthly rent's share of lease deals in six Seoul districts rose to 52.8%, surpassing jeonse"
+  },
+  {
+   "ko": "국민의힘이 부산에서 '조작기소 특검법' 규탄 장외집회를 열었고, 민주당은 \"대통령 조롱 장외투쟁\"이라고 비판했다",
+   "en": "The People Power Party held a Busan rally against the \"fabricated indictment\" special counsel bill, which Democrats called a street protest mocking the president"
+  }
+ ],
+ "articles": [
+  {
+   "country": "KR",
+   "category": "경제",
+   "source": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2648012",
+   "published": "2026-11-13 KST 환율마감 기사(검색 결과)",
+   "title_ko": "원·달러 환율 5거래일 만에 반등…유가·미국채 금리 급등 영향",
+   "title_en": "Dollar-won rate rebounds after five sessions as oil and Treasury yields surge",
+   "summary_ko": [
+    "13일 원·달러 환율은 5거래일 만에 반등해 전 거래일보다 0.45% 올랐다.",
+    "장중에는 1330.2원과 1337.3원 사이에서 움직였다.",
+    "밤사이 중동 긴장감에 국제유가와 미국채 금리가 급등한 것이 영향을 줬다."
+   ],
+   "summary_en": [
+    "On the 13th, the won-dollar exchange rate rebounded for the first time in five trading days, rising 0.45%.",
+    "During the session, it moved between 1,330.2 won and 1,337.3 won.",
+    "An overnight spike in oil prices and U.S. Treasury yields amid Middle East tensions drove the move."
+   ],
+   "expressions": [
+    [
+     "trading days",
+     null,
+     "거래일"
+    ],
+    [
+     "Treasury yields",
+     null,
+     "미 국채 금리"
+    ],
+    [
+     "spike",
+     null,
+     "급등"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "경제",
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611140859040936",
+   "published": "2026-11-14 08:59 KST (URL·검색 결과)",
+   "title_ko": "2천조원 넘긴 가계부채, 얼마나 더 늘었을까",
+   "title_en": "Household debt topped 2,000 trillion won — how much more has it grown?",
+   "summary_ko": [
+    "2분기 말 가계신용은 2019조8000억원으로 사상 처음 2000조원을 넘었다.",
+    "3분기에도 가계대출이 순증해 새 발표치는 2000조원을 더 웃돌 것으로 보인다.",
+    "다만 3분기 명목 GDP가 급증해 GDP 대비 가계부채 비율은 2분기 말 81.1%에서 낮아질 수 있다."
+   ],
+   "summary_en": [
+    "At the end of the second quarter, household credit hit 2,019.8 trillion won, topping 2,000 trillion won for the first time.",
+    "With household loans posting a net increase in the third quarter, the new figure is expected to rise further above 2,000 trillion won.",
+    "But with nominal GDP surging in the third quarter, the household debt-to-GDP ratio could fall from 81.1% at the end of the second quarter."
+   ],
+   "expressions": [
+    [
+     "household credit",
+     null,
+     "가계신용"
+    ],
+    [
+     "net increase",
+     null,
+     "순증"
+    ],
+    [
+     "debt-to-GDP ratio",
+     null,
+     "GDP 대비 부채 비율"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "source": "한국일보",
+   "url": "https://www.hankookilbo.com/news/article/A2026111410100002433",
+   "published": "2026-11-14 KST (검색 결과: '오늘 부산서' 집회)",
+   "title_ko": "국민의힘, 부산서 '조작기소 특검법' 규탄 장외집회…민주당 \"대통령 조롱 장외투쟁\"",
+   "title_en": "People Power Party holds Busan rally against the \"fabricated indictment\" special counsel bill; Democrats slam a \"street protest\"",
+   "summary_ko": [
+    "국민의힘은 14일 부산역 광장에서 특검법 강행 처리를 규탄하는 집회를 열었고, 주최 측은 1만명, 경찰은 1천여명이 참석한 것으로 집계했다.",
+    "민주당 손명수 대변인은 \"예산국회를 팽개치고 특검법을 빌미로 대통령을 조롱하는 장외투쟁\"이라고 비판했다.",
+    "국민의힘은 21일 대구, 27일 대전, 내달 초 서울 등에서 장외 여론전을 이어갈 계획이다."
+   ],
+   "summary_en": [
+    "The People Power Party rallied at Busan Station Plaza on the 14th against the forced passage of the special counsel bill; organizers counted 10,000, police about 1,000.",
+    "Democratic Party spokesperson Son Myung-soo called it \"a street protest mocking the president under the pretext of the special counsel bill, abandoning the budget session.\"",
+    "The party plans to continue its street campaign in Daegu on the 21st, Daejeon on the 27th and Seoul early next month."
+   ],
+   "expressions": [
+    [
+     "forced passage",
+     null,
+     "강행 처리"
+    ],
+    [
+     "special counsel",
+     null,
+     "특별검사(특검)"
+    ],
+    [
+     "under the pretext of",
+     null,
+     "~을 빌미로"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "source": "한국일보",
+   "url": "https://www.hankookilbo.com/news/article/A2026111410120005812",
+   "published": "2026-11-14 KST (URL·검색 결과)",
+   "title_ko": "미래대응기금 공방…국민의힘 \"전액 삭감\" 민주 \"뒤로는 증액 요구\"",
+   "title_en": "Clash over the future response fund: PPP demands a full cut, Democrats say it quietly sought increases",
+   "summary_ko": [
+    "국민의힘은 미래대응기금 예산의 전액 삭감을 주장하고 있다.",
+    "민주당은 국민의힘 일부 의원이 뒤로는 지역 사업 예산 증액을 요구했다고 비판했다.",
+    "정점식 국민의힘 원내대표는 소속 의원들에게 미래대응기금 예산 증액 신청을 모두 철회하라는 지침을 내렸다."
+   ],
+   "summary_en": [
+    "The People Power Party is demanding that the budget for the future response fund be cut in full.",
+    "The Democratic Party criticized some PPP lawmakers for quietly requesting funding increases for local projects.",
+    "PPP floor leader Jeong Jeom-sig instructed party lawmakers to withdraw all requests to increase the fund's budget."
+   ],
+   "expressions": [
+    [
+     "cut in full",
+     null,
+     "전액 삭감되다"
+    ],
+    [
+     "funding increases",
+     null,
+     "예산 증액"
+    ],
+    [
+     "floor leader",
+     null,
+     "원내대표"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "source": "경향신문",
+   "url": "https://www.khan.co.kr/article/202611141140001/",
+   "published": "2026-11-14 11:40 KST (URL·검색 결과)",
+   "title_ko": "배우 고경표, 음주운전으로 청소차 들이받아…\"잘못 인정, 깊이 반성\"",
+   "title_en": "Actor Ko Kyung-pyo hits a garbage truck while driving drunk, says he admits fault and deeply regrets it",
+   "summary_ko": [
+    "배우 고경표가 14일 오전 3시30분쯤 서울 마포구 동교동에서 음주 상태로 운전하다 청소차를 들이받았다.",
+    "서울 마포경찰서가 음주운전 혐의로 수사 중이며, 사고 당시 동승자는 없었다.",
+    "소속사는 고씨가 경찰 조사를 마치고 귀가했으며 잘못을 인정하고 깊이 반성하고 있다고 밝혔다."
+   ],
+   "summary_en": [
+    "Actor Ko Kyung-pyo crashed into a garbage truck while driving drunk in Donggyo-dong, Mapo-gu, Seoul, around 3:30 a.m. on the 14th.",
+    "Seoul Mapo Police Station is investigating him on drunk-driving charges, and no passengers were in the car.",
+    "His agency said Ko returned home after police questioning, admits his fault and deeply regrets it."
+   ],
+   "expressions": [
+    [
+     "crashed into",
+     "crash into",
+     "들이받다"
+    ],
+    [
+     "drunk-driving charges",
+     null,
+     "음주운전 혐의"
+    ],
+    [
+     "police questioning",
+     null,
+     "경찰 조사"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "source": "경향신문",
+   "url": "https://www.khan.co.kr/article/202611141515001/",
+   "published": "2026-11-14 15:15 KST (URL·검색 결과)",
+   "title_ko": "환경미화원 숨지게 한 뺑소니 50대 검거…\"사고 후 음주\" 주장",
+   "title_en": "Driver in her 50s arrested in fatal hit-and-run of a sanitation worker, claims she drank after the crash",
+   "summary_ko": [
+    "14일 오전 6시30분께 경기 광명시 하안동 안양천로에서 배수로를 청소하던 환경미화원이 승용차에 치여 숨졌다.",
+    "경찰은 구호 조치 없이 달아난 50대 여성 운전자를 붙잡았다.",
+    "운전자가 사고 후 집에서 술을 마셨다고 주장해 경찰은 사고 당시 음주운전 여부를 조사하고 있다."
+   ],
+   "summary_en": [
+    "A sanitation worker cleaning a drain on Anyangcheon-ro in Haan-dong, Gwangmyeong, Gyeonggi Province, was struck and killed by a car around 6:30 a.m. on the 14th.",
+    "Police arrested the driver, a woman in her 50s who fled without helping the victim.",
+    "Because she claims she drank at home after the crash, police are investigating whether she was drunk at the time."
+   ],
+   "expressions": [
+    [
+     "struck and killed",
+     null,
+     "치여 숨지다"
+    ],
+    [
+     "fled",
+     "flee",
+     "달아나다"
+    ],
+    [
+     "hit-and-run",
+     null,
+     "뺑소니"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "source": "서울신문",
+   "url": "https://www.seoul.co.kr/news/society/2026/11/14/20261114500022",
+   "published": "2026-11-14 KST (URL·검색 결과 [속보])",
+   "title_ko": "주민 대피 도운 70대 경비원, 혼수상태 3일째 끝내 숨져…아파트 방화 40대 구속영장",
+   "title_en": "Guard in his 70s who helped residents flee an arson fire dies after three days in a coma; arrest warrant for suspect in his 40s",
+   "summary_ko": [
+    "광주 아파트 방화 당시 주민 대피를 돕다 중태에 빠졌던 70대 경비원이 치료 중 끝내 숨졌다.",
+    "방화 혐의를 받는 40대 남성에게는 구속영장이 발부됐다.",
+    "경찰은 남성의 죄명을 치사상 혐의로 변경할 예정이다."
+   ],
+   "summary_en": [
+    "A security guard in his 70s, critically injured while helping residents evacuate an arson fire at a Gwangju apartment, died during treatment.",
+    "An arrest warrant was issued for the man in his 40s suspected of setting the fire.",
+    "Police plan to upgrade the charge to one involving death and injury."
+   ],
+   "expressions": [
+    [
+     "in a coma",
+     null,
+     "혼수상태로"
+    ],
+    [
+     "arrest warrant",
+     null,
+     "구속영장"
+    ],
+    [
+     "upgrade the charge",
+     null,
+     "혐의를 무겁게 바꾸다"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611121424383062",
+   "published": "2026-11-12 14:24 KST (URL·검색 결과)",
+   "title_ko": "서울 집합건물 근저당 설정 1년 새 46.6%↑…서울 전역으로 번진 '집주인 대출'",
+   "title_en": "Mortgage filings on Seoul multi-unit buildings jump 46.6% in a year as \"seller financing\" spreads",
+   "summary_ko": [
+    "법원 등기정보광장에 따르면 10월 서울 집합건물 근저당권 설정등기 신청 부동산은 2만884건으로 1년 전보다 46.6% 늘었다.",
+    "25개 자치구 중 20곳에서 늘었고, 광진구는 351건에서 3070건으로 증가 폭이 가장 컸다.",
+    "기사는 주택담보대출 등 다양한 채권관계가 포함돼 증가분 전체를 매도자가 돈을 빌려주는 '셀러 파이낸싱'으로 볼 수는 없다고 설명했다."
+   ],
+   "summary_en": [
+    "Court registry data show mortgage registration filings for Seoul multi-unit buildings totaled 20,884 in October, up 46.6% from a year earlier.",
+    "Filings rose in 20 of 25 districts, with Gwangjin-gu seeing the biggest jump, from 351 to 3,070.",
+    "The report noted the filings include home loans and other debts, so the whole rise can't be seen as \"seller financing,\" where sellers lend to buyers."
+   ],
+   "expressions": [
+    [
+     "seller financing",
+     null,
+     "매도자 금융(집주인 대출)"
+    ],
+    [
+     "from a year earlier",
+     null,
+     "1년 전보다"
+    ],
+    [
+     "biggest jump",
+     null,
+     "가장 큰 증가"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611141202006819",
+   "published": "2026-11-14 12:02 KST (URL·검색 결과)",
+   "title_ko": "전세난에 월세난까지…무주택자 내 집 마련 압박 커진다",
+   "title_en": "A rent crunch on top of a jeonse shortage adds pressure on non-homeowners to buy",
+   "summary_ko": [
+    "서울 6개 구 임대차 거래에서 월세 비중이 45.3%에서 52.8%로 올라 전세를 앞질렀다.",
+    "노원·도봉·강북·금천·관악·구로구의 올해 1~10월 월세 300만원 이상 아파트 거래는 41건이었다.",
+    "신규 입주 물량 부족과 대출 규제, 토지거래허가구역 실거주 의무가 겹치며 전세 매물이 줄었다는 분석이 나왔다."
+   ],
+   "summary_en": [
+    "In six Seoul districts, monthly rent's share of lease deals climbed from 45.3% to 52.8%, overtaking jeonse.",
+    "In Nowon, Dobong, Gangbuk, Geumcheon, Gwanak and Guro, 41 apartment deals from January to October carried monthly rents of 3 million won or more.",
+    "Analysts said a shortage of new move-ins, lending curbs and residency rules in land-transaction permit zones have shrunk jeonse listings."
+   ],
+   "expressions": [
+    [
+     "overtaking",
+     "overtake",
+     "앞지르다"
+    ],
+    [
+     "rent crunch",
+     null,
+     "월세난"
+    ],
+    [
+     "lending curbs",
+     null,
+     "대출 규제"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+   "published": "2026-11-13 ET (검색 결과 제목 'Stock market news for Nov. 13, 2026')",
+   "title_ko": "엔비디아 약세에 S&P500·나스닥 하락…3대 지수는 8월 초 이후 최고의 한 주",
+   "title_en": "Nvidia drags the S&P 500 and Nasdaq lower, but major indexes post their best week since early August",
+   "summary_ko": [
+    "13일 S&P500은 0.4% 내린 7561.67, 나스닥은 0.91% 내린 25136.27로 마감했다.",
+    "다우지수는 50.46포인트(0.1%) 오른 52347.55로 소폭 상승했다.",
+    "이날 하락에도 3대 지수는 8월 초 이후 가장 좋은 주간 성적을 냈다."
+   ],
+   "summary_en": [
+    "On the 13th, the S&P 500 fell 0.4% to 7,561.67 and the Nasdaq dropped 0.91% to 25,136.27.",
+    "The Dow eked out a gain of 50.46 points, or 0.1%, to close at 52,347.55.",
+    "Despite the day's dip, all three indexes scored their best weekly performance since early August."
+   ],
+   "expressions": [
+    [
+     "drags",
+     "drag",
+     "끌어내리다"
+    ],
+    [
+     "eked out",
+     "eke out",
+     "간신히 얻어내다"
+    ],
+    [
+     "weekly performance",
+     null,
+     "주간 성적"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "정치",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
+   "published": "2026-11-12 ET (URL·검색 결과)",
+   "title_ko": "민주당, 트럼프 아치·골프장 사업 막으려면…선택지는?",
+   "title_en": "Democrats want to stop Trump's arch and golf course. What are their options?",
+   "summary_ko": [
+    "민주당은 트럼프 대통령의 아치·골프장 등 사업을 막는 방안을 찾고 있다.",
+    "의회는 정부 셧다운을 피하려면 12월 11일까지 단기 예산안을 통과시켜야 한다.",
+    "민주당은 이 예산안을 활용해 트럼프 대통령의 건설 사업 예산을 제한할 수 있다."
+   ],
+   "summary_en": [
+    "Democrats are looking for ways to stop President Trump's projects, including an arch and a golf course.",
+    "Congress must pass a short-term funding bill by Dec. 11 to avoid a government shutdown.",
+    "Democrats could use that bill to limit money for Trump's construction projects."
+   ],
+   "expressions": [
+    [
+     "looking for ways",
+     null,
+     "방법을 찾다"
+    ],
+    [
+     "short-term funding bill",
+     null,
+     "단기 예산안"
+    ],
+    [
+     "government shutdown",
+     null,
+     "정부 셧다운"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "사회",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
+   "published": "2026-11-12 ET (URL·검색 결과)",
+   "title_ko": "올해 최소 23개 주, ICE·학교 관련 법안 검토",
+   "title_en": "At least 23 states weighed laws on ICE and schools this year",
+   "summary_ko": [
+    "올해 최소 23개 주가 이민세관단속국(ICE)과 학교에 관한 법안을 검토했다.",
+    "웨스트버지니아·하와이·캔자스는 학교 캠퍼스를 단속 제한 장소로 지정하려 했다.",
+    "세 주의 법안은 모두 통과되지 못했다."
+   ],
+   "summary_en": [
+    "At least 23 states weighed laws on Immigration and Customs Enforcement (ICE) and schools this year.",
+    "West Virginia, Hawaii and Kansas tried to designate school campuses as \"sensitive locations.\"",
+    "None of those three states' proposals passed."
+   ],
+   "expressions": [
+    [
+     "weighed",
+     "weigh",
+     "검토하다"
+    ],
+    [
+     "sensitive locations",
+     null,
+     "(단속) 제한 장소"
+    ],
+    [
+     "designate",
+     null,
+     "지정하다"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "부동산",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/-marry-the-house-date-the-mortgage-rate-hasn-t-worked-out-for-these-homeowners",
+   "published": "2026-11-12 (URL·검색 결과)",
+   "title_ko": "'집과 결혼하고 금리와는 데이트하라' 전략, 6% 넘는 모기지 보유자에겐 안 통했다",
+   "title_en": "\"Marry the house, date the mortgage rate\" hasn't worked out for these homeowners",
+   "summary_ko": [
+    "미국에서 약 1100만 명의 주택 보유자가 6%를 넘는 금리의 모기지를 안고 있다.",
+    "이들은 재융자를 위해 금리가 내려가기를 기다렸지만 헛수고가 되고 있다.",
+    "집을 먼저 사고 금리가 내리면 나중에 재융자하라는 전략이 이들에게는 통하지 않았다."
+   ],
+   "summary_en": [
+    "Some 11 million U.S. homeowners are carrying mortgages with rates above 6%.",
+    "They have been waiting in vain for rates to come down so they can refinance.",
+    "The strategy of buying a home first and refinancing later when rates fall hasn't worked out for them."
+   ],
+   "expressions": [
+    [
+     "waiting in vain",
+     null,
+     "헛되이 기다리다"
+    ],
+    [
+     "refinance",
+     null,
+     "재융자하다"
+    ],
+    [
+     "worked out",
+     "work out",
+     "잘 풀리다"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "모빌리티",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
+   "published": "2026-11-13 ET (URL·검색 결과)",
+   "title_ko": "FAA, 통신 장애로 미 전역 항공편 출발 중단…1만편 넘게 결항",
+   "title_en": "Telecom outage triggers a nationwide FAA ground stop; more than 10,000 flights canceled",
+   "summary_ko": [
+    "미 연방항공청(FAA)은 13일 오후 3시44분(동부시간) 통신망 불안정으로 전국 출발 항공편에 운항 중지를 발령했다.",
+    "운항 중지는 오후 8시15분 해제됐지만 1만편 넘는 항공편이 결항했다.",
+    "숀 더피 교통장관은 항공교통관제 라우터 과부하를 원인으로 지목하며 노후 장비를 탓했다."
+   ],
+   "summary_en": [
+    "The Federal Aviation Administration issued a nationwide ground stop on departing flights at 3:44 p.m. ET on the 13th over network instability.",
+    "The ground stop was lifted at 8:15 p.m., but more than 10,000 flights were canceled.",
+    "Transportation Secretary Sean Duffy said overloaded air traffic control routers caused it and blamed aging equipment."
+   ],
+   "expressions": [
+    [
+     "ground stop",
+     null,
+     "전면 이륙 중지"
+    ],
+    [
+     "air traffic control",
+     null,
+     "항공 교통 관제"
+    ],
+    [
+     "lifted",
+     "lift",
+     "해제하다"
+    ]
+   ]
+  }
+ ],
+ "channels": {
+  "news": {
+   "parent": "📰 **Daily News Brief** | 2026-11-15 (일)\n_수집 기간: 11/12 06:00 ~ 11/15 06:00 KST_\n\n**오늘의 핵심**\n• FAA 통신 장애로 미 전역 항공편 출발이 4시간 넘게 중단돼 1만편 넘는 항공편이 결항했다\n• 서울 6개 구 임대차 거래에서 월세 비중이 52.8%로 올라 전세를 앞질렀다\n• 국민의힘이 부산에서 '조작기소 특검법' 규탄 장외집회를 열었고, 민주당은 \"대통령 조롱 장외투쟁\"이라고 비판했다\n\n🧵 상세 뉴스는 스레드에서 분야별로 확인: 🇰🇷 한국·🇺🇸 미국 (경제 · 정치 · 사회 · 부동산 · 모빌리티)",
+   "parent_verified": true,
+   "parent_ts": "1794690606.609339",
+   "replies": [
+    {
+     "id": "news-KR-경제-1/1",
+     "text": "🇰🇷 **한국 · 💰 경제**\n**1. 원·달러 환율 5거래일 만에 반등…유가·미국채 금리 급등 영향**\n• 13일 원·달러 환율은 5거래일 만에 반등해 전 거래일보다 0.45% 올랐다.\n• 장중에는 1330.2원과 1337.3원 사이에서 움직였다.\n• 밤사이 중동 긴장감에 국제유가와 미국채 금리가 급등한 것이 영향을 줬다.\n🔗 [이투데이](https://www.etoday.co.kr/news/view/2648012)\n\n**2. 2천조원 넘긴 가계부채, 얼마나 더 늘었을까**\n• 2분기 말 가계신용은 2019조8000억원으로 사상 처음 2000조원을 넘었다.\n• 3분기에도 가계대출이 순증해 새 발표치는 2000조원을 더 웃돌 것으로 보인다.\n• 다만 3분기 명목 GDP가 급증해 GDP 대비 가계부채 비율은 2분기 말 81.1%에서 낮아질 수 있다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611140859040936)",
+     "verified": true,
+     "ts": "1794690614.709039"
+    },
+    {
+     "id": "news-KR-정치-1/1",
+     "text": "🇰🇷 **한국 · 🏛️ 정치**\n**1. 국민의힘, 부산서 '조작기소 특검법' 규탄 장외집회…민주당 \"대통령 조롱 장외투쟁\"**\n• 국민의힘은 14일 부산역 광장에서 특검법 강행 처리를 규탄하는 집회를 열었고, 주최 측은 1만명, 경찰은 1천여명이 참석한 것으로 집계했다.\n• 민주당 손명수 대변인은 \"예산국회를 팽개치고 특검법을 빌미로 대통령을 조롱하는 장외투쟁\"이라고 비판했다.\n• 국민의힘은 21일 대구, 27일 대전, 내달 초 서울 등에서 장외 여론전을 이어갈 계획이다.\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111410100002433)\n\n**2. 미래대응기금 공방…국민의힘 \"전액 삭감\" 민주 \"뒤로는 증액 요구\"**\n• 국민의힘은 미래대응기금 예산의 전액 삭감을 주장하고 있다.\n• 민주당은 국민의힘 일부 의원이 뒤로는 지역 사업 예산 증액을 요구했다고 비판했다.\n• 정점식 국민의힘 원내대표는 소속 의원들에게 미래대응기금 예산 증액 신청을 모두 철회하라는 지침을 내렸다.\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111410120005812)",
+     "verified": true,
+     "ts": "1794690618.884649"
+    },
+    {
+     "id": "news-KR-사회-1/1",
+     "text": "🇰🇷 **한국 · 👥 사회**\n**1. 배우 고경표, 음주운전으로 청소차 들이받아…\"잘못 인정, 깊이 반성\"**\n• 배우 고경표가 14일 오전 3시30분쯤 서울 마포구 동교동에서 음주 상태로 운전하다 청소차를 들이받았다.\n• 서울 마포경찰서가 음주운전 혐의로 수사 중이며, 사고 당시 동승자는 없었다.\n• 소속사는 고씨가 경찰 조사를 마치고 귀가했으며 잘못을 인정하고 깊이 반성하고 있다고 밝혔다.\n🔗 [경향신문](https://www.khan.co.kr/article/202611141140001/)\n\n**2. 환경미화원 숨지게 한 뺑소니 50대 검거…\"사고 후 음주\" 주장**\n• 14일 오전 6시30분께 경기 광명시 하안동 안양천로에서 배수로를 청소하던 환경미화원이 승용차에 치여 숨졌다.\n• 경찰은 구호 조치 없이 달아난 50대 여성 운전자를 붙잡았다.\n• 운전자가 사고 후 집에서 술을 마셨다고 주장해 경찰은 사고 당시 음주운전 여부를 조사하고 있다.\n🔗 [경향신문](https://www.khan.co.kr/article/202611141515001/)\n\n**3. 주민 대피 도운 70대 경비원, 혼수상태 3일째 끝내 숨져…아파트 방화 40대 구속영장**\n• 광주 아파트 방화 당시 주민 대피를 돕다 중태에 빠졌던 70대 경비원이 치료 중 끝내 숨졌다.\n• 방화 혐의를 받는 40대 남성에게는 구속영장이 발부됐다.\n• 경찰은 남성의 죄명을 치사상 혐의로 변경할 예정이다.\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/14/20261114500022)",
+     "verified": true,
+     "ts": "1794690628.064589"
+    },
+    {
+     "id": "news-KR-부동산-1/1",
+     "text": "🇰🇷 **한국 · 🏠 부동산**\n**1. 서울 집합건물 근저당 설정 1년 새 46.6%↑…서울 전역으로 번진 '집주인 대출'**\n• 법원 등기정보광장에 따르면 10월 서울 집합건물 근저당권 설정등기 신청 부동산은 2만884건으로 1년 전보다 46.6% 늘었다.\n• 25개 자치구 중 20곳에서 늘었고, 광진구는 351건에서 3070건으로 증가 폭이 가장 컸다.\n• 기사는 주택담보대출 등 다양한 채권관계가 포함돼 증가분 전체를 매도자가 돈을 빌려주는 '셀러 파이낸싱'으로 볼 수는 없다고 설명했다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611121424383062)\n\n**2. 전세난에 월세난까지…무주택자 내 집 마련 압박 커진다**\n• 서울 6개 구 임대차 거래에서 월세 비중이 45.3%에서 52.8%로 올라 전세를 앞질렀다.\n• 노원·도봉·강북·금천·관악·구로구의 올해 1~10월 월세 300만원 이상 아파트 거래는 41건이었다.\n• 신규 입주 물량 부족과 대출 규제, 토지거래허가구역 실거주 의무가 겹치며 전세 매물이 줄었다는 분석이 나왔다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611141202006819)",
+     "verified": true,
+     "ts": "1794690632.346639"
+    },
+    {
+     "id": "news-KR-모빌리티-1/1",
+     "text": "🇰🇷 **한국 · 🚗 모빌리티**\n_해당 기간 새 기사 없음_",
+     "verified": true,
+     "ts": "1794690637.328979"
+    },
+    {
+     "id": "news-US-경제-1/1",
+     "text": "🇺🇸 **미국 · 💰 경제**\n**1. 엔비디아 약세에 S&P500·나스닥 하락…3대 지수는 8월 초 이후 최고의 한 주**\n• 13일 S&P500은 0.4% 내린 7561.67, 나스닥은 0.91% 내린 25136.27로 마감했다.\n• 다우지수는 50.46포인트(0.1%) 오른 52347.55로 소폭 상승했다.\n• 이날 하락에도 3대 지수는 8월 초 이후 가장 좋은 주간 성적을 냈다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html)",
+     "verified": true,
+     "ts": "1794690639.778449"
+    },
+    {
+     "id": "news-US-정치-1/1",
+     "text": "🇺🇸 **미국 · 🏛️ 정치**\n**1. 민주당, 트럼프 아치·골프장 사업 막으려면…선택지는?**\n• 민주당은 트럼프 대통령의 아치·골프장 등 사업을 막는 방안을 찾고 있다.\n• 의회는 정부 셧다운을 피하려면 12월 11일까지 단기 예산안을 통과시켜야 한다.\n• 민주당은 이 예산안을 활용해 트럼프 대통령의 건설 사업 예산을 제한할 수 있다.\n🔗 [NPR](https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight)",
+     "verified": true,
+     "ts": "1794690645.079549"
+    },
+    {
+     "id": "news-US-사회-1/1",
+     "text": "🇺🇸 **미국 · 👥 사회**\n**1. 올해 최소 23개 주, ICE·학교 관련 법안 검토**\n• 올해 최소 23개 주가 이민세관단속국(ICE)과 학교에 관한 법안을 검토했다.\n• 웨스트버지니아·하와이·캔자스는 학교 캠퍼스를 단속 제한 장소로 지정하려 했다.\n• 세 주의 법안은 모두 통과되지 못했다.\n🔗 [NPR](https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration)",
+     "verified": true,
+     "ts": "1794690647.168499"
+    },
+    {
+     "id": "news-US-부동산-1/1",
+     "text": "🇺🇸 **미국 · 🏠 부동산**\n**1. '집과 결혼하고 금리와는 데이트하라' 전략, 6% 넘는 모기지 보유자에겐 안 통했다**\n• 미국에서 약 1100만 명의 주택 보유자가 6%를 넘는 금리의 모기지를 안고 있다.\n• 이들은 재융자를 위해 금리가 내려가기를 기다렸지만 헛수고가 되고 있다.\n• 집을 먼저 사고 금리가 내리면 나중에 재융자하라는 전략이 이들에게는 통하지 않았다.\n🔗 [Bloomberg](https://www.bloomberg.com/news/newsletters/2026-11-12/-marry-the-house-date-the-mortgage-rate-hasn-t-worked-out-for-these-homeowners)",
+     "verified": true,
+     "ts": "1794690652.531259"
+    },
+    {
+     "id": "news-US-모빌리티-1/1",
+     "text": "🇺🇸 **미국 · 🚗 모빌리티**\n**1. FAA, 통신 장애로 미 전역 항공편 출발 중단…1만편 넘게 결항**\n• 미 연방항공청(FAA)은 13일 오후 3시44분(동부시간) 통신망 불안정으로 전국 출발 항공편에 운항 중지를 발령했다.\n• 운항 중지는 오후 8시15분 해제됐지만 1만편 넘는 항공편이 결항했다.\n• 숀 더피 교통장관은 항공교통관제 라우터 과부하를 원인으로 지목하며 노후 장비를 탓했다.\n🔗 [NPR](https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop)",
+     "verified": true,
+     "ts": "1794690654.986189"
+    }
+   ]
+  },
+  "english": {
+   "parent": "📚 **Daily English Brief** | 2026-11-15 (일)\n_수집 기간: 11/12 06:00 ~ 11/15 06:00 KST_\n\n**Today's Headlines / 오늘의 핵심**\n• A telecom outage halted U.S. departures nationwide for more than four hours, and over 10,000 flights were canceled\n  _FAA 통신 장애로 미 전역 항공편 출발이 4시간 넘게 중단돼 1만편 넘는 항공편이 결항했다_\n• Monthly rent's share of lease deals in six Seoul districts rose to 52.8%, surpassing jeonse\n  _서울 6개 구 임대차 거래에서 월세 비중이 52.8%로 올라 전세를 앞질렀다_\n• The People Power Party held a Busan rally against the \"fabricated indictment\" special counsel bill, which Democrats called a street protest mocking the president\n  _국민의힘이 부산에서 '조작기소 특검법' 규탄 장외집회를 열었고, 민주당은 \"대통령 조롱 장외투쟁\"이라고 비판했다_\n\n🧵 Category threads / 스레드에서 분야별 확인: 🇰🇷 Korea·🇺🇸 US (Economy · Politics · Society · Real Estate · Mobility)",
+   "parent_verified": true,
+   "parent_ts": "1794690661.146959",
+   "replies": [
+    {
+     "id": "english-KR-경제-1/1",
+     "text": "🇰🇷 **Korea · 💰 Economy / 한국 · 경제**\n**1. Dollar-won rate rebounds after five sessions as oil and Treasury yields surge**\n_원·달러 환율 5거래일 만에 반등…유가·미국채 금리 급등 영향_\n• On the 13th, the won-dollar exchange rate rebounded for the first time in five trading days, rising 0.45%.\n  _13일 원·달러 환율은 5거래일 만에 반등해 전 거래일보다 0.45% 올랐다._\n• During the session, it moved between 1,330.2 won and 1,337.3 won.\n  _장중에는 1330.2원과 1337.3원 사이에서 움직였다._\n• An overnight spike in oil prices and U.S. Treasury yields amid Middle East tensions drove the move.\n  _밤사이 중동 긴장감에 국제유가와 미국채 금리가 급등한 것이 영향을 줬다._\n📝 `trading days` 거래일 · `Treasury yields` 미 국채 금리 · `spike` 급등\n🔗 [이투데이](https://www.etoday.co.kr/news/view/2648012)\n\n**2. Household debt topped 2,000 trillion won — how much more has it grown?**\n_2천조원 넘긴 가계부채, 얼마나 더 늘었을까_\n• At the end of the second quarter, household credit hit 2,019.8 trillion won, topping 2,000 trillion won for the first time.\n  _2분기 말 가계신용은 2019조8000억원으로 사상 처음 2000조원을 넘었다._\n• With household loans posting a net increase in the third quarter, the new figure is expected to rise further above 2,000 trillion won.\n  _3분기에도 가계대출이 순증해 새 발표치는 2000조원을 더 웃돌 것으로 보인다._\n• But with nominal GDP surging in the third quarter, the household debt-to-GDP ratio could fall from 81.1% at the end of the second quarter.\n  _다만 3분기 명목 GDP가 급증해 GDP 대비 가계부채 비율은 2분기 말 81.1%에서 낮아질 수 있다._\n📝 `household credit` 가계신용 · `net increase` 순증 · `debt-to-GDP ratio` GDP 대비 부채 비율\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611140859040936)",
+     "verified": true,
+     "ts": "1794690669.739749"
+    },
+    {
+     "id": "english-KR-정치-1/1",
+     "text": "🇰🇷 **Korea · 🏛️ Politics / 한국 · 정치**\n**1. People Power Party holds Busan rally against the \"fabricated indictment\" special counsel bill; Democrats slam a \"street protest\"**\n_국민의힘, 부산서 '조작기소 특검법' 규탄 장외집회…민주당 \"대통령 조롱 장외투쟁\"_\n• The People Power Party rallied at Busan Station Plaza on the 14th against the forced passage of the special counsel bill; organizers counted 10,000, police about 1,000.\n  _국민의힘은 14일 부산역 광장에서 특검법 강행 처리를 규탄하는 집회를 열었고, 주최 측은 1만명, 경찰은 1천여명이 참석한 것으로 집계했다._\n• Democratic Party spokesperson Son Myung-soo called it \"a street protest mocking the president under the pretext of the special counsel bill, abandoning the budget session.\"\n  _민주당 손명수 대변인은 \"예산국회를 팽개치고 특검법을 빌미로 대통령을 조롱하는 장외투쟁\"이라고 비판했다._\n• The party plans to continue its street campaign in Daegu on the 21st, Daejeon on the 27th and Seoul early next month.\n  _국민의힘은 21일 대구, 27일 대전, 내달 초 서울 등에서 장외 여론전을 이어갈 계획이다._\n📝 `forced passage` 강행 처리 · `special counsel` 특별검사(특검) · `under the pretext of` ~을 빌미로\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111410100002433)\n\n**2. Clash over the future response fund: PPP demands a full cut, Democrats say it quietly sought increases**\n_미래대응기금 공방…국민의힘 \"전액 삭감\" 민주 \"뒤로는 증액 요구\"_\n• The People Power Party is demanding that the budget for the future response fund be cut in full.\n  _국민의힘은 미래대응기금 예산의 전액 삭감을 주장하고 있다._\n• The Democratic Party criticized some PPP lawmakers for quietly requesting funding increases for local projects.\n  _민주당은 국민의힘 일부 의원이 뒤로는 지역 사업 예산 증액을 요구했다고 비판했다._\n• PPP floor leader Jeong Jeom-sig instructed party lawmakers to withdraw all requests to increase the fund's budget.\n  _정점식 국민의힘 원내대표는 소속 의원들에게 미래대응기금 예산 증액 신청을 모두 철회하라는 지침을 내렸다._\n📝 `cut in full` 전액 삭감되다 · `funding increases` 예산 증액 · `floor leader` 원내대표\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111410120005812)",
+     "verified": true,
+     "ts": "1794690676.686829"
+    },
+    {
+     "id": "english-KR-사회-1/1",
+     "text": "🇰🇷 **Korea · 👥 Society / 한국 · 사회**\n**1. Actor Ko Kyung-pyo hits a garbage truck while driving drunk, says he admits fault and deeply regrets it**\n_배우 고경표, 음주운전으로 청소차 들이받아…\"잘못 인정, 깊이 반성\"_\n• Actor Ko Kyung-pyo crashed into a garbage truck while driving drunk in Donggyo-dong, Mapo-gu, Seoul, around 3:30 a.m. on the 14th.\n  _배우 고경표가 14일 오전 3시30분쯤 서울 마포구 동교동에서 음주 상태로 운전하다 청소차를 들이받았다._\n• Seoul Mapo Police Station is investigating him on drunk-driving charges, and no passengers were in the car.\n  _서울 마포경찰서가 음주운전 혐의로 수사 중이며, 사고 당시 동승자는 없었다._\n• His agency said Ko returned home after police questioning, admits his fault and deeply regrets it.\n  _소속사는 고씨가 경찰 조사를 마치고 귀가했으며 잘못을 인정하고 깊이 반성하고 있다고 밝혔다._\n📝 `crashed into` (crash into) 들이받다 · `drunk-driving charges` 음주운전 혐의 · `police questioning` 경찰 조사\n🔗 [경향신문](https://www.khan.co.kr/article/202611141140001/)\n\n**2. Driver in her 50s arrested in fatal hit-and-run of a sanitation worker, claims she drank after the crash**\n_환경미화원 숨지게 한 뺑소니 50대 검거…\"사고 후 음주\" 주장_\n• A sanitation worker cleaning a drain on Anyangcheon-ro in Haan-dong, Gwangmyeong, Gyeonggi Province, was struck and killed by a car around 6:30 a.m. on the 14th.\n  _14일 오전 6시30분께 경기 광명시 하안동 안양천로에서 배수로를 청소하던 환경미화원이 승용차에 치여 숨졌다._\n• Police arrested the driver, a woman in her 50s who fled without helping the victim.\n  _경찰은 구호 조치 없이 달아난 50대 여성 운전자를 붙잡았다._\n• Because she claims she drank at home after the crash, police are investigating whether she was drunk at the time.\n  _운전자가 사고 후 집에서 술을 마셨다고 주장해 경찰은 사고 당시 음주운전 여부를 조사하고 있다._\n📝 `struck and killed` 치여 숨지다 · `fled` (flee) 달아나다 · `hit-and-run` 뺑소니\n🔗 [경향신문](https://www.khan.co.kr/article/202611141515001/)\n\n**3. Guard in his 70s who helped residents flee an arson fire dies after three days in a coma; arrest warrant for suspect in his 40s**\n_주민 대피 도운 70대 경비원, 혼수상태 3일째 끝내 숨져…아파트 방화 40대 구속영장_\n• A security guard in his 70s, critically injured while helping residents evacuate an arson fire at a Gwangju apartment, died during treatment.\n  _광주 아파트 방화 당시 주민 대피를 돕다 중태에 빠졌던 70대 경비원이 치료 중 끝내 숨졌다._\n• An arrest warrant was issued for the man in his 40s suspected of setting the fire.\n  _방화 혐의를 받는 40대 남성에게는 구속영장이 발부됐다._\n• Police plan to upgrade the charge to one involving death and injury.\n  _경찰은 남성의 죄명을 치사상 혐의로 변경할 예정이다._\n📝 `in a coma` 혼수상태로 · `arrest warrant` 구속영장 · `upgrade the charge` 혐의를 무겁게 바꾸다\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/14/20261114500022)",
+     "verified": true,
+     "ts": "1794690689.679789"
+    },
+    {
+     "id": "english-KR-부동산-1/1",
+     "text": "🇰🇷 **Korea · 🏠 Real Estate / 한국 · 부동산**\n**1. Mortgage filings on Seoul multi-unit buildings jump 46.6% in a year as \"seller financing\" spreads**\n_서울 집합건물 근저당 설정 1년 새 46.6%↑…서울 전역으로 번진 '집주인 대출'_\n• Court registry data show mortgage registration filings for Seoul multi-unit buildings totaled 20,884 in October, up 46.6% from a year earlier.\n  _법원 등기정보광장에 따르면 10월 서울 집합건물 근저당권 설정등기 신청 부동산은 2만884건으로 1년 전보다 46.6% 늘었다._\n• Filings rose in 20 of 25 districts, with Gwangjin-gu seeing the biggest jump, from 351 to 3,070.\n  _25개 자치구 중 20곳에서 늘었고, 광진구는 351건에서 3070건으로 증가 폭이 가장 컸다._\n• The report noted the filings include home loans and other debts, so the whole rise can't be seen as \"seller financing,\" where sellers lend to buyers.\n  _기사는 주택담보대출 등 다양한 채권관계가 포함돼 증가분 전체를 매도자가 돈을 빌려주는 '셀러 파이낸싱'으로 볼 수는 없다고 설명했다._\n📝 `seller financing` 매도자 금융(집주인 대출) · `from a year earlier` 1년 전보다 · `biggest jump` 가장 큰 증가\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611121424383062)\n\n**2. A rent crunch on top of a jeonse shortage adds pressure on non-homeowners to buy**\n_전세난에 월세난까지…무주택자 내 집 마련 압박 커진다_\n• In six Seoul districts, monthly rent's share of lease deals climbed from 45.3% to 52.8%, overtaking jeonse.\n  _서울 6개 구 임대차 거래에서 월세 비중이 45.3%에서 52.8%로 올라 전세를 앞질렀다._\n• In Nowon, Dobong, Gangbuk, Geumcheon, Gwanak and Guro, 41 apartment deals from January to October carried monthly rents of 3 million won or more.\n  _노원·도봉·강북·금천·관악·구로구의 올해 1~10월 월세 300만원 이상 아파트 거래는 41건이었다._\n• Analysts said a shortage of new move-ins, lending curbs and residency rules in land-transaction permit zones have shrunk jeonse listings.\n  _신규 입주 물량 부족과 대출 규제, 토지거래허가구역 실거주 의무가 겹치며 전세 매물이 줄었다는 분석이 나왔다._\n📝 `overtaking` (overtake) 앞지르다 · `rent crunch` 월세난 · `lending curbs` 대출 규제\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611141202006819)",
+     "verified": true,
+     "ts": "1794690697.146589"
+    },
+    {
+     "id": "english-KR-모빌리티-1/1",
+     "text": "🇰🇷 **Korea · 🚗 Mobility / 한국 · 모빌리티**\n_No new articles in this period / 해당 기간 새 기사 없음_",
+     "verified": true,
+     "ts": "1794690701.415549"
+    },
+    {
+     "id": "english-US-경제-1/1",
+     "text": "🇺🇸 **US · 💰 Economy / 미국 · 경제**\n**1. Nvidia drags the S&P 500 and Nasdaq lower, but major indexes post their best week since early August**\n_엔비디아 약세에 S&P500·나스닥 하락…3대 지수는 8월 초 이후 최고의 한 주_\n• On the 13th, the S&P 500 fell 0.4% to 7,561.67 and the Nasdaq dropped 0.91% to 25,136.27.\n  _13일 S&P500은 0.4% 내린 7561.67, 나스닥은 0.91% 내린 25136.27로 마감했다._\n• The Dow eked out a gain of 50.46 points, or 0.1%, to close at 52,347.55.\n  _다우지수는 50.46포인트(0.1%) 오른 52347.55로 소폭 상승했다._\n• Despite the day's dip, all three indexes scored their best weekly performance since early August.\n  _이날 하락에도 3대 지수는 8월 초 이후 가장 좋은 주간 성적을 냈다._\n📝 `drags` (drag) 끌어내리다 · `eked out` (eke out) 간신히 얻어내다 · `weekly performance` 주간 성적\n🔗 [CNBC](https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html)",
+     "verified": true,
+     "ts": "1794690705.066719"
+    },
+    {
+     "id": "english-US-정치-1/1",
+     "text": "🇺🇸 **US · 🏛️ Politics / 미국 · 정치**\n**1. Democrats want to stop Trump's arch and golf course. What are their options?**\n_민주당, 트럼프 아치·골프장 사업 막으려면…선택지는?_\n• Democrats are looking for ways to stop President Trump's projects, including an arch and a golf course.\n  _민주당은 트럼프 대통령의 아치·골프장 등 사업을 막는 방안을 찾고 있다._\n• Congress must pass a short-term funding bill by Dec. 11 to avoid a government shutdown.\n  _의회는 정부 셧다운을 피하려면 12월 11일까지 단기 예산안을 통과시켜야 한다._\n• Democrats could use that bill to limit money for Trump's construction projects.\n  _민주당은 이 예산안을 활용해 트럼프 대통령의 건설 사업 예산을 제한할 수 있다._\n📝 `looking for ways` 방법을 찾다 · `short-term funding bill` 단기 예산안 · `government shutdown` 정부 셧다운\n🔗 [NPR](https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight)",
+     "verified": true,
+     "ts": "1794690708.372189"
+    },
+    {
+     "id": "english-US-사회-1/1",
+     "text": "🇺🇸 **US · 👥 Society / 미국 · 사회**\n**1. At least 23 states weighed laws on ICE and schools this year**\n_올해 최소 23개 주, ICE·학교 관련 법안 검토_\n• At least 23 states weighed laws on Immigration and Customs Enforcement (ICE) and schools this year.\n  _올해 최소 23개 주가 이민세관단속국(ICE)과 학교에 관한 법안을 검토했다._\n• West Virginia, Hawaii and Kansas tried to designate school campuses as \"sensitive locations.\"\n  _웨스트버지니아·하와이·캔자스는 학교 캠퍼스를 단속 제한 장소로 지정하려 했다._\n• None of those three states' proposals passed.\n  _세 주의 법안은 모두 통과되지 못했다._\n📝 `weighed` (weigh) 검토하다 · `sensitive locations` (단속) 제한 장소 · `designate` 지정하다\n🔗 [NPR](https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration)",
+     "verified": true,
+     "ts": "1794690714.963559"
+    },
+    {
+     "id": "english-US-부동산-1/1",
+     "text": "🇺🇸 **US · 🏠 Real Estate / 미국 · 부동산**\n**1. \"Marry the house, date the mortgage rate\" hasn't worked out for these homeowners**\n_'집과 결혼하고 금리와는 데이트하라' 전략, 6% 넘는 모기지 보유자에겐 안 통했다_\n• Some 11 million U.S. homeowners are carrying mortgages with rates above 6%.\n  _미국에서 약 1100만 명의 주택 보유자가 6%를 넘는 금리의 모기지를 안고 있다._\n• They have been waiting in vain for rates to come down so they can refinance.\n  _이들은 재융자를 위해 금리가 내려가기를 기다렸지만 헛수고가 되고 있다._\n• The strategy of buying a home first and refinancing later when rates fall hasn't worked out for them.\n  _집을 먼저 사고 금리가 내리면 나중에 재융자하라는 전략이 이들에게는 통하지 않았다._\n📝 `waiting in vain` 헛되이 기다리다 · `refinance` 재융자하다 · `worked out` (work out) 잘 풀리다\n🔗 [Bloomberg](https://www.bloomberg.com/news/newsletters/2026-11-12/-marry-the-house-date-the-mortgage-rate-hasn-t-worked-out-for-these-homeowners)",
+     "verified": true,
+     "ts": "1794690718.780539"
+    },
+    {
+     "id": "english-US-모빌리티-1/1",
+     "text": "🇺🇸 **US · 🚗 Mobility / 미국 · 모빌리티**\n**1. Telecom outage triggers a nationwide FAA ground stop; more than 10,000 flights canceled**\n_FAA, 통신 장애로 미 전역 항공편 출발 중단…1만편 넘게 결항_\n• The Federal Aviation Administration issued a nationwide ground stop on departing flights at 3:44 p.m. ET on the 13th over network instability.\n  _미 연방항공청(FAA)은 13일 오후 3시44분(동부시간) 통신망 불안정으로 전국 출발 항공편에 운항 중지를 발령했다._\n• The ground stop was lifted at 8:15 p.m., but more than 10,000 flights were canceled.\n  _운항 중지는 오후 8시15분 해제됐지만 1만편 넘는 항공편이 결항했다._\n• Transportation Secretary Sean Duffy said overloaded air traffic control routers caused it and blamed aging equipment.\n  _숀 더피 교통장관은 항공교통관제 라우터 과부하를 원인으로 지목하며 노후 장비를 탓했다._\n📝 `ground stop` 전면 이륙 중지 · `air traffic control` 항공 교통 관제 · `lifted` (lift) 해제하다\n🔗 [NPR](https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop)",
+     "verified": true,
+     "ts": "1794690722.577109"
+    }
+   ]
+  }
+ }
+}
