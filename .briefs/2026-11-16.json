@@ -1,0 +1,689 @@
+{
+ "date": "2026-11-16",
+ "window": "2026-11-13 06:00 ~ 2026-11-16 06:00 KST",
+ "articles": [
+  {
+   "country": "KR",
+   "category": "경제",
+   "title_ko": "청년 근로자 절반이 비정규직…23년 만에 최고",
+   "title_en": "Half of Young Workers Are Non-Regular, Highest in 23 Years",
+   "lines": [
+    [
+     "국가데이터처에 따르면 올해 8월 기준 15~29세 청년층 임금근로자 중 비정규직 비율은 46.0%였다.",
+     "According to the National Data Office, 46.0% of wage workers aged 15 to 29 were non-regular as of August this year."
+    ],
+    [
+     "근로형태별 부가조사 작성이 시작된 2003년 이후 가장 높고, 2003년보다 14.2%포인트 높아졌다.",
+     "It is the highest since the supplementary survey on employment type began in 2003, up 14.2 percentage points from 2003."
+    ],
+    [
+     "같은 기간 전체 임금근로자의 비정규직 비율은 32.6%에서 38.5%로 올랐다.",
+     "Over the same period, the non-regular share of all wage workers rose from 32.6% to 38.5%."
+    ]
+   ],
+   "url": "https://www.segye.com/newsView/20261115509058",
+   "media": "세계일보",
+   "date_evidence": "URL 날짜 2026-11-15(KST, 기간 중간일)",
+   "expressions": [
+    [
+     "wage workers",
+     "",
+     "임금근로자"
+    ],
+    [
+     "non-regular",
+     "",
+     "비정규직의"
+    ],
+    [
+     "percentage points",
+     "",
+     "퍼센트포인트"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title_ko": "820조 예산안 감액·증액 조율 돌입…미래대응기금과 권력기관 특활비가 쟁점",
+   "title_en": "Assembly Begins Adjusting 820 Trillion Won Budget; Future Fund and Special Expenses at Issue",
+   "lines": [
+    [
+     "국회 예결위는 16일 예산안조정소위원회를 열어 820조원 규모 내년도 예산안의 감액·증액 조정에 들어간다.",
+     "The National Assembly's budget committee will convene its adjustment subcommittee on the 16th to start cutting and adding to next year's 820 trillion won budget."
+    ],
+    [
+     "민주당은 정부안의 큰 틀 유지를, 국민의힘은 약 30조원 삭감을 요구하고 있다.",
+     "The Democratic Party wants to keep the government's framework intact, while the People Power Party is demanding cuts of about 30 trillion won."
+    ],
+    [
+     "162조원 규모 미래대응기금과 청와대·중수청 특수활동비가 핵심 쟁점이며, 법정 처리 시한은 12월 2일이다.",
+     "The 162 trillion won Future Response Fund and special activity expenses for Cheong Wa Dae and the Serious Crimes Investigation Agency are key sticking points, with a legal deadline of December 2."
+    ]
+   ],
+   "url": "https://www.khan.co.kr/article/202611151859001/",
+   "media": "경향신문",
+   "date_evidence": "URL 2026-11-15 18:59(KST)",
+   "expressions": [
+    [
+     "subcommittee",
+     "",
+     "소위원회"
+    ],
+    [
+     "sticking points",
+     "",
+     "걸림돌·쟁점"
+    ],
+    [
+     "legal deadline",
+     "",
+     "법정 시한"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title_ko": "국민의힘, '신천지 이어 통일교 의혹' 민주당에 \"특검해야\" 압박",
+   "title_en": "PPP Presses Democrats to Accept Special Counsel Over Unification Church Allegations",
+   "lines": [
+    [
+     "국민의힘은 14일 민주당에서 신천지 교인 집단 당원 가입 의혹에 이어 통일교 개입 의혹이 제기됐다며 특검 수용을 압박했다.",
+     "On the 14th, the People Power Party pressed the Democrats to accept a special counsel, citing Unification Church interference allegations following claims of mass Shincheonji party sign-ups."
+    ],
+    [
+     "조용술 대변인은 민주당 내부 정교유착 의혹이 잇따르는데도 수사기관이 침묵하고 있다고 주장했다.",
+     "Spokesperson Cho Yong-sul claimed investigators remain silent despite a string of church-politics collusion allegations inside the Democratic Party."
+    ],
+    [
+     "대변인은 최민희 최고위원이 통일교가 김민석 대표를 밀었다는 제보를 받았다고 말한 점을 언급했다.",
+     "The spokesperson cited Supreme Council member Choi Min-hee's remark about receiving a tip that the Unification Church backed party leader Kim Min-seok."
+    ]
+   ],
+   "url": "https://www.hankookilbo.com/news/article/A2026111414560000183",
+   "media": "한국일보",
+   "date_evidence": "URL 2026-11-14 14:56(KST), 본문 '14일'",
+   "expressions": [
+    [
+     "special counsel",
+     "",
+     "특별검사(특검)"
+    ],
+    [
+     "a string of",
+     "",
+     "잇따른"
+    ],
+    [
+     "receiving a tip",
+     "receive a tip",
+     "제보를 받다"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title_ko": "세무사시험 수석 \"AI 부정행위 맞다\" 실토…정부 \"고소·합격효력정지 검토\"",
+   "title_en": "Top Scorer on Tax Accountant Exam Admits AI Cheating; Government Weighs Complaint and Suspension",
+   "lines": [
+    [
+     "제63회 세무사시험 수석 합격자가 전자기기와 생성형 AI를 이용한 부정행위를 인정하고 서울경찰청에 자수했다.",
+     "The top scorer on the 63rd certified tax accountant exam admitted to cheating with electronic devices and generative AI and surrendered to the Seoul Metropolitan Police Agency."
+    ],
+    [
+     "합격자는 초소형 카메라로 시험 문제를 외부로 유출하고 AI로 정답을 확인했다고 밝혔다.",
+     "The test-taker said exam questions were leaked out with a tiny camera and the answers were checked with AI."
+    ],
+    [
+     "재정경제부는 합격증 효력 정지를, 한국산업인력공단은 고소를 검토하고 있다.",
+     "The Ministry of Finance and Economy is considering suspending the certificate, and HRD Korea is weighing a criminal complaint."
+    ]
+   ],
+   "url": "https://www.newsis.com/view/NISX20261115_0003868417",
+   "media": "뉴시스",
+   "date_evidence": "URL 2026-11-15(KST, 기간 중간일)",
+   "expressions": [
+    [
+     "top scorer",
+     "",
+     "수석 합격자"
+    ],
+    [
+     "admitted to cheating",
+     "admit to",
+     "~을 인정하다"
+    ],
+    [
+     "criminal complaint",
+     "",
+     "형사 고소"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title_ko": "고령 교차로서 승용차 2대 충돌…40대 여성 숨지고 4명 중경상",
+   "title_en": "Two Cars Collide at Goryeong Intersection, Killing a Woman and Injuring Four",
+   "lines": [
+    [
+     "경북 고령군 다산면 교차로에서 승용차 두 대가 충돌해 경차에 타고 있던 40대 여성이 숨졌다.",
+     "Two cars collided at an intersection in Dasan-myeon, Goryeong County, North Gyeongsang Province, killing a woman in her 40s riding in a compact car."
+    ],
+    [
+     "같은 차량의 40대 운전자와 10대 남녀 2명, 상대 차량 60대 운전자 등 4명이 중경상을 입었다.",
+     "Four people, including the compact car's driver in their 40s, two teenagers and the other car's driver in their 60s, suffered serious or minor injuries."
+    ],
+    [
+     "경찰은 경차의 비보호 좌회전 여부 등 사고 경위를 조사하고 있다.",
+     "Police are looking into the cause, including whether the compact car made an unprotected left turn."
+    ]
+   ],
+   "url": "https://www.seoul.co.kr/news/society/2026/11/15/20261115500004",
+   "media": "서울신문",
+   "date_evidence": "URL 2026-11-15(KST, 기간 중간일)",
+   "expressions": [
+    [
+     "compact car",
+     "",
+     "경차"
+    ],
+    [
+     "unprotected left turn",
+     "",
+     "비보호 좌회전"
+    ],
+    [
+     "looking into",
+     "look into",
+     "조사하다"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title_ko": "20대 남성, 모르는 10대 여성에 흉기 휘둘러",
+   "title_en": "Man in His 20s Swings Knife at Teenage Stranger in Busan",
+   "lines": [
+    [
+     "13일 오후 4시33분쯤 부산 금정구 도시철도 1호선 구서역 인근 길거리에서 20대 남성이 모르는 10대 여성에게 흉기를 휘둘렀다.",
+     "At about 4:33 p.m. on the 13th, a man in his 20s swung a knife at a teenage girl he did not know on a street near Guseo Station on Busan Metro Line 1 in Geumjeong-gu."
+    ],
+    [
+     "피해자는 두꺼운 옷을 입고 있어 상처를 입지 않았다.",
+     "The victim escaped injury thanks to wearing thick clothing."
+    ],
+    [
+     "부산 금정경찰서에 따르면 이 남성은 경찰에 체포됐다.",
+     "According to the Geumjeong Police Station in Busan, the man was arrested by police."
+    ]
+   ],
+   "url": "https://www.seoul.co.kr/news/society/2026/11/15/20261115500109",
+   "media": "서울신문",
+   "date_evidence": "URL 2026-11-15(KST, 기간 중간일), 본문 '15일 부산 금정경찰서에 따르면'",
+   "expressions": [
+    [
+     "swung a knife",
+     "swing a knife",
+     "흉기를 휘두르다"
+    ],
+    [
+     "escaped injury",
+     "escape injury",
+     "다치지 않다"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title_ko": "\"매매 막히자 전월세 급등…수요보다 많은 공급이 유일한 정답\"",
+   "title_en": "\"Rents Soar as Home Buying Is Blocked; More Supply Is the Only Answer\"",
+   "lines": [
+    [
+     "이승훈 리얼비전경제연구소 소장은 유튜브 'KB부동산TV'에서 대출 규제가 단기적으로 매수세를 누른다고 말했다.",
+     "Lee Seung-hoon, head of the RealVision Economic Research Institute, said on YouTube's KB Real Estate TV that lending curbs dampen buying demand in the short term."
+    ],
+    [
+     "이 소장은 집을 사지 못한 수요가 전월세 시장으로 몰려 임대료가 오르고 결국 매매가까지 끌어올린다고 봤다.",
+     "Lee argued that would-be buyers flock to the rental market, pushing up rents and eventually sale prices."
+    ],
+    [
+     "토지거래허가제나 대출·세금 규제로는 집값을 잡기 어렵다며 도심 정비사업 완화 등 공급 확대를 주장했다.",
+     "Saying land transaction permits and loan and tax rules cannot tame home prices, Lee called for more supply by easing urban redevelopment rules."
+    ]
+   ],
+   "url": "https://www.fnnews.com/news/202611140901124966",
+   "media": "파이낸셜뉴스",
+   "date_evidence": "URL 2026-11-14 09:01(KST)",
+   "expressions": [
+    [
+     "lending curbs",
+     "",
+     "대출 규제"
+    ],
+    [
+     "flock to",
+     "",
+     "~로 몰려들다"
+    ],
+    [
+     "tame home prices",
+     "tame",
+     "집값을 잡다"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "title_ko": "AI 투자 다음 주 시험대…엔비디아 실적 이어 앤스로픽 상장",
+   "title_en": "The AI Trade Faces Big Tests Next Week: Nvidia Earnings and Anthropic IPO",
+   "lines": [
+    [
+     "엔비디아는 17일(화) 저녁 젠슨 황이 CEO가 아닌 첫 실적을 발표하며, 투자자들은 후계 구도에 주목하고 있다.",
+     "Nvidia reports earnings on Tuesday evening, the 17th, its first without Jensen Huang as CEO, and investors are watching for clarity on succession."
+    ],
+    [
+     "앤스로픽은 18일(수) 주당 70~78달러 범위에서 공모가를 정한 뒤 19일(목) 나스닥에서 'ANT'로 거래를 시작할 예정이다.",
+     "Anthropic is expected to price its IPO on Wednesday the 18th at $70 to $78 a share and start trading on the Nasdaq under \"ANT\" on Thursday the 19th."
+    ],
+    [
+     "엔비디아 주가는 6주 동안 30% 넘게 떨어져 시가총액 약 2조 달러가 사라졌다.",
+     "Nvidia's stock has fallen more than 30% in six weeks, wiping out roughly $2 trillion in market value."
+    ]
+   ],
+   "url": "https://www.cnbc.com/2026/11/13/stock-market-next-week-outlook-for-nov-16-20-2026.html",
+   "media": "CNBC",
+   "date_evidence": "URL 2026-11-13(미 동부, KST 11/13 14:00 이후로 기간 내)",
+   "expressions": [
+    [
+     "price its IPO",
+     "price an IPO",
+     "공모가를 정하다"
+    ],
+    [
+     "wiping out",
+     "wipe out",
+     "날려버리다"
+    ],
+    [
+     "market value",
+     "",
+     "시가총액"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "정치",
+   "title_ko": "트럼프, 워싱턴 골프장 사업 제동 건 판사 비난…\"항소할 것\"",
+   "title_en": "Trump Blasts Judge for Halting His Washington Golf Project and Says He Will Appeal",
+   "lines": [
+    [
+     "아나 레예스 연방판사는 14일 행정부가 이스트 포토맥 골프장을 폐쇄하지 못하도록 임시 명령을 내렸다.",
+     "Federal Judge Ana Reyes issued a temporary restraining order on the 14th blocking the administration from closing the East Potomac golf course."
+    ],
+    [
+     "레예스 판사는 법무부가 내세운 안전상 폐쇄 이유를 '구실'이라고 판단했다.",
+     "Reyes found the Justice Department's safety rationale for the closure \"pretextual.\""
+    ],
+    [
+     "트럼프 대통령은 이 결정을 \"매우 파괴적이고 정치적\"이라고 비난하며 항소하겠다고 밝혔다.",
+     "President Trump decried the decision as \"highly destructive and political\" and said he would appeal."
+    ]
+   ],
+   "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+   "media": "NPR",
+   "date_evidence": "URL 2026-11-14(미 동부, 기간 중간일)",
+   "expressions": [
+    [
+     "temporary restraining order",
+     "",
+     "임시 금지명령"
+    ],
+    [
+     "pretextual",
+     "",
+     "구실에 불과한"
+    ],
+    [
+     "decried",
+     "decry",
+     "강하게 비난하다"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "사회",
+   "title_ko": "미국, 홍역 퇴치 지위 상실…국제 보건당국 판단",
+   "title_en": "US Has Lost Measles Elimination Status, Global Health Authorities Say",
+   "lines": [
+    [
+     "범미보건기구(PAHO) 독립위원회는 미국이 홍역 퇴치 지위를 잃었다고 판단했다.",
+     "An independent commission of the Pan American Health Organization (PAHO) determined that the U.S. has lost its measles elimination status."
+    ],
+    [
+     "미국의 올해 홍역 환자는 5400명을 넘어 지난해의 두 배를 웃돌았다.",
+     "The U.S. has recorded more than 5,400 measles cases this year, more than double last year's total."
+    ],
+    [
+     "미국은 최소 12개월 동안 전파가 끊겼음을 입증해야 퇴치 지위를 되찾을 수 있다.",
+     "The U.S. can regain the status only after showing that transmission has been interrupted for at least 12 months."
+    ]
+   ],
+   "url": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+   "media": "NPR",
+   "date_evidence": "URL 2026-11-14(미 동부, 기간 중간일)",
+   "expressions": [
+    [
+     "elimination status",
+     "",
+     "퇴치 지위"
+    ],
+    [
+     "more than double",
+     "",
+     "두 배 이상"
+    ],
+    [
+     "regain",
+     "",
+     "되찾다"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "사회",
+   "title_ko": "일리노이 에탄올 공장 인근서 폭탄 발견…주민 대피",
+   "title_en": "Bomb Found Near Ethanol Plant in Central Illinois Forces Evacuations",
+   "lines": [
+    [
+     "일리노이주 중부 피오리아의 바이오우르자 리뉴어블스 시설에서 폭탄이 발견돼 주민이 대피했다.",
+     "A bomb was found at the BioUrja Renewables facility in Peoria in central Illinois, forcing evacuations."
+    ],
+    [
+     "당국은 폭탄이 \"안전하게 처리됐다\"고 밝혔다.",
+     "Officials said the bomb was \"rendered safe.\""
+    ],
+    [
+     "체포된 사람은 없으며 부상자도 보고되지 않았다.",
+     "No arrests have been made, and no injuries were reported."
+    ]
+   ],
+   "url": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
+   "media": "NPR",
+   "date_evidence": "URL 2026-11-14(미 동부, 기간 중간일)",
+   "expressions": [
+    [
+     "forcing evacuations",
+     "force evacuations",
+     "대피를 강제하다"
+    ],
+    [
+     "rendered safe",
+     "render safe",
+     "안전하게 처리하다"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "모빌리티",
+   "title_ko": "FAA 전국 운항 중지 원인은…교통장관 \"통신망 교체 중 라우터 오작동\"",
+   "title_en": "What We Know About the Cause of the Nationwide FAA Ground Stop",
+   "lines": [
+    [
+     "숀 더피 교통장관은 L3해리스가 아칸소주 엘도라도의 원격 FAA 시설에서 구리선을 광케이블로 교체하던 중 오작동이 일어났다고 밝혔다.",
+     "Transportation Secretary Sean Duffy said a malfunction occurred while L3Harris was swapping copper lines for fiber at a remote FAA site in El Dorado, Arkansas."
+    ],
+    [
+     "교체 중이던 라우터가 항공교통관제 시스템의 다른 라우터에 과부하를 일으키며 장애가 전국으로 번졌다.",
+     "The router being replaced began flooding other routers in the air traffic control system, and the failure cascaded nationwide."
+    ],
+    [
+     "FAA와 FBI가 라우터를 분석하고 있으며, 더피 장관은 설치 오류인지 장비 결함인지 아직 결론 내지 못했다고 말했다.",
+     "The FAA and FBI are analyzing the router, and Duffy said it has not been determined whether it was installer error or faulty equipment."
+    ]
+   ],
+   "url": "https://www.cnn.com/2026/11/14/politics/faa-ground-stop-what-we-know",
+   "media": "CNN",
+   "date_evidence": "URL 2026-11-14(미 동부, 기간 중간일). 11/15 브리핑의 FAA 장애 이후 원인(L3해리스·엘도라도·FBI 분석) 새 전개",
+   "expressions": [
+    [
+     "swapping copper lines for fiber",
+     "swap A for B",
+     "A를 B로 교체하다"
+    ],
+    [
+     "cascaded nationwide",
+     "cascade",
+     "연쇄적으로 번지다"
+    ],
+    [
+     "air traffic control",
+     "",
+     "항공교통관제"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "모빌리티",
+   "title_ko": "전국 운항 중지 다음 날…마이애미 공항서 항공기 2대 충돌",
+   "title_en": "Planes Collide on Runway Crossing at Miami Airport a Day After National Grounding",
+   "lines": [
+    [
+     "14일 밤 마이애미 국제공항의 활주로 교차 지점에서 항공기 두 대가 충돌했다.",
+     "Two planes collided at a runway crossing at Miami International Airport on the night of the 14th."
+    ],
+    [
+     "이 사고로 2명이 다쳤다.",
+     "Two people were injured in the collision."
+    ],
+    [
+     "미 연방항공청(FAA)이 사고를 조사하고 있다.",
+     "The Federal Aviation Administration (FAA) is investigating the incident."
+    ]
+   ],
+   "url": "https://www.cnn.com/2026/11/14/us/miami-airport-planes-collide-ups-copa-hnk",
+   "media": "CNN",
+   "date_evidence": "URL 2026-11-14(미 동부, 기간 중간일), 사고 14일(토) 밤",
+   "expressions": [
+    [
+     "runway crossing",
+     "",
+     "활주로 교차 지점"
+    ],
+    [
+     "investigating the incident",
+     "investigate",
+     "조사하다"
+    ]
+   ]
+  }
+ ],
+ "headlines": [
+  [
+   "세무사시험 수석 합격자가 생성형 AI를 이용한 부정행위를 인정하고 자수해 정부가 합격 효력 정지와 고소를 검토하고 있다",
+   "The tax accountant exam's top scorer admitted to cheating with generative AI and surrendered, as the government weighs suspending the pass and filing a complaint"
+  ],
+  [
+   "미 교통장관은 FAA 전국 운항 중지가 L3해리스의 통신망 교체 작업 중 라우터 오작동에서 시작됐다고 밝혔다",
+   "The U.S. transportation secretary said the nationwide FAA ground stop began with a router malfunction during L3Harris's network replacement work"
+  ],
+  [
+   "올해 8월 기준 청년층 임금근로자의 비정규직 비율이 46.0%로 2003년 통계 작성 이후 최고를 기록했다",
+   "The non-regular share of young wage earners hit 46.0% as of August this year, the highest since records began in 2003"
+  ]
+ ],
+ "channels": {
+  "news": {
+   "parent": {
+    "text": "📰 **Daily News Brief** | 2026-11-16 (월)\n_수집 기간: 11/13 06:00 ~ 11/16 06:00 KST_\n\n**오늘의 핵심**\n• 세무사시험 수석 합격자가 생성형 AI를 이용한 부정행위를 인정하고 자수해 정부가 합격 효력 정지와 고소를 검토하고 있다\n• 미 교통장관은 FAA 전국 운항 중지가 L3해리스의 통신망 교체 작업 중 라우터 오작동에서 시작됐다고 밝혔다\n• 올해 8월 기준 청년층 임금근로자의 비정규직 비율이 46.0%로 2003년 통계 작성 이후 최고를 기록했다\n\n🧵 상세 뉴스는 스레드에서 분야별로 확인: 🇰🇷 한국·🇺🇸 미국 (경제 · 정치 · 사회 · 부동산 · 모빌리티)",
+    "ts": "1794776980.475979",
+    "verified": true
+   },
+   "replies": [
+    {
+     "country": "KR",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 💰 경제**\n**1. 청년 근로자 절반이 비정규직…23년 만에 최고**\n• 국가데이터처에 따르면 올해 8월 기준 15~29세 청년층 임금근로자 중 비정규직 비율은 46.0%였다.\n• 근로형태별 부가조사 작성이 시작된 2003년 이후 가장 높고, 2003년보다 14.2%포인트 높아졌다.\n• 같은 기간 전체 임금근로자의 비정규직 비율은 32.6%에서 38.5%로 올랐다.\n🔗 [세계일보](https://www.segye.com/newsView/20261115509058)",
+     "ts": "1794776986.206409"
+    },
+    {
+     "country": "KR",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 🏛️ 정치**\n**1. 820조 예산안 감액·증액 조율 돌입…미래대응기금과 권력기관 특활비가 쟁점**\n• 국회 예결위는 16일 예산안조정소위원회를 열어 820조원 규모 내년도 예산안의 감액·증액 조정에 들어간다.\n• 민주당은 정부안의 큰 틀 유지를, 국민의힘은 약 30조원 삭감을 요구하고 있다.\n• 162조원 규모 미래대응기금과 청와대·중수청 특수활동비가 핵심 쟁점이며, 법정 처리 시한은 12월 2일이다.\n🔗 [경향신문](https://www.khan.co.kr/article/202611151859001/)\n\n**2. 국민의힘, '신천지 이어 통일교 의혹' 민주당에 \"특검해야\" 압박**\n• 국민의힘은 14일 민주당에서 신천지 교인 집단 당원 가입 의혹에 이어 통일교 개입 의혹이 제기됐다며 특검 수용을 압박했다.\n• 조용술 대변인은 민주당 내부 정교유착 의혹이 잇따르는데도 수사기관이 침묵하고 있다고 주장했다.\n• 대변인은 최민희 최고위원이 통일교가 김민석 대표를 밀었다는 제보를 받았다고 말한 점을 언급했다.\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111414560000183)",
+     "ts": "1794776990.538439"
+    },
+    {
+     "country": "KR",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 👥 사회**\n**1. 세무사시험 수석 \"AI 부정행위 맞다\" 실토…정부 \"고소·합격효력정지 검토\"**\n• 제63회 세무사시험 수석 합격자가 전자기기와 생성형 AI를 이용한 부정행위를 인정하고 서울경찰청에 자수했다.\n• 합격자는 초소형 카메라로 시험 문제를 외부로 유출하고 AI로 정답을 확인했다고 밝혔다.\n• 재정경제부는 합격증 효력 정지를, 한국산업인력공단은 고소를 검토하고 있다.\n🔗 [뉴시스](https://www.newsis.com/view/NISX20261115_0003868417)\n\n**2. 고령 교차로서 승용차 2대 충돌…40대 여성 숨지고 4명 중경상**\n• 경북 고령군 다산면 교차로에서 승용차 두 대가 충돌해 경차에 타고 있던 40대 여성이 숨졌다.\n• 같은 차량의 40대 운전자와 10대 남녀 2명, 상대 차량 60대 운전자 등 4명이 중경상을 입었다.\n• 경찰은 경차의 비보호 좌회전 여부 등 사고 경위를 조사하고 있다.\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/15/20261115500004)\n\n**3. 20대 남성, 모르는 10대 여성에 흉기 휘둘러**\n• 13일 오후 4시33분쯤 부산 금정구 도시철도 1호선 구서역 인근 길거리에서 20대 남성이 모르는 10대 여성에게 흉기를 휘둘렀다.\n• 피해자는 두꺼운 옷을 입고 있어 상처를 입지 않았다.\n• 부산 금정경찰서에 따르면 이 남성은 경찰에 체포됐다.\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/15/20261115500109)",
+     "ts": "1794776995.770119"
+    },
+    {
+     "country": "KR",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 🏠 부동산**\n**1. \"매매 막히자 전월세 급등…수요보다 많은 공급이 유일한 정답\"**\n• 이승훈 리얼비전경제연구소 소장은 유튜브 'KB부동산TV'에서 대출 규제가 단기적으로 매수세를 누른다고 말했다.\n• 이 소장은 집을 사지 못한 수요가 전월세 시장으로 몰려 임대료가 오르고 결국 매매가까지 끌어올린다고 봤다.\n• 토지거래허가제나 대출·세금 규제로는 집값을 잡기 어렵다며 도심 정비사업 완화 등 공급 확대를 주장했다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611140901124966)",
+     "ts": "1794776998.312359"
+    },
+    {
+     "country": "KR",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 🚗 모빌리티**\n_해당 기간 새 기사 없음_",
+     "ts": "1794776999.314089"
+    },
+    {
+     "country": "US",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 💰 경제**\n**1. AI 투자 다음 주 시험대…엔비디아 실적 이어 앤스로픽 상장**\n• 엔비디아는 17일(화) 저녁 젠슨 황이 CEO가 아닌 첫 실적을 발표하며, 투자자들은 후계 구도에 주목하고 있다.\n• 앤스로픽은 18일(수) 주당 70~78달러 범위에서 공모가를 정한 뒤 19일(목) 나스닥에서 'ANT'로 거래를 시작할 예정이다.\n• 엔비디아 주가는 6주 동안 30% 넘게 떨어져 시가총액 약 2조 달러가 사라졌다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/13/stock-market-next-week-outlook-for-nov-16-20-2026.html)",
+     "ts": "1794777004.993589"
+    },
+    {
+     "country": "US",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 🏛️ 정치**\n**1. 트럼프, 워싱턴 골프장 사업 제동 건 판사 비난…\"항소할 것\"**\n• 아나 레예스 연방판사는 14일 행정부가 이스트 포토맥 골프장을 폐쇄하지 못하도록 임시 명령을 내렸다.\n• 레예스 판사는 법무부가 내세운 안전상 폐쇄 이유를 '구실'이라고 판단했다.\n• 트럼프 대통령은 이 결정을 \"매우 파괴적이고 정치적\"이라고 비난하며 항소하겠다고 밝혔다.\n🔗 [NPR](https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks)",
+     "ts": "1794777007.630149"
+    },
+    {
+     "country": "US",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 👥 사회**\n**1. 미국, 홍역 퇴치 지위 상실…국제 보건당국 판단**\n• 범미보건기구(PAHO) 독립위원회는 미국이 홍역 퇴치 지위를 잃었다고 판단했다.\n• 미국의 올해 홍역 환자는 5400명을 넘어 지난해의 두 배를 웃돌았다.\n• 미국은 최소 12개월 동안 전파가 끊겼음을 입증해야 퇴치 지위를 되찾을 수 있다.\n🔗 [NPR](https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho)\n\n**2. 일리노이 에탄올 공장 인근서 폭탄 발견…주민 대피**\n• 일리노이주 중부 피오리아의 바이오우르자 리뉴어블스 시설에서 폭탄이 발견돼 주민이 대피했다.\n• 당국은 폭탄이 \"안전하게 처리됐다\"고 밝혔다.\n• 체포된 사람은 없으며 부상자도 보고되지 않았다.\n🔗 [NPR](https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations)",
+     "ts": "1794777011.726769"
+    },
+    {
+     "country": "US",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 🏠 부동산**\n_해당 기간 새 기사 없음_",
+     "ts": "1794777012.240949"
+    },
+    {
+     "country": "US",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 🚗 모빌리티**\n**1. FAA 전국 운항 중지 원인은…교통장관 \"통신망 교체 중 라우터 오작동\"**\n• 숀 더피 교통장관은 L3해리스가 아칸소주 엘도라도의 원격 FAA 시설에서 구리선을 광케이블로 교체하던 중 오작동이 일어났다고 밝혔다.\n• 교체 중이던 라우터가 항공교통관제 시스템의 다른 라우터에 과부하를 일으키며 장애가 전국으로 번졌다.\n• FAA와 FBI가 라우터를 분석하고 있으며, 더피 장관은 설치 오류인지 장비 결함인지 아직 결론 내지 못했다고 말했다.\n🔗 [CNN](https://www.cnn.com/2026/11/14/politics/faa-ground-stop-what-we-know)\n\n**2. 전국 운항 중지 다음 날…마이애미 공항서 항공기 2대 충돌**\n• 14일 밤 마이애미 국제공항의 활주로 교차 지점에서 항공기 두 대가 충돌했다.\n• 이 사고로 2명이 다쳤다.\n• 미 연방항공청(FAA)이 사고를 조사하고 있다.\n🔗 [CNN](https://www.cnn.com/2026/11/14/us/miami-airport-planes-collide-ups-copa-hnk)",
+     "ts": "1794777016.025919"
+    }
+   ]
+  },
+  "english": {
+   "parent": {
+    "text": "📚 **Daily English Brief** | 2026-11-16 (월)\n_수집 기간: 11/13 06:00 ~ 11/16 06:00 KST_\n\n**Today's Headlines / 오늘의 핵심**\n• The tax accountant exam's top scorer admitted to cheating with generative AI and surrendered, as the government weighs suspending the pass and filing a complaint\n  _세무사시험 수석 합격자가 생성형 AI를 이용한 부정행위를 인정하고 자수해 정부가 합격 효력 정지와 고소를 검토하고 있다_\n• The U.S. transportation secretary said the nationwide FAA ground stop began with a router malfunction during L3Harris's network replacement work\n  _미 교통장관은 FAA 전국 운항 중지가 L3해리스의 통신망 교체 작업 중 라우터 오작동에서 시작됐다고 밝혔다_\n• The non-regular share of young wage earners hit 46.0% as of August this year, the highest since records began in 2003\n  _올해 8월 기준 청년층 임금근로자의 비정규직 비율이 46.0%로 2003년 통계 작성 이후 최고를 기록했다_\n\n🧵 Category threads / 스레드에서 분야별 확인: 🇰🇷 Korea·🇺🇸 US (Economy · Politics · Society · Real Estate · Mobility)",
+    "ts": "1794777026.459879",
+    "verified": true
+   },
+   "replies": [
+    {
+     "country": "KR",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 💰 Economy / 한국 · 경제**\n**1. Half of Young Workers Are Non-Regular, Highest in 23 Years**\n_청년 근로자 절반이 비정규직…23년 만에 최고_\n• According to the National Data Office, 46.0% of wage workers aged 15 to 29 were non-regular as of August this year.\n  _국가데이터처에 따르면 올해 8월 기준 15~29세 청년층 임금근로자 중 비정규직 비율은 46.0%였다._\n• It is the highest since the supplementary survey on employment type began in 2003, up 14.2 percentage points from 2003.\n  _근로형태별 부가조사 작성이 시작된 2003년 이후 가장 높고, 2003년보다 14.2%포인트 높아졌다._\n• Over the same period, the non-regular share of all wage workers rose from 32.6% to 38.5%.\n  _같은 기간 전체 임금근로자의 비정규직 비율은 32.6%에서 38.5%로 올랐다._\n📝 `wage workers` 임금근로자 · `non-regular` 비정규직의 · `percentage points` 퍼센트포인트\n🔗 [세계일보](https://www.segye.com/newsView/20261115509058)",
+     "ts": "1794777033.286349"
+    },
+    {
+     "country": "KR",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 🏛️ Politics / 한국 · 정치**\n**1. Assembly Begins Adjusting 820 Trillion Won Budget; Future Fund and Special Expenses at Issue**\n_820조 예산안 감액·증액 조율 돌입…미래대응기금과 권력기관 특활비가 쟁점_\n• The National Assembly's budget committee will convene its adjustment subcommittee on the 16th to start cutting and adding to next year's 820 trillion won budget.\n  _국회 예결위는 16일 예산안조정소위원회를 열어 820조원 규모 내년도 예산안의 감액·증액 조정에 들어간다._\n• The Democratic Party wants to keep the government's framework intact, while the People Power Party is demanding cuts of about 30 trillion won.\n  _민주당은 정부안의 큰 틀 유지를, 국민의힘은 약 30조원 삭감을 요구하고 있다._\n• The 162 trillion won Future Response Fund and special activity expenses for Cheong Wa Dae and the Serious Crimes Investigation Agency are key sticking points, with a legal deadline of December 2.\n  _162조원 규모 미래대응기금과 청와대·중수청 특수활동비가 핵심 쟁점이며, 법정 처리 시한은 12월 2일이다._\n📝 `subcommittee` 소위원회 · `sticking points` 걸림돌·쟁점 · `legal deadline` 법정 시한\n🔗 [경향신문](https://www.khan.co.kr/article/202611151859001/)\n\n**2. PPP Presses Democrats to Accept Special Counsel Over Unification Church Allegations**\n_국민의힘, '신천지 이어 통일교 의혹' 민주당에 \"특검해야\" 압박_\n• On the 14th, the People Power Party pressed the Democrats to accept a special counsel, citing Unification Church interference allegations following claims of mass Shincheonji party sign-ups.\n  _국민의힘은 14일 민주당에서 신천지 교인 집단 당원 가입 의혹에 이어 통일교 개입 의혹이 제기됐다며 특검 수용을 압박했다._\n• Spokesperson Cho Yong-sul claimed investigators remain silent despite a string of church-politics collusion allegations inside the Democratic Party.\n  _조용술 대변인은 민주당 내부 정교유착 의혹이 잇따르는데도 수사기관이 침묵하고 있다고 주장했다._\n• The spokesperson cited Supreme Council member Choi Min-hee's remark about receiving a tip that the Unification Church backed party leader Kim Min-seok.\n  _대변인은 최민희 최고위원이 통일교가 김민석 대표를 밀었다는 제보를 받았다고 말한 점을 언급했다._\n📝 `special counsel` 특별검사(특검) · `a string of` 잇따른 · `receiving a tip` (receive a tip) 제보를 받다\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111414560000183)",
+     "ts": "1794777040.814489"
+    },
+    {
+     "country": "KR",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 👥 Society / 한국 · 사회**\n**1. Top Scorer on Tax Accountant Exam Admits AI Cheating; Government Weighs Complaint and Suspension**\n_세무사시험 수석 \"AI 부정행위 맞다\" 실토…정부 \"고소·합격효력정지 검토\"_\n• The top scorer on the 63rd certified tax accountant exam admitted to cheating with electronic devices and generative AI and surrendered to the Seoul Metropolitan Police Agency.\n  _제63회 세무사시험 수석 합격자가 전자기기와 생성형 AI를 이용한 부정행위를 인정하고 서울경찰청에 자수했다._\n• The test-taker said exam questions were leaked out with a tiny camera and the answers were checked with AI.\n  _합격자는 초소형 카메라로 시험 문제를 외부로 유출하고 AI로 정답을 확인했다고 밝혔다._\n• The Ministry of Finance and Economy is considering suspending the certificate, and HRD Korea is weighing a criminal complaint.\n  _재정경제부는 합격증 효력 정지를, 한국산업인력공단은 고소를 검토하고 있다._\n📝 `top scorer` 수석 합격자 · `admitted to cheating` (admit to) ~을 인정하다 · `criminal complaint` 형사 고소\n🔗 [뉴시스](https://www.newsis.com/view/NISX20261115_0003868417)\n\n**2. Two Cars Collide at Goryeong Intersection, Killing a Woman and Injuring Four**\n_고령 교차로서 승용차 2대 충돌…40대 여성 숨지고 4명 중경상_\n• Two cars collided at an intersection in Dasan-myeon, Goryeong County, North Gyeongsang Province, killing a woman in her 40s riding in a compact car.\n  _경북 고령군 다산면 교차로에서 승용차 두 대가 충돌해 경차에 타고 있던 40대 여성이 숨졌다._\n• Four people, including the compact car's driver in their 40s, two teenagers and the other car's driver in their 60s, suffered serious or minor injuries.\n  _같은 차량의 40대 운전자와 10대 남녀 2명, 상대 차량 60대 운전자 등 4명이 중경상을 입었다._\n• Police are looking into the cause, including whether the compact car made an unprotected left turn.\n  _경찰은 경차의 비보호 좌회전 여부 등 사고 경위를 조사하고 있다._\n📝 `compact car` 경차 · `unprotected left turn` 비보호 좌회전 · `looking into` (look into) 조사하다\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/15/20261115500004)\n\n**3. Man in His 20s Swings Knife at Teenage Stranger in Busan**\n_20대 남성, 모르는 10대 여성에 흉기 휘둘러_\n• At about 4:33 p.m. on the 13th, a man in his 20s swung a knife at a teenage girl he did not know on a street near Guseo Station on Busan Metro Line 1 in Geumjeong-gu.\n  _13일 오후 4시33분쯤 부산 금정구 도시철도 1호선 구서역 인근 길거리에서 20대 남성이 모르는 10대 여성에게 흉기를 휘둘렀다._\n• The victim escaped injury thanks to wearing thick clothing.\n  _피해자는 두꺼운 옷을 입고 있어 상처를 입지 않았다._\n• According to the Geumjeong Police Station in Busan, the man was arrested by police.\n  _부산 금정경찰서에 따르면 이 남성은 경찰에 체포됐다._\n📝 `swung a knife` (swing a knife) 흉기를 휘두르다 · `escaped injury` (escape injury) 다치지 않다\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/15/20261115500109)",
+     "ts": "1794777050.291179"
+    },
+    {
+     "country": "KR",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 🏠 Real Estate / 한국 · 부동산**\n**1. \"Rents Soar as Home Buying Is Blocked; More Supply Is the Only Answer\"**\n_\"매매 막히자 전월세 급등…수요보다 많은 공급이 유일한 정답\"_\n• Lee Seung-hoon, head of the RealVision Economic Research Institute, said on YouTube's KB Real Estate TV that lending curbs dampen buying demand in the short term.\n  _이승훈 리얼비전경제연구소 소장은 유튜브 'KB부동산TV'에서 대출 규제가 단기적으로 매수세를 누른다고 말했다._\n• Lee argued that would-be buyers flock to the rental market, pushing up rents and eventually sale prices.\n  _이 소장은 집을 사지 못한 수요가 전월세 시장으로 몰려 임대료가 오르고 결국 매매가까지 끌어올린다고 봤다._\n• Saying land transaction permits and loan and tax rules cannot tame home prices, Lee called for more supply by easing urban redevelopment rules.\n  _토지거래허가제나 대출·세금 규제로는 집값을 잡기 어렵다며 도심 정비사업 완화 등 공급 확대를 주장했다._\n📝 `lending curbs` 대출 규제 · `flock to` ~로 몰려들다 · `tame home prices` (tame) 집값을 잡다\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611140901124966)",
+     "ts": "1794777054.453809"
+    },
+    {
+     "country": "KR",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 🚗 Mobility / 한국 · 모빌리티**\n_No new articles in this period / 해당 기간 새 기사 없음_",
+     "ts": "1794777055.456289"
+    },
+    {
+     "country": "US",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 💰 Economy / 미국 · 경제**\n**1. The AI Trade Faces Big Tests Next Week: Nvidia Earnings and Anthropic IPO**\n_AI 투자 다음 주 시험대…엔비디아 실적 이어 앤스로픽 상장_\n• Nvidia reports earnings on Tuesday evening, the 17th, its first without Jensen Huang as CEO, and investors are watching for clarity on succession.\n  _엔비디아는 17일(화) 저녁 젠슨 황이 CEO가 아닌 첫 실적을 발표하며, 투자자들은 후계 구도에 주목하고 있다._\n• Anthropic is expected to price its IPO on Wednesday the 18th at $70 to $78 a share and start trading on the Nasdaq under \"ANT\" on Thursday the 19th.\n  _앤스로픽은 18일(수) 주당 70~78달러 범위에서 공모가를 정한 뒤 19일(목) 나스닥에서 'ANT'로 거래를 시작할 예정이다._\n• Nvidia's stock has fallen more than 30% in six weeks, wiping out roughly $2 trillion in market value.\n  _엔비디아 주가는 6주 동안 30% 넘게 떨어져 시가총액 약 2조 달러가 사라졌다._\n📝 `price its IPO` (price an IPO) 공모가를 정하다 · `wiping out` (wipe out) 날려버리다 · `market value` 시가총액\n🔗 [CNBC](https://www.cnbc.com/2026/11/13/stock-market-next-week-outlook-for-nov-16-20-2026.html)",
+     "ts": "1794777062.676479"
+    },
+    {
+     "country": "US",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 🏛️ Politics / 미국 · 정치**\n**1. Trump Blasts Judge for Halting His Washington Golf Project and Says He Will Appeal**\n_트럼프, 워싱턴 골프장 사업 제동 건 판사 비난…\"항소할 것\"_\n• Federal Judge Ana Reyes issued a temporary restraining order on the 14th blocking the administration from closing the East Potomac golf course.\n  _아나 레예스 연방판사는 14일 행정부가 이스트 포토맥 골프장을 폐쇄하지 못하도록 임시 명령을 내렸다._\n• Reyes found the Justice Department's safety rationale for the closure \"pretextual.\"\n  _레예스 판사는 법무부가 내세운 안전상 폐쇄 이유를 '구실'이라고 판단했다._\n• President Trump decried the decision as \"highly destructive and political\" and said he would appeal.\n  _트럼프 대통령은 이 결정을 \"매우 파괴적이고 정치적\"이라고 비난하며 항소하겠다고 밝혔다._\n📝 `temporary restraining order` 임시 금지명령 · `pretextual` 구실에 불과한 · `decried` (decry) 강하게 비난하다\n🔗 [NPR](https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks)",
+     "ts": "1794777066.432969"
+    },
+    {
+     "country": "US",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 👥 Society / 미국 · 사회**\n**1. US Has Lost Measles Elimination Status, Global Health Authorities Say**\n_미국, 홍역 퇴치 지위 상실…국제 보건당국 판단_\n• An independent commission of the Pan American Health Organization (PAHO) determined that the U.S. has lost its measles elimination status.\n  _범미보건기구(PAHO) 독립위원회는 미국이 홍역 퇴치 지위를 잃었다고 판단했다._\n• The U.S. has recorded more than 5,400 measles cases this year, more than double last year's total.\n  _미국의 올해 홍역 환자는 5400명을 넘어 지난해의 두 배를 웃돌았다._\n• The U.S. can regain the status only after showing that transmission has been interrupted for at least 12 months.\n  _미국은 최소 12개월 동안 전파가 끊겼음을 입증해야 퇴치 지위를 되찾을 수 있다._\n📝 `elimination status` 퇴치 지위 · `more than double` 두 배 이상 · `regain` 되찾다\n🔗 [NPR](https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho)\n\n**2. Bomb Found Near Ethanol Plant in Central Illinois Forces Evacuations**\n_일리노이 에탄올 공장 인근서 폭탄 발견…주민 대피_\n• A bomb was found at the BioUrja Renewables facility in Peoria in central Illinois, forcing evacuations.\n  _일리노이주 중부 피오리아의 바이오우르자 리뉴어블스 시설에서 폭탄이 발견돼 주민이 대피했다._\n• Officials said the bomb was \"rendered safe.\"\n  _당국은 폭탄이 \"안전하게 처리됐다\"고 밝혔다._\n• No arrests have been made, and no injuries were reported.\n  _체포된 사람은 없으며 부상자도 보고되지 않았다._\n📝 `forcing evacuations` (force evacuations) 대피를 강제하다 · `rendered safe` (render safe) 안전하게 처리하다\n🔗 [NPR](https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations)",
+     "ts": "1794777072.500749"
+    },
+    {
+     "country": "US",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 🏠 Real Estate / 미국 · 부동산**\n_No new articles in this period / 해당 기간 새 기사 없음_",
+     "ts": "1794777073.556619"
+    },
+    {
+     "country": "US",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 🚗 Mobility / 미국 · 모빌리티**\n**1. What We Know About the Cause of the Nationwide FAA Ground Stop**\n_FAA 전국 운항 중지 원인은…교통장관 \"통신망 교체 중 라우터 오작동\"_\n• Transportation Secretary Sean Duffy said a malfunction occurred while L3Harris was swapping copper lines for fiber at a remote FAA site in El Dorado, Arkansas.\n  _숀 더피 교통장관은 L3해리스가 아칸소주 엘도라도의 원격 FAA 시설에서 구리선을 광케이블로 교체하던 중 오작동이 일어났다고 밝혔다._\n• The router being replaced began flooding other routers in the air traffic control system, and the failure cascaded nationwide.\n  _교체 중이던 라우터가 항공교통관제 시스템의 다른 라우터에 과부하를 일으키며 장애가 전국으로 번졌다._\n• The FAA and FBI are analyzing the router, and Duffy said it has not been determined whether it was installer error or faulty equipment.\n  _FAA와 FBI가 라우터를 분석하고 있으며, 더피 장관은 설치 오류인지 장비 결함인지 아직 결론 내지 못했다고 말했다._\n📝 `swapping copper lines for fiber` (swap A for B) A를 B로 교체하다 · `cascaded nationwide` (cascade) 연쇄적으로 번지다 · `air traffic control` 항공교통관제\n🔗 [CNN](https://www.cnn.com/2026/11/14/politics/faa-ground-stop-what-we-know)\n\n**2. Planes Collide on Runway Crossing at Miami Airport a Day After National Grounding**\n_전국 운항 중지 다음 날…마이애미 공항서 항공기 2대 충돌_\n• Two planes collided at a runway crossing at Miami International Airport on the night of the 14th.\n  _14일 밤 마이애미 국제공항의 활주로 교차 지점에서 항공기 두 대가 충돌했다._\n• Two people were injured in the collision.\n  _이 사고로 2명이 다쳤다._\n• The Federal Aviation Administration (FAA) is investigating the incident.\n  _미 연방항공청(FAA)이 사고를 조사하고 있다._\n📝 `runway crossing` 활주로 교차 지점 · `investigating the incident` (investigate) 조사하다\n🔗 [CNN](https://www.cnn.com/2026/11/14/us/miami-airport-planes-collide-ups-copa-hnk)",
+     "ts": "1794777079.970659"
+    }
+   ]
+  }
+ },
+ "verified": {
+  "parent": true,
+  "categories": "all"
+ }
+}
