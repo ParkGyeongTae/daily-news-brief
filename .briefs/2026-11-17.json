@@ -1,0 +1,606 @@
+{
+ "date": "2026-11-17",
+ "period": "11/14 06:00 ~ 11/17 06:00 KST",
+ "articles": [
+  {
+   "country": "KR",
+   "category": "경제",
+   "title": "코스피 3.59% 급락해 5100선…외국인·기관 2조 넘게 팔았다",
+   "title_en": "KOSPI plunges 3.59% to the 5,100 level as foreigners and institutions dump over 2 trillion won",
+   "summary": [
+    "16일 코스피는 190.03p(3.59%) 내린 5100.50으로 마감했다.",
+    "외국인이 1조7022억원, 기관이 4581억원을 순매도했고 개인은 1조6782억원을 순매수했다.",
+    "코스닥도 34.01p(4.86%) 내린 665.65로 마감했다."
+   ],
+   "summary_en": [
+    "The KOSPI closed down 190.03 points (3.59%) at 5,100.50 on the 16th.",
+    "Foreigners were net sellers of 1.7022 trillion won and institutions 458.1 billion won, while individuals were net buyers of 1.6782 trillion won.",
+    "The KOSDAQ also closed down 34.01 points (4.86%) at 665.65."
+   ],
+   "expressions": [
+    [
+     "net sellers",
+     "순매도자"
+    ],
+    [
+     "net buyers",
+     "순매수자"
+    ],
+    [
+     "closed down",
+     "하락 마감했다 (close down)"
+    ]
+   ],
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611161547327457",
+   "date_evidence": "URL 202611161547 = 2026-11-16 15:47 KST"
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title": "민주당 지지율 정부 출범 후 최저…국민의힘, 오차범위 밖으로 앞서",
+   "title_en": "Democratic Party support hits its lowest since the government took office, as PPP leads beyond the margin of error",
+   "summary": [
+    "리얼미터 조사에서 민주당 지지율은 34.6%로 현 정부 출범 이후 가장 낮았다.",
+    "국민의힘은 3.3%포인트 오른 43.0%로 3주 만에 다시 민주당을 오차범위 밖에서 앞섰다.",
+    "조사는 지난 12일부터 이틀간 전국 유권자 1004명을 대상으로 진행됐다."
+   ],
+   "summary_en": [
+    "In a Realmeter poll, Democratic Party support fell to 34.6%, the lowest since the current government took office.",
+    "The People Power Party rose 3.3 percentage points to 43.0%, leading the Democrats beyond the margin of error again for the first time in three weeks.",
+    "The survey was conducted over two days from the 12th among 1,004 voters nationwide."
+   ],
+   "expressions": [
+    [
+     "margin of error",
+     "오차범위"
+    ],
+    [
+     "took office",
+     "출범했다, 취임했다 (take office)"
+    ]
+   ],
+   "source": "세계일보",
+   "url": "https://segye.com/newsView/20261116504273",
+   "date_evidence": "URL 20261116 = 2026-11-16 KST (수집 기간 중간일)"
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title": "한덕수 선고 앞두고 \"결과 실망 시 바로 조희대 탄핵\"…사법부 압박하는 민주당",
+   "title_en": "Ahead of Han Duck-soo's ruling, Democrats pressure the judiciary with talk of impeaching Chief Justice Jo Hee-de",
+   "summary": [
+    "민주당은 16일 한덕수 전 총리의 내란 혐의 상고심 결과에 따라 조희대 대법원장 탄핵 추진 가능성을 거론했다.",
+    "대법원 전원합의체는 한 전 총리와 김건희 씨 사건의 선고를 19일 오후 4시로 지정했다.",
+    "국민의힘은 민주당의 언급이 삼권분립을 훼손하고 재판에 개입하는 행위라며 법사위에 불참했다."
+   ],
+   "summary_en": [
+    "On the 16th, the Democratic Party raised the possibility of impeaching Chief Justice Jo Hee-de depending on the appeal ruling in former Prime Minister Han Duck-soo's insurrection case.",
+    "The Supreme Court's full bench set the ruling for Han and Kim Keon-hee's cases for 4 p.m. on the 19th.",
+    "The People Power Party boycotted the Legislation and Judiciary Committee, saying the remarks undermine the separation of powers and interfere with the trial."
+   ],
+   "expressions": [
+    [
+     "full bench",
+     "전원합의체"
+    ],
+    [
+     "separation of powers",
+     "삼권분립"
+    ],
+    [
+     "boycotted",
+     "불참했다 (boycott)"
+    ]
+   ],
+   "source": "한국일보",
+   "url": "https://www.hankookilbo.com/news/article/A2026111614480001667",
+   "date_evidence": "URL A20261116 1448 = 2026-11-16 14:48 KST"
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title": "성폭행 피해 신고 뒤 숨진 피해자…담당 경찰관 2명 직권경고",
+   "title_en": "Two officers get formal warnings after a sexual assault victim died following her report",
+   "summary": [
+    "경기남부경찰청은 성폭행 피해 신고 사건의 초기 수사를 맡았던 안산단원경찰서 수사팀장과 수사관 등 2명에게 직권경고를 내렸다.",
+    "19세 아르바이트생인 피해자는 경찰의 불송치 통보 사흘 뒤 숨졌다.",
+    "이후 공소청은 주점 업주를 준강간 혐의로 불구속 기소했고, 업주는 첫 공판에서 혐의를 부인했다."
+   ],
+   "summary_en": [
+    "Gyeonggi Nambu Provincial Police issued formal warnings to two Ansan Danwon Police officers, including the team leader, who handled the initial investigation of a sexual assault report.",
+    "The victim, a 19-year-old part-time worker, died three days after police notified her they would not refer the case.",
+    "Prosecutors later indicted the bar owner without detention on quasi-rape charges, and he denied the charges at the first hearing."
+   ],
+   "expressions": [
+    [
+     "formal warnings",
+     "직권경고"
+    ],
+    [
+     "without detention",
+     "불구속으로"
+    ],
+    [
+     "denied the charges",
+     "혐의를 부인했다 (deny the charges)"
+    ]
+   ],
+   "source": "한국일보",
+   "url": "https://www.hankookilbo.com/news/article/A2026111622410001584",
+   "date_evidence": "URL A20261116 2241 = 2026-11-16 22:41 KST"
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title": "천안서 석 달 새 장애 아동·청소년 두 명 숨져…돌봄 사각지대 드러나",
+   "title_en": "Two disabled children die in Cheonan within three months, exposing gaps in the care system",
+   "summary": [
+    "천안에서 8월 11세 지적장애 아동에 이어 11월 중증 발달장애가 있는 15세 청소년이 숨졌다.",
+    "15세 청소년의 가정은 학대 신고 이력과 복지급여 수급이 없어 8월 사건 이후 천안시 전수조사 대상에서 빠졌다.",
+    "천안시는 가정 내 장애아동 모니터링을 강화하고 아동보호전문기관을 내년 1곳에서 2곳으로 늘릴 계획이다."
+   ],
+   "summary_en": [
+    "In Cheonan, a 15-year-old with severe developmental disabilities died in November, following the death of an 11-year-old with an intellectual disability in August.",
+    "The 15-year-old's family had no record of abuse reports or welfare benefits, so it was left out of the city's full survey after the August case.",
+    "Cheonan plans to step up monitoring of disabled children cared for at home and expand child protection agencies from one to two next year."
+   ],
+   "expressions": [
+    [
+     "developmental disabilities",
+     "발달장애"
+    ],
+    [
+     "left out of",
+     "~에서 빠진 (leave out of)"
+    ],
+    [
+     "step up",
+     "강화하다"
+    ]
+   ],
+   "source": "세계일보",
+   "url": "https://www.segye.com/newsView/20261115504124",
+   "date_evidence": "URL 20261115 = 2026-11-15 KST (수집 기간 중간일)"
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title": "서울 집값 상승폭 석 달째 둔화…강남·서초 하락세 심화",
+   "title_en": "Seoul home price gains slow for a third month as Gangnam and Seocho declines deepen",
+   "summary": [
+    "한국부동산원에 따르면 10월 서울 주택종합 매매가격은 0.65% 올라 3개월 연속 상승폭이 줄었다.",
+    "서울 아파트 매매가격은 0.54% 올라 전월(0.74%)보다 상승폭이 축소됐다.",
+    "강남구(-1.24%)와 서초구(-0.75%)는 하락세가 이어졌다."
+   ],
+   "summary_en": [
+    "According to the Korea Real Estate Board, Seoul's overall housing prices rose 0.65% in October, the third straight month of slower gains.",
+    "Seoul apartment prices rose 0.54%, a smaller gain than the previous month (0.74%).",
+    "Gangnam-gu (-1.24%) and Seocho-gu (-0.75%) continued to decline."
+   ],
+   "expressions": [
+    [
+     "third straight month",
+     "3개월 연속"
+    ],
+    [
+     "slower gains",
+     "상승폭 둔화"
+    ]
+   ],
+   "source": "아주경제",
+   "url": "https://www.ajunews.com/view/20261116113144970",
+   "date_evidence": "URL 20261116113144 = 2026-11-16 11:31 KST"
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title": "\"11월 들어 손님 끊겼다\"…강남발 집값 조정 한강벨트로",
+   "title_en": "\"Customers stopped coming in November\": Gangnam-led price correction spreads to the Han River belt",
+   "summary": [
+    "한국부동산원 기준 11월 둘째 주 성동구 아파트값은 0.02% 내려 하락 전환했고 강동구도 0.01% 떨어졌다.",
+    "마포구는 상승폭이 0.25%에서 0.10%로 줄었다.",
+    "성동구 옥수동의 한 공인중개사는 11월 들어 집을 보러 오는 손님마저 끊겼다고 전했다."
+   ],
+   "summary_en": [
+    "Based on Korea Real Estate Board data, Seongdong-gu apartment prices fell 0.02% in the second week of November, turning to a decline, and Gangdong-gu also slipped 0.01%.",
+    "In Mapo-gu, the rate of increase narrowed from 0.25% to 0.10%.",
+    "A real estate agent in Oksu-dong, Seongdong-gu, said even people coming to view homes dried up in November."
+   ],
+   "expressions": [
+    [
+     "turning to a decline",
+     "하락 전환하는 (turn to a decline)"
+    ],
+    [
+     "real estate agent",
+     "공인중개사"
+    ],
+    [
+     "dried up",
+     "끊겼다, 말라붙었다 (dry up)"
+    ]
+   ],
+   "source": "뉴시스",
+   "url": "https://www.newsis.com/view/NISX20261116_0003869973",
+   "date_evidence": "URL NISX20261116 = 2026-11-16 KST (수집 기간 중간일)"
+  },
+  {
+   "country": "KR",
+   "category": "모빌리티",
+   "title": "개인보험 있어도 단체보험 가입 요구…공정위, 카카오·티맵 동의의결 절차 개시",
+   "title_en": "Group insurance demanded despite personal coverage: FTC opens consent decree process for Kakao and TMAP",
+   "summary": [
+    "공정위는 카카오모빌리티·티맵모빌리티·씨엠엔피·와이엘피 등 대리운전 중개사업자 4곳에 대한 동의의결 절차를 개시했다.",
+    "카카오모빌리티와 티맵모빌리티는 개인보험에 가입한 대리기사에게도 단체보험 가입을 요구하고 기사등급제로 판매 목표를 사실상 강제했는지 조사를 받아 왔다.",
+    "두 회사는 개인보험 연동으로 아낀 단체보험료를 콜 건당 지원금으로 기사에게 돌려주고 기사등급제를 폐지하겠다고 제안했다."
+   ],
+   "summary_en": [
+    "The Fair Trade Commission opened a consent decree process for four designated-driver brokers, including Kakao Mobility, TMAP Mobility, CMNP and YLP.",
+    "Kakao Mobility and TMAP Mobility had been investigated over whether they required drivers with personal insurance to buy group insurance and effectively forced sales targets through driver grading systems.",
+    "The two companies offered to return group premiums saved by linking personal insurance to drivers as per-call subsidies and to scrap their driver grading systems."
+   ],
+   "expressions": [
+    [
+     "consent decree",
+     "동의의결"
+    ],
+    [
+     "sales targets",
+     "판매 목표"
+    ],
+    [
+     "scrap",
+     "폐지하다"
+    ]
+   ],
+   "source": "아주경제",
+   "url": "https://www.ajunews.com/view/20261116095628447",
+   "date_evidence": "URL 20261116095628 = 2026-11-16 09:56 KST"
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "title": "캔자스시티 연은 총재 \"연준, 인플레이션에 할 일 남아\"",
+   "title_en": "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
+   "summary": [
+    "제프 슈미드 캔자스시티 연은 총재는 15일 연준이 \"인플레이션에 대해 할 일이 남아 있다\"고 말했다.",
+    "슈미드 총재는 물가 압력이 \"너무 뜨겁게\" 움직이고 있다고 평가했다.",
+    "그는 인플레이션이 \"잘못된 방향으로 움직이고 있다\"고 말했다."
+   ],
+   "summary_en": [
+    "Kansas City Fed President Jeff Schmid said on the 15th that the Fed \"has some work to do on inflation.\"",
+    "Schmid said price pressures are \"running too hot.\"",
+    "He said inflation is \"moving in the wrong direction.\""
+   ],
+   "expressions": [
+    [
+     "price pressures",
+     "물가 압력"
+    ],
+    [
+     "running too hot",
+     "과열되고 있는 (run too hot)"
+    ]
+   ],
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/amp/2026/11/15/fed-has-some-work-to-do-on-inflation-kansas-city-fed-chief-says.html",
+   "date_evidence": "URL 2026/11/15 (미 동부 일요일) = 11/15 14:00~11/16 14:00 KST, 기간 내"
+  },
+  {
+   "country": "US",
+   "category": "정치",
+   "title": "중간선거로 주의회 공화당 장기 우위 끝나",
+   "title_en": "Midterm voters ended the long-running GOP dominance in state legislatures",
+   "summary": [
+    "펜실베이니아 주상원은 지미 카터 대통령 시절 이후 처음으로 민주당이 다수당이 됐다.",
+    "선거 전 공화당 28곳, 민주당 18곳이던 주의회 장악 구도는 개표가 진행 중인 가운데 민주당 24곳, 공화당 22곳으로 바뀔 전망이다.",
+    "민주당은 노스캐롤라이나·오하이오·캔자스 등에서 공화당의 거부권 무력화 가능 다수(슈퍼 다수)를 깼다."
+   ],
+   "summary_en": [
+    "Democrats won a majority in the Pennsylvania state Senate for the first time since Jimmy Carter was president.",
+    "Republicans controlled 28 legislatures and Democrats 18 before the election, and with votes still being counted, Democrats appear poised for a 24-to-22 lead.",
+    "Democrats broke GOP veto-proof supermajorities in states including North Carolina, Ohio and Kansas."
+   ],
+   "expressions": [
+    [
+     "appear poised for",
+     "~할 태세인 (be poised for)"
+    ],
+    [
+     "veto-proof supermajorities",
+     "거부권 무력화 가능 다수"
+    ],
+    [
+     "votes still being counted",
+     "개표 진행 중인 표"
+    ]
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
+   "date_evidence": "URL 2026/11/15 (미 동부) = 기간 내"
+  },
+  {
+   "country": "US",
+   "category": "사회",
+   "title": "이란 공격으로 6명 숨진 쿠웨이트 지휘소…생존 장교 \"경고 무시\" 내부고발",
+   "title_en": "Army soldier files whistleblower complaint over Iranian strike that killed 6 US service members",
+   "summary": [
+    "쿠웨이트 슈아이바항 지휘소에 대한 3월 1일 이란 공격에서 살아남은 스티븐 램스보텀 소령이 상·하원 군사위원회에 내부고발장을 냈다.",
+    "고발장은 고위 장교들이 공습 전 대공 방어에 대한 우려를 묵살했다고 주장하며, 이 공격으로 미군 6명이 숨졌다.",
+    "한 소식통은 지휘소에 차량 폭탄을 막는 콘크리트 방벽만 있었고 드론·미사일을 막을 시설은 없었다고 CNN에 전했다."
+   ],
+   "summary_en": [
+    "Maj. Stephen Ramsbottom, who survived the March 1 Iranian attack on a command post at Port Shuaiba, Kuwait, filed a whistleblower complaint with the House and Senate Armed Services Committees.",
+    "The complaint alleges senior officers brushed aside concerns about air defenses before the strike, which killed six U.S. soldiers.",
+    "A source told CNN the post had only concrete barriers against car bombs and nothing to shield it from drones or missiles."
+   ],
+   "expressions": [
+    [
+     "whistleblower complaint",
+     "내부고발장"
+    ],
+    [
+     "brushed aside",
+     "묵살했다 (brush aside)"
+    ],
+    [
+     "car bombs",
+     "차량 폭탄"
+    ]
+   ],
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint",
+   "date_evidence": "URL 2026/11/15 (미 동부) = 기간 내"
+  },
+  {
+   "country": "US",
+   "category": "모빌리티",
+   "title": "더피 교통장관, 항공 대란 책임 전임 정부·노후 시스템에 돌려…500억달러 긴급 예산 요청",
+   "title_en": "Duffy blames prior administrations and dated systems for airspace meltdown, seeks $50 billion in emergency funds",
+   "summary": [
+    "숀 더피 교통장관은 전국 운항 중지 사태의 책임을 이전 행정부들과 노후 시스템에 돌렸다.",
+    "더피 장관은 처음 300억달러를 요청했다가 금요일 밤 500억달러로 늘려 의회에 긴급 예산을 요구했다.",
+    "민주당은 행정부가 이미 배정된 항공관제 현대화 예산도 다 쓰지 않았다고 반박했다."
+   ],
+   "summary_en": [
+    "Transportation Secretary Sean Duffy blamed prior administrations and dated systems for the nationwide ground stop.",
+    "Duffy first sought $30 billion, then raised his emergency funding request to Congress to $50 billion on Friday night.",
+    "Democrats countered that the administration has not even spent the air traffic control modernization funds already appropriated."
+   ],
+   "expressions": [
+    [
+     "ground stop",
+     "운항 중지"
+    ],
+    [
+     "emergency funding",
+     "긴급 예산"
+    ],
+    [
+     "already appropriated",
+     "이미 배정된"
+    ]
+   ],
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/11/15/politics/live-news/trump-administration-ground-stop",
+   "date_evidence": "URL 2026/11/15 (미 동부) = 기간 내"
+  }
+ ],
+ "headlines": [
+  {
+   "ko": "코스피가 외국인·기관의 2조원 넘는 순매도에 190.03p(3.59%) 급락한 5100.50으로 마감했다",
+   "en": "The KOSPI plunged 190.03 points (3.59%) to close at 5,100.50 as foreigners and institutions sold a net of more than 2 trillion won"
+  },
+  {
+   "ko": "공정위가 대리기사 단체보험 강요 혐의를 받은 카카오모빌리티·티맵모빌리티 등 4곳의 동의의결 절차를 개시했다",
+   "en": "The FTC opened a consent decree process for four firms, including Kakao Mobility and TMAP Mobility, accused of forcing group insurance on designated drivers"
+  },
+  {
+   "ko": "미 교통장관이 전국 운항 중지 사태 이후 항공관제 개선을 위해 의회에 500억달러 긴급 예산을 요청했다",
+   "en": "The U.S. transportation secretary asked Congress for $50 billion in emergency funds to fix air traffic control after the nationwide ground stop"
+  }
+ ],
+ "channels": {
+  "news": {
+   "channel": "C0C6NRNGE81",
+   "parent": {
+    "text": "📰 **Daily News Brief** | 2026-11-17 (화)\n_수집 기간: 11/14 06:00 ~ 11/17 06:00 KST_\n\n**오늘의 핵심**\n• 코스피가 외국인·기관의 2조원 넘는 순매도에 190.03p(3.59%) 급락한 5100.50으로 마감했다\n• 공정위가 대리기사 단체보험 강요 혐의를 받은 카카오모빌리티·티맵모빌리티 등 4곳의 동의의결 절차를 개시했다\n• 미 교통장관이 전국 운항 중지 사태 이후 항공관제 개선을 위해 의회에 500억달러 긴급 예산을 요청했다\n\n🧵 상세 뉴스는 스레드에서 분야별로 확인: 🇰🇷 한국·🇺🇸 미국 (경제 · 정치 · 사회 · 부동산 · 모빌리티)",
+    "verified": true,
+    "ts": "1794863286.591629"
+   },
+   "replies": [
+    {
+     "id": "news-KR-경제-1/1",
+     "country": "KR",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 💰 경제**\n**1. 코스피 3.59% 급락해 5100선…외국인·기관 2조 넘게 팔았다**\n• 16일 코스피는 190.03p(3.59%) 내린 5100.50으로 마감했다.\n• 외국인이 1조7022억원, 기관이 4581억원을 순매도했고 개인은 1조6782억원을 순매수했다.\n• 코스닥도 34.01p(4.86%) 내린 665.65로 마감했다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611161547327457)",
+     "verified": true,
+     "ts": "1794863294.982149"
+    },
+    {
+     "id": "news-KR-정치-1/1",
+     "country": "KR",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 🏛️ 정치**\n**1. 민주당 지지율 정부 출범 후 최저…국민의힘, 오차범위 밖으로 앞서**\n• 리얼미터 조사에서 민주당 지지율은 34.6%로 현 정부 출범 이후 가장 낮았다.\n• 국민의힘은 3.3%포인트 오른 43.0%로 3주 만에 다시 민주당을 오차범위 밖에서 앞섰다.\n• 조사는 지난 12일부터 이틀간 전국 유권자 1004명을 대상으로 진행됐다.\n🔗 [세계일보](https://segye.com/newsView/20261116504273)\n\n**2. 한덕수 선고 앞두고 \"결과 실망 시 바로 조희대 탄핵\"…사법부 압박하는 민주당**\n• 민주당은 16일 한덕수 전 총리의 내란 혐의 상고심 결과에 따라 조희대 대법원장 탄핵 추진 가능성을 거론했다.\n• 대법원 전원합의체는 한 전 총리와 김건희 씨 사건의 선고를 19일 오후 4시로 지정했다.\n• 국민의힘은 민주당의 언급이 삼권분립을 훼손하고 재판에 개입하는 행위라며 법사위에 불참했다.\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111614480001667)",
+     "verified": true,
+     "ts": "1794863298.883579"
+    },
+    {
+     "id": "news-KR-사회-1/1",
+     "country": "KR",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 👥 사회**\n**1. 성폭행 피해 신고 뒤 숨진 피해자…담당 경찰관 2명 직권경고**\n• 경기남부경찰청은 성폭행 피해 신고 사건의 초기 수사를 맡았던 안산단원경찰서 수사팀장과 수사관 등 2명에게 직권경고를 내렸다.\n• 19세 아르바이트생인 피해자는 경찰의 불송치 통보 사흘 뒤 숨졌다.\n• 이후 공소청은 주점 업주를 준강간 혐의로 불구속 기소했고, 업주는 첫 공판에서 혐의를 부인했다.\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111622410001584)\n\n**2. 천안서 석 달 새 장애 아동·청소년 두 명 숨져…돌봄 사각지대 드러나**\n• 천안에서 8월 11세 지적장애 아동에 이어 11월 중증 발달장애가 있는 15세 청소년이 숨졌다.\n• 15세 청소년의 가정은 학대 신고 이력과 복지급여 수급이 없어 8월 사건 이후 천안시 전수조사 대상에서 빠졌다.\n• 천안시는 가정 내 장애아동 모니터링을 강화하고 아동보호전문기관을 내년 1곳에서 2곳으로 늘릴 계획이다.\n🔗 [세계일보](https://www.segye.com/newsView/20261115504124)",
+     "verified": true,
+     "ts": "1794863303.121399"
+    },
+    {
+     "id": "news-KR-부동산-1/1",
+     "country": "KR",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 🏠 부동산**\n**1. 서울 집값 상승폭 석 달째 둔화…강남·서초 하락세 심화**\n• 한국부동산원에 따르면 10월 서울 주택종합 매매가격은 0.65% 올라 3개월 연속 상승폭이 줄었다.\n• 서울 아파트 매매가격은 0.54% 올라 전월(0.74%)보다 상승폭이 축소됐다.\n• 강남구(-1.24%)와 서초구(-0.75%)는 하락세가 이어졌다.\n🔗 [아주경제](https://www.ajunews.com/view/20261116113144970)\n\n**2. \"11월 들어 손님 끊겼다\"…강남발 집값 조정 한강벨트로**\n• 한국부동산원 기준 11월 둘째 주 성동구 아파트값은 0.02% 내려 하락 전환했고 강동구도 0.01% 떨어졌다.\n• 마포구는 상승폭이 0.25%에서 0.10%로 줄었다.\n• 성동구 옥수동의 한 공인중개사는 11월 들어 집을 보러 오는 손님마저 끊겼다고 전했다.\n🔗 [뉴시스](https://www.newsis.com/view/NISX20261116_0003869973)",
+     "verified": true,
+     "ts": "1794863307.042899"
+    },
+    {
+     "id": "news-KR-모빌리티-1/1",
+     "country": "KR",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 🚗 모빌리티**\n**1. 개인보험 있어도 단체보험 가입 요구…공정위, 카카오·티맵 동의의결 절차 개시**\n• 공정위는 카카오모빌리티·티맵모빌리티·씨엠엔피·와이엘피 등 대리운전 중개사업자 4곳에 대한 동의의결 절차를 개시했다.\n• 카카오모빌리티와 티맵모빌리티는 개인보험에 가입한 대리기사에게도 단체보험 가입을 요구하고 기사등급제로 판매 목표를 사실상 강제했는지 조사를 받아 왔다.\n• 두 회사는 개인보험 연동으로 아낀 단체보험료를 콜 건당 지원금으로 기사에게 돌려주고 기사등급제를 폐지하겠다고 제안했다.\n🔗 [아주경제](https://www.ajunews.com/view/20261116095628447)",
+     "verified": true,
+     "ts": "1794863309.653939"
+    },
+    {
+     "id": "news-US-경제-1/1",
+     "country": "US",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 💰 경제**\n**1. 캔자스시티 연은 총재 \"연준, 인플레이션에 할 일 남아\"**\n• 제프 슈미드 캔자스시티 연은 총재는 15일 연준이 \"인플레이션에 대해 할 일이 남아 있다\"고 말했다.\n• 슈미드 총재는 물가 압력이 \"너무 뜨겁게\" 움직이고 있다고 평가했다.\n• 그는 인플레이션이 \"잘못된 방향으로 움직이고 있다\"고 말했다.\n🔗 [CNBC](https://www.cnbc.com/amp/2026/11/15/fed-has-some-work-to-do-on-inflation-kansas-city-fed-chief-says.html)",
+     "verified": true,
+     "ts": "1794863318.848459"
+    },
+    {
+     "id": "news-US-정치-1/1",
+     "country": "US",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 🏛️ 정치**\n**1. 중간선거로 주의회 공화당 장기 우위 끝나**\n• 펜실베이니아 주상원은 지미 카터 대통령 시절 이후 처음으로 민주당이 다수당이 됐다.\n• 선거 전 공화당 28곳, 민주당 18곳이던 주의회 장악 구도는 개표가 진행 중인 가운데 민주당 24곳, 공화당 22곳으로 바뀔 전망이다.\n• 민주당은 노스캐롤라이나·오하이오·캔자스 등에서 공화당의 거부권 무력화 가능 다수(슈퍼 다수)를 깼다.\n🔗 [NPR](https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop)",
+     "verified": true,
+     "ts": "1794863321.541079"
+    },
+    {
+     "id": "news-US-사회-1/1",
+     "country": "US",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 👥 사회**\n**1. 이란 공격으로 6명 숨진 쿠웨이트 지휘소…생존 장교 \"경고 무시\" 내부고발**\n• 쿠웨이트 슈아이바항 지휘소에 대한 3월 1일 이란 공격에서 살아남은 스티븐 램스보텀 소령이 상·하원 군사위원회에 내부고발장을 냈다.\n• 고발장은 고위 장교들이 공습 전 대공 방어에 대한 우려를 묵살했다고 주장하며, 이 공격으로 미군 6명이 숨졌다.\n• 한 소식통은 지휘소에 차량 폭탄을 막는 콘크리트 방벽만 있었고 드론·미사일을 막을 시설은 없었다고 CNN에 전했다.\n🔗 [CNN](https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint)",
+     "verified": true,
+     "ts": "1794863324.474449"
+    },
+    {
+     "id": "news-US-부동산-1/1",
+     "country": "US",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 🏠 부동산**\n_해당 기간 새 기사 없음_",
+     "verified": true,
+     "ts": "1794863325.452689"
+    },
+    {
+     "id": "news-US-모빌리티-1/1",
+     "country": "US",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 🚗 모빌리티**\n**1. 더피 교통장관, 항공 대란 책임 전임 정부·노후 시스템에 돌려…500억달러 긴급 예산 요청**\n• 숀 더피 교통장관은 전국 운항 중지 사태의 책임을 이전 행정부들과 노후 시스템에 돌렸다.\n• 더피 장관은 처음 300억달러를 요청했다가 금요일 밤 500억달러로 늘려 의회에 긴급 예산을 요구했다.\n• 민주당은 행정부가 이미 배정된 항공관제 현대화 예산도 다 쓰지 않았다고 반박했다.\n🔗 [CNN](https://www.cnn.com/2026/11/15/politics/live-news/trump-administration-ground-stop)",
+     "verified": true,
+     "ts": "1794863328.057129"
+    }
+   ]
+  },
+  "english": {
+   "channel": "C0C6KR1MEEP",
+   "parent": {
+    "text": "📚 **Daily English Brief** | 2026-11-17 (화)\n_수집 기간: 11/14 06:00 ~ 11/17 06:00 KST_\n\n**Today's Headlines / 오늘의 핵심**\n• The KOSPI plunged 190.03 points (3.59%) to close at 5,100.50 as foreigners and institutions sold a net of more than 2 trillion won\n  _코스피가 외국인·기관의 2조원 넘는 순매도에 190.03p(3.59%) 급락한 5100.50으로 마감했다_\n• The FTC opened a consent decree process for four firms, including Kakao Mobility and TMAP Mobility, accused of forcing group insurance on designated drivers\n  _공정위가 대리기사 단체보험 강요 혐의를 받은 카카오모빌리티·티맵모빌리티 등 4곳의 동의의결 절차를 개시했다_\n• The U.S. transportation secretary asked Congress for $50 billion in emergency funds to fix air traffic control after the nationwide ground stop\n  _미 교통장관이 전국 운항 중지 사태 이후 항공관제 개선을 위해 의회에 500억달러 긴급 예산을 요청했다_\n\n🧵 Category threads / 스레드에서 분야별 확인: 🇰🇷 Korea·🇺🇸 US (Economy · Politics · Society · Real Estate · Mobility)",
+    "verified": true,
+    "ts": "1794863337.678179"
+   },
+   "replies": [
+    {
+     "id": "english-KR-경제-1/1",
+     "country": "KR",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 💰 Economy / 한국 · 경제**\n**1. KOSPI plunges 3.59% to the 5,100 level as foreigners and institutions dump over 2 trillion won**\n_코스피 3.59% 급락해 5100선…외국인·기관 2조 넘게 팔았다_\n• The KOSPI closed down 190.03 points (3.59%) at 5,100.50 on the 16th.\n  _16일 코스피는 190.03p(3.59%) 내린 5100.50으로 마감했다._\n• Foreigners were net sellers of 1.7022 trillion won and institutions 458.1 billion won, while individuals were net buyers of 1.6782 trillion won.\n  _외국인이 1조7022억원, 기관이 4581억원을 순매도했고 개인은 1조6782억원을 순매수했다._\n• The KOSDAQ also closed down 34.01 points (4.86%) at 665.65.\n  _코스닥도 34.01p(4.86%) 내린 665.65로 마감했다._\n📝 `net sellers` 순매도자 · `net buyers` 순매수자 · `closed down` 하락 마감했다 (close down)\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611161547327457)",
+     "verified": true,
+     "ts": "1794863344.251809"
+    },
+    {
+     "id": "english-KR-정치-1/1",
+     "country": "KR",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 🏛️ Politics / 한국 · 정치**\n**1. Democratic Party support hits its lowest since the government took office, as PPP leads beyond the margin of error**\n_민주당 지지율 정부 출범 후 최저…국민의힘, 오차범위 밖으로 앞서_\n• In a Realmeter poll, Democratic Party support fell to 34.6%, the lowest since the current government took office.\n  _리얼미터 조사에서 민주당 지지율은 34.6%로 현 정부 출범 이후 가장 낮았다._\n• The People Power Party rose 3.3 percentage points to 43.0%, leading the Democrats beyond the margin of error again for the first time in three weeks.\n  _국민의힘은 3.3%포인트 오른 43.0%로 3주 만에 다시 민주당을 오차범위 밖에서 앞섰다._\n• The survey was conducted over two days from the 12th among 1,004 voters nationwide.\n  _조사는 지난 12일부터 이틀간 전국 유권자 1004명을 대상으로 진행됐다._\n📝 `margin of error` 오차범위 · `took office` 출범했다, 취임했다 (take office)\n🔗 [세계일보](https://segye.com/newsView/20261116504273)\n\n**2. Ahead of Han Duck-soo's ruling, Democrats pressure the judiciary with talk of impeaching Chief Justice Jo Hee-de**\n_한덕수 선고 앞두고 \"결과 실망 시 바로 조희대 탄핵\"…사법부 압박하는 민주당_\n• On the 16th, the Democratic Party raised the possibility of impeaching Chief Justice Jo Hee-de depending on the appeal ruling in former Prime Minister Han Duck-soo's insurrection case.\n  _민주당은 16일 한덕수 전 총리의 내란 혐의 상고심 결과에 따라 조희대 대법원장 탄핵 추진 가능성을 거론했다._\n• The Supreme Court's full bench set the ruling for Han and Kim Keon-hee's cases for 4 p.m. on the 19th.\n  _대법원 전원합의체는 한 전 총리와 김건희 씨 사건의 선고를 19일 오후 4시로 지정했다._\n• The People Power Party boycotted the Legislation and Judiciary Committee, saying the remarks undermine the separation of powers and interfere with the trial.\n  _국민의힘은 민주당의 언급이 삼권분립을 훼손하고 재판에 개입하는 행위라며 법사위에 불참했다._\n📝 `full bench` 전원합의체 · `separation of powers` 삼권분립 · `boycotted` 불참했다 (boycott)\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111614480001667)",
+     "verified": true,
+     "ts": "1794863350.583539"
+    },
+    {
+     "id": "english-KR-사회-1/1",
+     "country": "KR",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 👥 Society / 한국 · 사회**\n**1. Two officers get formal warnings after a sexual assault victim died following her report**\n_성폭행 피해 신고 뒤 숨진 피해자…담당 경찰관 2명 직권경고_\n• Gyeonggi Nambu Provincial Police issued formal warnings to two Ansan Danwon Police officers, including the team leader, who handled the initial investigation of a sexual assault report.\n  _경기남부경찰청은 성폭행 피해 신고 사건의 초기 수사를 맡았던 안산단원경찰서 수사팀장과 수사관 등 2명에게 직권경고를 내렸다._\n• The victim, a 19-year-old part-time worker, died three days after police notified her they would not refer the case.\n  _19세 아르바이트생인 피해자는 경찰의 불송치 통보 사흘 뒤 숨졌다._\n• Prosecutors later indicted the bar owner without detention on quasi-rape charges, and he denied the charges at the first hearing.\n  _이후 공소청은 주점 업주를 준강간 혐의로 불구속 기소했고, 업주는 첫 공판에서 혐의를 부인했다._\n📝 `formal warnings` 직권경고 · `without detention` 불구속으로 · `denied the charges` 혐의를 부인했다 (deny the charges)\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111622410001584)\n\n**2. Two disabled children die in Cheonan within three months, exposing gaps in the care system**\n_천안서 석 달 새 장애 아동·청소년 두 명 숨져…돌봄 사각지대 드러나_\n• In Cheonan, a 15-year-old with severe developmental disabilities died in November, following the death of an 11-year-old with an intellectual disability in August.\n  _천안에서 8월 11세 지적장애 아동에 이어 11월 중증 발달장애가 있는 15세 청소년이 숨졌다._\n• The 15-year-old's family had no record of abuse reports or welfare benefits, so it was left out of the city's full survey after the August case.\n  _15세 청소년의 가정은 학대 신고 이력과 복지급여 수급이 없어 8월 사건 이후 천안시 전수조사 대상에서 빠졌다._\n• Cheonan plans to step up monitoring of disabled children cared for at home and expand child protection agencies from one to two next year.\n  _천안시는 가정 내 장애아동 모니터링을 강화하고 아동보호전문기관을 내년 1곳에서 2곳으로 늘릴 계획이다._\n📝 `developmental disabilities` 발달장애 · `left out of` ~에서 빠진 (leave out of) · `step up` 강화하다\n🔗 [세계일보](https://www.segye.com/newsView/20261115504124)",
+     "verified": true,
+     "ts": "1794863357.590289"
+    },
+    {
+     "id": "english-KR-부동산-1/1",
+     "country": "KR",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 🏠 Real Estate / 한국 · 부동산**\n**1. Seoul home price gains slow for a third month as Gangnam and Seocho declines deepen**\n_서울 집값 상승폭 석 달째 둔화…강남·서초 하락세 심화_\n• According to the Korea Real Estate Board, Seoul's overall housing prices rose 0.65% in October, the third straight month of slower gains.\n  _한국부동산원에 따르면 10월 서울 주택종합 매매가격은 0.65% 올라 3개월 연속 상승폭이 줄었다._\n• Seoul apartment prices rose 0.54%, a smaller gain than the previous month (0.74%).\n  _서울 아파트 매매가격은 0.54% 올라 전월(0.74%)보다 상승폭이 축소됐다._\n• Gangnam-gu (-1.24%) and Seocho-gu (-0.75%) continued to decline.\n  _강남구(-1.24%)와 서초구(-0.75%)는 하락세가 이어졌다._\n📝 `third straight month` 3개월 연속 · `slower gains` 상승폭 둔화\n🔗 [아주경제](https://www.ajunews.com/view/20261116113144970)\n\n**2. \"Customers stopped coming in November\": Gangnam-led price correction spreads to the Han River belt**\n_\"11월 들어 손님 끊겼다\"…강남발 집값 조정 한강벨트로_\n• Based on Korea Real Estate Board data, Seongdong-gu apartment prices fell 0.02% in the second week of November, turning to a decline, and Gangdong-gu also slipped 0.01%.\n  _한국부동산원 기준 11월 둘째 주 성동구 아파트값은 0.02% 내려 하락 전환했고 강동구도 0.01% 떨어졌다._\n• In Mapo-gu, the rate of increase narrowed from 0.25% to 0.10%.\n  _마포구는 상승폭이 0.25%에서 0.10%로 줄었다._\n• A real estate agent in Oksu-dong, Seongdong-gu, said even people coming to view homes dried up in November.\n  _성동구 옥수동의 한 공인중개사는 11월 들어 집을 보러 오는 손님마저 끊겼다고 전했다._\n📝 `turning to a decline` 하락 전환하는 (turn to a decline) · `real estate agent` 공인중개사 · `dried up` 끊겼다, 말라붙었다 (dry up)\n🔗 [뉴시스](https://www.newsis.com/view/NISX20261116_0003869973)",
+     "verified": true,
+     "ts": "1794863364.001459"
+    },
+    {
+     "id": "english-KR-모빌리티-1/1",
+     "country": "KR",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 🚗 Mobility / 한국 · 모빌리티**\n**1. Group insurance demanded despite personal coverage: FTC opens consent decree process for Kakao and TMAP**\n_개인보험 있어도 단체보험 가입 요구…공정위, 카카오·티맵 동의의결 절차 개시_\n• The Fair Trade Commission opened a consent decree process for four designated-driver brokers, including Kakao Mobility, TMAP Mobility, CMNP and YLP.\n  _공정위는 카카오모빌리티·티맵모빌리티·씨엠엔피·와이엘피 등 대리운전 중개사업자 4곳에 대한 동의의결 절차를 개시했다._\n• Kakao Mobility and TMAP Mobility had been investigated over whether they required drivers with personal insurance to buy group insurance and effectively forced sales targets through driver grading systems.\n  _카카오모빌리티와 티맵모빌리티는 개인보험에 가입한 대리기사에게도 단체보험 가입을 요구하고 기사등급제로 판매 목표를 사실상 강제했는지 조사를 받아 왔다._\n• The two companies offered to return group premiums saved by linking personal insurance to drivers as per-call subsidies and to scrap their driver grading systems.\n  _두 회사는 개인보험 연동으로 아낀 단체보험료를 콜 건당 지원금으로 기사에게 돌려주고 기사등급제를 폐지하겠다고 제안했다._\n📝 `consent decree` 동의의결 · `sales targets` 판매 목표 · `scrap` 폐지하다\n🔗 [아주경제](https://www.ajunews.com/view/20261116095628447)",
+     "verified": true,
+     "ts": "1794863368.474939"
+    },
+    {
+     "id": "english-US-경제-1/1",
+     "country": "US",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 💰 Economy / 미국 · 경제**\n**1. Fed 'has some work to do on inflation,' Kansas City Fed chief says**\n_캔자스시티 연은 총재 \"연준, 인플레이션에 할 일 남아\"_\n• Kansas City Fed President Jeff Schmid said on the 15th that the Fed \"has some work to do on inflation.\"\n  _제프 슈미드 캔자스시티 연은 총재는 15일 연준이 \"인플레이션에 대해 할 일이 남아 있다\"고 말했다._\n• Schmid said price pressures are \"running too hot.\"\n  _슈미드 총재는 물가 압력이 \"너무 뜨겁게\" 움직이고 있다고 평가했다._\n• He said inflation is \"moving in the wrong direction.\"\n  _그는 인플레이션이 \"잘못된 방향으로 움직이고 있다\"고 말했다._\n📝 `price pressures` 물가 압력 · `running too hot` 과열되고 있는 (run too hot)\n🔗 [CNBC](https://www.cnbc.com/amp/2026/11/15/fed-has-some-work-to-do-on-inflation-kansas-city-fed-chief-says.html)",
+     "verified": true,
+     "ts": "1794863374.480389"
+    },
+    {
+     "id": "english-US-정치-1/1",
+     "country": "US",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 🏛️ Politics / 미국 · 정치**\n**1. Midterm voters ended the long-running GOP dominance in state legislatures**\n_중간선거로 주의회 공화당 장기 우위 끝나_\n• Democrats won a majority in the Pennsylvania state Senate for the first time since Jimmy Carter was president.\n  _펜실베이니아 주상원은 지미 카터 대통령 시절 이후 처음으로 민주당이 다수당이 됐다._\n• Republicans controlled 28 legislatures and Democrats 18 before the election, and with votes still being counted, Democrats appear poised for a 24-to-22 lead.\n  _선거 전 공화당 28곳, 민주당 18곳이던 주의회 장악 구도는 개표가 진행 중인 가운데 민주당 24곳, 공화당 22곳으로 바뀔 전망이다._\n• Democrats broke GOP veto-proof supermajorities in states including North Carolina, Ohio and Kansas.\n  _민주당은 노스캐롤라이나·오하이오·캔자스 등에서 공화당의 거부권 무력화 가능 다수(슈퍼 다수)를 깼다._\n📝 `appear poised for` ~할 태세인 (be poised for) · `veto-proof supermajorities` 거부권 무력화 가능 다수 · `votes still being counted` 개표 진행 중인 표\n🔗 [NPR](https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop)",
+     "verified": true,
+     "ts": "1794863378.698619"
+    },
+    {
+     "id": "english-US-사회-1/1",
+     "country": "US",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 👥 Society / 미국 · 사회**\n**1. Army soldier files whistleblower complaint over Iranian strike that killed 6 US service members**\n_이란 공격으로 6명 숨진 쿠웨이트 지휘소…생존 장교 \"경고 무시\" 내부고발_\n• Maj. Stephen Ramsbottom, who survived the March 1 Iranian attack on a command post at Port Shuaiba, Kuwait, filed a whistleblower complaint with the House and Senate Armed Services Committees.\n  _쿠웨이트 슈아이바항 지휘소에 대한 3월 1일 이란 공격에서 살아남은 스티븐 램스보텀 소령이 상·하원 군사위원회에 내부고발장을 냈다._\n• The complaint alleges senior officers brushed aside concerns about air defenses before the strike, which killed six U.S. soldiers.\n  _고발장은 고위 장교들이 공습 전 대공 방어에 대한 우려를 묵살했다고 주장하며, 이 공격으로 미군 6명이 숨졌다._\n• A source told CNN the post had only concrete barriers against car bombs and nothing to shield it from drones or missiles.\n  _한 소식통은 지휘소에 차량 폭탄을 막는 콘크리트 방벽만 있었고 드론·미사일을 막을 시설은 없었다고 CNN에 전했다._\n📝 `whistleblower complaint` 내부고발장 · `brushed aside` 묵살했다 (brush aside) · `car bombs` 차량 폭탄\n🔗 [CNN](https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint)",
+     "verified": true,
+     "ts": "1794863383.181859"
+    },
+    {
+     "id": "english-US-부동산-1/1",
+     "country": "US",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 🏠 Real Estate / 미국 · 부동산**\n_No new articles in this period / 해당 기간 새 기사 없음_",
+     "verified": true,
+     "ts": "1794863384.292819"
+    },
+    {
+     "id": "english-US-모빌리티-1/1",
+     "country": "US",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 🚗 Mobility / 미국 · 모빌리티**\n**1. Duffy blames prior administrations and dated systems for airspace meltdown, seeks $50 billion in emergency funds**\n_더피 교통장관, 항공 대란 책임 전임 정부·노후 시스템에 돌려…500억달러 긴급 예산 요청_\n• Transportation Secretary Sean Duffy blamed prior administrations and dated systems for the nationwide ground stop.\n  _숀 더피 교통장관은 전국 운항 중지 사태의 책임을 이전 행정부들과 노후 시스템에 돌렸다._\n• Duffy first sought $30 billion, then raised his emergency funding request to Congress to $50 billion on Friday night.\n  _더피 장관은 처음 300억달러를 요청했다가 금요일 밤 500억달러로 늘려 의회에 긴급 예산을 요구했다._\n• Democrats countered that the administration has not even spent the air traffic control modernization funds already appropriated.\n  _민주당은 행정부가 이미 배정된 항공관제 현대화 예산도 다 쓰지 않았다고 반박했다._\n📝 `ground stop` 운항 중지 · `emergency funding` 긴급 예산 · `already appropriated` 이미 배정된\n🔗 [CNN](https://www.cnn.com/2026/11/15/politics/live-news/trump-administration-ground-stop)",
+     "verified": true,
+     "ts": "1794863388.277659"
+    }
+   ]
+  }
+ }
+}
