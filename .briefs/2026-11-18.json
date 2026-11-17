@@ -1,0 +1,684 @@
+{
+ "date": "2026-11-18",
+ "period": "2026-11-15 06:00 ~ 2026-11-18 06:00 KST",
+ "headlines": [
+  {
+   "ko": "코스피가 외국인 1조4429억원 순매도에 2.59% 내린 4968.48로 마감하며 9개월 만에 5000선이 무너졌다",
+   "en": "The KOSPI fell 2.59% to 4,968.48 as foreigners sold a net 1.4429 trillion won, closing below 5,000 for the first time in nine months"
+  },
+  {
+   "ko": "구글이 국내 정밀지도 반출 보안 조건을 이행하면서 '티맵 오토'가 탑재된 차량 내비 시장의 경쟁 구도가 바뀔 수 있다는 분석이 나왔다",
+   "en": "With Google meeting the security conditions to export Korea's high-precision maps, analysts say competition could shift in the car navigation market where \"TMAP Auto\" is installed"
+  },
+  {
+   "ko": "뉴욕증시는 엔비디아 실적과 앤스로픽 상장을 앞두고 S&P500이 1.9%, 나스닥이 2.5% 떨어졌다",
+   "en": "Ahead of Nvidia's earnings and Anthropic's IPO, the S&P 500 fell 1.9% and the Nasdaq dropped 2.5%"
+  }
+ ],
+ "articles": [
+  {
+   "country": "KR",
+   "category": "경제",
+   "title": "코스피 9개월 만에 5000선 붕괴…4968.48 마감",
+   "title_en": "KOSPI falls below 5,000 for the first time in nine months, closing at 4,968.48",
+   "summary": [
+    "17일 코스피는 전 거래일보다 132.02p(2.59%) 내린 4968.48로 마감했다.",
+    "종가가 5000선을 밑돈 것은 2월 2일 이후 약 9개월 만이다.",
+    "외국인은 이날 1조4429억원을 순매도했고, 10월 이후 누적 순매도는 31조원을 넘었다."
+   ],
+   "summary_en": [
+    "The KOSPI closed at 4,968.48 on the 17th, down 132.02 points (2.59%) from the previous session.",
+    "It was the first close below the 5,000 mark in about nine months, since Feb. 2.",
+    "Foreign investors were net sellers of 1.4429 trillion won that day, and their cumulative net selling since October topped 31 trillion won."
+   ],
+   "expressions": [
+    [
+     "previous session",
+     "직전 거래일"
+    ],
+    [
+     "net sellers",
+     "순매도자"
+    ],
+    [
+     "cumulative",
+     "누적의"
+    ]
+   ],
+   "source": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2649349",
+   "date_evidence": "검색 결과: 17일 장 마감 기사(KST)"
+  },
+  {
+   "country": "KR",
+   "category": "경제",
+   "title": "원·달러 환율 2.5원 오른 1338.2원 마감",
+   "title_en": "Won-dollar rate rises 2.5 won to close at 1,338.2",
+   "summary": [
+    "17일 원·달러 환율은 전일 대비 2.5원(0.19%) 오른 1338.2원에 거래를 마쳤다.",
+    "장중에는 1333.5원과 1342.9원 사이를 오갔다.",
+    "장 초반 오르다 후반 상승폭을 줄이는 흐름 속에 수급 힘겨루기가 이어졌다."
+   ],
+   "summary_en": [
+    "The won-dollar exchange rate closed at 1,338.2 won on the 17th, up 2.5 won (0.19%) from the previous day.",
+    "During the session, it moved between 1,333.5 won and 1,342.9 won.",
+    "Supply and demand jostled as the rate rose early and pared gains later in the day."
+   ],
+   "expressions": [
+    [
+     "exchange rate",
+     "환율"
+    ],
+    [
+     "pared gains",
+     "(pare gains) 상승폭을 줄이다"
+    ],
+    [
+     "During the session",
+     "장중"
+    ]
+   ],
+   "source": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2649359",
+   "date_evidence": "검색 결과: 17일 환율 마감 기사(KST)"
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title": "헌법개정자문위원장에 김형오·정세균…조정식 \"대통령 연임 개헌 문제 종결\"",
+   "title_en": "Kim Hyong-o and Chung Sye-kyun to chair constitutional advisory panel; Speaker Cho says presidential term issue is \"settled\"",
+   "summary": [
+    "조정식 국회의장은 16일 의장 직속 헌법개정자문위원회 공동위원장으로 김형오·정세균 전 국회의장을 위촉했다.",
+    "자문위는 제18차 헌법개정안의 의제와 개헌 절차를 마련하는 역할을 맡는다.",
+    "국민의힘 정점식 원내대표는 \"이번 정부에서 개헌은 없다\"며 조작기소 특검에서 시선을 돌리려는 것이라고 반발했다."
+   ],
+   "summary_en": [
+    "National Assembly Speaker Cho Jeong-sik on the 16th appointed former speakers Kim Hyong-o and Chung Sye-kyun as co-chairs of the speaker's Constitutional Amendment Advisory Committee.",
+    "The committee will draw up the agenda and procedures for the 18th constitutional amendment.",
+    "People Power Party floor leader Jeong Jeom-sig pushed back, saying \"there will be no constitutional amendment under this government\" and calling it a bid to divert attention from the fabricated-indictment special counsel."
+   ],
+   "expressions": [
+    [
+     "co-chairs",
+     "공동위원장"
+    ],
+    [
+     "draw up",
+     "마련하다"
+    ],
+    [
+     "pushed back",
+     "(push back) 반발하다"
+    ]
+   ],
+   "source": "한국일보",
+   "url": "https://www.hankookilbo.com/news/article/A2026111611070002852",
+   "date_evidence": "URL 날짜 및 검색 결과: 11/16 발행(KST)"
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title": "수능 앞두고 'AI 커닝' 공방…與 \"응시제한 10년\" 野 \"수능 연기 검토\"",
+   "title_en": "Parties clash over 'AI cheating' before the CSAT: ruling party seeks 10-year ban, opposition urges a delay",
+   "summary": [
+    "민주당 교육위원들은 AI 부정행위자의 수능 응시 자격을 10년 이상 제한하거나 박탈하는 법 개정을 추진하겠다고 밝혔다.",
+    "장동혁 국민의힘 대표는 16일 정부의 확실한 대책이 없다면 수능 연기를 검토해야 한다고 주장했다.",
+    "국민의힘 원내 지도부는 수능 연기가 당 전체의 입장은 아니라고 선을 그었다."
+   ],
+   "summary_en": [
+    "Democratic Party members of the education committee said they would push a law change to bar AI cheaters from the CSAT for 10 years or more, or strip their eligibility.",
+    "People Power Party leader Jang Dong-hyuk argued on the 16th that postponing the exam should be considered without clear government countermeasures.",
+    "The PPP's floor leadership drew a line, saying a postponement is not the party's official position."
+   ],
+   "expressions": [
+    [
+     "strip their eligibility",
+     "자격을 박탈하다"
+    ],
+    [
+     "countermeasures",
+     "대책"
+    ],
+    [
+     "drew a line",
+     "(draw a line) 선을 긋다"
+    ]
+   ],
+   "source": "세계일보",
+   "url": "https://www.segye.com/newsView/20261116515104",
+   "date_evidence": "URL 날짜 및 검색 결과: 11/16 발행(KST)"
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title": "7km 추격전 끝 성범죄 피의자 검거…경찰관 6명 부상·실탄 발사",
+   "title_en": "Sex crime suspect caught after 7km chase; six officers injured, live rounds fired",
+   "summary": [
+    "16일 경기 양주시에서 경찰이 20대 성범죄 피의자를 검거하는 과정에서 약 7km 추격전이 벌어졌다.",
+    "이 과정에서 경찰관 6명이 다쳤고 경찰 차량 여러 대가 파손됐다.",
+    "경찰은 피의자 차량 바퀴에 실탄을 쏜 뒤 긴급체포했다."
+   ],
+   "summary_en": [
+    "Police chased a sex crime suspect in his 20s for about 7km while trying to arrest him in Yangju, Gyeonggi Province, on the 16th.",
+    "Six officers were injured and several police vehicles were damaged in the process.",
+    "Police fired live rounds at the suspect's car tires before making an emergency arrest."
+   ],
+   "expressions": [
+    [
+     "live rounds",
+     "실탄"
+    ],
+    [
+     "in the process",
+     "그 과정에서"
+    ],
+    [
+     "emergency arrest",
+     "긴급체포"
+    ]
+   ],
+   "source": "경향신문",
+   "url": "https://www.khan.co.kr/article/202611161912001/",
+   "date_evidence": "URL 날짜·시각: 2026-11-16 19:12 KST"
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title": "생일잔치서 상인 돈봉투 받은 의혹…구로서 경찰관 직위해제",
+   "title_en": "Guro police officer relieved of duty over cash envelopes from merchants at birthday party",
+   "summary": [
+    "서울경찰청 광역수사대는 구로경찰서 관할 파출소에서 근무했던 경찰관을 금품 수수 혐의로 수사 중이라고 17일 밝혔다.",
+    "이 경찰관은 8월 19일 자신의 생일잔치에서 대림동 지역 상인들에게 돈봉투를 받은 혐의를 받는다.",
+    "경찰은 9월 7일 근무지를 압수수색했고, 이 경찰관은 직위해제돼 대기발령 상태다."
+   ],
+   "summary_en": [
+    "The Seoul Metropolitan Police Agency's metropolitan investigation unit said on the 17th it is investigating a former officer at a substation under Guro Police Station for accepting money.",
+    "The officer is suspected of receiving cash envelopes from local merchants in Daerim-dong at his birthday party on Aug. 19.",
+    "Police raided his workplace on Sept. 7, and he has been relieved of duty and placed on standby."
+   ],
+   "expressions": [
+    [
+     "cash envelopes",
+     "돈봉투"
+    ],
+    [
+     "relieved of duty",
+     "직위해제되다"
+    ],
+    [
+     "placed on standby",
+     "대기발령되다"
+    ]
+   ],
+   "source": "세계일보",
+   "url": "https://www.segye.com/newsView/20261117516268",
+   "date_evidence": "URL 날짜 및 검색 결과: 11/17 발행(KST)"
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title": "영끌해 집 사고 주거비는 올랐다…'내 집 마련' 인식은 약화",
+   "title_en": "Buyers stretched to buy homes as housing costs rose, while the urge to own weakens",
+   "summary": [
+    "국토교통부의 2025년도 주거실태조사에서 자가보유율은 62.0%로 전년보다 0.6%p 올랐다.",
+    "임차가구의 소득 대비 월임대료 비율(RIR)은 15.8%에서 17.0%로 1.2%p 높아졌다.",
+    "내 집을 보유해야 한다는 응답은 85.6%로 3년 연속 하락했다."
+   ],
+   "summary_en": [
+    "In the Ministry of Land, Infrastructure and Transport's 2025 Korea Housing Survey, the homeownership rate rose 0.6 percentage points from a year earlier to 62.0%.",
+    "Renter households' rent-to-income ratio (RIR) climbed 1.2 percentage points from 15.8% to 17.0%.",
+    "The share of respondents who said they should own a home fell to 85.6%, declining for a third straight year."
+   ],
+   "expressions": [
+    [
+     "homeownership rate",
+     "자가보유율"
+    ],
+    [
+     "rent-to-income ratio",
+     "소득 대비 임대료 비율"
+    ],
+    [
+     "third straight year",
+     "3년 연속"
+    ]
+   ],
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611171546035337",
+   "date_evidence": "URL: 2026-11-17 15:46 KST 발행"
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title": "전세 보증금 35% 오르는 동안 보증금 마련 대출은 53% 급증",
+   "title_en": "Jeonse deposits rise 35% while loans to fund them surge 53%",
+   "summary": [
+    "국가데이터처 가계금융복지조사에서 2025년 전세 가구 평균 보증금은 2억1797만원으로 2019년보다 34.9% 늘었다.",
+    "같은 기간 보증금 마련을 위한 금융부채 평균액은 3033만원에서 4639만원으로 53% 증가했다.",
+    "예금은행 신규취급액 기준 전세자금대출 금리는 지난해 5월 연 3.70%에서 올해 9월 4.57%로 올랐다."
+   ],
+   "summary_en": [
+    "In the National Data Office's Survey of Household Finances and Living Conditions, the average jeonse deposit in 2025 was 217.97 million won, up 34.9% from 2019.",
+    "Over the same period, average financial debt taken on to fund deposits rose 53%, from 30.33 million won to 46.39 million won.",
+    "Jeonse loan rates on new deposit-bank loans rose from 3.70% a year in May last year to 4.57% in September this year."
+   ],
+   "expressions": [
+    [
+     "jeonse deposit",
+     "전세 보증금"
+    ],
+    [
+     "taken on",
+     "(take on) (빚을) 지다"
+    ],
+    [
+     "Over the same period",
+     "같은 기간"
+    ]
+   ],
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611151829395589",
+   "date_evidence": "URL: 2026-11-15 18:29 KST 발행"
+  },
+  {
+   "country": "KR",
+   "category": "모빌리티",
+   "title": "구글 지도 반출 허용에…\"구글맵이냐, 티맵이냐\" 車 내비시장 술렁",
+   "title_en": "Google map export approval stirs car navigation market: \"Google Maps or TMAP?\"",
+   "summary": [
+    "국토교통부는 13일 구글이 국내 정밀지도 국외 반출 허가에 따른 보안 조건을 이행했다고 밝혔다.",
+    "국내 판매 차량에는 티맵모빌리티의 '티맵 오토'가 탑재돼 있어, 구글 지도 진입이 차량 내비 시장 경쟁 구도를 바꿀 수 있다는 분석이 나온다.",
+    "업계는 지도 반출이 곧바로 공급사 교체를 뜻하지는 않으며 차량 시스템 연동과 기존 공급계약이 변수라고 본다."
+   ],
+   "summary_en": [
+    "The Ministry of Land, Infrastructure and Transport said on the 13th that Google had met the security conditions attached to its permit to export Korea's high-precision maps.",
+    "Cars sold in Korea come with TMAP Mobility's \"TMAP Auto,\" and analysts say Google's entry could reshape competition in the in-car navigation market.",
+    "The industry says the export does not immediately mean a supplier switch, with vehicle system integration and existing supply contracts as variables."
+   ],
+   "expressions": [
+    [
+     "security conditions",
+     "보안 조건"
+    ],
+    [
+     "reshape competition",
+     "경쟁 구도를 바꾸다"
+    ],
+    [
+     "supplier switch",
+     "공급사 교체"
+    ]
+   ],
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611151849485296",
+   "date_evidence": "URL: 2026-11-15 18:49 KST 발행"
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "title": "엔비디아 실적·앤스로픽 상장 앞두고 뉴욕증시 하락…S&P500 1.9%↓",
+   "title_en": "Stocks slide ahead of Nvidia earnings and Anthropic IPO; S&P 500 down 1.9%",
+   "summary": [
+    "16일 S&P500은 1.9%, 나스닥은 2.5%, 다우는 1.4% 내렸고 기술·AI 관련주가 하락을 이끌었다.",
+    "엔비디아 주가는 4.1% 떨어져 젠슨 황 CEO 사임 이후 3거래일 연속 하락했다.",
+    "엔비디아 주가는 10월 6일 최고가 대비 약 35% 하락해 시가총액 약 2조 달러가 사라졌다."
+   ],
+   "summary_en": [
+    "On the 16th, the S&P 500 fell 1.9%, the Nasdaq 2.5% and the Dow 1.4%, with tech and AI-linked stocks leading the decline.",
+    "Nvidia shares dropped 4.1%, falling for a third straight session since CEO Jensen Huang resigned.",
+    "Nvidia is down about 35% from its Oct. 6 record high, wiping out about $2 trillion in market value."
+   ],
+   "expressions": [
+    [
+     "leading the decline",
+     "하락을 주도하다"
+    ],
+    [
+     "record high",
+     "사상 최고치"
+    ],
+    [
+     "wiping out",
+     "(wipe out) 날려버리다"
+    ]
+   ],
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/11/16/business/stocks-nvidia-ai-anthropic",
+   "date_evidence": "URL·검색 결과: 2026-11-16(월) ET 장 마감 기사 = 11/17 KST, 기간 내"
+  },
+  {
+   "country": "US",
+   "category": "정치",
+   "title": "트럼프, 아시아 순방길…시진핑·푸틴과 사상 첫 3자 회담 예정",
+   "title_en": "Trump heads to Asia for a first-ever trilateral meeting with Xi and Putin",
+   "summary": [
+    "트럼프 대통령이 중간선거 이후 첫 해외 순방으로 아시아로 향했다.",
+    "트럼프 대통령은 19일 중국 선전에서 열리는 APEC 정상회의를 계기로 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령과 3자 회담을 할 예정이다.",
+    "백악관은 핵 군축을 주요 의제로 제시했지만, 미 고위 당국자는 합의에 이르지는 않을 것으로 본다고 말했다."
+   ],
+   "summary_en": [
+    "President Trump headed to Asia on his first overseas trip since the midterm elections.",
+    "Trump is set to hold a trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin on the sidelines of the APEC summit in Shenzhen, China, on the 19th.",
+    "The White House cast nuclear arms reduction as the main agenda item, but a senior U.S. official said they do not expect to reach an agreement."
+   ],
+   "expressions": [
+    [
+     "on the sidelines of",
+     "~를 계기로"
+    ],
+    [
+     "arms reduction",
+     "군축"
+    ],
+    [
+     "agenda item",
+     "의제"
+    ]
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+   "date_evidence": "URL 날짜: 2026-11-16 ET = 11/16 14:00~11/17 14:00 KST, 기간 내"
+  },
+  {
+   "country": "US",
+   "category": "사회",
+   "title": "맘다니 뉴욕시장, 과잉 진압 논란 NYPD 전략대응그룹 해체",
+   "title_en": "Mayor Mamdani disbands NYPD's Strategic Response Group, accused of excessive force",
+   "summary": [
+    "조란 맘다니 뉴욕시장과 제시카 티시 경찰청장은 16일 과잉 진압 논란을 빚은 NYPD 전략대응그룹(SRG) 해체를 발표했다.",
+    "무기·체포 권한이 없는 민간 주도 '공동체 대화·긴장완화국'이 새로 만들어진다.",
+    "경찰노조(PBA) 위원장은 맘다니 시장이 지지층을 달래려 경찰관의 안전을 위험에 빠뜨린다고 비판했다."
+   ],
+   "summary_en": [
+    "New York Mayor Zohran Mamdani and Police Commissioner Jessica Tisch announced on the 16th that the NYPD's Strategic Response Group (SRG), accused of excessive force, will be disbanded.",
+    "A new civilian-led \"Community Dialogue and De-escalation Division\" with no weapons or arrest powers will be created.",
+    "The police union (PBA) president accused Mamdani of putting officers' safety at risk to appease his base."
+   ],
+   "expressions": [
+    [
+     "excessive force",
+     "과잉 진압"
+    ],
+    [
+     "arrest powers",
+     "체포 권한"
+    ],
+    [
+     "appease his base",
+     "지지층을 달래다"
+    ]
+   ],
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/11/16/us/mamdani-disbands-srg-controversial-nypd-unit-hnk",
+   "date_evidence": "URL 날짜·검색 결과: 2026-11-16(월) ET 발표, 기간 내"
+  },
+  {
+   "country": "US",
+   "category": "모빌리티",
+   "title": "아마존 죽스 로보택시, 라스베이거스서 우버 앱으로 호출 가능",
+   "title_en": "Amazon's Zoox robotaxis now available on the Uber app in Las Vegas",
+   "summary": [
+    "아마존 자회사 죽스의 로보택시를 라스베이거스에서 우버 앱으로 호출할 수 있게 됐다.",
+    "죽스가 외부 차량 호출 플랫폼과 손잡은 것은 이번이 처음이다.",
+    "우버는 다른 자율주행 협력과 달리 라스베이거스에서 죽스 차량의 정비 등 서비스는 맡지 않는다."
+   ],
+   "summary_en": [
+    "Robotaxis from Amazon-owned Zoox can now be hailed through the Uber app in Las Vegas.",
+    "It is Zoox's first partnership with a third-party ride-hailing platform.",
+    "Unlike its other autonomous vehicle partnerships, Uber will not handle maintenance and other services for Zoox vehicles in Las Vegas."
+   ],
+   "expressions": [
+    [
+     "hailed",
+     "(hail) (차량을) 호출하다"
+    ],
+    [
+     "ride-hailing platform",
+     "차량 호출 플랫폼"
+    ],
+    [
+     "handle maintenance",
+     "정비를 맡다"
+    ]
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+   "date_evidence": "URL 날짜: 2026-11-16 (미국), 기간 내"
+  },
+  {
+   "country": "US",
+   "category": "모빌리티",
+   "title": "테슬라, 사이버캡 생산 위해 베를린 기가팩토리에 30억 유로 증설",
+   "title_en": "Tesla to invest €3 billion expanding its Berlin gigafactory for Cybercab production",
+   "summary": [
+    "테슬라는 16일 베를린 기가팩토리 증설에 30억 유로(약 33억 달러)를 투자한다고 발표했다.",
+    "그륀하이데에 들어설 새 건물은 연간 최대 100만 대를 생산할 수 있고, 착공은 2027년 상반기로 예상된다.",
+    "베를린 공장의 사이버캡 생산은 2029년 시작될 예정이다."
+   ],
+   "summary_en": [
+    "Tesla announced on the 16th that it will invest €3 billion (about $3.3 billion) to expand its Berlin gigafactory.",
+    "The new building in Grünheide could produce up to 1 million vehicles a year, with construction expected to begin in the first half of 2027.",
+    "Cybercab production at the Berlin plant is slated to start in 2029."
+   ],
+   "expressions": [
+    [
+     "first half",
+     "상반기"
+    ],
+    [
+     "slated to",
+     "(be slated to) ~할 예정이다"
+    ],
+    [
+     "gigafactory",
+     "대형 전기차 공장"
+    ]
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+   "date_evidence": "URL 날짜: 2026-11-16 (미국), 기간 내"
+  }
+ ],
+ "channels": {
+  "news": {
+   "channel": "C0C6NRNGE81",
+   "parent": {
+    "text": "📰 **Daily News Brief** | 2026-11-18 (수)\n_수집 기간: 11/15 06:00 ~ 11/18 06:00 KST_\n\n**오늘의 핵심**\n• 코스피가 외국인 1조4429억원 순매도에 2.59% 내린 4968.48로 마감하며 9개월 만에 5000선이 무너졌다\n• 구글이 국내 정밀지도 반출 보안 조건을 이행하면서 '티맵 오토'가 탑재된 차량 내비 시장의 경쟁 구도가 바뀔 수 있다는 분석이 나왔다\n• 뉴욕증시는 엔비디아 실적과 앤스로픽 상장을 앞두고 S&P500이 1.9%, 나스닥이 2.5% 떨어졌다\n\n🧵 상세 뉴스는 스레드에서 분야별로 확인: 🇰🇷 한국·🇺🇸 미국 (경제 · 정치 · 사회 · 부동산 · 모빌리티)",
+    "ts": "1794949774.403709",
+    "verified": true
+   },
+   "replies": [
+    {
+     "id": "news-KR-경제-1/1",
+     "country": "KR",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 💰 경제**\n**1. 코스피 9개월 만에 5000선 붕괴…4968.48 마감**\n• 17일 코스피는 전 거래일보다 132.02p(2.59%) 내린 4968.48로 마감했다.\n• 종가가 5000선을 밑돈 것은 2월 2일 이후 약 9개월 만이다.\n• 외국인은 이날 1조4429억원을 순매도했고, 10월 이후 누적 순매도는 31조원을 넘었다.\n🔗 [이투데이](https://www.etoday.co.kr/news/view/2649349)\n\n**2. 원·달러 환율 2.5원 오른 1338.2원 마감**\n• 17일 원·달러 환율은 전일 대비 2.5원(0.19%) 오른 1338.2원에 거래를 마쳤다.\n• 장중에는 1333.5원과 1342.9원 사이를 오갔다.\n• 장 초반 오르다 후반 상승폭을 줄이는 흐름 속에 수급 힘겨루기가 이어졌다.\n🔗 [이투데이](https://www.etoday.co.kr/news/view/2649359)",
+     "ts": "1794949780.830619",
+     "verified": true
+    },
+    {
+     "id": "news-KR-정치-1/1",
+     "country": "KR",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 🏛️ 정치**\n**1. 헌법개정자문위원장에 김형오·정세균…조정식 \"대통령 연임 개헌 문제 종결\"**\n• 조정식 국회의장은 16일 의장 직속 헌법개정자문위원회 공동위원장으로 김형오·정세균 전 국회의장을 위촉했다.\n• 자문위는 제18차 헌법개정안의 의제와 개헌 절차를 마련하는 역할을 맡는다.\n• 국민의힘 정점식 원내대표는 \"이번 정부에서 개헌은 없다\"며 조작기소 특검에서 시선을 돌리려는 것이라고 반발했다.\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111611070002852)\n\n**2. 수능 앞두고 'AI 커닝' 공방…與 \"응시제한 10년\" 野 \"수능 연기 검토\"**\n• 민주당 교육위원들은 AI 부정행위자의 수능 응시 자격을 10년 이상 제한하거나 박탈하는 법 개정을 추진하겠다고 밝혔다.\n• 장동혁 국민의힘 대표는 16일 정부의 확실한 대책이 없다면 수능 연기를 검토해야 한다고 주장했다.\n• 국민의힘 원내 지도부는 수능 연기가 당 전체의 입장은 아니라고 선을 그었다.\n🔗 [세계일보](https://www.segye.com/newsView/20261116515104)",
+     "ts": "1794949784.978279",
+     "verified": true
+    },
+    {
+     "id": "news-KR-사회-1/1",
+     "country": "KR",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 👥 사회**\n**1. 7km 추격전 끝 성범죄 피의자 검거…경찰관 6명 부상·실탄 발사**\n• 16일 경기 양주시에서 경찰이 20대 성범죄 피의자를 검거하는 과정에서 약 7km 추격전이 벌어졌다.\n• 이 과정에서 경찰관 6명이 다쳤고 경찰 차량 여러 대가 파손됐다.\n• 경찰은 피의자 차량 바퀴에 실탄을 쏜 뒤 긴급체포했다.\n🔗 [경향신문](https://www.khan.co.kr/article/202611161912001/)\n\n**2. 생일잔치서 상인 돈봉투 받은 의혹…구로서 경찰관 직위해제**\n• 서울경찰청 광역수사대는 구로경찰서 관할 파출소에서 근무했던 경찰관을 금품 수수 혐의로 수사 중이라고 17일 밝혔다.\n• 이 경찰관은 8월 19일 자신의 생일잔치에서 대림동 지역 상인들에게 돈봉투를 받은 혐의를 받는다.\n• 경찰은 9월 7일 근무지를 압수수색했고, 이 경찰관은 직위해제돼 대기발령 상태다.\n🔗 [세계일보](https://www.segye.com/newsView/20261117516268)",
+     "ts": "1794949788.964349",
+     "verified": true
+    },
+    {
+     "id": "news-KR-부동산-1/1",
+     "country": "KR",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 🏠 부동산**\n**1. 영끌해 집 사고 주거비는 올랐다…'내 집 마련' 인식은 약화**\n• 국토교통부의 2025년도 주거실태조사에서 자가보유율은 62.0%로 전년보다 0.6%p 올랐다.\n• 임차가구의 소득 대비 월임대료 비율(RIR)은 15.8%에서 17.0%로 1.2%p 높아졌다.\n• 내 집을 보유해야 한다는 응답은 85.6%로 3년 연속 하락했다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611171546035337)\n\n**2. 전세 보증금 35% 오르는 동안 보증금 마련 대출은 53% 급증**\n• 국가데이터처 가계금융복지조사에서 2025년 전세 가구 평균 보증금은 2억1797만원으로 2019년보다 34.9% 늘었다.\n• 같은 기간 보증금 마련을 위한 금융부채 평균액은 3033만원에서 4639만원으로 53% 증가했다.\n• 예금은행 신규취급액 기준 전세자금대출 금리는 지난해 5월 연 3.70%에서 올해 9월 4.57%로 올랐다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611151829395589)",
+     "ts": "1794949792.904189",
+     "verified": true
+    },
+    {
+     "id": "news-KR-모빌리티-1/1",
+     "country": "KR",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 🚗 모빌리티**\n**1. 구글 지도 반출 허용에…\"구글맵이냐, 티맵이냐\" 車 내비시장 술렁**\n• 국토교통부는 13일 구글이 국내 정밀지도 국외 반출 허가에 따른 보안 조건을 이행했다고 밝혔다.\n• 국내 판매 차량에는 티맵모빌리티의 '티맵 오토'가 탑재돼 있어, 구글 지도 진입이 차량 내비 시장 경쟁 구도를 바꿀 수 있다는 분석이 나온다.\n• 업계는 지도 반출이 곧바로 공급사 교체를 뜻하지는 않으며 차량 시스템 연동과 기존 공급계약이 변수라고 본다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611151849485296)",
+     "ts": "1794949795.472939",
+     "verified": true
+    },
+    {
+     "id": "news-US-경제-1/1",
+     "country": "US",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 💰 경제**\n**1. 엔비디아 실적·앤스로픽 상장 앞두고 뉴욕증시 하락…S&P500 1.9%↓**\n• 16일 S&P500은 1.9%, 나스닥은 2.5%, 다우는 1.4% 내렸고 기술·AI 관련주가 하락을 이끌었다.\n• 엔비디아 주가는 4.1% 떨어져 젠슨 황 CEO 사임 이후 3거래일 연속 하락했다.\n• 엔비디아 주가는 10월 6일 최고가 대비 약 35% 하락해 시가총액 약 2조 달러가 사라졌다.\n🔗 [CNN](https://www.cnn.com/2026/11/16/business/stocks-nvidia-ai-anthropic)",
+     "ts": "1794949801.825659",
+     "verified": true
+    },
+    {
+     "id": "news-US-정치-1/1",
+     "country": "US",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 🏛️ 정치**\n**1. 트럼프, 아시아 순방길…시진핑·푸틴과 사상 첫 3자 회담 예정**\n• 트럼프 대통령이 중간선거 이후 첫 해외 순방으로 아시아로 향했다.\n• 트럼프 대통령은 19일 중국 선전에서 열리는 APEC 정상회의를 계기로 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령과 3자 회담을 할 예정이다.\n• 백악관은 핵 군축을 주요 의제로 제시했지만, 미 고위 당국자는 합의에 이르지는 않을 것으로 본다고 말했다.\n🔗 [NPR](https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia)",
+     "ts": "1794949804.511409",
+     "verified": true
+    },
+    {
+     "id": "news-US-사회-1/1",
+     "country": "US",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 👥 사회**\n**1. 맘다니 뉴욕시장, 과잉 진압 논란 NYPD 전략대응그룹 해체**\n• 조란 맘다니 뉴욕시장과 제시카 티시 경찰청장은 16일 과잉 진압 논란을 빚은 NYPD 전략대응그룹(SRG) 해체를 발표했다.\n• 무기·체포 권한이 없는 민간 주도 '공동체 대화·긴장완화국'이 새로 만들어진다.\n• 경찰노조(PBA) 위원장은 맘다니 시장이 지지층을 달래려 경찰관의 안전을 위험에 빠뜨린다고 비판했다.\n🔗 [CNN](https://www.cnn.com/2026/11/16/us/mamdani-disbands-srg-controversial-nypd-unit-hnk)",
+     "ts": "1794949807.204669",
+     "verified": true
+    },
+    {
+     "id": "news-US-부동산-1/1",
+     "country": "US",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 🏠 부동산**\n_해당 기간 새 기사 없음_",
+     "ts": "1794949808.174069",
+     "verified": true
+    },
+    {
+     "id": "news-US-모빌리티-1/1",
+     "country": "US",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 🚗 모빌리티**\n**1. 아마존 죽스 로보택시, 라스베이거스서 우버 앱으로 호출 가능**\n• 아마존 자회사 죽스의 로보택시를 라스베이거스에서 우버 앱으로 호출할 수 있게 됐다.\n• 죽스가 외부 차량 호출 플랫폼과 손잡은 것은 이번이 처음이다.\n• 우버는 다른 자율주행 협력과 달리 라스베이거스에서 죽스 차량의 정비 등 서비스는 맡지 않는다.\n🔗 [TechCrunch](https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/)\n\n**2. 테슬라, 사이버캡 생산 위해 베를린 기가팩토리에 30억 유로 증설**\n• 테슬라는 16일 베를린 기가팩토리 증설에 30억 유로(약 33억 달러)를 투자한다고 발표했다.\n• 그륀하이데에 들어설 새 건물은 연간 최대 100만 대를 생산할 수 있고, 착공은 2027년 상반기로 예상된다.\n• 베를린 공장의 사이버캡 생산은 2029년 시작될 예정이다.\n🔗 [TechCrunch](https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/)",
+     "ts": "1794949812.230379",
+     "verified": true
+    }
+   ]
+  },
+  "english": {
+   "channel": "C0C6KR1MEEP",
+   "parent": {
+    "text": "📚 **Daily English Brief** | 2026-11-18 (수)\n_수집 기간: 11/15 06:00 ~ 11/18 06:00 KST_\n\n**Today's Headlines / 오늘의 핵심**\n• The KOSPI fell 2.59% to 4,968.48 as foreigners sold a net 1.4429 trillion won, closing below 5,000 for the first time in nine months\n  _코스피가 외국인 1조4429억원 순매도에 2.59% 내린 4968.48로 마감하며 9개월 만에 5000선이 무너졌다_\n• With Google meeting the security conditions to export Korea's high-precision maps, analysts say competition could shift in the car navigation market where \"TMAP Auto\" is installed\n  _구글이 국내 정밀지도 반출 보안 조건을 이행하면서 '티맵 오토'가 탑재된 차량 내비 시장의 경쟁 구도가 바뀔 수 있다는 분석이 나왔다_\n• Ahead of Nvidia's earnings and Anthropic's IPO, the S&P 500 fell 1.9% and the Nasdaq dropped 2.5%\n  _뉴욕증시는 엔비디아 실적과 앤스로픽 상장을 앞두고 S&P500이 1.9%, 나스닥이 2.5% 떨어졌다_\n\n🧵 Category threads / 스레드에서 분야별 확인: 🇰🇷 Korea·🇺🇸 US (Economy · Politics · Society · Real Estate · Mobility)",
+    "ts": "1794949824.046039",
+    "verified": true
+   },
+   "replies": [
+    {
+     "id": "english-KR-경제-1/1",
+     "country": "KR",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 💰 Economy / 한국 · 경제**\n**1. KOSPI falls below 5,000 for the first time in nine months, closing at 4,968.48**\n_코스피 9개월 만에 5000선 붕괴…4968.48 마감_\n• The KOSPI closed at 4,968.48 on the 17th, down 132.02 points (2.59%) from the previous session.\n  _17일 코스피는 전 거래일보다 132.02p(2.59%) 내린 4968.48로 마감했다._\n• It was the first close below the 5,000 mark in about nine months, since Feb. 2.\n  _종가가 5000선을 밑돈 것은 2월 2일 이후 약 9개월 만이다._\n• Foreign investors were net sellers of 1.4429 trillion won that day, and their cumulative net selling since October topped 31 trillion won.\n  _외국인은 이날 1조4429억원을 순매도했고, 10월 이후 누적 순매도는 31조원을 넘었다._\n📝 `previous session` 직전 거래일 · `net sellers` 순매도자 · `cumulative` 누적의\n🔗 [이투데이](https://www.etoday.co.kr/news/view/2649349)\n\n**2. Won-dollar rate rises 2.5 won to close at 1,338.2**\n_원·달러 환율 2.5원 오른 1338.2원 마감_\n• The won-dollar exchange rate closed at 1,338.2 won on the 17th, up 2.5 won (0.19%) from the previous day.\n  _17일 원·달러 환율은 전일 대비 2.5원(0.19%) 오른 1338.2원에 거래를 마쳤다._\n• During the session, it moved between 1,333.5 won and 1,342.9 won.\n  _장중에는 1333.5원과 1342.9원 사이를 오갔다._\n• Supply and demand jostled as the rate rose early and pared gains later in the day.\n  _장 초반 오르다 후반 상승폭을 줄이는 흐름 속에 수급 힘겨루기가 이어졌다._\n📝 `exchange rate` 환율 · `pared gains` (pare gains) 상승폭을 줄이다 · `During the session` 장중\n🔗 [이투데이](https://www.etoday.co.kr/news/view/2649359)",
+     "ts": "1794949832.436929",
+     "verified": true
+    },
+    {
+     "id": "english-KR-정치-1/1",
+     "country": "KR",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 🏛️ Politics / 한국 · 정치**\n**1. Kim Hyong-o and Chung Sye-kyun to chair constitutional advisory panel; Speaker Cho says presidential term issue is \"settled\"**\n_헌법개정자문위원장에 김형오·정세균…조정식 \"대통령 연임 개헌 문제 종결\"_\n• National Assembly Speaker Cho Jeong-sik on the 16th appointed former speakers Kim Hyong-o and Chung Sye-kyun as co-chairs of the speaker's Constitutional Amendment Advisory Committee.\n  _조정식 국회의장은 16일 의장 직속 헌법개정자문위원회 공동위원장으로 김형오·정세균 전 국회의장을 위촉했다._\n• The committee will draw up the agenda and procedures for the 18th constitutional amendment.\n  _자문위는 제18차 헌법개정안의 의제와 개헌 절차를 마련하는 역할을 맡는다._\n• People Power Party floor leader Jeong Jeom-sig pushed back, saying \"there will be no constitutional amendment under this government\" and calling it a bid to divert attention from the fabricated-indictment special counsel.\n  _국민의힘 정점식 원내대표는 \"이번 정부에서 개헌은 없다\"며 조작기소 특검에서 시선을 돌리려는 것이라고 반발했다._\n📝 `co-chairs` 공동위원장 · `draw up` 마련하다 · `pushed back` (push back) 반발하다\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111611070002852)\n\n**2. Parties clash over 'AI cheating' before the CSAT: ruling party seeks 10-year ban, opposition urges a delay**\n_수능 앞두고 'AI 커닝' 공방…與 \"응시제한 10년\" 野 \"수능 연기 검토\"_\n• Democratic Party members of the education committee said they would push a law change to bar AI cheaters from the CSAT for 10 years or more, or strip their eligibility.\n  _민주당 교육위원들은 AI 부정행위자의 수능 응시 자격을 10년 이상 제한하거나 박탈하는 법 개정을 추진하겠다고 밝혔다._\n• People Power Party leader Jang Dong-hyuk argued on the 16th that postponing the exam should be considered without clear government countermeasures.\n  _장동혁 국민의힘 대표는 16일 정부의 확실한 대책이 없다면 수능 연기를 검토해야 한다고 주장했다._\n• The PPP's floor leadership drew a line, saying a postponement is not the party's official position.\n  _국민의힘 원내 지도부는 수능 연기가 당 전체의 입장은 아니라고 선을 그었다._\n📝 `strip their eligibility` 자격을 박탈하다 · `countermeasures` 대책 · `drew a line` (draw a line) 선을 긋다\n🔗 [세계일보](https://www.segye.com/newsView/20261116515104)",
+     "ts": "1794949839.886629",
+     "verified": true
+    },
+    {
+     "id": "english-KR-사회-1/1",
+     "country": "KR",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 👥 Society / 한국 · 사회**\n**1. Sex crime suspect caught after 7km chase; six officers injured, live rounds fired**\n_7km 추격전 끝 성범죄 피의자 검거…경찰관 6명 부상·실탄 발사_\n• Police chased a sex crime suspect in his 20s for about 7km while trying to arrest him in Yangju, Gyeonggi Province, on the 16th.\n  _16일 경기 양주시에서 경찰이 20대 성범죄 피의자를 검거하는 과정에서 약 7km 추격전이 벌어졌다._\n• Six officers were injured and several police vehicles were damaged in the process.\n  _이 과정에서 경찰관 6명이 다쳤고 경찰 차량 여러 대가 파손됐다._\n• Police fired live rounds at the suspect's car tires before making an emergency arrest.\n  _경찰은 피의자 차량 바퀴에 실탄을 쏜 뒤 긴급체포했다._\n📝 `live rounds` 실탄 · `in the process` 그 과정에서 · `emergency arrest` 긴급체포\n🔗 [경향신문](https://www.khan.co.kr/article/202611161912001/)\n\n**2. Guro police officer relieved of duty over cash envelopes from merchants at birthday party**\n_생일잔치서 상인 돈봉투 받은 의혹…구로서 경찰관 직위해제_\n• The Seoul Metropolitan Police Agency's metropolitan investigation unit said on the 17th it is investigating a former officer at a substation under Guro Police Station for accepting money.\n  _서울경찰청 광역수사대는 구로경찰서 관할 파출소에서 근무했던 경찰관을 금품 수수 혐의로 수사 중이라고 17일 밝혔다._\n• The officer is suspected of receiving cash envelopes from local merchants in Daerim-dong at his birthday party on Aug. 19.\n  _이 경찰관은 8월 19일 자신의 생일잔치에서 대림동 지역 상인들에게 돈봉투를 받은 혐의를 받는다._\n• Police raided his workplace on Sept. 7, and he has been relieved of duty and placed on standby.\n  _경찰은 9월 7일 근무지를 압수수색했고, 이 경찰관은 직위해제돼 대기발령 상태다._\n📝 `cash envelopes` 돈봉투 · `relieved of duty` 직위해제되다 · `placed on standby` 대기발령되다\n🔗 [세계일보](https://www.segye.com/newsView/20261117516268)",
+     "ts": "1794949846.380049",
+     "verified": true
+    },
+    {
+     "id": "english-KR-부동산-1/1",
+     "country": "KR",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 🏠 Real Estate / 한국 · 부동산**\n**1. Buyers stretched to buy homes as housing costs rose, while the urge to own weakens**\n_영끌해 집 사고 주거비는 올랐다…'내 집 마련' 인식은 약화_\n• In the Ministry of Land, Infrastructure and Transport's 2025 Korea Housing Survey, the homeownership rate rose 0.6 percentage points from a year earlier to 62.0%.\n  _국토교통부의 2025년도 주거실태조사에서 자가보유율은 62.0%로 전년보다 0.6%p 올랐다._\n• Renter households' rent-to-income ratio (RIR) climbed 1.2 percentage points from 15.8% to 17.0%.\n  _임차가구의 소득 대비 월임대료 비율(RIR)은 15.8%에서 17.0%로 1.2%p 높아졌다._\n• The share of respondents who said they should own a home fell to 85.6%, declining for a third straight year.\n  _내 집을 보유해야 한다는 응답은 85.6%로 3년 연속 하락했다._\n📝 `homeownership rate` 자가보유율 · `rent-to-income ratio` 소득 대비 임대료 비율 · `third straight year` 3년 연속\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611171546035337)\n\n**2. Jeonse deposits rise 35% while loans to fund them surge 53%**\n_전세 보증금 35% 오르는 동안 보증금 마련 대출은 53% 급증_\n• In the National Data Office's Survey of Household Finances and Living Conditions, the average jeonse deposit in 2025 was 217.97 million won, up 34.9% from 2019.\n  _국가데이터처 가계금융복지조사에서 2025년 전세 가구 평균 보증금은 2억1797만원으로 2019년보다 34.9% 늘었다._\n• Over the same period, average financial debt taken on to fund deposits rose 53%, from 30.33 million won to 46.39 million won.\n  _같은 기간 보증금 마련을 위한 금융부채 평균액은 3033만원에서 4639만원으로 53% 증가했다._\n• Jeonse loan rates on new deposit-bank loans rose from 3.70% a year in May last year to 4.57% in September this year.\n  _예금은행 신규취급액 기준 전세자금대출 금리는 지난해 5월 연 3.70%에서 올해 9월 4.57%로 올랐다._\n📝 `jeonse deposit` 전세 보증금 · `taken on` (take on) (빚을) 지다 · `Over the same period` 같은 기간\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611151829395589)",
+     "ts": "1794949853.253769",
+     "verified": true
+    },
+    {
+     "id": "english-KR-모빌리티-1/1",
+     "country": "KR",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 🚗 Mobility / 한국 · 모빌리티**\n**1. Google map export approval stirs car navigation market: \"Google Maps or TMAP?\"**\n_구글 지도 반출 허용에…\"구글맵이냐, 티맵이냐\" 車 내비시장 술렁_\n• The Ministry of Land, Infrastructure and Transport said on the 13th that Google had met the security conditions attached to its permit to export Korea's high-precision maps.\n  _국토교통부는 13일 구글이 국내 정밀지도 국외 반출 허가에 따른 보안 조건을 이행했다고 밝혔다._\n• Cars sold in Korea come with TMAP Mobility's \"TMAP Auto,\" and analysts say Google's entry could reshape competition in the in-car navigation market.\n  _국내 판매 차량에는 티맵모빌리티의 '티맵 오토'가 탑재돼 있어, 구글 지도 진입이 차량 내비 시장 경쟁 구도를 바꿀 수 있다는 분석이 나온다._\n• The industry says the export does not immediately mean a supplier switch, with vehicle system integration and existing supply contracts as variables.\n  _업계는 지도 반출이 곧바로 공급사 교체를 뜻하지는 않으며 차량 시스템 연동과 기존 공급계약이 변수라고 본다._\n📝 `security conditions` 보안 조건 · `reshape competition` 경쟁 구도를 바꾸다 · `supplier switch` 공급사 교체\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611151849485296)",
+     "ts": "1794949857.513049",
+     "verified": true
+    },
+    {
+     "id": "english-US-경제-1/1",
+     "country": "US",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 💰 Economy / 미국 · 경제**\n**1. Stocks slide ahead of Nvidia earnings and Anthropic IPO; S&P 500 down 1.9%**\n_엔비디아 실적·앤스로픽 상장 앞두고 뉴욕증시 하락…S&P500 1.9%↓_\n• On the 16th, the S&P 500 fell 1.9%, the Nasdaq 2.5% and the Dow 1.4%, with tech and AI-linked stocks leading the decline.\n  _16일 S&P500은 1.9%, 나스닥은 2.5%, 다우는 1.4% 내렸고 기술·AI 관련주가 하락을 이끌었다._\n• Nvidia shares dropped 4.1%, falling for a third straight session since CEO Jensen Huang resigned.\n  _엔비디아 주가는 4.1% 떨어져 젠슨 황 CEO 사임 이후 3거래일 연속 하락했다._\n• Nvidia is down about 35% from its Oct. 6 record high, wiping out about $2 trillion in market value.\n  _엔비디아 주가는 10월 6일 최고가 대비 약 35% 하락해 시가총액 약 2조 달러가 사라졌다._\n📝 `leading the decline` 하락을 주도하다 · `record high` 사상 최고치 · `wiping out` (wipe out) 날려버리다\n🔗 [CNN](https://www.cnn.com/2026/11/16/business/stocks-nvidia-ai-anthropic)",
+     "ts": "1794949864.516649",
+     "verified": true
+    },
+    {
+     "id": "english-US-정치-1/1",
+     "country": "US",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 🏛️ Politics / 미국 · 정치**\n**1. Trump heads to Asia for a first-ever trilateral meeting with Xi and Putin**\n_트럼프, 아시아 순방길…시진핑·푸틴과 사상 첫 3자 회담 예정_\n• President Trump headed to Asia on his first overseas trip since the midterm elections.\n  _트럼프 대통령이 중간선거 이후 첫 해외 순방으로 아시아로 향했다._\n• Trump is set to hold a trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin on the sidelines of the APEC summit in Shenzhen, China, on the 19th.\n  _트럼프 대통령은 19일 중국 선전에서 열리는 APEC 정상회의를 계기로 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령과 3자 회담을 할 예정이다._\n• The White House cast nuclear arms reduction as the main agenda item, but a senior U.S. official said they do not expect to reach an agreement.\n  _백악관은 핵 군축을 주요 의제로 제시했지만, 미 고위 당국자는 합의에 이르지는 않을 것으로 본다고 말했다._\n📝 `on the sidelines of` ~를 계기로 · `arms reduction` 군축 · `agenda item` 의제\n🔗 [NPR](https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia)",
+     "ts": "1794949868.555149",
+     "verified": true
+    },
+    {
+     "id": "english-US-사회-1/1",
+     "country": "US",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 👥 Society / 미국 · 사회**\n**1. Mayor Mamdani disbands NYPD's Strategic Response Group, accused of excessive force**\n_맘다니 뉴욕시장, 과잉 진압 논란 NYPD 전략대응그룹 해체_\n• New York Mayor Zohran Mamdani and Police Commissioner Jessica Tisch announced on the 16th that the NYPD's Strategic Response Group (SRG), accused of excessive force, will be disbanded.\n  _조란 맘다니 뉴욕시장과 제시카 티시 경찰청장은 16일 과잉 진압 논란을 빚은 NYPD 전략대응그룹(SRG) 해체를 발표했다._\n• A new civilian-led \"Community Dialogue and De-escalation Division\" with no weapons or arrest powers will be created.\n  _무기·체포 권한이 없는 민간 주도 '공동체 대화·긴장완화국'이 새로 만들어진다._\n• The police union (PBA) president accused Mamdani of putting officers' safety at risk to appease his base.\n  _경찰노조(PBA) 위원장은 맘다니 시장이 지지층을 달래려 경찰관의 안전을 위험에 빠뜨린다고 비판했다._\n📝 `excessive force` 과잉 진압 · `arrest powers` 체포 권한 · `appease his base` 지지층을 달래다\n🔗 [CNN](https://www.cnn.com/2026/11/16/us/mamdani-disbands-srg-controversial-nypd-unit-hnk)",
+     "ts": "1794949872.652009",
+     "verified": true
+    },
+    {
+     "id": "english-US-부동산-1/1",
+     "country": "US",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 🏠 Real Estate / 미국 · 부동산**\n_No new articles in this period / 해당 기간 새 기사 없음_",
+     "ts": "1794949873.725289",
+     "verified": true
+    },
+    {
+     "id": "english-US-모빌리티-1/1",
+     "country": "US",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 🚗 Mobility / 미국 · 모빌리티**\n**1. Amazon's Zoox robotaxis now available on the Uber app in Las Vegas**\n_아마존 죽스 로보택시, 라스베이거스서 우버 앱으로 호출 가능_\n• Robotaxis from Amazon-owned Zoox can now be hailed through the Uber app in Las Vegas.\n  _아마존 자회사 죽스의 로보택시를 라스베이거스에서 우버 앱으로 호출할 수 있게 됐다._\n• It is Zoox's first partnership with a third-party ride-hailing platform.\n  _죽스가 외부 차량 호출 플랫폼과 손잡은 것은 이번이 처음이다._\n• Unlike its other autonomous vehicle partnerships, Uber will not handle maintenance and other services for Zoox vehicles in Las Vegas.\n  _우버는 다른 자율주행 협력과 달리 라스베이거스에서 죽스 차량의 정비 등 서비스는 맡지 않는다._\n📝 `hailed` (hail) (차량을) 호출하다 · `ride-hailing platform` 차량 호출 플랫폼 · `handle maintenance` 정비를 맡다\n🔗 [TechCrunch](https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/)\n\n**2. Tesla to invest €3 billion expanding its Berlin gigafactory for Cybercab production**\n_테슬라, 사이버캡 생산 위해 베를린 기가팩토리에 30억 유로 증설_\n• Tesla announced on the 16th that it will invest €3 billion (about $3.3 billion) to expand its Berlin gigafactory.\n  _테슬라는 16일 베를린 기가팩토리 증설에 30억 유로(약 33억 달러)를 투자한다고 발표했다._\n• The new building in Grünheide could produce up to 1 million vehicles a year, with construction expected to begin in the first half of 2027.\n  _그륀하이데에 들어설 새 건물은 연간 최대 100만 대를 생산할 수 있고, 착공은 2027년 상반기로 예상된다._\n• Cybercab production at the Berlin plant is slated to start in 2029.\n  _베를린 공장의 사이버캡 생산은 2029년 시작될 예정이다._\n📝 `first half` 상반기 · `slated to` (be slated to) ~할 예정이다 · `gigafactory` 대형 전기차 공장\n🔗 [TechCrunch](https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/)",
+     "ts": "1794949880.536829",
+     "verified": true
+    }
+   ]
+  }
+ }
+}
