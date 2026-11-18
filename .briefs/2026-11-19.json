@@ -1,0 +1,767 @@
+{
+ "date": "2026-11-19",
+ "period": "2026-11-16 06:00 ~ 2026-11-19 06:00 KST",
+ "run_start_utc": "2026-11-18T21:03:08.108187+00:00",
+ "headlines": [
+  {
+   "ko": "코스피가 98.96p(1.99%) 오른 5067.44로 마감하며 하루 만에 5000선을 되찾았다",
+   "en": "The KOSPI rose 98.96 points (1.99%) to close at 5,067.44, regaining the 5,000 mark in just one day"
+  },
+  {
+   "ko": "웨이모가 캘리포니아 차량국의 고속도로 운행 금지 명령에 따라 미국 전역에서 고속도로 운행을 중단했다",
+   "en": "Waymo halted freeway rides across the U.S. after a California DMV order banned its driverless cars from state freeways"
+  },
+  {
+   "ko": "엔비디아가 젠슨 황 사임 후 첫 실적에서 매출 1158억4000만달러로 예상치를 웃돌았지만 주가는 약 3% 떨어졌다",
+   "en": "Nvidia posted revenue of $115.84 billion in its first results since Jensen Huang's resignation, beating estimates, but its shares fell about 3%"
+  }
+ ],
+ "articles": [
+  {
+   "country": "KR",
+   "category": "경제",
+   "title": "코스피 하루 만에 5000선 회복…5067.44 마감",
+   "en_title": "KOSPI reclaims 5,000 in one day, closing at 5,067.44",
+   "summary": [
+    "18일 코스피는 전 거래일보다 98.96p(1.99%) 오른 5067.44로 마감했다.",
+    "장중 5133.14까지 올랐다가 4943.17까지 밀린 뒤 반등했다.",
+    "외국인은 3273억원을 순매도했고 기관은 5116억원을 순매수했다."
+   ],
+   "en_summary": [
+    "On the 18th, the KOSPI closed at 5,067.44, up 98.96 points (1.99%) from the previous session.",
+    "It climbed as high as 5,133.14 intraday, then slid to 4,943.17 before rebounding.",
+    "Foreigners were net sellers of 327.3 billion won, while institutions net bought 511.6 billion won."
+   ],
+   "media": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611181541225731",
+   "published_evidence": "URL 2026-11-18 15:41 KST",
+   "expressions": [
+    [
+     "reclaims",
+     "reclaim",
+     "되찾다"
+    ],
+    [
+     "previous session",
+     null,
+     "전 거래일"
+    ],
+    [
+     "net sellers",
+     null,
+     "순매도 주체"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title": "국민의힘, 조작기소 특검 추천 거부…\"불퇴전의 각오로 싸우겠다\"",
+   "en_title": "People Power Party refuses to recommend \"fabricated indictment\" special counsel",
+   "summary": [
+    "한성숙 국무총리는 17일 이재명 대통령의 해외 순방 중 국무회의에서 '조작기소 특검법' 공포안을 의결했다.",
+    "법이 공포되면 이재명 정부 들어 7번째 특검이 출범한다.",
+    "국민의힘 정점식 원내대표는 18일 의원총회에서 특검 후보 추천을 거부하겠다고 밝혔다."
+   ],
+   "en_summary": [
+    "Prime Minister Han Seong-sook approved the promulgation of the \"fabricated indictment\" special counsel bill at a Cabinet meeting on the 17th while President Lee Jae-myung was abroad.",
+    "Once the law is promulgated, the seventh special counsel under the Lee Jae-myung government will be launched.",
+    "People Power Party floor leader Jeong Jeom-sik said at a party caucus on the 18th that the party will refuse to recommend special counsel candidates."
+   ],
+   "media": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611181227532590",
+   "published_evidence": "URL 2026-11-18 12:27 KST",
+   "expressions": [
+    [
+     "special counsel",
+     null,
+     "특별검사"
+    ],
+    [
+     "promulgation",
+     null,
+     "(법령) 공포"
+    ],
+    [
+     "floor leader",
+     null,
+     "원내대표"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title": "당정 \"수능 부정행위자 제재·처벌 대폭 강화…입법·제도 개선 추진\"",
+   "en_title": "Ruling party and government vow much tougher penalties for CSAT cheaters",
+   "summary": [
+    "당정은 18일 국회에서 고위당정협의회를 열고 수능 부정행위 대책을 논의했다.",
+    "박성준 민주당 수석대변인은 부정행위자 제재와 처벌을 대폭 강화하기로 했다고 밝혔다.",
+    "이를 위해 입법과 제도 개선을 추진하기로 했다."
+   ],
+   "en_summary": [
+    "The ruling party and the government held a high-level consultation at the National Assembly on the 18th to discuss measures against CSAT cheating.",
+    "Democratic Party chief spokesperson Park Sung-joon said they agreed to sharply strengthen sanctions and punishment for cheaters.",
+    "To that end, they will push for legislation and institutional reforms."
+   ],
+   "media": "뉴시스",
+   "url": "https://newsis.com/view/NISX20261118_0003872874",
+   "published_evidence": "URL NISX20261118 + 검색 결과 18일 고위당정협의회",
+   "expressions": [
+    [
+     "high-level consultation",
+     null,
+     "고위급 협의"
+    ],
+    [
+     "chief spokesperson",
+     null,
+     "수석대변인"
+    ],
+    [
+     "push for",
+     null,
+     "추진하다"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title": "강남 유명 학원장, 초등생 숙박업소로 유인해 성폭행…긴급체포",
+   "en_title": "Well-known Gangnam academy owner arrested for luring and raping an elementary school student",
+   "summary": [
+    "서울 서초경찰서는 채팅 앱으로 알게 된 초등학생을 숙박업소로 불러 성폭행한 혐의로 30대 학원 원장 A씨를 긴급체포했다.",
+    "경찰은 A씨에 대해 구속영장을 신청했다.",
+    "A씨는 혐의를 부인하고 있는 것으로 전해졌다."
+   ],
+   "en_summary": [
+    "Seoul's Seocho Police Station made an emergency arrest of a cram school owner in their 30s, identified as A, for allegedly luring an elementary school student met on a chat app to a lodging facility and raping the child.",
+    "Police have requested an arrest warrant for A.",
+    "A is reportedly denying the charges."
+   ],
+   "media": "서울신문",
+   "url": "https://seoul.co.kr/news/society/accident/2026/11/18/20261118500317",
+   "published_evidence": "URL 2026-11-18 속보 (50xxxx 온라인 속보, 18일자)",
+   "expressions": [
+    [
+     "emergency arrest",
+     null,
+     "긴급체포"
+    ],
+    [
+     "arrest warrant",
+     null,
+     "구속영장"
+    ],
+    [
+     "denying the charges",
+     "deny the charges",
+     "혐의를 부인하다"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title": "하남 아파트 헌옷수거함서 신생아 시신 발견…경찰 수사",
+   "en_title": "Body of a newborn found in an apartment clothing bin in Hanam; police investigate",
+   "summary": [
+    "경기 하남시 미사지구의 한 아파트 헌옷수거함에서 신생아로 추정되는 시신이 발견됐다.",
+    "경찰은 타살이나 시신 유기 가능성을 열어 두고 CCTV를 분석하고 있다.",
+    "경찰은 시신 부검을 의뢰할 방침이다."
+   ],
+   "en_summary": [
+    "A body believed to be a newborn was found in a used-clothing collection bin at an apartment complex in Hanam's Misa district, Gyeonggi Province.",
+    "Police are analyzing CCTV footage, leaving open the possibility of homicide or abandonment of a body.",
+    "Police plan to request an autopsy."
+   ],
+   "media": "서울신문",
+   "url": "https://www.seoul.co.kr/news/society/2026/11/18/20261118500314",
+   "published_evidence": "URL 2026-11-18 (18일자 온라인 기사)",
+   "expressions": [
+    [
+     "collection bin",
+     null,
+     "수거함"
+    ],
+    [
+     "leaving open the possibility",
+     "leave open the possibility",
+     "가능성을 열어 두다"
+    ],
+    [
+     "request an autopsy",
+     null,
+     "부검을 의뢰하다"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title": "아파트 리모델링 동의율 75%→70% 완화…내년부터 시행",
+   "en_title": "Apartment remodeling consent threshold eased from 75% to 70%, effective next year",
+   "summary": [
+    "정부는 17일 국무회의에서 '주택법 시행령' 일부 개정령안을 의결했다.",
+    "내년부터 아파트 리모델링 사업에 필요한 주민 동의율이 75%에서 70%로 낮아진다.",
+    "수직증축 리모델링 안전성 검토기관에는 한국부동산원이 추가돼 3곳으로 늘어난다."
+   ],
+   "en_summary": [
+    "The government approved a partial amendment to the Enforcement Decree of the Housing Act at a Cabinet meeting on the 17th.",
+    "Starting next year, the residents' consent rate required for apartment remodeling projects will drop from 75% to 70%.",
+    "The Korea Real Estate Board will be added as a safety review agency for vertical-extension remodeling, bringing the total to three."
+   ],
+   "media": "아주경제",
+   "url": "https://www.ajunews.com/view/20261117082530921",
+   "published_evidence": "URL 2026-11-17 08:25 KST",
+   "expressions": [
+    [
+     "Enforcement Decree",
+     null,
+     "시행령"
+    ],
+    [
+     "consent rate",
+     null,
+     "동의율"
+    ],
+    [
+     "vertical-extension",
+     null,
+     "수직증축"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title": "오세훈 \"재초환은 제2 종부세…주택공급에 걸림돌\"",
+   "en_title": "Oh Se-hoon calls the reconstruction profit levy \"a second comprehensive real estate tax\"",
+   "summary": [
+    "오세훈 서울시장은 17일 서울시의회 시정질문에서 재건축초과이익환수제(재초환)에 대한 입장을 밝혔다.",
+    "오 시장은 재초환을 \"제2 종부세\"라고 표현하며 주택공급의 걸림돌이라고 주장했다.",
+    "그는 재초환에 대해 수년간 일관되게 전면 재검토가 필요하다는 입장을 지켜왔다고 말했다."
+   ],
+   "en_summary": [
+    "Seoul Mayor Oh Se-hoon laid out his position on the reconstruction excess profit recovery system at a Seoul Metropolitan Council question session on the 17th.",
+    "Oh called the system \"a second comprehensive real estate tax\" and argued it is an obstacle to housing supply.",
+    "He said he has consistently maintained for years that the system needs a full review."
+   ],
+   "media": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611171901339848",
+   "published_evidence": "URL 2026-11-17 19:01 KST",
+   "expressions": [
+    [
+     "laid out",
+     "lay out",
+     "밝히다·제시하다"
+    ],
+    [
+     "obstacle to",
+     null,
+     "~의 걸림돌"
+    ],
+    [
+     "full review",
+     null,
+     "전면 재검토"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "모빌리티",
+   "title": "전택노련 \"자율주행 상용화, 노동자 전환 기금 마련해달라\"",
+   "en_title": "Taxi workers' federation calls for a worker transition fund ahead of autonomous driving rollout",
+   "summary": [
+    "전국택시노동조합연맹(전택노련)은 자율주행 상용화에 대비한 노동자 직무 전환 기금 마련을 요구했다.",
+    "전택노련은 25일 국토교통부 주관 '자율주행 사회적 협의체'에서 이 문제를 논의할 계획이다.",
+    "올해 초 출범한 협의체는 지금까지 6차례 회의를 열었다."
+   ],
+   "en_summary": [
+    "The Korea National Taxi Workers' Union Federation called for a job transition fund for workers ahead of the commercialization of autonomous driving.",
+    "The federation plans to discuss the issue at the \"Autonomous Driving Social Council\" hosted by the Ministry of Land, Infrastructure and Transport on the 25th.",
+    "The council, launched early this year, has met six times so far."
+   ],
+   "media": "아주경제",
+   "url": "https://www.ajunews.com/view/20261116090436218",
+   "published_evidence": "URL 2026-11-16 09:04 KST (수집 시작 06:00 이후)",
+   "expressions": [
+    [
+     "called for",
+     "call for",
+     "요구하다"
+    ],
+    [
+     "job transition fund",
+     null,
+     "직무 전환 기금"
+    ],
+    [
+     "commercialization",
+     null,
+     "상용화"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "title": "엔비디아, 황 CEO 사임 후 첫 실적 예상치 상회…주가는 약 3% 하락",
+   "en_title": "Nvidia beats estimates in first report since Huang's exit, but shares fall about 3%",
+   "summary": [
+    "엔비디아는 17일 젠슨 황 CEO 사임 이후 첫 분기 실적에서 매출 1158억4000만달러를 기록해 예상치 1091억달러를 웃돌았다.",
+    "4분기 매출 가이던스도 1300억달러로 시장 예상치 1251억달러보다 높았다.",
+    "그러나 18일 주가는 약 3% 하락했고 코어위브·아이렌 등 네오클라우드 종목도 동반 하락했다."
+   ],
+   "en_summary": [
+    "On the 17th, Nvidia reported revenue of $115.84 billion in its first quarterly results since CEO Jensen Huang stepped down, topping estimates of $109.10 billion.",
+    "Its fourth-quarter revenue guidance of $130 billion also beat the consensus of $125.1 billion.",
+    "But shares sank about 3% on the 18th, dragging down neoclouds such as CoreWeave and Iren."
+   ],
+   "media": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+   "published_evidence": "URL 2026/11/18 (ET 11/18 = KST 11/18 14:00 이후, 실행 시점 이전 게시)",
+   "expressions": [
+    [
+     "topping estimates",
+     "top estimates",
+     "예상치를 웃돌다"
+    ],
+    [
+     "revenue guidance",
+     null,
+     "매출 가이던스(전망치)"
+    ],
+    [
+     "dragging down",
+     "drag down",
+     "끌어내리다"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "정치",
+   "title": "시진핑, 선전 공항서 트럼프 직접 영접…이례적 행보",
+   "en_title": "Xi personally greets Trump at Shenzhen airport in a rare move",
+   "summary": [
+    "트럼프 대통령이 APEC 정상회의 참석차 중국 선전에 도착하자 시진핑 국가주석이 공항에서 직접 맞이했다.",
+    "시 주석이 공항 영접에 나선 것은 이례적인 일이다.",
+    "앞서 도착한 푸틴 대통령은 시 주석의 비서실장 격인 차이치의 영접을 받았다."
+   ],
+   "en_summary": [
+    "When President Trump arrived in Shenzhen, China, for the APEC summit, President Xi Jinping greeted him in person at the airport.",
+    "It was a rare move for Xi to greet a visitor at the airport.",
+    "Putin, who arrived earlier, was met by Cai Qi, Xi's chief of staff."
+   ],
+   "media": "CNN",
+   "url": "https://www.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines",
+   "published_evidence": "URL 2026/11/17 (ET, KST 11/17 14:00 이후)",
+   "expressions": [
+    [
+     "in person",
+     null,
+     "직접"
+    ],
+    [
+     "rare move",
+     null,
+     "이례적 행보"
+    ],
+    [
+     "chief of staff",
+     null,
+     "비서실장"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "사회",
+   "title": "캘리포니아 살인 피해자 유족, 뉴섬 주지사 사형수 감형 저지 요청",
+   "en_title": "Families of California murder victims seek to block Newsom's death row commutations",
+   "summary": [
+    "캘리포니아 살인 피해자 유족과 검사들이 개빈 뉴섬 주지사의 사형수 500여 명 감형 계획을 막아 달라고 주 대법원에 요청했다.",
+    "형사사법법률재단(CJLF)은 소장에서 이를 뉴섬의 \"법 무시이자 권한 남용\"이라고 주장했다.",
+    "청원인들은 주지사가 결정 발표 전 피해자에게 법에 따른 통지를 하지 않았다고 주장한다."
+   ],
+   "en_summary": [
+    "Families of California murder victims and prosecutors asked the state Supreme Court to block Gov. Gavin Newsom's plan to commute more than 500 death sentences.",
+    "In its lawsuit, the Criminal Justice Legal Foundation called it Newsom's \"disregard of the law — his abuse of power.\"",
+    "The petitioners argue the governor failed to give victims legally required notice before announcing the decision."
+   ],
+   "media": "CNN",
+   "url": "https://cnn.com/2026/11/17/us/families-against-california-death-row-commutations",
+   "published_evidence": "URL 2026/11/17 (ET, KST 11/17 14:00 이후)",
+   "expressions": [
+    [
+     "commute",
+     null,
+     "감형하다"
+    ],
+    [
+     "abuse of power",
+     null,
+     "권한 남용"
+    ],
+    [
+     "legally required notice",
+     null,
+     "법적으로 요구되는 통지"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "부동산",
+   "title": "10월 잠정 주택 판매 사상 최저…건축 허가도 2020년 5월 이후 최저",
+   "en_title": "October pending home sales hit a record low; permits lowest since May 2020",
+   "summary": [
+    "전미부동산중개인협회(NAR)에 따르면 10월 잠정 주택 판매는 전월보다 4.7%, 전년 동월보다 16.7% 줄어 지수 25년 역사상 최저였다.",
+    "10월 단독주택 착공은 전월보다 4% 늘었지만 건축 허가는 8.7% 줄어 2020년 5월 이후 최저를 기록했다.",
+    "11월 주택건설업체 심리지수는 14년 만에 최저로 떨어졌다."
+   ],
+   "en_summary": [
+    "Pending home sales fell 4.7% in October from the prior month and 16.7% from a year earlier, the lowest in the index's 25-year history, according to the National Association of Realtors.",
+    "Single-family housing starts rose 4% in October from September, but building permits dropped 8.7% to their lowest level since May 2020.",
+    "Homebuilder sentiment fell to its lowest level in 14 years in November."
+   ],
+   "media": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html",
+   "published_evidence": "URL 2026/11/18 (ET, 실행 시점 이전 게시)",
+   "expressions": [
+    [
+     "pending home sales",
+     null,
+     "잠정 주택 판매"
+    ],
+    [
+     "housing starts",
+     null,
+     "주택 착공 건수"
+    ],
+    [
+     "building permits",
+     null,
+     "건축 허가"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "부동산",
+   "title": "모기지 금리 3주 만에 최고로 반등…주택 구매 수요 감소",
+   "en_title": "Mortgage demand turns lower as rates jump to a three-week high",
+   "summary": [
+    "모기지은행협회(MBA)에 따르면 11월 13일로 끝난 주의 30년 고정 모기지 계약 금리는 14bp 오른 7.35%였다.",
+    "주택 구매용 모기지 신청은 한 주 전보다 3% 줄었고 1년 전보다 18% 낮았다.",
+    "재융자 신청은 1년 전보다 54% 감소했다."
+   ],
+   "en_summary": [
+    "The average contract rate on 30-year fixed mortgages rose 14 basis points to 7.35% in the week ended Nov. 13, according to the Mortgage Bankers Association.",
+    "Applications for a mortgage to purchase a home fell 3% for the week and were 18% lower than a year ago.",
+    "Refinance applications were down 54% from a year earlier."
+   ],
+   "media": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/18/mortgage-demand-turns-lower-as-interest-rates-shoot-back-up-to-the-highest-level-in-three-weeks.html",
+   "published_evidence": "URL 2026/11/18 (ET, 실행 시점 이전 게시)",
+   "expressions": [
+    [
+     "contract rate",
+     null,
+     "계약 금리"
+    ],
+    [
+     "basis points",
+     null,
+     "bp(0.01%p)"
+    ],
+    [
+     "Refinance applications",
+     null,
+     "재융자 신청"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "모빌리티",
+   "title": "웨이모, 캘리포니아 DMV 명령에 전국 고속도로 운행 중단",
+   "en_title": "Waymo suspends freeway rides nationwide after California DMV order",
+   "summary": [
+    "캘리포니아 차량국(DMV)은 공사 구역 침범 사례를 이유로 웨이모 무인차의 주 고속도로 운행을 금지했다.",
+    "11일 발효돼 17일 공개된 이 명령에 따라 웨이모는 캘리포니아 밖을 포함한 모든 시장에서 고속도로 운행을 막았다.",
+    "DMV는 웨이모가 \"효과적인 시정 조치\"를 입증할 때까지 제한을 유지한다고 밝혔다."
+   ],
+   "en_summary": [
+    "The California DMV barred Waymo's driverless cars from state freeways after incidents of entering construction zones.",
+    "Under the order, which took effect on the 11th and was made public on the 17th, Waymo blocked freeway access in all its markets, including those outside California.",
+    "The DMV said the restrictions will remain until Waymo demonstrates \"effective corrective actions.\""
+   ],
+   "media": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+   "published_evidence": "URL 2026/11/17 (ET, KST 11/17 14:00 이후)",
+   "expressions": [
+    [
+     "took effect",
+     "take effect",
+     "발효되다"
+    ],
+    [
+     "made public",
+     "make public",
+     "공개하다"
+    ],
+    [
+     "corrective actions",
+     null,
+     "시정 조치"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "모빌리티",
+   "title": "우버 \"해킹으로 운전자 약 15만 명 운전면허 정보 유출\"",
+   "en_title": "Uber says hackers stole license data of nearly 150,000 drivers",
+   "summary": [
+    "우버는 기술 협력업체 한 곳에서 발생한 데이터 유출로 운전자 약 15만 명의 개인정보와 운전면허 정보가 도난당했다고 밝혔다.",
+    "유출 사고는 10월에 발생했다.",
+    "우버는 피해 운전자들에게 이 사실을 통보하고 있다."
+   ],
+   "en_summary": [
+    "Uber said personal and driver's license information of close to 150,000 drivers was stolen in a data breach at one of its tech providers.",
+    "The breach occurred in October.",
+    "Uber is notifying the affected drivers."
+   ],
+   "media": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach",
+   "published_evidence": "URL 2026/11/16 (ET, KST 11/16 14:00 이후)",
+   "expressions": [
+    [
+     "data breach",
+     null,
+     "데이터 유출"
+    ],
+    [
+     "tech providers",
+     null,
+     "기술 협력업체"
+    ],
+    [
+     "notifying",
+     "notify",
+     "통보하다"
+    ]
+   ]
+  }
+ ],
+ "channels": {
+  "news": {
+   "channel": "C0C6NRNGE81",
+   "parent": {
+    "text": "📰 **Daily News Brief** | 2026-11-19 (목)\n_수집 기간: 11/16 06:00 ~ 11/19 06:00 KST_\n\n**오늘의 핵심**\n• 코스피가 98.96p(1.99%) 오른 5067.44로 마감하며 하루 만에 5000선을 되찾았다\n• 웨이모가 캘리포니아 차량국의 고속도로 운행 금지 명령에 따라 미국 전역에서 고속도로 운행을 중단했다\n• 엔비디아가 젠슨 황 사임 후 첫 실적에서 매출 1158억4000만달러로 예상치를 웃돌았지만 주가는 약 3% 떨어졌다\n\n🧵 상세 뉴스는 스레드에서 분야별로 확인: 🇰🇷 한국·🇺🇸 미국 (경제 · 정치 · 사회 · 부동산 · 모빌리티)",
+    "ts": "1795036114.708879",
+    "verified": true
+   },
+   "replies": [
+    {
+     "id": "news-KR-경제-1/1",
+     "country": "KR",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 💰 경제**\n**1. 코스피 하루 만에 5000선 회복…5067.44 마감**\n• 18일 코스피는 전 거래일보다 98.96p(1.99%) 오른 5067.44로 마감했다.\n• 장중 5133.14까지 올랐다가 4943.17까지 밀린 뒤 반등했다.\n• 외국인은 3273억원을 순매도했고 기관은 5116억원을 순매수했다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611181541225731)",
+     "ts": "1795036119.008889",
+     "verified": true
+    },
+    {
+     "id": "news-KR-정치-1/1",
+     "country": "KR",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 🏛️ 정치**\n**1. 국민의힘, 조작기소 특검 추천 거부…\"불퇴전의 각오로 싸우겠다\"**\n• 한성숙 국무총리는 17일 이재명 대통령의 해외 순방 중 국무회의에서 '조작기소 특검법' 공포안을 의결했다.\n• 법이 공포되면 이재명 정부 들어 7번째 특검이 출범한다.\n• 국민의힘 정점식 원내대표는 18일 의원총회에서 특검 후보 추천을 거부하겠다고 밝혔다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611181227532590)\n\n**2. 당정 \"수능 부정행위자 제재·처벌 대폭 강화…입법·제도 개선 추진\"**\n• 당정은 18일 국회에서 고위당정협의회를 열고 수능 부정행위 대책을 논의했다.\n• 박성준 민주당 수석대변인은 부정행위자 제재와 처벌을 대폭 강화하기로 했다고 밝혔다.\n• 이를 위해 입법과 제도 개선을 추진하기로 했다.\n🔗 [뉴시스](https://newsis.com/view/NISX20261118_0003872874)",
+     "ts": "1795036122.959469",
+     "verified": true
+    },
+    {
+     "id": "news-KR-사회-1/1",
+     "country": "KR",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 👥 사회**\n**1. 강남 유명 학원장, 초등생 숙박업소로 유인해 성폭행…긴급체포**\n• 서울 서초경찰서는 채팅 앱으로 알게 된 초등학생을 숙박업소로 불러 성폭행한 혐의로 30대 학원 원장 A씨를 긴급체포했다.\n• 경찰은 A씨에 대해 구속영장을 신청했다.\n• A씨는 혐의를 부인하고 있는 것으로 전해졌다.\n🔗 [서울신문](https://seoul.co.kr/news/society/accident/2026/11/18/20261118500317)\n\n**2. 하남 아파트 헌옷수거함서 신생아 시신 발견…경찰 수사**\n• 경기 하남시 미사지구의 한 아파트 헌옷수거함에서 신생아로 추정되는 시신이 발견됐다.\n• 경찰은 타살이나 시신 유기 가능성을 열어 두고 CCTV를 분석하고 있다.\n• 경찰은 시신 부검을 의뢰할 방침이다.\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/18/20261118500314)",
+     "ts": "1795036126.273739",
+     "verified": true
+    },
+    {
+     "id": "news-KR-부동산-1/1",
+     "country": "KR",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 🏠 부동산**\n**1. 아파트 리모델링 동의율 75%→70% 완화…내년부터 시행**\n• 정부는 17일 국무회의에서 '주택법 시행령' 일부 개정령안을 의결했다.\n• 내년부터 아파트 리모델링 사업에 필요한 주민 동의율이 75%에서 70%로 낮아진다.\n• 수직증축 리모델링 안전성 검토기관에는 한국부동산원이 추가돼 3곳으로 늘어난다.\n🔗 [아주경제](https://www.ajunews.com/view/20261117082530921)\n\n**2. 오세훈 \"재초환은 제2 종부세…주택공급에 걸림돌\"**\n• 오세훈 서울시장은 17일 서울시의회 시정질문에서 재건축초과이익환수제(재초환)에 대한 입장을 밝혔다.\n• 오 시장은 재초환을 \"제2 종부세\"라고 표현하며 주택공급의 걸림돌이라고 주장했다.\n• 그는 재초환에 대해 수년간 일관되게 전면 재검토가 필요하다는 입장을 지켜왔다고 말했다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611171901339848)",
+     "ts": "1795036129.989839",
+     "verified": true
+    },
+    {
+     "id": "news-KR-모빌리티-1/1",
+     "country": "KR",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 🚗 모빌리티**\n**1. 전택노련 \"자율주행 상용화, 노동자 전환 기금 마련해달라\"**\n• 전국택시노동조합연맹(전택노련)은 자율주행 상용화에 대비한 노동자 직무 전환 기금 마련을 요구했다.\n• 전택노련은 25일 국토교통부 주관 '자율주행 사회적 협의체'에서 이 문제를 논의할 계획이다.\n• 올해 초 출범한 협의체는 지금까지 6차례 회의를 열었다.\n🔗 [아주경제](https://www.ajunews.com/view/20261116090436218)",
+     "ts": "1795036132.145879",
+     "verified": true
+    },
+    {
+     "id": "news-US-경제-1/1",
+     "country": "US",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 💰 경제**\n**1. 엔비디아, 황 CEO 사임 후 첫 실적 예상치 상회…주가는 약 3% 하락**\n• 엔비디아는 17일 젠슨 황 CEO 사임 이후 첫 분기 실적에서 매출 1158억4000만달러를 기록해 예상치 1091억달러를 웃돌았다.\n• 4분기 매출 가이던스도 1300억달러로 시장 예상치 1251억달러보다 높았다.\n• 그러나 18일 주가는 약 3% 하락했고 코어위브·아이렌 등 네오클라우드 종목도 동반 하락했다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html)",
+     "ts": "1795036136.955259",
+     "verified": true
+    },
+    {
+     "id": "news-US-정치-1/1",
+     "country": "US",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 🏛️ 정치**\n**1. 시진핑, 선전 공항서 트럼프 직접 영접…이례적 행보**\n• 트럼프 대통령이 APEC 정상회의 참석차 중국 선전에 도착하자 시진핑 국가주석이 공항에서 직접 맞이했다.\n• 시 주석이 공항 영접에 나선 것은 이례적인 일이다.\n• 앞서 도착한 푸틴 대통령은 시 주석의 비서실장 격인 차이치의 영접을 받았다.\n🔗 [CNN](https://www.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines)",
+     "ts": "1795036139.338859",
+     "verified": true
+    },
+    {
+     "id": "news-US-사회-1/1",
+     "country": "US",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 👥 사회**\n**1. 캘리포니아 살인 피해자 유족, 뉴섬 주지사 사형수 감형 저지 요청**\n• 캘리포니아 살인 피해자 유족과 검사들이 개빈 뉴섬 주지사의 사형수 500여 명 감형 계획을 막아 달라고 주 대법원에 요청했다.\n• 형사사법법률재단(CJLF)은 소장에서 이를 뉴섬의 \"법 무시이자 권한 남용\"이라고 주장했다.\n• 청원인들은 주지사가 결정 발표 전 피해자에게 법에 따른 통지를 하지 않았다고 주장한다.\n🔗 [CNN](https://cnn.com/2026/11/17/us/families-against-california-death-row-commutations)",
+     "ts": "1795036141.903629",
+     "verified": true
+    },
+    {
+     "id": "news-US-부동산-1/1",
+     "country": "US",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 🏠 부동산**\n**1. 10월 잠정 주택 판매 사상 최저…건축 허가도 2020년 5월 이후 최저**\n• 전미부동산중개인협회(NAR)에 따르면 10월 잠정 주택 판매는 전월보다 4.7%, 전년 동월보다 16.7% 줄어 지수 25년 역사상 최저였다.\n• 10월 단독주택 착공은 전월보다 4% 늘었지만 건축 허가는 8.7% 줄어 2020년 5월 이후 최저를 기록했다.\n• 11월 주택건설업체 심리지수는 14년 만에 최저로 떨어졌다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html)\n\n**2. 모기지 금리 3주 만에 최고로 반등…주택 구매 수요 감소**\n• 모기지은행협회(MBA)에 따르면 11월 13일로 끝난 주의 30년 고정 모기지 계약 금리는 14bp 오른 7.35%였다.\n• 주택 구매용 모기지 신청은 한 주 전보다 3% 줄었고 1년 전보다 18% 낮았다.\n• 재융자 신청은 1년 전보다 54% 감소했다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/18/mortgage-demand-turns-lower-as-interest-rates-shoot-back-up-to-the-highest-level-in-three-weeks.html)",
+     "ts": "1795036146.214039",
+     "verified": true
+    },
+    {
+     "id": "news-US-모빌리티-1/1",
+     "country": "US",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 🚗 모빌리티**\n**1. 웨이모, 캘리포니아 DMV 명령에 전국 고속도로 운행 중단**\n• 캘리포니아 차량국(DMV)은 공사 구역 침범 사례를 이유로 웨이모 무인차의 주 고속도로 운행을 금지했다.\n• 11일 발효돼 17일 공개된 이 명령에 따라 웨이모는 캘리포니아 밖을 포함한 모든 시장에서 고속도로 운행을 막았다.\n• DMV는 웨이모가 \"효과적인 시정 조치\"를 입증할 때까지 제한을 유지한다고 밝혔다.\n🔗 [TechCrunch](https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/)\n\n**2. 우버 \"해킹으로 운전자 약 15만 명 운전면허 정보 유출\"**\n• 우버는 기술 협력업체 한 곳에서 발생한 데이터 유출로 운전자 약 15만 명의 개인정보와 운전면허 정보가 도난당했다고 밝혔다.\n• 유출 사고는 10월에 발생했다.\n• 우버는 피해 운전자들에게 이 사실을 통보하고 있다.\n🔗 [TechCrunch](https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach)",
+     "ts": "1795036150.199109",
+     "verified": true
+    }
+   ]
+  },
+  "english": {
+   "channel": "C0C6KR1MEEP",
+   "parent": {
+    "text": "📚 **Daily English Brief** | 2026-11-19 (목)\n_수집 기간: 11/16 06:00 ~ 11/19 06:00 KST_\n\n**Today's Headlines / 오늘의 핵심**\n• The KOSPI rose 98.96 points (1.99%) to close at 5,067.44, regaining the 5,000 mark in just one day\n  _코스피가 98.96p(1.99%) 오른 5067.44로 마감하며 하루 만에 5000선을 되찾았다_\n• Waymo halted freeway rides across the U.S. after a California DMV order banned its driverless cars from state freeways\n  _웨이모가 캘리포니아 차량국의 고속도로 운행 금지 명령에 따라 미국 전역에서 고속도로 운행을 중단했다_\n• Nvidia posted revenue of $115.84 billion in its first results since Jensen Huang's resignation, beating estimates, but its shares fell about 3%\n  _엔비디아가 젠슨 황 사임 후 첫 실적에서 매출 1158억4000만달러로 예상치를 웃돌았지만 주가는 약 3% 떨어졌다_\n\n🧵 Category threads / 스레드에서 분야별 확인: 🇰🇷 Korea·🇺🇸 US (Economy · Politics · Society · Real Estate · Mobility)",
+    "ts": "1795036165.203399",
+    "verified": true
+   },
+   "replies": [
+    {
+     "id": "english-KR-경제-1/1",
+     "country": "KR",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 💰 Economy / 한국 · 경제**\n**1. KOSPI reclaims 5,000 in one day, closing at 5,067.44**\n_코스피 하루 만에 5000선 회복…5067.44 마감_\n• On the 18th, the KOSPI closed at 5,067.44, up 98.96 points (1.99%) from the previous session.\n  _18일 코스피는 전 거래일보다 98.96p(1.99%) 오른 5067.44로 마감했다._\n• It climbed as high as 5,133.14 intraday, then slid to 4,943.17 before rebounding.\n  _장중 5133.14까지 올랐다가 4943.17까지 밀린 뒤 반등했다._\n• Foreigners were net sellers of 327.3 billion won, while institutions net bought 511.6 billion won.\n  _외국인은 3273억원을 순매도했고 기관은 5116억원을 순매수했다._\n📝 `reclaims` (reclaim) 되찾다 · `previous session` 전 거래일 · `net sellers` 순매도 주체\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611181541225731)",
+     "ts": "1795036173.946949",
+     "verified": true
+    },
+    {
+     "id": "english-KR-정치-1/1",
+     "country": "KR",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 🏛️ Politics / 한국 · 정치**\n**1. People Power Party refuses to recommend \"fabricated indictment\" special counsel**\n_국민의힘, 조작기소 특검 추천 거부…\"불퇴전의 각오로 싸우겠다\"_\n• Prime Minister Han Seong-sook approved the promulgation of the \"fabricated indictment\" special counsel bill at a Cabinet meeting on the 17th while President Lee Jae-myung was abroad.\n  _한성숙 국무총리는 17일 이재명 대통령의 해외 순방 중 국무회의에서 '조작기소 특검법' 공포안을 의결했다._\n• Once the law is promulgated, the seventh special counsel under the Lee Jae-myung government will be launched.\n  _법이 공포되면 이재명 정부 들어 7번째 특검이 출범한다._\n• People Power Party floor leader Jeong Jeom-sik said at a party caucus on the 18th that the party will refuse to recommend special counsel candidates.\n  _국민의힘 정점식 원내대표는 18일 의원총회에서 특검 후보 추천을 거부하겠다고 밝혔다._\n📝 `special counsel` 특별검사 · `promulgation` (법령) 공포 · `floor leader` 원내대표\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611181227532590)\n\n**2. Ruling party and government vow much tougher penalties for CSAT cheaters**\n_당정 \"수능 부정행위자 제재·처벌 대폭 강화…입법·제도 개선 추진\"_\n• The ruling party and the government held a high-level consultation at the National Assembly on the 18th to discuss measures against CSAT cheating.\n  _당정은 18일 국회에서 고위당정협의회를 열고 수능 부정행위 대책을 논의했다._\n• Democratic Party chief spokesperson Park Sung-joon said they agreed to sharply strengthen sanctions and punishment for cheaters.\n  _박성준 민주당 수석대변인은 부정행위자 제재와 처벌을 대폭 강화하기로 했다고 밝혔다._\n• To that end, they will push for legislation and institutional reforms.\n  _이를 위해 입법과 제도 개선을 추진하기로 했다._\n📝 `high-level consultation` 고위급 협의 · `chief spokesperson` 수석대변인 · `push for` 추진하다\n🔗 [뉴시스](https://newsis.com/view/NISX20261118_0003872874)",
+     "ts": "1795036180.229749",
+     "verified": true
+    },
+    {
+     "id": "english-KR-사회-1/1",
+     "country": "KR",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 👥 Society / 한국 · 사회**\n**1. Well-known Gangnam academy owner arrested for luring and raping an elementary school student**\n_강남 유명 학원장, 초등생 숙박업소로 유인해 성폭행…긴급체포_\n• Seoul's Seocho Police Station made an emergency arrest of a cram school owner in their 30s, identified as A, for allegedly luring an elementary school student met on a chat app to a lodging facility and raping the child.\n  _서울 서초경찰서는 채팅 앱으로 알게 된 초등학생을 숙박업소로 불러 성폭행한 혐의로 30대 학원 원장 A씨를 긴급체포했다._\n• Police have requested an arrest warrant for A.\n  _경찰은 A씨에 대해 구속영장을 신청했다._\n• A is reportedly denying the charges.\n  _A씨는 혐의를 부인하고 있는 것으로 전해졌다._\n📝 `emergency arrest` 긴급체포 · `arrest warrant` 구속영장 · `denying the charges` (deny the charges) 혐의를 부인하다\n🔗 [서울신문](https://seoul.co.kr/news/society/accident/2026/11/18/20261118500317)\n\n**2. Body of a newborn found in an apartment clothing bin in Hanam; police investigate**\n_하남 아파트 헌옷수거함서 신생아 시신 발견…경찰 수사_\n• A body believed to be a newborn was found in a used-clothing collection bin at an apartment complex in Hanam's Misa district, Gyeonggi Province.\n  _경기 하남시 미사지구의 한 아파트 헌옷수거함에서 신생아로 추정되는 시신이 발견됐다._\n• Police are analyzing CCTV footage, leaving open the possibility of homicide or abandonment of a body.\n  _경찰은 타살이나 시신 유기 가능성을 열어 두고 CCTV를 분석하고 있다._\n• Police plan to request an autopsy.\n  _경찰은 시신 부검을 의뢰할 방침이다._\n📝 `collection bin` 수거함 · `leaving open the possibility` (leave open the possibility) 가능성을 열어 두다 · `request an autopsy` 부검을 의뢰하다\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/18/20261118500314)",
+     "ts": "1795036186.264869",
+     "verified": true
+    },
+    {
+     "id": "english-KR-부동산-1/1",
+     "country": "KR",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 🏠 Real Estate / 한국 · 부동산**\n**1. Apartment remodeling consent threshold eased from 75% to 70%, effective next year**\n_아파트 리모델링 동의율 75%→70% 완화…내년부터 시행_\n• The government approved a partial amendment to the Enforcement Decree of the Housing Act at a Cabinet meeting on the 17th.\n  _정부는 17일 국무회의에서 '주택법 시행령' 일부 개정령안을 의결했다._\n• Starting next year, the residents' consent rate required for apartment remodeling projects will drop from 75% to 70%.\n  _내년부터 아파트 리모델링 사업에 필요한 주민 동의율이 75%에서 70%로 낮아진다._\n• The Korea Real Estate Board will be added as a safety review agency for vertical-extension remodeling, bringing the total to three.\n  _수직증축 리모델링 안전성 검토기관에는 한국부동산원이 추가돼 3곳으로 늘어난다._\n📝 `Enforcement Decree` 시행령 · `consent rate` 동의율 · `vertical-extension` 수직증축\n🔗 [아주경제](https://www.ajunews.com/view/20261117082530921)\n\n**2. Oh Se-hoon calls the reconstruction profit levy \"a second comprehensive real estate tax\"**\n_오세훈 \"재초환은 제2 종부세…주택공급에 걸림돌\"_\n• Seoul Mayor Oh Se-hoon laid out his position on the reconstruction excess profit recovery system at a Seoul Metropolitan Council question session on the 17th.\n  _오세훈 서울시장은 17일 서울시의회 시정질문에서 재건축초과이익환수제(재초환)에 대한 입장을 밝혔다._\n• Oh called the system \"a second comprehensive real estate tax\" and argued it is an obstacle to housing supply.\n  _오 시장은 재초환을 \"제2 종부세\"라고 표현하며 주택공급의 걸림돌이라고 주장했다._\n• He said he has consistently maintained for years that the system needs a full review.\n  _그는 재초환에 대해 수년간 일관되게 전면 재검토가 필요하다는 입장을 지켜왔다고 말했다._\n📝 `laid out` (lay out) 밝히다·제시하다 · `obstacle to` ~의 걸림돌 · `full review` 전면 재검토\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611171901339848)",
+     "ts": "1795036192.610059",
+     "verified": true
+    },
+    {
+     "id": "english-KR-모빌리티-1/1",
+     "country": "KR",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 🚗 Mobility / 한국 · 모빌리티**\n**1. Taxi workers' federation calls for a worker transition fund ahead of autonomous driving rollout**\n_전택노련 \"자율주행 상용화, 노동자 전환 기금 마련해달라\"_\n• The Korea National Taxi Workers' Union Federation called for a job transition fund for workers ahead of the commercialization of autonomous driving.\n  _전국택시노동조합연맹(전택노련)은 자율주행 상용화에 대비한 노동자 직무 전환 기금 마련을 요구했다._\n• The federation plans to discuss the issue at the \"Autonomous Driving Social Council\" hosted by the Ministry of Land, Infrastructure and Transport on the 25th.\n  _전택노련은 25일 국토교통부 주관 '자율주행 사회적 협의체'에서 이 문제를 논의할 계획이다._\n• The council, launched early this year, has met six times so far.\n  _올해 초 출범한 협의체는 지금까지 6차례 회의를 열었다._\n📝 `called for` (call for) 요구하다 · `job transition fund` 직무 전환 기금 · `commercialization` 상용화\n🔗 [아주경제](https://www.ajunews.com/view/20261116090436218)",
+     "ts": "1795036195.998929",
+     "verified": true
+    },
+    {
+     "id": "english-US-경제-1/1",
+     "country": "US",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 💰 Economy / 미국 · 경제**\n**1. Nvidia beats estimates in first report since Huang's exit, but shares fall about 3%**\n_엔비디아, 황 CEO 사임 후 첫 실적 예상치 상회…주가는 약 3% 하락_\n• On the 17th, Nvidia reported revenue of $115.84 billion in its first quarterly results since CEO Jensen Huang stepped down, topping estimates of $109.10 billion.\n  _엔비디아는 17일 젠슨 황 CEO 사임 이후 첫 분기 실적에서 매출 1158억4000만달러를 기록해 예상치 1091억달러를 웃돌았다._\n• Its fourth-quarter revenue guidance of $130 billion also beat the consensus of $125.1 billion.\n  _4분기 매출 가이던스도 1300억달러로 시장 예상치 1251억달러보다 높았다._\n• But shares sank about 3% on the 18th, dragging down neoclouds such as CoreWeave and Iren.\n  _그러나 18일 주가는 약 3% 하락했고 코어위브·아이렌 등 네오클라우드 종목도 동반 하락했다._\n📝 `topping estimates` (top estimates) 예상치를 웃돌다 · `revenue guidance` 매출 가이던스(전망치) · `dragging down` (drag down) 끌어내리다\n🔗 [CNBC](https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html)",
+     "ts": "1795036203.719819",
+     "verified": true
+    },
+    {
+     "id": "english-US-정치-1/1",
+     "country": "US",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 🏛️ Politics / 미국 · 정치**\n**1. Xi personally greets Trump at Shenzhen airport in a rare move**\n_시진핑, 선전 공항서 트럼프 직접 영접…이례적 행보_\n• When President Trump arrived in Shenzhen, China, for the APEC summit, President Xi Jinping greeted him in person at the airport.\n  _트럼프 대통령이 APEC 정상회의 참석차 중국 선전에 도착하자 시진핑 국가주석이 공항에서 직접 맞이했다._\n• It was a rare move for Xi to greet a visitor at the airport.\n  _시 주석이 공항 영접에 나선 것은 이례적인 일이다._\n• Putin, who arrived earlier, was met by Cai Qi, Xi's chief of staff.\n  _앞서 도착한 푸틴 대통령은 시 주석의 비서실장 격인 차이치의 영접을 받았다._\n📝 `in person` 직접 · `rare move` 이례적 행보 · `chief of staff` 비서실장\n🔗 [CNN](https://www.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines)",
+     "ts": "1795036207.136929",
+     "verified": true
+    },
+    {
+     "id": "english-US-사회-1/1",
+     "country": "US",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 👥 Society / 미국 · 사회**\n**1. Families of California murder victims seek to block Newsom's death row commutations**\n_캘리포니아 살인 피해자 유족, 뉴섬 주지사 사형수 감형 저지 요청_\n• Families of California murder victims and prosecutors asked the state Supreme Court to block Gov. Gavin Newsom's plan to commute more than 500 death sentences.\n  _캘리포니아 살인 피해자 유족과 검사들이 개빈 뉴섬 주지사의 사형수 500여 명 감형 계획을 막아 달라고 주 대법원에 요청했다._\n• In its lawsuit, the Criminal Justice Legal Foundation called it Newsom's \"disregard of the law — his abuse of power.\"\n  _형사사법법률재단(CJLF)은 소장에서 이를 뉴섬의 \"법 무시이자 권한 남용\"이라고 주장했다._\n• The petitioners argue the governor failed to give victims legally required notice before announcing the decision.\n  _청원인들은 주지사가 결정 발표 전 피해자에게 법에 따른 통지를 하지 않았다고 주장한다._\n📝 `commute` 감형하다 · `abuse of power` 권한 남용 · `legally required notice` 법적으로 요구되는 통지\n🔗 [CNN](https://cnn.com/2026/11/17/us/families-against-california-death-row-commutations)",
+     "ts": "1795036211.236809",
+     "verified": true
+    },
+    {
+     "id": "english-US-부동산-1/1",
+     "country": "US",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 🏠 Real Estate / 미국 · 부동산**\n**1. October pending home sales hit a record low; permits lowest since May 2020**\n_10월 잠정 주택 판매 사상 최저…건축 허가도 2020년 5월 이후 최저_\n• Pending home sales fell 4.7% in October from the prior month and 16.7% from a year earlier, the lowest in the index's 25-year history, according to the National Association of Realtors.\n  _전미부동산중개인협회(NAR)에 따르면 10월 잠정 주택 판매는 전월보다 4.7%, 전년 동월보다 16.7% 줄어 지수 25년 역사상 최저였다._\n• Single-family housing starts rose 4% in October from September, but building permits dropped 8.7% to their lowest level since May 2020.\n  _10월 단독주택 착공은 전월보다 4% 늘었지만 건축 허가는 8.7% 줄어 2020년 5월 이후 최저를 기록했다._\n• Homebuilder sentiment fell to its lowest level in 14 years in November.\n  _11월 주택건설업체 심리지수는 14년 만에 최저로 떨어졌다._\n📝 `pending home sales` 잠정 주택 판매 · `housing starts` 주택 착공 건수 · `building permits` 건축 허가\n🔗 [CNBC](https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html)\n\n**2. Mortgage demand turns lower as rates jump to a three-week high**\n_모기지 금리 3주 만에 최고로 반등…주택 구매 수요 감소_\n• The average contract rate on 30-year fixed mortgages rose 14 basis points to 7.35% in the week ended Nov. 13, according to the Mortgage Bankers Association.\n  _모기지은행협회(MBA)에 따르면 11월 13일로 끝난 주의 30년 고정 모기지 계약 금리는 14bp 오른 7.35%였다._\n• Applications for a mortgage to purchase a home fell 3% for the week and were 18% lower than a year ago.\n  _주택 구매용 모기지 신청은 한 주 전보다 3% 줄었고 1년 전보다 18% 낮았다._\n• Refinance applications were down 54% from a year earlier.\n  _재융자 신청은 1년 전보다 54% 감소했다._\n📝 `contract rate` 계약 금리 · `basis points` bp(0.01%p) · `Refinance applications` 재융자 신청\n🔗 [CNBC](https://www.cnbc.com/2026/11/18/mortgage-demand-turns-lower-as-interest-rates-shoot-back-up-to-the-highest-level-in-three-weeks.html)",
+     "ts": "1795036217.786189",
+     "verified": true
+    },
+    {
+     "id": "english-US-모빌리티-1/1",
+     "country": "US",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 🚗 Mobility / 미국 · 모빌리티**\n**1. Waymo suspends freeway rides nationwide after California DMV order**\n_웨이모, 캘리포니아 DMV 명령에 전국 고속도로 운행 중단_\n• The California DMV barred Waymo's driverless cars from state freeways after incidents of entering construction zones.\n  _캘리포니아 차량국(DMV)은 공사 구역 침범 사례를 이유로 웨이모 무인차의 주 고속도로 운행을 금지했다._\n• Under the order, which took effect on the 11th and was made public on the 17th, Waymo blocked freeway access in all its markets, including those outside California.\n  _11일 발효돼 17일 공개된 이 명령에 따라 웨이모는 캘리포니아 밖을 포함한 모든 시장에서 고속도로 운행을 막았다._\n• The DMV said the restrictions will remain until Waymo demonstrates \"effective corrective actions.\"\n  _DMV는 웨이모가 \"효과적인 시정 조치\"를 입증할 때까지 제한을 유지한다고 밝혔다._\n📝 `took effect` (take effect) 발효되다 · `made public` (make public) 공개하다 · `corrective actions` 시정 조치\n🔗 [TechCrunch](https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/)\n\n**2. Uber says hackers stole license data of nearly 150,000 drivers**\n_우버 \"해킹으로 운전자 약 15만 명 운전면허 정보 유출\"_\n• Uber said personal and driver's license information of close to 150,000 drivers was stolen in a data breach at one of its tech providers.\n  _우버는 기술 협력업체 한 곳에서 발생한 데이터 유출로 운전자 약 15만 명의 개인정보와 운전면허 정보가 도난당했다고 밝혔다._\n• The breach occurred in October.\n  _유출 사고는 10월에 발생했다._\n• Uber is notifying the affected drivers.\n  _우버는 피해 운전자들에게 이 사실을 통보하고 있다._\n📝 `data breach` 데이터 유출 · `tech providers` 기술 협력업체 · `notifying` (notify) 통보하다\n🔗 [TechCrunch](https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach)",
+     "ts": "1795036224.050419",
+     "verified": true
+    }
+   ]
+  }
+ },
+ "verification": {
+  "all_passed": true,
+  "errors": []
+ }
+}
