@@ -1,0 +1,721 @@
+{
+ "date": "2026-11-20",
+ "period": "11/17 06:00 ~ 11/20 06:00 KST",
+ "articles": [
+  {
+   "country": "KR",
+   "category": "경제",
+   "title_ko": "코스피, 기관 매수에 1.39% 오른 5137.89 마감…코스닥 3% 넘게 급등",
+   "title_en": "KOSPI rises 1.39% to 5,137.89 on institutional buying as KOSDAQ jumps over 3%",
+   "summary_ko": [
+    "19일 코스피는 전 거래일보다 70.45p(1.39%) 오른 5137.89로 마감했다.",
+    "장중 4963.61까지 밀렸다가 오후 들어 상승폭을 키웠다.",
+    "외국인과 개인이 순매도했지만 기관이 731억원을 순매수했다."
+   ],
+   "summary_en": [
+    "The KOSPI closed up 70.45 points (1.39%) at 5,137.89 on the 19th.",
+    "It slid as low as 4,963.61 intraday before extending gains in the afternoon.",
+    "Foreigners and retail investors were net sellers, but institutions bought a net 73.1 billion won."
+   ],
+   "source": "아주경제",
+   "url": "https://www.ajunews.com/view/20261119171646085",
+   "date_evidence": "URL 20261119, 검색결과 19일 마감시황",
+   "expressions": [
+    [
+     "extending gains",
+     "extend gains",
+     "상승폭을 키우다"
+    ],
+    [
+     "net sellers",
+     null,
+     "순매도자"
+    ],
+    [
+     "slid as low as",
+     "slide as low as",
+     "~까지 밀리다"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "경제",
+   "title_ko": "한은 \"원화 강세 상당 기간 지속 가능성…환율 10% 하락 시 생활비 연 16.5만원 절감\"",
+   "title_en": "BOK: Won strength likely to last; a 10% drop in the exchange rate would save households 165,000 won a year",
+   "summary_ko": [
+    "한국은행은 19일 보고서에서 원화 강세가 상당 기간 이어질 가능성이 크다고 밝혔다.",
+    "반도체 수출 호조와 경상수지 개선을 배경으로 꼽았다.",
+    "환율이 10% 내리면 가계 생활비가 연 16만5000원 줄어드는 것으로 추산했다."
+   ],
+   "summary_en": [
+    "The Bank of Korea said in a report on the 19th that the won's strength is likely to persist for a considerable period.",
+    "It cited robust chip exports and an improving current account.",
+    "It estimated that a 10% fall in the exchange rate would cut household living costs by 165,000 won a year."
+   ],
+   "source": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2650237",
+   "date_evidence": "검색결과: 한은 보고서 19일 발표",
+   "expressions": [
+    [
+     "current account",
+     null,
+     "경상수지"
+    ],
+    [
+     "persist for a considerable period",
+     null,
+     "상당 기간 지속되다"
+    ],
+    [
+     "living costs",
+     null,
+     "생활비"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title_ko": "대법원, 한덕수 파기환송…민주당 \"조희대 대법원장 탄핵 추진\"",
+   "title_en": "Supreme Court sends Han Duck-soo case back; Democrats move to impeach Chief Justice Jo Hee-de",
+   "summary_ko": [
+    "대법원 전원합의체는 19일 한덕수 전 총리에게 징역 15년을 선고한 원심을 파기하고 사건을 서울고법으로 돌려보냈다.",
+    "대법원은 내란중요임무종사 혐의 3건 가운데 1건을 무죄로 봤다.",
+    "민주당은 의원총회에서 조희대 대법원장 탄핵 추진을 결정하고 절차와 내용을 지도부에 위임했다."
+   ],
+   "summary_en": [
+    "The Supreme Court's full bench on the 19th overturned the 15-year prison sentence for former Prime Minister Han Duck-soo and sent the case back to the Seoul High Court.",
+    "The court found him not guilty on one of three counts of engaging in critical duties of an insurrection.",
+    "The Democratic Party decided at a caucus meeting to pursue the impeachment of Chief Justice Jo Hee-de and left the procedure and details to its leadership."
+   ],
+   "source": "한국일보",
+   "url": "https://www.hankookilbo.com/news/article/A2026111919470002396",
+   "date_evidence": "URL A20261119, 검색결과 19일 선고",
+   "expressions": [
+    [
+     "overturned",
+     "overturn",
+     "파기하다"
+    ],
+    [
+     "sent the case back",
+     "send a case back",
+     "사건을 돌려보내다(환송)"
+    ],
+    [
+     "caucus meeting",
+     null,
+     "의원총회"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title_ko": "민주유공자법 본회의 상정…국민의힘 필리버스터, '주택 3법'은 보류",
+   "title_en": "Democratic Merit Act goes to plenary vote as PPP files filibuster; three housing bills shelved",
+   "summary_ko": [
+    "민주당 주도로 민주유공자법이 19일 국회 본회의에 상정됐다.",
+    "국민의힘은 '운동권 특혜법'이라며 필리버스터에 돌입했다.",
+    "함께 상정하려던 '주택 3법'은 조정식 국회의장이 여야 합의를 주문하면서 보류됐다."
+   ],
+   "summary_en": [
+    "The Democratic Merit Act was put to the National Assembly's plenary session on the 19th, led by the Democratic Party.",
+    "The People Power Party launched a filibuster, calling it a law that gives special favors to former activists.",
+    "The three housing bills meant to go up with it were shelved after Speaker Cho Jeong-sik called for a bipartisan agreement."
+   ],
+   "source": "한국일보",
+   "url": "https://www.hankookilbo.com/news/article/A2026111914060002587",
+   "date_evidence": "URL A20261119, 검색결과 19일 본회의",
+   "expressions": [
+    [
+     "launched a filibuster",
+     "launch a filibuster",
+     "필리버스터에 돌입하다"
+    ],
+    [
+     "plenary session",
+     null,
+     "본회의"
+    ],
+    [
+     "bipartisan agreement",
+     null,
+     "여야 합의"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title_ko": "2027학년도 수능 시행…\"N수생 최다, 문항별 난이도 촘촘히 구성\"",
+   "title_en": "2027 college entrance exam held as record number of repeat test-takers sit for it",
+   "summary_ko": [
+    "2027학년도 대학수학능력시험이 19일 전국 시험장에서 치러졌다.",
+    "오기영 출제위원장은 정답률이 여러 구간에 촘촘히 분포하도록 문항별 난이도를 구성했다고 밝혔다.",
+    "졸업생 응시자는 19만6473명으로 23년 만에 최대 규모다."
+   ],
+   "summary_en": [
+    "The 2027 College Scholastic Ability Test was held at test sites nationwide on the 19th.",
+    "Oh Ki-young, the chief examiner, said the difficulty of each question was set so that correct-answer rates were tightly spread across ranges.",
+    "Test-takers who already graduated numbered 196,473, the most in 23 years."
+   ],
+   "source": "한국일보",
+   "url": "https://www.hankookilbo.com/news/article/A2026111908590002561",
+   "date_evidence": "URL A20261119, 수능 시행일 19일",
+   "expressions": [
+    [
+     "test sites",
+     null,
+     "시험장"
+    ],
+    [
+     "chief examiner",
+     null,
+     "출제위원장"
+    ],
+    [
+     "correct-answer rates",
+     null,
+     "정답률"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title_ko": "'AI 커닝 의혹' 리트 만점자, 공개검증 무산 뒤 심정지 상태로 발견",
+   "title_en": "LEET top scorer accused of AI cheating found in cardiac arrest after skipping public test",
+   "summary_ko": [
+    "리트 만점자 이진우씨가 19일 수능 국어 공개검증 생중계에 나타나지 않아 실종신고가 접수됐다.",
+    "경찰은 같은 날 오후 서울 강동구의 한 모텔에서 심정지 상태의 이씨를 발견했다.",
+    "이씨는 리트와 수능에서 AI 부정행위를 했다는 의혹으로 고발돼 경찰 수사를 받고 있었다."
+   ],
+   "summary_en": [
+    "A missing-person report was filed on the 19th after LEET top scorer Lee Jin-woo failed to show up for a live public test on the CSAT Korean section.",
+    "Police found Lee in cardiac arrest at a motel in Seoul's Gangdong District that afternoon.",
+    "Lee had been under police investigation after complaints accused him of cheating with AI on the LEET and the CSAT."
+   ],
+   "source": "한국일보",
+   "url": "https://www.hankookilbo.com/news/article/A2026111913250005820",
+   "date_evidence": "URL A20261119, 검색결과 19일 오후 발견",
+   "expressions": [
+    [
+     "missing-person report",
+     null,
+     "실종신고"
+    ],
+    [
+     "failed to show up",
+     "fail to show up",
+     "나타나지 않다"
+    ],
+    [
+     "under police investigation",
+     null,
+     "경찰 수사를 받는"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title_ko": "서울 아파트값 93주 연속 상승…상승폭은 91주 만에 최저",
+   "title_en": "Seoul apartment prices rise for 93rd straight week, but at the slowest pace in 91 weeks",
+   "summary_ko": [
+    "한국부동산원에 따르면 11월 셋째 주(16일 기준) 서울 아파트값은 0.03% 올라 93주 연속 상승했다.",
+    "상승폭은 91주 만에 최저였고 강남 3구는 11주 연속 하락했으며 용산·동작구도 하락 전환했다.",
+    "서울 아파트 전셋값은 0.14% 올랐다."
+   ],
+   "summary_en": [
+    "According to the Korea Real Estate Board, Seoul apartment prices rose 0.03% in the third week of November (as of the 16th), marking 93 straight weeks of gains.",
+    "The increase was the smallest in 91 weeks, the three Gangnam districts fell for an 11th week, and Yongsan and Dongjak turned lower.",
+    "Seoul apartment jeonse prices rose 0.14%."
+   ],
+   "source": "머니투데이",
+   "url": "https://www.mt.co.kr/estate/2026/11/19/2026111910082935165",
+   "date_evidence": "URL 2026/11/19",
+   "expressions": [
+    [
+     "straight weeks of gains",
+     null,
+     "연속 상승 주수"
+    ],
+    [
+     "turned lower",
+     "turn lower",
+     "하락 전환하다"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "모빌리티",
+   "title_ko": "현대차·포티투닷, 애플·엔비디아 출신 임원 3명 영입…자율주행 개발 강화",
+   "title_en": "Hyundai and 42dot hire three ex-Apple and Nvidia executives to boost self-driving development",
+   "summary_ko": [
+    "현대차그룹과 포티투닷이 폴 허버트·최원건·크리스천 김 상무를 영입했다.",
+    "이들은 애플과 엔비디아에서 자율주행 알고리즘 검증, 인지 모델 개발, 프로젝트 관리 등을 맡았다.",
+    "세 사람은 포티투닷 실리콘밸리 조직과 현대차그룹 미국기술연구소(HATCI)의 자율주행 핵심 업무를 겸직한다."
+   ],
+   "summary_en": [
+    "Hyundai Motor Group and 42dot brought on Paul Hubert, Choi Won-geon and Christian Kim as executive directors.",
+    "They handled autonomous driving algorithm validation, perception model development and project management at Apple and Nvidia.",
+    "The three will hold concurrent roles in key self-driving work at 42dot's Silicon Valley team and Hyundai America Technical Center (HATCI)."
+   ],
+   "source": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2650469",
+   "date_evidence": "기사번호 2650469(19일 마감시황 2650532와 인접), 검색결과 11월 19일 기준",
+   "expressions": [
+    [
+     "brought on",
+     "bring on",
+     "영입하다"
+    ],
+    [
+     "perception model",
+     null,
+     "인지 모델"
+    ],
+    [
+     "concurrent roles",
+     null,
+     "겸직"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "title_ko": "앤트로픽, 사상 최대 IPO 후 나스닥 상장 첫날 97.17달러 마감",
+   "title_en": "Anthropic closes first day at $97.17 after record IPO",
+   "summary_ko": [
+    "클로드 개발사 앤트로픽은 IPO로 813억 달러를 조달해 사상 최대 규모를 기록했다.",
+    "19일 나스닥에서 'ANT' 종목으로 공모가 83달러보다 높은 111.50달러에 거래를 시작했다.",
+    "종가는 97.17달러로 공모가보다 약 17% 높았다."
+   ],
+   "summary_en": [
+    "Claude maker Anthropic raised $81.3 billion in its IPO, the largest offering on record.",
+    "It began trading on the Nasdaq under the ticker \"ANT\" on the 19th at $111.50, above its $83 IPO price.",
+    "It closed at $97.17, about 17% above the IPO price."
+   ],
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+   "date_evidence": "URL 2026/11/19, 상장일 19일(ET)",
+   "expressions": [
+    [
+     "largest offering on record",
+     null,
+     "사상 최대 공모"
+    ],
+    [
+     "under the ticker",
+     null,
+     "~라는 종목 코드로"
+    ],
+    [
+     "IPO price",
+     null,
+     "공모가"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "정치",
+   "title_ko": "트럼프·시진핑·푸틴, 선전서 첫 3자 회담…성과는 미미",
+   "title_en": "Trump, Xi and Putin hold rare three-way meeting in China but appear to achieve little",
+   "summary_ko": [
+    "트럼프 대통령과 시진핑 국가주석, 푸틴 대통령이 19일 중국 선전 APEC 정상회의를 계기로 처음 3자 회담을 가졌다.",
+    "공동성명은 \"핵전쟁에는 승자가 있을 수 없다\"는 점을 재확인했다.",
+    "CBS는 회담이 세계가 직면한 위기에 대해 별다른 성과를 내지 못한 것으로 보인다고 전했다."
+   ],
+   "summary_en": [
+    "President Trump, President Xi Jinping and President Putin held their first three-way meeting on the 19th on the sidelines of the APEC summit in Shenzhen, China.",
+    "A joint statement reaffirmed that \"there can be no winners in a nuclear war.\"",
+    "CBS reported that the meeting appeared to achieve little on the crises facing the world."
+   ],
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
+   "date_evidence": "검색결과: 회담 11월 19일(목) 개최",
+   "expressions": [
+    [
+     "on the sidelines of",
+     null,
+     "~을 계기로, ~ 부대행사로"
+    ],
+    [
+     "joint statement",
+     null,
+     "공동성명"
+    ],
+    [
+     "achieve little",
+     null,
+     "성과가 거의 없다"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "정치",
+   "title_ko": "하원 민주당, 제프리스 하원의장 후보 지명…클라크는 첫 여성 다수당 원내대표",
+   "title_en": "House Democrats nominate Jeffries for speaker as Clark becomes first woman majority leader",
+   "summary_ko": [
+    "하원 민주당은 18일 비공개 회의에서 하킴 제프리스를 251대 11로 하원의장 후보로 지명했다.",
+    "캐서린 클라크는 반대 없이 다수당 원내대표로 선출돼 의회 최초의 여성 다수당 원내대표가 된다.",
+    "하원의장은 새 의회가 시작되는 1월에 하원 전체 표결로 선출된다."
+   ],
+   "summary_en": [
+    "House Democrats nominated Hakeem Jeffries for speaker 251-11 in a closed-door meeting on the 18th.",
+    "Katherine Clark was chosen as majority leader without opposition, making her the first woman to serve in the role in Congress.",
+    "The full House will elect the speaker when the new Congress begins in January."
+   ],
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/house-democrats-hakeem-jeffries-speaker-nomination-progressives/",
+   "date_evidence": "검색결과: 11월 18일(수) 비공개 회의",
+   "expressions": [
+    [
+     "closed-door meeting",
+     null,
+     "비공개 회의"
+    ],
+    [
+     "without opposition",
+     null,
+     "반대 없이"
+    ],
+    [
+     "full House",
+     null,
+     "하원 전체"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "사회",
+   "title_ko": "플로리다 남부 기록적 폭우로 침수…추수감사절 이동 차질 우려",
+   "title_en": "Intense flooding slams South Florida as storm threatens Thanksgiving travel",
+   "summary_ko": [
+    "플로리다 남부에 기록적인 폭우가 내려 브로워드·마이애미데이드 카운티 곳곳이 침수됐다.",
+    "일부 지역에는 24시간 동안 12인치 가까운 비가 내렸다.",
+    "폭우를 몰고 온 기상 시스템이 동부 해안으로 이동하면서 이른 추수감사절 이동에 차질을 줄 수 있다."
+   ],
+   "summary_en": [
+    "Record rainfall swamped parts of Broward and Miami-Dade counties in South Florida.",
+    "Some areas received nearly 12 inches of rain in 24 hours.",
+    "The developing storm behind the rain could snarl early Thanksgiving travel as it moves up the East Coast."
+   ],
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/11/18/weather/florida-flooding-rain-storm-thanksgiving-travel-climate",
+   "date_evidence": "URL 2026/11/18",
+   "expressions": [
+    [
+     "swamped",
+     "swamp",
+     "침수시키다"
+    ],
+    [
+     "snarl",
+     null,
+     "(교통 등을) 혼란에 빠뜨리다"
+    ],
+    [
+     "moves up the East Coast",
+     "move up",
+     "동부 해안을 따라 북상하다"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "부동산",
+   "title_ko": "미 30년 모기지 금리 5주 만에 상승…7.28%",
+   "title_en": "US mortgage rates rise for the first time in five weeks to 7.28%",
+   "summary_ko": [
+    "프레디맥에 따르면 30년 고정 모기지 평균 금리는 이번 주 7.28%로 전주 7.11%에서 올라 5주 만에 상승했다.",
+    "주간 상승폭은 10월 1일 주 이후 가장 컸다.",
+    "예상보다 높은 물가 지표로 연준의 12월 금리 인상 가능성이 커지며 10년물 국채 금리가 오른 영향이다."
+   ],
+   "summary_en": [
+    "The average 30-year fixed mortgage rate rose to 7.28% this week from 7.11% the week before, its first increase in five weeks, according to Freddie Mac.",
+    "It was the largest one-week jump since the week of October 1.",
+    "The rise followed higher 10-year Treasury yields after a hotter-than-expected inflation report raised the odds of a Fed rate hike in December."
+   ],
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/11/19/economy/us-mortgage-rates-rise",
+   "date_evidence": "URL 2026/11/19",
+   "expressions": [
+    [
+     "30-year fixed mortgage rate",
+     null,
+     "30년 고정 모기지 금리"
+    ],
+    [
+     "hotter-than-expected",
+     null,
+     "예상보다 높은"
+    ],
+    [
+     "raised the odds",
+     "raise the odds",
+     "가능성을 높이다"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "모빌리티",
+   "title_ko": "우버·집라인, 텍사스서 드론 배달 상용 서비스 시작",
+   "title_en": "Uber and Zipline's drone delivery service takes off in Texas",
+   "summary_ko": [
+    "우버이츠가 17일 텍사스 휴스턴 교외 스프링에서 집라인 드론 배달 서비스를 시작했다.",
+    "이는 올해 초 발표된 양사 협력의 첫 상업 서비스로, 이후 댈러스로 확대된다.",
+    "양사는 2029년 말까지 하루 100만 건 드론 배달을 목표로 미국 수십 개 도시로 서비스를 넓힐 계획이다."
+   ],
+   "summary_en": [
+    "Uber Eats launched Zipline drone delivery in Spring, a Houston suburb in Texas, on the 17th.",
+    "It is the first commercial launch under the partnership announced earlier this year and will expand to Dallas.",
+    "The companies plan to expand to dozens of U.S. cities, aiming for one million drone deliveries a day by the end of 2029."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/",
+   "date_evidence": "URL 2026/11/17(ET, 수집 시작 11/16 16:00 ET 이후)",
+   "expressions": [
+    [
+     "drone delivery",
+     null,
+     "드론 배달"
+    ],
+    [
+     "commercial launch",
+     null,
+     "상업 서비스 개시"
+    ],
+    [
+     "dozens of",
+     null,
+     "수십 개의"
+    ]
+   ]
+  }
+ ],
+ "headlines": [
+  {
+   "ko": "앤트로픽이 사상 최대 IPO 후 나스닥 상장 첫날 공모가보다 약 17% 높은 97.17달러에 마감했다",
+   "en": "Anthropic closed its first trading day at $97.17, about 17% above its IPO price, after a record IPO"
+  },
+  {
+   "ko": "대법원이 한덕수 전 총리 원심을 파기환송하자 민주당이 조희대 대법원장 탄핵 추진을 결정했다",
+   "en": "After the Supreme Court sent former Prime Minister Han Duck-soo's case back, the Democratic Party decided to pursue impeaching Chief Justice Jo Hee-de"
+  },
+  {
+   "ko": "코스피가 기관 매수에 70.45p(1.39%) 오른 5137.89로 마감했다",
+   "en": "The KOSPI closed up 70.45 points (1.39%) at 5,137.89 on institutional buying"
+  }
+ ],
+ "channels": {
+  "news": {
+   "channel": "C0C6NRNGE81",
+   "parent": {
+    "text": "📰 **Daily News Brief** | 2026-11-20 (금)\n_수집 기간: 11/17 06:00 ~ 11/20 06:00 KST_\n\n**오늘의 핵심**\n• 앤트로픽이 사상 최대 IPO 후 나스닥 상장 첫날 공모가보다 약 17% 높은 97.17달러에 마감했다\n• 대법원이 한덕수 전 총리 원심을 파기환송하자 민주당이 조희대 대법원장 탄핵 추진을 결정했다\n• 코스피가 기관 매수에 70.45p(1.39%) 오른 5137.89로 마감했다\n\n🧵 상세 뉴스는 스레드에서 분야별로 확인: 🇰🇷 한국·🇺🇸 미국 (경제 · 정치 · 사회 · 부동산 · 모빌리티)",
+    "verified": true,
+    "ts": "1795122519.150219"
+   },
+   "replies": [
+    {
+     "id": "news-KR-경제-1/1",
+     "country": "KR",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 💰 경제**\n**1. 코스피, 기관 매수에 1.39% 오른 5137.89 마감…코스닥 3% 넘게 급등**\n• 19일 코스피는 전 거래일보다 70.45p(1.39%) 오른 5137.89로 마감했다.\n• 장중 4963.61까지 밀렸다가 오후 들어 상승폭을 키웠다.\n• 외국인과 개인이 순매도했지만 기관이 731억원을 순매수했다.\n🔗 [아주경제](https://www.ajunews.com/view/20261119171646085)\n\n**2. 한은 \"원화 강세 상당 기간 지속 가능성…환율 10% 하락 시 생활비 연 16.5만원 절감\"**\n• 한국은행은 19일 보고서에서 원화 강세가 상당 기간 이어질 가능성이 크다고 밝혔다.\n• 반도체 수출 호조와 경상수지 개선을 배경으로 꼽았다.\n• 환율이 10% 내리면 가계 생활비가 연 16만5000원 줄어드는 것으로 추산했다.\n🔗 [이투데이](https://www.etoday.co.kr/news/view/2650237)",
+     "verified": true,
+     "ts": "1795122530.943199"
+    },
+    {
+     "id": "news-KR-정치-1/1",
+     "country": "KR",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 🏛️ 정치**\n**1. 대법원, 한덕수 파기환송…민주당 \"조희대 대법원장 탄핵 추진\"**\n• 대법원 전원합의체는 19일 한덕수 전 총리에게 징역 15년을 선고한 원심을 파기하고 사건을 서울고법으로 돌려보냈다.\n• 대법원은 내란중요임무종사 혐의 3건 가운데 1건을 무죄로 봤다.\n• 민주당은 의원총회에서 조희대 대법원장 탄핵 추진을 결정하고 절차와 내용을 지도부에 위임했다.\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111919470002396)\n\n**2. 민주유공자법 본회의 상정…국민의힘 필리버스터, '주택 3법'은 보류**\n• 민주당 주도로 민주유공자법이 19일 국회 본회의에 상정됐다.\n• 국민의힘은 '운동권 특혜법'이라며 필리버스터에 돌입했다.\n• 함께 상정하려던 '주택 3법'은 조정식 국회의장이 여야 합의를 주문하면서 보류됐다.\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111914060002587)",
+     "verified": true,
+     "ts": "1795122537.002119"
+    },
+    {
+     "id": "news-KR-사회-1/1",
+     "country": "KR",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 👥 사회**\n**1. 2027학년도 수능 시행…\"N수생 최다, 문항별 난이도 촘촘히 구성\"**\n• 2027학년도 대학수학능력시험이 19일 전국 시험장에서 치러졌다.\n• 오기영 출제위원장은 정답률이 여러 구간에 촘촘히 분포하도록 문항별 난이도를 구성했다고 밝혔다.\n• 졸업생 응시자는 19만6473명으로 23년 만에 최대 규모다.\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111908590002561)\n\n**2. 'AI 커닝 의혹' 리트 만점자, 공개검증 무산 뒤 심정지 상태로 발견**\n• 리트 만점자 이진우씨가 19일 수능 국어 공개검증 생중계에 나타나지 않아 실종신고가 접수됐다.\n• 경찰은 같은 날 오후 서울 강동구의 한 모텔에서 심정지 상태의 이씨를 발견했다.\n• 이씨는 리트와 수능에서 AI 부정행위를 했다는 의혹으로 고발돼 경찰 수사를 받고 있었다.\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111913250005820)",
+     "verified": true,
+     "ts": "1795122540.594399"
+    },
+    {
+     "id": "news-KR-부동산-1/1",
+     "country": "KR",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 🏠 부동산**\n**1. 서울 아파트값 93주 연속 상승…상승폭은 91주 만에 최저**\n• 한국부동산원에 따르면 11월 셋째 주(16일 기준) 서울 아파트값은 0.03% 올라 93주 연속 상승했다.\n• 상승폭은 91주 만에 최저였고 강남 3구는 11주 연속 하락했으며 용산·동작구도 하락 전환했다.\n• 서울 아파트 전셋값은 0.14% 올랐다.\n🔗 [머니투데이](https://www.mt.co.kr/estate/2026/11/19/2026111910082935165)",
+     "verified": true,
+     "ts": "1795122552.667939"
+    },
+    {
+     "id": "news-KR-모빌리티-1/1",
+     "country": "KR",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 🚗 모빌리티**\n**1. 현대차·포티투닷, 애플·엔비디아 출신 임원 3명 영입…자율주행 개발 강화**\n• 현대차그룹과 포티투닷이 폴 허버트·최원건·크리스천 김 상무를 영입했다.\n• 이들은 애플과 엔비디아에서 자율주행 알고리즘 검증, 인지 모델 개발, 프로젝트 관리 등을 맡았다.\n• 세 사람은 포티투닷 실리콘밸리 조직과 현대차그룹 미국기술연구소(HATCI)의 자율주행 핵심 업무를 겸직한다.\n🔗 [이투데이](https://www.etoday.co.kr/news/view/2650469)",
+     "verified": true,
+     "ts": "1795122554.153629"
+    },
+    {
+     "id": "news-US-경제-1/1",
+     "country": "US",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 💰 경제**\n**1. 앤트로픽, 사상 최대 IPO 후 나스닥 상장 첫날 97.17달러 마감**\n• 클로드 개발사 앤트로픽은 IPO로 813억 달러를 조달해 사상 최대 규모를 기록했다.\n• 19일 나스닥에서 'ANT' 종목으로 공모가 83달러보다 높은 111.50달러에 거래를 시작했다.\n• 종가는 97.17달러로 공모가보다 약 17% 높았다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html)",
+     "verified": true,
+     "ts": "1795122558.615729"
+    },
+    {
+     "id": "news-US-정치-1/1",
+     "country": "US",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 🏛️ 정치**\n**1. 트럼프·시진핑·푸틴, 선전서 첫 3자 회담…성과는 미미**\n• 트럼프 대통령과 시진핑 국가주석, 푸틴 대통령이 19일 중국 선전 APEC 정상회의를 계기로 처음 3자 회담을 가졌다.\n• 공동성명은 \"핵전쟁에는 승자가 있을 수 없다\"는 점을 재확인했다.\n• CBS는 회담이 세계가 직면한 위기에 대해 별다른 성과를 내지 못한 것으로 보인다고 전했다.\n🔗 [CBS News](https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/)\n\n**2. 하원 민주당, 제프리스 하원의장 후보 지명…클라크는 첫 여성 다수당 원내대표**\n• 하원 민주당은 18일 비공개 회의에서 하킴 제프리스를 251대 11로 하원의장 후보로 지명했다.\n• 캐서린 클라크는 반대 없이 다수당 원내대표로 선출돼 의회 최초의 여성 다수당 원내대표가 된다.\n• 하원의장은 새 의회가 시작되는 1월에 하원 전체 표결로 선출된다.\n🔗 [CBS News](https://www.cbsnews.com/news/house-democrats-hakeem-jeffries-speaker-nomination-progressives/)",
+     "verified": true,
+     "ts": "1795122562.729389"
+    },
+    {
+     "id": "news-US-사회-1/1",
+     "country": "US",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 👥 사회**\n**1. 플로리다 남부 기록적 폭우로 침수…추수감사절 이동 차질 우려**\n• 플로리다 남부에 기록적인 폭우가 내려 브로워드·마이애미데이드 카운티 곳곳이 침수됐다.\n• 일부 지역에는 24시간 동안 12인치 가까운 비가 내렸다.\n• 폭우를 몰고 온 기상 시스템이 동부 해안으로 이동하면서 이른 추수감사절 이동에 차질을 줄 수 있다.\n🔗 [CNN](https://www.cnn.com/2026/11/18/weather/florida-flooding-rain-storm-thanksgiving-travel-climate)",
+     "verified": true,
+     "ts": "1795122565.223669"
+    },
+    {
+     "id": "news-US-부동산-1/1",
+     "country": "US",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 🏠 부동산**\n**1. 미 30년 모기지 금리 5주 만에 상승…7.28%**\n• 프레디맥에 따르면 30년 고정 모기지 평균 금리는 이번 주 7.28%로 전주 7.11%에서 올라 5주 만에 상승했다.\n• 주간 상승폭은 10월 1일 주 이후 가장 컸다.\n• 예상보다 높은 물가 지표로 연준의 12월 금리 인상 가능성이 커지며 10년물 국채 금리가 오른 영향이다.\n🔗 [CNN](https://www.cnn.com/2026/11/19/economy/us-mortgage-rates-rise)",
+     "verified": true,
+     "ts": "1795122567.607939"
+    },
+    {
+     "id": "news-US-모빌리티-1/1",
+     "country": "US",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 🚗 모빌리티**\n**1. 우버·집라인, 텍사스서 드론 배달 상용 서비스 시작**\n• 우버이츠가 17일 텍사스 휴스턴 교외 스프링에서 집라인 드론 배달 서비스를 시작했다.\n• 이는 올해 초 발표된 양사 협력의 첫 상업 서비스로, 이후 댈러스로 확대된다.\n• 양사는 2029년 말까지 하루 100만 건 드론 배달을 목표로 미국 수십 개 도시로 서비스를 넓힐 계획이다.\n🔗 [TechCrunch](https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/)",
+     "verified": true,
+     "ts": "1795122570.235089"
+    }
+   ]
+  },
+  "english": {
+   "channel": "C0C6KR1MEEP",
+   "parent": {
+    "text": "📚 **Daily English Brief** | 2026-11-20 (금)\n_수집 기간: 11/17 06:00 ~ 11/20 06:00 KST_\n\n**Today's Headlines / 오늘의 핵심**\n• Anthropic closed its first trading day at $97.17, about 17% above its IPO price, after a record IPO\n  _앤트로픽이 사상 최대 IPO 후 나스닥 상장 첫날 공모가보다 약 17% 높은 97.17달러에 마감했다_\n• After the Supreme Court sent former Prime Minister Han Duck-soo's case back, the Democratic Party decided to pursue impeaching Chief Justice Jo Hee-de\n  _대법원이 한덕수 전 총리 원심을 파기환송하자 민주당이 조희대 대법원장 탄핵 추진을 결정했다_\n• The KOSPI closed up 70.45 points (1.39%) at 5,137.89 on institutional buying\n  _코스피가 기관 매수에 70.45p(1.39%) 오른 5137.89로 마감했다_\n\n🧵 Category threads / 스레드에서 분야별 확인: 🇰🇷 Korea·🇺🇸 US (Economy · Politics · Society · Real Estate · Mobility)",
+    "verified": true,
+    "ts": "1795122581.908349"
+   },
+   "replies": [
+    {
+     "id": "english-KR-경제-1/1",
+     "country": "KR",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 💰 Economy / 한국 · 경제**\n**1. KOSPI rises 1.39% to 5,137.89 on institutional buying as KOSDAQ jumps over 3%**\n_코스피, 기관 매수에 1.39% 오른 5137.89 마감…코스닥 3% 넘게 급등_\n• The KOSPI closed up 70.45 points (1.39%) at 5,137.89 on the 19th.\n  _19일 코스피는 전 거래일보다 70.45p(1.39%) 오른 5137.89로 마감했다._\n• It slid as low as 4,963.61 intraday before extending gains in the afternoon.\n  _장중 4963.61까지 밀렸다가 오후 들어 상승폭을 키웠다._\n• Foreigners and retail investors were net sellers, but institutions bought a net 73.1 billion won.\n  _외국인과 개인이 순매도했지만 기관이 731억원을 순매수했다._\n📝 `extending gains` (extend gains) 상승폭을 키우다 · `net sellers` 순매도자 · `slid as low as` (slide as low as) ~까지 밀리다\n🔗 [아주경제](https://www.ajunews.com/view/20261119171646085)\n\n**2. BOK: Won strength likely to last; a 10% drop in the exchange rate would save households 165,000 won a year**\n_한은 \"원화 강세 상당 기간 지속 가능성…환율 10% 하락 시 생활비 연 16.5만원 절감\"_\n• The Bank of Korea said in a report on the 19th that the won's strength is likely to persist for a considerable period.\n  _한국은행은 19일 보고서에서 원화 강세가 상당 기간 이어질 가능성이 크다고 밝혔다._\n• It cited robust chip exports and an improving current account.\n  _반도체 수출 호조와 경상수지 개선을 배경으로 꼽았다._\n• It estimated that a 10% fall in the exchange rate would cut household living costs by 165,000 won a year.\n  _환율이 10% 내리면 가계 생활비가 연 16만5000원 줄어드는 것으로 추산했다._\n📝 `current account` 경상수지 · `persist for a considerable period` 상당 기간 지속되다 · `living costs` 생활비\n🔗 [이투데이](https://www.etoday.co.kr/news/view/2650237)",
+     "verified": true,
+     "ts": "1795122590.159419"
+    },
+    {
+     "id": "english-KR-정치-1/1",
+     "country": "KR",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 🏛️ Politics / 한국 · 정치**\n**1. Supreme Court sends Han Duck-soo case back; Democrats move to impeach Chief Justice Jo Hee-de**\n_대법원, 한덕수 파기환송…민주당 \"조희대 대법원장 탄핵 추진\"_\n• The Supreme Court's full bench on the 19th overturned the 15-year prison sentence for former Prime Minister Han Duck-soo and sent the case back to the Seoul High Court.\n  _대법원 전원합의체는 19일 한덕수 전 총리에게 징역 15년을 선고한 원심을 파기하고 사건을 서울고법으로 돌려보냈다._\n• The court found him not guilty on one of three counts of engaging in critical duties of an insurrection.\n  _대법원은 내란중요임무종사 혐의 3건 가운데 1건을 무죄로 봤다._\n• The Democratic Party decided at a caucus meeting to pursue the impeachment of Chief Justice Jo Hee-de and left the procedure and details to its leadership.\n  _민주당은 의원총회에서 조희대 대법원장 탄핵 추진을 결정하고 절차와 내용을 지도부에 위임했다._\n📝 `overturned` (overturn) 파기하다 · `sent the case back` (send a case back) 사건을 돌려보내다(환송) · `caucus meeting` 의원총회\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111919470002396)\n\n**2. Democratic Merit Act goes to plenary vote as PPP files filibuster; three housing bills shelved**\n_민주유공자법 본회의 상정…국민의힘 필리버스터, '주택 3법'은 보류_\n• The Democratic Merit Act was put to the National Assembly's plenary session on the 19th, led by the Democratic Party.\n  _민주당 주도로 민주유공자법이 19일 국회 본회의에 상정됐다._\n• The People Power Party launched a filibuster, calling it a law that gives special favors to former activists.\n  _국민의힘은 '운동권 특혜법'이라며 필리버스터에 돌입했다._\n• The three housing bills meant to go up with it were shelved after Speaker Cho Jeong-sik called for a bipartisan agreement.\n  _함께 상정하려던 '주택 3법'은 조정식 국회의장이 여야 합의를 주문하면서 보류됐다._\n📝 `launched a filibuster` (launch a filibuster) 필리버스터에 돌입하다 · `plenary session` 본회의 · `bipartisan agreement` 여야 합의\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111914060002587)",
+     "verified": true,
+     "ts": "1795122596.869169"
+    },
+    {
+     "id": "english-KR-사회-1/1",
+     "country": "KR",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 👥 Society / 한국 · 사회**\n**1. 2027 college entrance exam held as record number of repeat test-takers sit for it**\n_2027학년도 수능 시행…\"N수생 최다, 문항별 난이도 촘촘히 구성\"_\n• The 2027 College Scholastic Ability Test was held at test sites nationwide on the 19th.\n  _2027학년도 대학수학능력시험이 19일 전국 시험장에서 치러졌다._\n• Oh Ki-young, the chief examiner, said the difficulty of each question was set so that correct-answer rates were tightly spread across ranges.\n  _오기영 출제위원장은 정답률이 여러 구간에 촘촘히 분포하도록 문항별 난이도를 구성했다고 밝혔다._\n• Test-takers who already graduated numbered 196,473, the most in 23 years.\n  _졸업생 응시자는 19만6473명으로 23년 만에 최대 규모다._\n📝 `test sites` 시험장 · `chief examiner` 출제위원장 · `correct-answer rates` 정답률\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111908590002561)\n\n**2. LEET top scorer accused of AI cheating found in cardiac arrest after skipping public test**\n_'AI 커닝 의혹' 리트 만점자, 공개검증 무산 뒤 심정지 상태로 발견_\n• A missing-person report was filed on the 19th after LEET top scorer Lee Jin-woo failed to show up for a live public test on the CSAT Korean section.\n  _리트 만점자 이진우씨가 19일 수능 국어 공개검증 생중계에 나타나지 않아 실종신고가 접수됐다._\n• Police found Lee in cardiac arrest at a motel in Seoul's Gangdong District that afternoon.\n  _경찰은 같은 날 오후 서울 강동구의 한 모텔에서 심정지 상태의 이씨를 발견했다._\n• Lee had been under police investigation after complaints accused him of cheating with AI on the LEET and the CSAT.\n  _이씨는 리트와 수능에서 AI 부정행위를 했다는 의혹으로 고발돼 경찰 수사를 받고 있었다._\n📝 `missing-person report` 실종신고 · `failed to show up` (fail to show up) 나타나지 않다 · `under police investigation` 경찰 수사를 받는\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026111913250005820)",
+     "verified": true,
+     "ts": "1795122603.231289"
+    },
+    {
+     "id": "english-KR-부동산-1/1",
+     "country": "KR",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 🏠 Real Estate / 한국 · 부동산**\n**1. Seoul apartment prices rise for 93rd straight week, but at the slowest pace in 91 weeks**\n_서울 아파트값 93주 연속 상승…상승폭은 91주 만에 최저_\n• According to the Korea Real Estate Board, Seoul apartment prices rose 0.03% in the third week of November (as of the 16th), marking 93 straight weeks of gains.\n  _한국부동산원에 따르면 11월 셋째 주(16일 기준) 서울 아파트값은 0.03% 올라 93주 연속 상승했다._\n• The increase was the smallest in 91 weeks, the three Gangnam districts fell for an 11th week, and Yongsan and Dongjak turned lower.\n  _상승폭은 91주 만에 최저였고 강남 3구는 11주 연속 하락했으며 용산·동작구도 하락 전환했다._\n• Seoul apartment jeonse prices rose 0.14%.\n  _서울 아파트 전셋값은 0.14% 올랐다._\n📝 `straight weeks of gains` 연속 상승 주수 · `turned lower` (turn lower) 하락 전환하다\n🔗 [머니투데이](https://www.mt.co.kr/estate/2026/11/19/2026111910082935165)",
+     "verified": true,
+     "ts": "1795122607.027399"
+    },
+    {
+     "id": "english-KR-모빌리티-1/1",
+     "country": "KR",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 🚗 Mobility / 한국 · 모빌리티**\n**1. Hyundai and 42dot hire three ex-Apple and Nvidia executives to boost self-driving development**\n_현대차·포티투닷, 애플·엔비디아 출신 임원 3명 영입…자율주행 개발 강화_\n• Hyundai Motor Group and 42dot brought on Paul Hubert, Choi Won-geon and Christian Kim as executive directors.\n  _현대차그룹과 포티투닷이 폴 허버트·최원건·크리스천 김 상무를 영입했다._\n• They handled autonomous driving algorithm validation, perception model development and project management at Apple and Nvidia.\n  _이들은 애플과 엔비디아에서 자율주행 알고리즘 검증, 인지 모델 개발, 프로젝트 관리 등을 맡았다._\n• The three will hold concurrent roles in key self-driving work at 42dot's Silicon Valley team and Hyundai America Technical Center (HATCI).\n  _세 사람은 포티투닷 실리콘밸리 조직과 현대차그룹 미국기술연구소(HATCI)의 자율주행 핵심 업무를 겸직한다._\n📝 `brought on` (bring on) 영입하다 · `perception model` 인지 모델 · `concurrent roles` 겸직\n🔗 [이투데이](https://www.etoday.co.kr/news/view/2650469)",
+     "verified": true,
+     "ts": "1795122611.022529"
+    },
+    {
+     "id": "english-US-경제-1/1",
+     "country": "US",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 💰 Economy / 미국 · 경제**\n**1. Anthropic closes first day at $97.17 after record IPO**\n_앤트로픽, 사상 최대 IPO 후 나스닥 상장 첫날 97.17달러 마감_\n• Claude maker Anthropic raised $81.3 billion in its IPO, the largest offering on record.\n  _클로드 개발사 앤트로픽은 IPO로 813억 달러를 조달해 사상 최대 규모를 기록했다._\n• It began trading on the Nasdaq under the ticker \"ANT\" on the 19th at $111.50, above its $83 IPO price.\n  _19일 나스닥에서 'ANT' 종목으로 공모가 83달러보다 높은 111.50달러에 거래를 시작했다._\n• It closed at $97.17, about 17% above the IPO price.\n  _종가는 97.17달러로 공모가보다 약 17% 높았다._\n📝 `largest offering on record` 사상 최대 공모 · `under the ticker` ~라는 종목 코드로 · `IPO price` 공모가\n🔗 [CNBC](https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html)",
+     "verified": true,
+     "ts": "1795122617.932069"
+    },
+    {
+     "id": "english-US-정치-1/1",
+     "country": "US",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 🏛️ Politics / 미국 · 정치**\n**1. Trump, Xi and Putin hold rare three-way meeting in China but appear to achieve little**\n_트럼프·시진핑·푸틴, 선전서 첫 3자 회담…성과는 미미_\n• President Trump, President Xi Jinping and President Putin held their first three-way meeting on the 19th on the sidelines of the APEC summit in Shenzhen, China.\n  _트럼프 대통령과 시진핑 국가주석, 푸틴 대통령이 19일 중국 선전 APEC 정상회의를 계기로 처음 3자 회담을 가졌다._\n• A joint statement reaffirmed that \"there can be no winners in a nuclear war.\"\n  _공동성명은 \"핵전쟁에는 승자가 있을 수 없다\"는 점을 재확인했다._\n• CBS reported that the meeting appeared to achieve little on the crises facing the world.\n  _CBS는 회담이 세계가 직면한 위기에 대해 별다른 성과를 내지 못한 것으로 보인다고 전했다._\n📝 `on the sidelines of` ~을 계기로, ~ 부대행사로 · `joint statement` 공동성명 · `achieve little` 성과가 거의 없다\n🔗 [CBS News](https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/)\n\n**2. House Democrats nominate Jeffries for speaker as Clark becomes first woman majority leader**\n_하원 민주당, 제프리스 하원의장 후보 지명…클라크는 첫 여성 다수당 원내대표_\n• House Democrats nominated Hakeem Jeffries for speaker 251-11 in a closed-door meeting on the 18th.\n  _하원 민주당은 18일 비공개 회의에서 하킴 제프리스를 251대 11로 하원의장 후보로 지명했다._\n• Katherine Clark was chosen as majority leader without opposition, making her the first woman to serve in the role in Congress.\n  _캐서린 클라크는 반대 없이 다수당 원내대표로 선출돼 의회 최초의 여성 다수당 원내대표가 된다._\n• The full House will elect the speaker when the new Congress begins in January.\n  _하원의장은 새 의회가 시작되는 1월에 하원 전체 표결로 선출된다._\n📝 `closed-door meeting` 비공개 회의 · `without opposition` 반대 없이 · `full House` 하원 전체\n🔗 [CBS News](https://www.cbsnews.com/news/house-democrats-hakeem-jeffries-speaker-nomination-progressives/)",
+     "verified": true,
+     "ts": "1795122624.655379"
+    },
+    {
+     "id": "english-US-사회-1/1",
+     "country": "US",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 👥 Society / 미국 · 사회**\n**1. Intense flooding slams South Florida as storm threatens Thanksgiving travel**\n_플로리다 남부 기록적 폭우로 침수…추수감사절 이동 차질 우려_\n• Record rainfall swamped parts of Broward and Miami-Dade counties in South Florida.\n  _플로리다 남부에 기록적인 폭우가 내려 브로워드·마이애미데이드 카운티 곳곳이 침수됐다._\n• Some areas received nearly 12 inches of rain in 24 hours.\n  _일부 지역에는 24시간 동안 12인치 가까운 비가 내렸다._\n• The developing storm behind the rain could snarl early Thanksgiving travel as it moves up the East Coast.\n  _폭우를 몰고 온 기상 시스템이 동부 해안으로 이동하면서 이른 추수감사절 이동에 차질을 줄 수 있다._\n📝 `swamped` (swamp) 침수시키다 · `snarl` (교통 등을) 혼란에 빠뜨리다 · `moves up the East Coast` (move up) 동부 해안을 따라 북상하다\n🔗 [CNN](https://www.cnn.com/2026/11/18/weather/florida-flooding-rain-storm-thanksgiving-travel-climate)",
+     "verified": true,
+     "ts": "1795122628.097489"
+    },
+    {
+     "id": "english-US-부동산-1/1",
+     "country": "US",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 🏠 Real Estate / 미국 · 부동산**\n**1. US mortgage rates rise for the first time in five weeks to 7.28%**\n_미 30년 모기지 금리 5주 만에 상승…7.28%_\n• The average 30-year fixed mortgage rate rose to 7.28% this week from 7.11% the week before, its first increase in five weeks, according to Freddie Mac.\n  _프레디맥에 따르면 30년 고정 모기지 평균 금리는 이번 주 7.28%로 전주 7.11%에서 올라 5주 만에 상승했다._\n• It was the largest one-week jump since the week of October 1.\n  _주간 상승폭은 10월 1일 주 이후 가장 컸다._\n• The rise followed higher 10-year Treasury yields after a hotter-than-expected inflation report raised the odds of a Fed rate hike in December.\n  _예상보다 높은 물가 지표로 연준의 12월 금리 인상 가능성이 커지며 10년물 국채 금리가 오른 영향이다._\n📝 `30-year fixed mortgage rate` 30년 고정 모기지 금리 · `hotter-than-expected` 예상보다 높은 · `raised the odds` (raise the odds) 가능성을 높이다\n🔗 [CNN](https://www.cnn.com/2026/11/19/economy/us-mortgage-rates-rise)",
+     "verified": true,
+     "ts": "1795122631.983169"
+    },
+    {
+     "id": "english-US-모빌리티-1/1",
+     "country": "US",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 🚗 Mobility / 미국 · 모빌리티**\n**1. Uber and Zipline's drone delivery service takes off in Texas**\n_우버·집라인, 텍사스서 드론 배달 상용 서비스 시작_\n• Uber Eats launched Zipline drone delivery in Spring, a Houston suburb in Texas, on the 17th.\n  _우버이츠가 17일 텍사스 휴스턴 교외 스프링에서 집라인 드론 배달 서비스를 시작했다._\n• It is the first commercial launch under the partnership announced earlier this year and will expand to Dallas.\n  _이는 올해 초 발표된 양사 협력의 첫 상업 서비스로, 이후 댈러스로 확대된다._\n• The companies plan to expand to dozens of U.S. cities, aiming for one million drone deliveries a day by the end of 2029.\n  _양사는 2029년 말까지 하루 100만 건 드론 배달을 목표로 미국 수십 개 도시로 서비스를 넓힐 계획이다._\n📝 `drone delivery` 드론 배달 · `commercial launch` 상업 서비스 개시 · `dozens of` 수십 개의\n🔗 [TechCrunch](https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/)",
+     "verified": true,
+     "ts": "1795122635.713769"
+    }
+   ]
+  }
+ }
+}
