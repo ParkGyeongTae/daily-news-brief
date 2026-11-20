@@ -1,0 +1,621 @@
+{
+ "date": "2026-11-21",
+ "period": "11/18 06:00 ~ 11/21 06:00 KST",
+ "articles": [
+  {
+   "country": "KR",
+   "category": "경제",
+   "title": "코스피 5.21% 급락해 4869.96 마감…매도 사이드카 발동",
+   "title_en": "KOSPI plunges 5.21% to close at 4,869.96 as sell-side sidecar is triggered",
+   "summary": [
+    "20일 코스피는 전 거래일보다 267.93p(5.21%) 내린 4869.96으로 마감했다.",
+    "외국인과 기관이 각각 1조1413억원, 9509억원을 순매도했고 개인은 1조5946억원을 순매수했다.",
+    "장중 매도 사이드카가 발동됐고, AMD 대중국 수출통제 위반 의혹과 앤트로픽 IPO 자금 쏠림이 악재로 꼽혔다."
+   ],
+   "summary_en": [
+    "On the 20th, the KOSPI fell 267.93 points (5.21%) from the previous session to close at 4,869.96.",
+    "Foreigners and institutions were net sellers of 1.1413 trillion won and 950.9 billion won, while individuals net bought 1.5946 trillion won.",
+    "A sell-side sidecar was triggered intraday, with alleged AMD China export-control violations and money flowing to Anthropic's IPO cited as headwinds."
+   ],
+   "source": "머니투데이",
+   "url": "https://www.mt.co.kr/index.php/stock/2026/11/20/2026112015433412422",
+   "date_evidence": "URL 2026/11/20, ID 15:43 KST; 기사에 20일 마감",
+   "expressions": [
+    [
+     "net sellers",
+     "순매도자"
+    ],
+    [
+     "sidecar was triggered",
+     "사이드카가 발동됐다 (trigger)"
+    ],
+    [
+     "headwinds",
+     "악재, 역풍"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "경제",
+   "title": "외국인, 10월 국내 주식 25조9780억원 순매도…두 달째 매도",
+   "title_en": "Foreigners dump 25.978 trillion won of Korean stocks in October, a second straight month of selling",
+   "summary": [
+    "금융감독원에 따르면 외국인은 10월 국내 상장주식 25조9780억원을 순매도했다.",
+    "9월 19조1160억원에 이어 두 달 연속 순매도였고, 미국 투자자가 13조8540억원으로 가장 많이 팔았다.",
+    "반면 외국인은 같은 달 국내 상장채권 7조6250억원을 순매수했다."
+   ],
+   "summary_en": [
+    "According to the Financial Supervisory Service, foreigners net sold 25.978 trillion won of listed Korean stocks in October.",
+    "It was a second straight month of net selling after 19.116 trillion won in September, with U.S. investors selling the most at 13.854 trillion won.",
+    "In contrast, foreigners net bought 7.625 trillion won of listed Korean bonds in the same month."
+   ],
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611200733009767",
+   "date_evidence": "URL ID 2026-11-20 07:33 KST",
+   "expressions": [
+    [
+     "net sold",
+     "순매도했다 (net sell)"
+    ],
+    [
+     "second straight month",
+     "두 달 연속"
+    ],
+    [
+     "listed Korean bonds",
+     "국내 상장채권"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title": "민주당, 조희대 대법원장 탄핵소추 당론 채택…국민의힘 \"광기\" 반발",
+   "title_en": "Democrats adopt party line to impeach Chief Justice Jo Hee-de as PPP slams it as \"madness\"",
+   "summary": [
+    "민주당은 20일 의원총회에서 조희대 대법원장 탄핵소추를 당론으로 채택했다.",
+    "탄핵 사유에는 12·3 비상계엄 당시 대법원 대응, 이재명 대통령 공직선거법 사건 파기환송, 국정감사 증인 선서 거부 등이 담겼다.",
+    "발의 시점과 이번 정기국회 내 처리 여부는 추후 논의를 거쳐 정하기로 했다."
+   ],
+   "summary_en": [
+    "At a caucus meeting on the 20th, the Democratic Party adopted impeaching Chief Justice Jo Hee-de as its official party line.",
+    "The grounds include the court's response to the Dec. 3 martial law, overturning President Lee Jae-myung's election law ruling, and refusing to take the witness oath at the audit.",
+    "The party will decide later when to file the motion and whether to pass it during the current regular session."
+   ],
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611201808061828",
+   "date_evidence": "URL ID 2026-11-20 18:08 KST",
+   "expressions": [
+    [
+     "party line",
+     "당론"
+    ],
+    [
+     "grounds",
+     "사유, 근거"
+    ],
+    [
+     "file the motion",
+     "안건을 발의하다"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title": "민주유공자법, 국민의힘 불참 속 본회의 통과…거부권 폐기 2년 만",
+   "title_en": "Democracy Patriots Act passes plenary session without PPP, two years after a veto killed it",
+   "summary": [
+    "민주유공자법이 20일 국회 본회의에서 재석 178명 전원 찬성으로 가결됐다.",
+    "민주당은 국민의힘의 필리버스터를 24시간 만에 강제 종결했고, 국민의힘은 표결에 불참했다.",
+    "이 법안은 2024년 5월 국회를 통과했으나 윤석열 당시 대통령의 거부권 행사로 폐기된 바 있다."
+   ],
+   "summary_en": [
+    "The Democracy Patriots Act passed the National Assembly's plenary session on the 20th with all 178 members present voting in favor.",
+    "The Democrats forced an end to the PPP's filibuster after 24 hours, and the PPP boycotted the vote.",
+    "The bill had passed the Assembly in May 2024 but was scrapped after then-President Yoon Suk Yeol exercised his veto."
+   ],
+   "source": "경향신문",
+   "url": "https://www.khan.co.kr/article/202611201536001/",
+   "date_evidence": "URL ID 2026-11-20 15:36 KST",
+   "expressions": [
+    [
+     "plenary session",
+     "본회의"
+    ],
+    [
+     "forced an end to",
+     "강제로 끝냈다 (force an end to)"
+    ],
+    [
+     "boycotted the vote",
+     "표결에 불참했다 (boycott)"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title": "경찰, 조원태 한진그룹 회장 휴대폰 확보…자사주 출연 의혹 수사",
+   "title_en": "Police secure Hanjin Group Chairman Cho Won-tae's phone in treasury share probe",
+   "summary": [
+    "서울경찰청 금융범죄수사대는 18일 배임 등 혐의로 조원태 회장과 대한항공·한진칼 사무실 등을 압수수색했다고 20일 밝혔다.",
+    "경찰은 압수수색에서 조 회장과 주요 임원의 휴대폰을 확보했다.",
+    "경찰은 경영권 방어를 위한 자사주 출연 의혹을 수사하고 있다."
+   ],
+   "summary_en": [
+    "Seoul police's financial crimes unit said on the 20th that it raided Chairman Cho and Korean Air and Hanjin KAL offices on the 18th on breach-of-trust charges.",
+    "Police secured the phones of Cho and key executives during the raid.",
+    "Police are investigating allegations that treasury shares were contributed to defend management control."
+   ],
+   "source": "한국일보",
+   "url": "https://www.hankookilbo.com/news/article/A2026112015030001813",
+   "date_evidence": "URL ID 2026-11-20 15:03 KST",
+   "expressions": [
+    [
+     "breach-of-trust charges",
+     "배임 혐의"
+    ],
+    [
+     "key executives",
+     "주요 임원"
+    ],
+    [
+     "management control",
+     "경영권"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title": "법 집행해야 할 경찰·해경 부부, 갓난아기 때린 혐의로 조사",
+   "title_en": "Police officer and coast guard couple investigated for allegedly hitting their newborn",
+   "summary": [
+    "법을 집행해야 할 경찰·해경 부부가 갓난아기를 때린 혐의로 경찰 조사를 받고 있다.",
+    "부부는 육아휴직 중 신생아 학대 혐의로 입건됐다.",
+    "지난달 말 병원 진료 과정에서 상흔 등 학대 의심 정황이 확인되면서 수사가 시작됐다."
+   ],
+   "summary_en": [
+    "A police and coast guard couple, who are meant to enforce the law, is under police investigation for allegedly hitting their baby.",
+    "The couple was booked on newborn abuse charges while on parental leave.",
+    "The probe began late last month after scars and other signs of suspected abuse were found during a hospital visit."
+   ],
+   "source": "서울신문",
+   "url": "https://www.seoul.co.kr/news/society/accident/2026/11/19/20261119500013",
+   "date_evidence": "URL 2026/11/19 (수집 기간 중간일)",
+   "expressions": [
+    [
+     "enforce the law",
+     "법을 집행하다"
+    ],
+    [
+     "booked on",
+     "~혐의로 입건된 (book on)"
+    ],
+    [
+     "parental leave",
+     "육아휴직"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title": "매매 주춤해도 전셋값은 달린다…서울 전셋값 상승률 전년 대비 3배",
+   "title_en": "Seoul jeonse prices keep racing even as sales stall, rising three times faster than last year",
+   "summary": [
+    "한국부동산원에 따르면 서울 아파트 전세가격은 올해 들어 9.43% 올랐다.",
+    "이는 전년 동기 상승률 2.77%의 3배가 넘는 속도다.",
+    "매매가격 상승세는 주춤하지만 전셋값은 오름세를 이어가고 있다."
+   ],
+   "summary_en": [
+    "According to the Korea Real Estate Board, Seoul apartment jeonse prices have risen 9.43% so far this year.",
+    "That is more than three times the 2.77% gain in the same period last year.",
+    "While sale prices are losing steam, jeonse prices continue to climb."
+   ],
+   "source": "머니투데이",
+   "url": "https://www.mt.co.kr/estate/2026/11/19/2026111914462786246",
+   "date_evidence": "URL 2026/11/19, ID 14:46 KST",
+   "expressions": [
+    [
+     "so far this year",
+     "올해 들어 지금까지"
+    ],
+    [
+     "same period last year",
+     "전년 동기"
+    ],
+    [
+     "losing steam",
+     "기세가 꺾이다 (lose steam)"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "title": "다우, 6월 이후 첫 5만선 붕괴…앤트로픽 상장에도 AI주 약세",
+   "title_en": "Dow closes below 50,000 for first time since June as Anthropic IPO fails to resuscitate AI trade",
+   "summary": [
+    "19일 다우지수는 1,101.11포인트(2.19%) 내린 49,097.06으로 마감해 6월 이후 처음 5만선 아래로 떨어졌다.",
+    "나스닥지수는 2.25% 내린 23,879.20으로 장을 마쳤다.",
+    "앤트로픽 상장도 AI 관련주 투자심리를 되살리지 못했다."
+   ],
+   "summary_en": [
+    "On the 19th, the Dow lost 1,101.11 points (2.19%) to close at 49,097.06, falling below 50,000 for the first time since June.",
+    "The Nasdaq dropped 2.25% to end at 23,879.20.",
+    "Anthropic's listing also failed to resuscitate the AI trade."
+   ],
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+   "date_evidence": "목요일(11/19 ET) 장 마감 기사, 마감 16:00 ET = 11/20 06:00 KST",
+   "expressions": [
+    [
+     "for the first time since",
+     "~이후 처음으로"
+    ],
+    [
+     "end at",
+     "~로 장을 마치다"
+    ],
+    [
+     "resuscitate the AI trade",
+     "AI 투자 흐름을 되살리다"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "title": "AMD, 공매도 보고서 '중국 노출' 의혹에 7.72% 급락",
+   "title_en": "AMD stock dives 7.72% on short-seller report of alleged China exposure",
+   "summary": [
+    "AMD 주가는 19일 투자회사 헌터브룩 미디어가 AMD에도 \"자체적인 중국 문제가 있다\"는 보고서를 낸 뒤 7.72% 하락 마감했다.",
+    "보고서는 AMD의 중국 관련 노출 의혹을 제기했다.",
+    "AMD는 \"주장이 회사의 사업 관행과 관계를 왜곡했다\"고 반박했다."
+   ],
+   "summary_en": [
+    "AMD shares closed down 7.72% on the 19th after investment firm Hunterbrook Media said AMD \"has its own China problem.\"",
+    "The report raised allegations of AMD's exposure to China.",
+    "AMD pushed back, saying \"the claims misrepresent AMD's business practices and relationships.\""
+   ],
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+   "date_evidence": "URL 2026/11/19 ET, 기사에 목요일 마감",
+   "expressions": [
+    [
+     "closed down",
+     "하락 마감했다 (close down)"
+    ],
+    [
+     "pushed back",
+     "반박했다 (push back)"
+    ],
+    [
+     "misrepresent",
+     "왜곡하다"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "title": "미 신규 실업수당 청구 20만3000건…예상치 웃돌아",
+   "title_en": "U.S. initial jobless claims rise to 203,000, above expectations",
+   "summary": [
+    "11월 14일로 끝난 주의 신규 실업수당 청구 건수는 20만3000건으로 전주보다 1000건 늘었다.",
+    "이는 다우존스 집계 전문가 예상치 19만7000건을 웃돌았다.",
+    "계속 실업수당 청구 건수는 7만 건 늘어난 176만 건이었다."
+   ],
+   "summary_en": [
+    "Initial jobless claims for the week ended Nov. 14 totaled 203,000, up 1,000 from the prior week.",
+    "That topped the 197,000 economists polled by Dow Jones had expected.",
+    "Continuing claims rose 70,000 to 1.76 million."
+   ],
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/19/us-treasury-yields-investors-us-economy.html",
+   "date_evidence": "URL 2026/11/19 ET (11/19 발표 지표)",
+   "expressions": [
+    [
+     "initial jobless claims",
+     "신규 실업수당 청구 건수"
+    ],
+    [
+     "economists polled",
+     "설문에 응한 전문가들 (poll)"
+    ],
+    [
+     "continuing claims",
+     "계속 실업수당 청구 건수"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "정치",
+   "title": "백악관 국가사이버국장 교체…잇단 기술 장애 여파",
+   "title_en": "White House national cyber director replaced as the nation reels from tech outages",
+   "summary": [
+    "숀 케언크로스 백악관 국가사이버국장이 최근 잇단 기술 장애 속에 자리에서 물러난다.",
+    "후임은 국방부 최고정보책임자(CIO)인 커스틴 데이비스가 대행으로 맡으며, 정식 임명에는 상원 인준이 필요하다.",
+    "최근 마이크로소프트 서비스, 항공관제 시스템, 은행, 국가안보국(NSA) 내부망에 장애가 잇따랐지만 당국은 사이버 공격은 아닌 것으로 보고 있다."
+   ],
+   "summary_en": [
+    "White House National Cyber Director Sean Cairncross is leaving his post amid a string of recent tech outages.",
+    "Pentagon CIO Kirsten Davies will take over in an acting capacity, and the permanent role requires Senate confirmation.",
+    "Outages have recently hit Microsoft services, air traffic control, banks and the NSA's internal network, but officials say they do not appear to be cyberattacks."
+   ],
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/11/19/politics/national-cyber-director-replaced-sean-cairncross",
+   "date_evidence": "URL 2026/11/19 ET",
+   "expressions": [
+    [
+     "leaving his post",
+     "자리에서 물러나다 (leave one's post)"
+    ],
+    [
+     "in an acting capacity",
+     "대행 자격으로"
+    ],
+    [
+     "Senate confirmation",
+     "상원 인준"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "정치",
+   "title": "법원, 트럼프 아치·골프장 공사 일시 중단 명령",
+   "title_en": "Courts temporarily block Trump arch and golf course work",
+   "summary": [
+    "법원이 워싱턴DC의 트럼프 아치 건설과 골프장 공사를 일시 중단시켰다.",
+    "트럼프 행정부는 이에 불복해 항소했다.",
+    "이 명령은 현재 11월 28일 만료될 예정이다."
+   ],
+   "summary_en": [
+    "Courts have temporarily blocked construction of a Trump arch and golf course work in Washington, D.C.",
+    "The Trump administration appealed the ruling.",
+    "The order is currently set to expire on Nov. 28."
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
+   "date_evidence": "URL 2026/11/19 ET",
+   "expressions": [
+    [
+     "temporarily blocked",
+     "일시 중단시켰다 (temporarily block)"
+    ],
+    [
+     "appealed the ruling",
+     "판결에 항소했다 (appeal)"
+    ],
+    [
+     "set to expire",
+     "만료될 예정인"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "사회",
+   "title": "아이티 대통령 암살 음모 연루 플로리다 목사, 모든 혐의 유죄",
+   "title_en": "Florida pastor convicted on all charges tied to 2021 assassination of Haitian President Jovenel Moïse",
+   "summary": [
+    "미 연방 배심원단은 18일 2021년 조브넬 모이즈 아이티 대통령 암살 음모와 관련해 플로리다 목사 크리스티안 에마뉘엘 사농에게 모든 혐의 유죄를 평결했다.",
+    "검찰은 사농이 음모 세력이 모이즈의 후임으로 처음 낙점한 인물이었다고 밝혔다.",
+    "사농은 최고 종신형에 처해질 수 있으며 선고는 내년 2월 10일이다."
+   ],
+   "summary_en": [
+    "On the 18th, a federal jury found Florida pastor Christian Emmanuel Sanon guilty on all charges tied to the 2021 plot to assassinate Haitian President Jovenel Moïse.",
+    "Prosecutors said Sanon was the conspirators' initial choice to replace Moïse.",
+    "Sanon faces up to life in prison and is set to be sentenced on Feb. 10 next year."
+   ],
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/11/18/us/florida-pastor-convicted-2021-haitian-president-assassination",
+   "date_evidence": "URL 2026/11/18 ET, 평결 수요일(11/18 ET)",
+   "expressions": [
+    [
+     "guilty on all charges",
+     "모든 혐의에 유죄인"
+    ],
+    [
+     "initial choice",
+     "첫 낙점 인물"
+    ],
+    [
+     "faces up to life in prison",
+     "최고 종신형에 처해질 수 있다 (face)"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "모빌리티",
+   "title": "우버, 10세 어린이도 탈 수 있는 '우버 키즈' 시범 운영",
+   "title_en": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+   "summary": [
+    "우버가 텍사스 오스틴, 테네시 내슈빌, 위스콘신 매디슨에서 10세 이상 어린이 탑승 서비스 '우버 키즈'를 시범 운영하고 있다.",
+    "픽업 장소에 부모나 보호자가 있어야 하고, 운전자는 평점이 높고 신원 조회와 의무 교육을 마친 사람으로 제한된다.",
+    "우버 키즈 운행을 맡는 운전자는 일반 운행보다 건당 7달러를 더 받는다."
+   ],
+   "summary_en": [
+    "Uber is piloting Uber Kids, a ride service for children as young as 10, in Austin, Texas, Nashville, Tennessee, and Madison, Wisconsin.",
+    "A parent or guardian must be at the pickup, and drivers are limited to highly rated, background-checked ones who completed mandatory training.",
+    "Drivers who take Uber Kids trips earn $7 more per trip than on a standard ride."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+   "date_evidence": "URL 2026/11/19 ET",
+   "expressions": [
+    [
+     "is piloting",
+     "시범 운영하고 있다 (pilot)"
+    ],
+    [
+     "background-checked",
+     "신원 조회를 마친"
+    ],
+    [
+     "mandatory training",
+     "의무 교육"
+    ]
+   ]
+  }
+ ],
+ "headlines_ko": [
+  "코스피가 외국인·기관 순매도에 267.93p(5.21%) 급락한 4869.96으로 마감했고 장중 매도 사이드카가 발동됐다",
+  "민주당이 의원총회에서 조희대 대법원장 탄핵소추를 당론으로 채택했다",
+  "뉴욕증시에서 다우지수가 2.19% 내린 49,097.06으로 마감하며 6월 이후 처음 5만선이 무너졌다"
+ ],
+ "headlines_en": [
+  "The KOSPI plunged 267.93 points (5.21%) to close at 4,869.96 on net selling by foreigners and institutions, triggering a sell-side sidecar",
+  "The Democratic Party adopted impeaching Chief Justice Jo Hee-de as its party line at a caucus meeting",
+  "On Wall Street, the Dow fell 2.19% to close at 49,097.06, breaking below 50,000 for the first time since June"
+ ],
+ "channels": {
+  "news": {
+   "channel": "C0C6NRNGE81",
+   "parent": {
+    "text": "📰 **Daily News Brief** | 2026-11-21 (토)\n_수집 기간: 11/18 06:00 ~ 11/21 06:00 KST_\n\n**오늘의 핵심**\n• 코스피가 외국인·기관 순매도에 267.93p(5.21%) 급락한 4869.96으로 마감했고 장중 매도 사이드카가 발동됐다\n• 민주당이 의원총회에서 조희대 대법원장 탄핵소추를 당론으로 채택했다\n• 뉴욕증시에서 다우지수가 2.19% 내린 49,097.06으로 마감하며 6월 이후 처음 5만선이 무너졌다\n\n🧵 상세 뉴스는 스레드에서 분야별로 확인: 🇰🇷 한국·🇺🇸 미국 (경제 · 정치 · 사회 · 부동산 · 모빌리티)",
+    "ts": "1795208954.963039",
+    "verified": true
+   },
+   "replies": [
+    {
+     "id": "news/KR/경제/1of1",
+     "text": "🇰🇷 **한국 · 💰 경제**\n**1. 코스피 5.21% 급락해 4869.96 마감…매도 사이드카 발동**\n• 20일 코스피는 전 거래일보다 267.93p(5.21%) 내린 4869.96으로 마감했다.\n• 외국인과 기관이 각각 1조1413억원, 9509억원을 순매도했고 개인은 1조5946억원을 순매수했다.\n• 장중 매도 사이드카가 발동됐고, AMD 대중국 수출통제 위반 의혹과 앤트로픽 IPO 자금 쏠림이 악재로 꼽혔다.\n🔗 [머니투데이](https://www.mt.co.kr/index.php/stock/2026/11/20/2026112015433412422)\n\n**2. 외국인, 10월 국내 주식 25조9780억원 순매도…두 달째 매도**\n• 금융감독원에 따르면 외국인은 10월 국내 상장주식 25조9780억원을 순매도했다.\n• 9월 19조1160억원에 이어 두 달 연속 순매도였고, 미국 투자자가 13조8540억원으로 가장 많이 팔았다.\n• 반면 외국인은 같은 달 국내 상장채권 7조6250억원을 순매수했다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611200733009767)",
+     "ts": "1795208961.129489",
+     "verified": true
+    },
+    {
+     "id": "news/KR/정치/1of1",
+     "text": "🇰🇷 **한국 · 🏛️ 정치**\n**1. 민주당, 조희대 대법원장 탄핵소추 당론 채택…국민의힘 \"광기\" 반발**\n• 민주당은 20일 의원총회에서 조희대 대법원장 탄핵소추를 당론으로 채택했다.\n• 탄핵 사유에는 12·3 비상계엄 당시 대법원 대응, 이재명 대통령 공직선거법 사건 파기환송, 국정감사 증인 선서 거부 등이 담겼다.\n• 발의 시점과 이번 정기국회 내 처리 여부는 추후 논의를 거쳐 정하기로 했다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611201808061828)\n\n**2. 민주유공자법, 국민의힘 불참 속 본회의 통과…거부권 폐기 2년 만**\n• 민주유공자법이 20일 국회 본회의에서 재석 178명 전원 찬성으로 가결됐다.\n• 민주당은 국민의힘의 필리버스터를 24시간 만에 강제 종결했고, 국민의힘은 표결에 불참했다.\n• 이 법안은 2024년 5월 국회를 통과했으나 윤석열 당시 대통령의 거부권 행사로 폐기된 바 있다.\n🔗 [경향신문](https://www.khan.co.kr/article/202611201536001/)",
+     "ts": "1795208965.054389",
+     "verified": true
+    },
+    {
+     "id": "news/KR/사회/1of1",
+     "text": "🇰🇷 **한국 · 👥 사회**\n**1. 경찰, 조원태 한진그룹 회장 휴대폰 확보…자사주 출연 의혹 수사**\n• 서울경찰청 금융범죄수사대는 18일 배임 등 혐의로 조원태 회장과 대한항공·한진칼 사무실 등을 압수수색했다고 20일 밝혔다.\n• 경찰은 압수수색에서 조 회장과 주요 임원의 휴대폰을 확보했다.\n• 경찰은 경영권 방어를 위한 자사주 출연 의혹을 수사하고 있다.\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026112015030001813)\n\n**2. 법 집행해야 할 경찰·해경 부부, 갓난아기 때린 혐의로 조사**\n• 법을 집행해야 할 경찰·해경 부부가 갓난아기를 때린 혐의로 경찰 조사를 받고 있다.\n• 부부는 육아휴직 중 신생아 학대 혐의로 입건됐다.\n• 지난달 말 병원 진료 과정에서 상흔 등 학대 의심 정황이 확인되면서 수사가 시작됐다.\n🔗 [서울신문](https://www.seoul.co.kr/news/society/accident/2026/11/19/20261119500013)",
+     "ts": "1795208968.970709",
+     "verified": true
+    },
+    {
+     "id": "news/KR/부동산/1of1",
+     "text": "🇰🇷 **한국 · 🏠 부동산**\n**1. 매매 주춤해도 전셋값은 달린다…서울 전셋값 상승률 전년 대비 3배**\n• 한국부동산원에 따르면 서울 아파트 전세가격은 올해 들어 9.43% 올랐다.\n• 이는 전년 동기 상승률 2.77%의 3배가 넘는 속도다.\n• 매매가격 상승세는 주춤하지만 전셋값은 오름세를 이어가고 있다.\n🔗 [머니투데이](https://www.mt.co.kr/estate/2026/11/19/2026111914462786246)",
+     "ts": "1795208971.173019",
+     "verified": true
+    },
+    {
+     "id": "news/KR/모빌리티/1of1",
+     "text": "🇰🇷 **한국 · 🚗 모빌리티**\n_해당 기간 새 기사 없음_",
+     "ts": "1795208972.097749",
+     "verified": true
+    },
+    {
+     "id": "news/US/경제/1of1",
+     "text": "🇺🇸 **미국 · 💰 경제**\n**1. 다우, 6월 이후 첫 5만선 붕괴…앤트로픽 상장에도 AI주 약세**\n• 19일 다우지수는 1,101.11포인트(2.19%) 내린 49,097.06으로 마감해 6월 이후 처음 5만선 아래로 떨어졌다.\n• 나스닥지수는 2.25% 내린 23,879.20으로 장을 마쳤다.\n• 앤트로픽 상장도 AI 관련주 투자심리를 되살리지 못했다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html)\n\n**2. AMD, 공매도 보고서 '중국 노출' 의혹에 7.72% 급락**\n• AMD 주가는 19일 투자회사 헌터브룩 미디어가 AMD에도 \"자체적인 중국 문제가 있다\"는 보고서를 낸 뒤 7.72% 하락 마감했다.\n• 보고서는 AMD의 중국 관련 노출 의혹을 제기했다.\n• AMD는 \"주장이 회사의 사업 관행과 관계를 왜곡했다\"고 반박했다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html)\n\n**3. 미 신규 실업수당 청구 20만3000건…예상치 웃돌아**\n• 11월 14일로 끝난 주의 신규 실업수당 청구 건수는 20만3000건으로 전주보다 1000건 늘었다.\n• 이는 다우존스 집계 전문가 예상치 19만7000건을 웃돌았다.\n• 계속 실업수당 청구 건수는 7만 건 늘어난 176만 건이었다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/19/us-treasury-yields-investors-us-economy.html)",
+     "ts": "1795208983.112049",
+     "verified": true
+    },
+    {
+     "id": "news/US/정치/1of1",
+     "text": "🇺🇸 **미국 · 🏛️ 정치**\n**1. 백악관 국가사이버국장 교체…잇단 기술 장애 여파**\n• 숀 케언크로스 백악관 국가사이버국장이 최근 잇단 기술 장애 속에 자리에서 물러난다.\n• 후임은 국방부 최고정보책임자(CIO)인 커스틴 데이비스가 대행으로 맡으며, 정식 임명에는 상원 인준이 필요하다.\n• 최근 마이크로소프트 서비스, 항공관제 시스템, 은행, 국가안보국(NSA) 내부망에 장애가 잇따랐지만 당국은 사이버 공격은 아닌 것으로 보고 있다.\n🔗 [CNN](https://www.cnn.com/2026/11/19/politics/national-cyber-director-replaced-sean-cairncross)\n\n**2. 법원, 트럼프 아치·골프장 공사 일시 중단 명령**\n• 법원이 워싱턴DC의 트럼프 아치 건설과 골프장 공사를 일시 중단시켰다.\n• 트럼프 행정부는 이에 불복해 항소했다.\n• 이 명령은 현재 11월 28일 만료될 예정이다.\n🔗 [NPR](https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders)",
+     "ts": "1795208987.032019",
+     "verified": true
+    },
+    {
+     "id": "news/US/사회/1of1",
+     "text": "🇺🇸 **미국 · 👥 사회**\n**1. 아이티 대통령 암살 음모 연루 플로리다 목사, 모든 혐의 유죄**\n• 미 연방 배심원단은 18일 2021년 조브넬 모이즈 아이티 대통령 암살 음모와 관련해 플로리다 목사 크리스티안 에마뉘엘 사농에게 모든 혐의 유죄를 평결했다.\n• 검찰은 사농이 음모 세력이 모이즈의 후임으로 처음 낙점한 인물이었다고 밝혔다.\n• 사농은 최고 종신형에 처해질 수 있으며 선고는 내년 2월 10일이다.\n🔗 [CNN](https://www.cnn.com/2026/11/18/us/florida-pastor-convicted-2021-haitian-president-assassination)",
+     "ts": "1795208989.691219",
+     "verified": true
+    },
+    {
+     "id": "news/US/부동산/1of1",
+     "text": "🇺🇸 **미국 · 🏠 부동산**\n_해당 기간 새 기사 없음_",
+     "ts": "1795208990.769709",
+     "verified": true
+    },
+    {
+     "id": "news/US/모빌리티/1of1",
+     "text": "🇺🇸 **미국 · 🚗 모빌리티**\n**1. 우버, 10세 어린이도 탈 수 있는 '우버 키즈' 시범 운영**\n• 우버가 텍사스 오스틴, 테네시 내슈빌, 위스콘신 매디슨에서 10세 이상 어린이 탑승 서비스 '우버 키즈'를 시범 운영하고 있다.\n• 픽업 장소에 부모나 보호자가 있어야 하고, 운전자는 평점이 높고 신원 조회와 의무 교육을 마친 사람으로 제한된다.\n• 우버 키즈 운행을 맡는 운전자는 일반 운행보다 건당 7달러를 더 받는다.\n🔗 [TechCrunch](https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/)",
+     "ts": "1795208993.401299",
+     "verified": true
+    }
+   ]
+  },
+  "english": {
+   "channel": "C0C6KR1MEEP",
+   "parent": {
+    "text": "📚 **Daily English Brief** | 2026-11-21 (토)\n_수집 기간: 11/18 06:00 ~ 11/21 06:00 KST_\n\n**Today's Headlines / 오늘의 핵심**\n• The KOSPI plunged 267.93 points (5.21%) to close at 4,869.96 on net selling by foreigners and institutions, triggering a sell-side sidecar\n  _코스피가 외국인·기관 순매도에 267.93p(5.21%) 급락한 4869.96으로 마감했고 장중 매도 사이드카가 발동됐다_\n• The Democratic Party adopted impeaching Chief Justice Jo Hee-de as its party line at a caucus meeting\n  _민주당이 의원총회에서 조희대 대법원장 탄핵소추를 당론으로 채택했다_\n• On Wall Street, the Dow fell 2.19% to close at 49,097.06, breaking below 50,000 for the first time since June\n  _뉴욕증시에서 다우지수가 2.19% 내린 49,097.06으로 마감하며 6월 이후 처음 5만선이 무너졌다_\n\n🧵 Category threads / 스레드에서 분야별 확인: 🇰🇷 Korea·🇺🇸 US (Economy · Politics · Society · Real Estate · Mobility)",
+    "ts": "1795209002.800599",
+    "verified": true
+   },
+   "replies": [
+    {
+     "id": "english/KR/경제/1of1",
+     "text": "🇰🇷 **Korea · 💰 Economy / 한국 · 경제**\n**1. KOSPI plunges 5.21% to close at 4,869.96 as sell-side sidecar is triggered**\n_코스피 5.21% 급락해 4869.96 마감…매도 사이드카 발동_\n• On the 20th, the KOSPI fell 267.93 points (5.21%) from the previous session to close at 4,869.96.\n  _20일 코스피는 전 거래일보다 267.93p(5.21%) 내린 4869.96으로 마감했다._\n• Foreigners and institutions were net sellers of 1.1413 trillion won and 950.9 billion won, while individuals net bought 1.5946 trillion won.\n  _외국인과 기관이 각각 1조1413억원, 9509억원을 순매도했고 개인은 1조5946억원을 순매수했다._\n• A sell-side sidecar was triggered intraday, with alleged AMD China export-control violations and money flowing to Anthropic's IPO cited as headwinds.\n  _장중 매도 사이드카가 발동됐고, AMD 대중국 수출통제 위반 의혹과 앤트로픽 IPO 자금 쏠림이 악재로 꼽혔다._\n📝 `net sellers` 순매도자 · `sidecar was triggered` 사이드카가 발동됐다 (trigger) · `headwinds` 악재, 역풍\n🔗 [머니투데이](https://www.mt.co.kr/index.php/stock/2026/11/20/2026112015433412422)\n\n**2. Foreigners dump 25.978 trillion won of Korean stocks in October, a second straight month of selling**\n_외국인, 10월 국내 주식 25조9780억원 순매도…두 달째 매도_\n• According to the Financial Supervisory Service, foreigners net sold 25.978 trillion won of listed Korean stocks in October.\n  _금융감독원에 따르면 외국인은 10월 국내 상장주식 25조9780억원을 순매도했다._\n• It was a second straight month of net selling after 19.116 trillion won in September, with U.S. investors selling the most at 13.854 trillion won.\n  _9월 19조1160억원에 이어 두 달 연속 순매도였고, 미국 투자자가 13조8540억원으로 가장 많이 팔았다._\n• In contrast, foreigners net bought 7.625 trillion won of listed Korean bonds in the same month.\n  _반면 외국인은 같은 달 국내 상장채권 7조6250억원을 순매수했다._\n📝 `net sold` 순매도했다 (net sell) · `second straight month` 두 달 연속 · `listed Korean bonds` 국내 상장채권\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611200733009767)",
+     "ts": "1795209012.229899",
+     "verified": true
+    },
+    {
+     "id": "english/KR/정치/1of1",
+     "text": "🇰🇷 **Korea · 🏛️ Politics / 한국 · 정치**\n**1. Democrats adopt party line to impeach Chief Justice Jo Hee-de as PPP slams it as \"madness\"**\n_민주당, 조희대 대법원장 탄핵소추 당론 채택…국민의힘 \"광기\" 반발_\n• At a caucus meeting on the 20th, the Democratic Party adopted impeaching Chief Justice Jo Hee-de as its official party line.\n  _민주당은 20일 의원총회에서 조희대 대법원장 탄핵소추를 당론으로 채택했다._\n• The grounds include the court's response to the Dec. 3 martial law, overturning President Lee Jae-myung's election law ruling, and refusing to take the witness oath at the audit.\n  _탄핵 사유에는 12·3 비상계엄 당시 대법원 대응, 이재명 대통령 공직선거법 사건 파기환송, 국정감사 증인 선서 거부 등이 담겼다._\n• The party will decide later when to file the motion and whether to pass it during the current regular session.\n  _발의 시점과 이번 정기국회 내 처리 여부는 추후 논의를 거쳐 정하기로 했다._\n📝 `party line` 당론 · `grounds` 사유, 근거 · `file the motion` 안건을 발의하다\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611201808061828)\n\n**2. Democracy Patriots Act passes plenary session without PPP, two years after a veto killed it**\n_민주유공자법, 국민의힘 불참 속 본회의 통과…거부권 폐기 2년 만_\n• The Democracy Patriots Act passed the National Assembly's plenary session on the 20th with all 178 members present voting in favor.\n  _민주유공자법이 20일 국회 본회의에서 재석 178명 전원 찬성으로 가결됐다._\n• The Democrats forced an end to the PPP's filibuster after 24 hours, and the PPP boycotted the vote.\n  _민주당은 국민의힘의 필리버스터를 24시간 만에 강제 종결했고, 국민의힘은 표결에 불참했다._\n• The bill had passed the Assembly in May 2024 but was scrapped after then-President Yoon Suk Yeol exercised his veto.\n  _이 법안은 2024년 5월 국회를 통과했으나 윤석열 당시 대통령의 거부권 행사로 폐기된 바 있다._\n📝 `plenary session` 본회의 · `forced an end to` 강제로 끝냈다 (force an end to) · `boycotted the vote` 표결에 불참했다 (boycott)\n🔗 [경향신문](https://www.khan.co.kr/article/202611201536001/)",
+     "ts": "1795209019.020629",
+     "verified": true
+    },
+    {
+     "id": "english/KR/사회/1of1",
+     "text": "🇰🇷 **Korea · 👥 Society / 한국 · 사회**\n**1. Police secure Hanjin Group Chairman Cho Won-tae's phone in treasury share probe**\n_경찰, 조원태 한진그룹 회장 휴대폰 확보…자사주 출연 의혹 수사_\n• Seoul police's financial crimes unit said on the 20th that it raided Chairman Cho and Korean Air and Hanjin KAL offices on the 18th on breach-of-trust charges.\n  _서울경찰청 금융범죄수사대는 18일 배임 등 혐의로 조원태 회장과 대한항공·한진칼 사무실 등을 압수수색했다고 20일 밝혔다._\n• Police secured the phones of Cho and key executives during the raid.\n  _경찰은 압수수색에서 조 회장과 주요 임원의 휴대폰을 확보했다._\n• Police are investigating allegations that treasury shares were contributed to defend management control.\n  _경찰은 경영권 방어를 위한 자사주 출연 의혹을 수사하고 있다._\n📝 `breach-of-trust charges` 배임 혐의 · `key executives` 주요 임원 · `management control` 경영권\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026112015030001813)\n\n**2. Police officer and coast guard couple investigated for allegedly hitting their newborn**\n_법 집행해야 할 경찰·해경 부부, 갓난아기 때린 혐의로 조사_\n• A police and coast guard couple, who are meant to enforce the law, is under police investigation for allegedly hitting their baby.\n  _법을 집행해야 할 경찰·해경 부부가 갓난아기를 때린 혐의로 경찰 조사를 받고 있다._\n• The couple was booked on newborn abuse charges while on parental leave.\n  _부부는 육아휴직 중 신생아 학대 혐의로 입건됐다._\n• The probe began late last month after scars and other signs of suspected abuse were found during a hospital visit.\n  _지난달 말 병원 진료 과정에서 상흔 등 학대 의심 정황이 확인되면서 수사가 시작됐다._\n📝 `enforce the law` 법을 집행하다 · `booked on` ~혐의로 입건된 (book on) · `parental leave` 육아휴직\n🔗 [서울신문](https://www.seoul.co.kr/news/society/accident/2026/11/19/20261119500013)",
+     "ts": "1795209025.246409",
+     "verified": true
+    },
+    {
+     "id": "english/KR/부동산/1of1",
+     "text": "🇰🇷 **Korea · 🏠 Real Estate / 한국 · 부동산**\n**1. Seoul jeonse prices keep racing even as sales stall, rising three times faster than last year**\n_매매 주춤해도 전셋값은 달린다…서울 전셋값 상승률 전년 대비 3배_\n• According to the Korea Real Estate Board, Seoul apartment jeonse prices have risen 9.43% so far this year.\n  _한국부동산원에 따르면 서울 아파트 전세가격은 올해 들어 9.43% 올랐다._\n• That is more than three times the 2.77% gain in the same period last year.\n  _이는 전년 동기 상승률 2.77%의 3배가 넘는 속도다._\n• While sale prices are losing steam, jeonse prices continue to climb.\n  _매매가격 상승세는 주춤하지만 전셋값은 오름세를 이어가고 있다._\n📝 `so far this year` 올해 들어 지금까지 · `same period last year` 전년 동기 · `losing steam` 기세가 꺾이다 (lose steam)\n🔗 [머니투데이](https://www.mt.co.kr/estate/2026/11/19/2026111914462786246)",
+     "ts": "1795209028.636449",
+     "verified": true
+    },
+    {
+     "id": "english/KR/모빌리티/1of1",
+     "text": "🇰🇷 **Korea · 🚗 Mobility / 한국 · 모빌리티**\n_No new articles in this period / 해당 기간 새 기사 없음_",
+     "ts": "1795209029.622869",
+     "verified": true
+    },
+    {
+     "id": "english/US/경제/1of1",
+     "text": "🇺🇸 **US · 💰 Economy / 미국 · 경제**\n**1. Dow closes below 50,000 for first time since June as Anthropic IPO fails to resuscitate AI trade**\n_다우, 6월 이후 첫 5만선 붕괴…앤트로픽 상장에도 AI주 약세_\n• On the 19th, the Dow lost 1,101.11 points (2.19%) to close at 49,097.06, falling below 50,000 for the first time since June.\n  _19일 다우지수는 1,101.11포인트(2.19%) 내린 49,097.06으로 마감해 6월 이후 처음 5만선 아래로 떨어졌다._\n• The Nasdaq dropped 2.25% to end at 23,879.20.\n  _나스닥지수는 2.25% 내린 23,879.20으로 장을 마쳤다._\n• Anthropic's listing also failed to resuscitate the AI trade.\n  _앤트로픽 상장도 AI 관련주 투자심리를 되살리지 못했다._\n📝 `for the first time since` ~이후 처음으로 · `end at` ~로 장을 마치다 · `resuscitate the AI trade` AI 투자 흐름을 되살리다\n🔗 [CNBC](https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html)\n\n**2. AMD stock dives 7.72% on short-seller report of alleged China exposure**\n_AMD, 공매도 보고서 '중국 노출' 의혹에 7.72% 급락_\n• AMD shares closed down 7.72% on the 19th after investment firm Hunterbrook Media said AMD \"has its own China problem.\"\n  _AMD 주가는 19일 투자회사 헌터브룩 미디어가 AMD에도 \"자체적인 중국 문제가 있다\"는 보고서를 낸 뒤 7.72% 하락 마감했다._\n• The report raised allegations of AMD's exposure to China.\n  _보고서는 AMD의 중국 관련 노출 의혹을 제기했다._\n• AMD pushed back, saying \"the claims misrepresent AMD's business practices and relationships.\"\n  _AMD는 \"주장이 회사의 사업 관행과 관계를 왜곡했다\"고 반박했다._\n📝 `closed down` 하락 마감했다 (close down) · `pushed back` 반박했다 (push back) · `misrepresent` 왜곡하다\n🔗 [CNBC](https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html)\n\n**3. U.S. initial jobless claims rise to 203,000, above expectations**\n_미 신규 실업수당 청구 20만3000건…예상치 웃돌아_\n• Initial jobless claims for the week ended Nov. 14 totaled 203,000, up 1,000 from the prior week.\n  _11월 14일로 끝난 주의 신규 실업수당 청구 건수는 20만3000건으로 전주보다 1000건 늘었다._\n• That topped the 197,000 economists polled by Dow Jones had expected.\n  _이는 다우존스 집계 전문가 예상치 19만7000건을 웃돌았다._\n• Continuing claims rose 70,000 to 1.76 million.\n  _계속 실업수당 청구 건수는 7만 건 늘어난 176만 건이었다._\n📝 `initial jobless claims` 신규 실업수당 청구 건수 · `economists polled` 설문에 응한 전문가들 (poll) · `continuing claims` 계속 실업수당 청구 건수\n🔗 [CNBC](https://www.cnbc.com/2026/11/19/us-treasury-yields-investors-us-economy.html)",
+     "ts": "1795209043.384699",
+     "verified": true
+    },
+    {
+     "id": "english/US/정치/1of1",
+     "text": "🇺🇸 **US · 🏛️ Politics / 미국 · 정치**\n**1. White House national cyber director replaced as the nation reels from tech outages**\n_백악관 국가사이버국장 교체…잇단 기술 장애 여파_\n• White House National Cyber Director Sean Cairncross is leaving his post amid a string of recent tech outages.\n  _숀 케언크로스 백악관 국가사이버국장이 최근 잇단 기술 장애 속에 자리에서 물러난다._\n• Pentagon CIO Kirsten Davies will take over in an acting capacity, and the permanent role requires Senate confirmation.\n  _후임은 국방부 최고정보책임자(CIO)인 커스틴 데이비스가 대행으로 맡으며, 정식 임명에는 상원 인준이 필요하다._\n• Outages have recently hit Microsoft services, air traffic control, banks and the NSA's internal network, but officials say they do not appear to be cyberattacks.\n  _최근 마이크로소프트 서비스, 항공관제 시스템, 은행, 국가안보국(NSA) 내부망에 장애가 잇따랐지만 당국은 사이버 공격은 아닌 것으로 보고 있다._\n📝 `leaving his post` 자리에서 물러나다 (leave one's post) · `in an acting capacity` 대행 자격으로 · `Senate confirmation` 상원 인준\n🔗 [CNN](https://www.cnn.com/2026/11/19/politics/national-cyber-director-replaced-sean-cairncross)\n\n**2. Courts temporarily block Trump arch and golf course work**\n_법원, 트럼프 아치·골프장 공사 일시 중단 명령_\n• Courts have temporarily blocked construction of a Trump arch and golf course work in Washington, D.C.\n  _법원이 워싱턴DC의 트럼프 아치 건설과 골프장 공사를 일시 중단시켰다._\n• The Trump administration appealed the ruling.\n  _트럼프 행정부는 이에 불복해 항소했다._\n• The order is currently set to expire on Nov. 28.\n  _이 명령은 현재 11월 28일 만료될 예정이다._\n📝 `temporarily blocked` 일시 중단시켰다 (temporarily block) · `appealed the ruling` 판결에 항소했다 (appeal) · `set to expire` 만료될 예정인\n🔗 [NPR](https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders)",
+     "ts": "1795209049.683469",
+     "verified": true
+    },
+    {
+     "id": "english/US/사회/1of1",
+     "text": "🇺🇸 **US · 👥 Society / 미국 · 사회**\n**1. Florida pastor convicted on all charges tied to 2021 assassination of Haitian President Jovenel Moïse**\n_아이티 대통령 암살 음모 연루 플로리다 목사, 모든 혐의 유죄_\n• On the 18th, a federal jury found Florida pastor Christian Emmanuel Sanon guilty on all charges tied to the 2021 plot to assassinate Haitian President Jovenel Moïse.\n  _미 연방 배심원단은 18일 2021년 조브넬 모이즈 아이티 대통령 암살 음모와 관련해 플로리다 목사 크리스티안 에마뉘엘 사농에게 모든 혐의 유죄를 평결했다._\n• Prosecutors said Sanon was the conspirators' initial choice to replace Moïse.\n  _검찰은 사농이 음모 세력이 모이즈의 후임으로 처음 낙점한 인물이었다고 밝혔다._\n• Sanon faces up to life in prison and is set to be sentenced on Feb. 10 next year.\n  _사농은 최고 종신형에 처해질 수 있으며 선고는 내년 2월 10일이다._\n📝 `guilty on all charges` 모든 혐의에 유죄인 · `initial choice` 첫 낙점 인물 · `faces up to life in prison` 최고 종신형에 처해질 수 있다 (face)\n🔗 [CNN](https://www.cnn.com/2026/11/18/us/florida-pastor-convicted-2021-haitian-president-assassination)",
+     "ts": "1795209053.931939",
+     "verified": true
+    },
+    {
+     "id": "english/US/부동산/1of1",
+     "text": "🇺🇸 **US · 🏠 Real Estate / 미국 · 부동산**\n_No new articles in this period / 해당 기간 새 기사 없음_",
+     "ts": "1795209055.022209",
+     "verified": true
+    },
+    {
+     "id": "english/US/모빌리티/1of1",
+     "text": "🇺🇸 **US · 🚗 Mobility / 미국 · 모빌리티**\n**1. Uber tests rides for kids as young as 10, with extra pay for drivers**\n_우버, 10세 어린이도 탈 수 있는 '우버 키즈' 시범 운영_\n• Uber is piloting Uber Kids, a ride service for children as young as 10, in Austin, Texas, Nashville, Tennessee, and Madison, Wisconsin.\n  _우버가 텍사스 오스틴, 테네시 내슈빌, 위스콘신 매디슨에서 10세 이상 어린이 탑승 서비스 '우버 키즈'를 시범 운영하고 있다._\n• A parent or guardian must be at the pickup, and drivers are limited to highly rated, background-checked ones who completed mandatory training.\n  _픽업 장소에 부모나 보호자가 있어야 하고, 운전자는 평점이 높고 신원 조회와 의무 교육을 마친 사람으로 제한된다._\n• Drivers who take Uber Kids trips earn $7 more per trip than on a standard ride.\n  _우버 키즈 운행을 맡는 운전자는 일반 운행보다 건당 7달러를 더 받는다._\n📝 `is piloting` 시범 운영하고 있다 (pilot) · `background-checked` 신원 조회를 마친 · `mandatory training` 의무 교육\n🔗 [TechCrunch](https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/)",
+     "ts": "1795209059.258369",
+     "verified": true
+    }
+   ]
+  }
+ },
+ "verified": true
+}
