@@ -1,0 +1,760 @@
+{
+ "date": "2026-11-22",
+ "period": "11/19 06:00 ~ 11/22 06:00 KST",
+ "start_utc": "2026-11-21T21:03:36.493671+00:00",
+ "articles": [
+  {
+   "country": "KR",
+   "category": "경제",
+   "title": "수출 누적 1조 달러 돌파…반도체가 1분에 42억원어치 수출",
+   "summary": [
+    "관세청은 20일 올해 누적 수출액이 19일 오후 2시 9분 기준 1조 달러를 넘었다고 밝혔다.",
+    "같은 기간 반도체 수출액은 4339억 달러로 전년 같은 기간보다 197.4% 늘었다.",
+    "반도체는 전체 수출액의 약 43.3%를 차지했다."
+   ],
+   "url": "https://www.hankookilbo.com/news/article/A2026112013480000181",
+   "media": "한국일보",
+   "date_evidence": "URL 날짜 2026-11-20 13:48 KST(A20261120 1348)",
+   "title_en": "Exports top $1 trillion for the year, with chips shipping 4.2 billion won worth every minute",
+   "summary_en": [
+    "The Korea Customs Service said Nov. 20 that cumulative exports this year surpassed $1 trillion as of 2:09 p.m. on Nov. 19.",
+    "Over the same period, semiconductor exports jumped 197.4% year over year to $433.9 billion.",
+    "Chips accounted for about 43.3% of total exports."
+   ],
+   "expressions": [
+    [
+     "surpassed",
+     "surpass",
+     "넘어서다"
+    ],
+    [
+     "year over year",
+     null,
+     "전년 대비"
+    ],
+    [
+     "accounted for",
+     "account for",
+     "차지하다"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "경제",
+   "title": "한은, 26일 올해 마지막 금통위…기준금리 인상 전망 우세",
+   "summary": [
+    "한국은행 금융통화위원회는 26일 올해 마지막 통화정책방향 회의를 열어 기준금리를 결정한다.",
+    "현재 기준금리는 3.00%이며 시장에서는 추가 인상 가능성이 높다는 전망이 우세하다.",
+    "한미 금리차 확대 가능성과 반도체 호조에 따른 성장률·물가 상승률 확대가 인상 요인으로 꼽힌다."
+   ],
+   "url": "https://www.fnnews.com/news/202611211105346704",
+   "media": "파이낸셜뉴스",
+   "date_evidence": "URL 날짜 2026-11-21 11:05 KST",
+   "title_en": "BOK holds its last rate meeting of the year on Nov. 26, with a hike widely expected",
+   "summary_en": [
+    "The Bank of Korea's Monetary Policy Board will decide its benchmark rate at its final policy meeting of the year on Nov. 26.",
+    "The base rate currently stands at 3.00%, and markets largely expect another hike.",
+    "A possible wider Korea-U.S. rate gap and higher growth and inflation driven by the chip boom are cited as reasons for a hike."
+   ],
+   "expressions": [
+    [
+     "benchmark rate",
+     null,
+     "기준금리"
+    ],
+    [
+     "stands at",
+     "stand at",
+     "~이다(수준에 있다)"
+    ],
+    [
+     "rate gap",
+     null,
+     "금리차"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title": "이 대통령 지지율 40%로 1%p 상승…민주 36%·국힘 28% [갤럽]",
+   "summary": [
+    "한국갤럽이 20일 발표한 조사에서 이재명 대통령의 국정 지지율은 40%였다.",
+    "이는 전주보다 1%p 오른 수치다.",
+    "정당 지지도는 더불어민주당 36%, 국민의힘 28%였다."
+   ],
+   "url": "https://www.hankookilbo.com/news/article/A2026112011060004277",
+   "media": "한국일보",
+   "date_evidence": "URL 날짜 2026-11-20 11:06 KST",
+   "title_en": "President Lee's approval rises 1 point to 40%; Democrats 36%, PPP 28% (Gallup)",
+   "summary_en": [
+    "In a Gallup Korea poll released Nov. 20, President Lee Jae-myung's approval rating came in at 40%.",
+    "That was up 1 percentage point from the previous week.",
+    "In party support, the Democratic Party polled 36% and the People Power Party 28%."
+   ],
+   "expressions": [
+    [
+     "approval rating",
+     null,
+     "지지율"
+    ],
+    [
+     "percentage point",
+     null,
+     "퍼센트포인트"
+    ],
+    [
+     "polled",
+     "poll",
+     "지지율을 얻다"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title": "이 대통령, 울산 AI 데이터센터 방문…\"지방 중심 AI 투자로 균형 발전\"",
+   "summary": [
+    "이재명 대통령은 21일 울산 SK AI 데이터센터 건설 현장을 찾았다.",
+    "이 대통령은 수도권 집중 때문에 온갖 문제가 발생하고 있다며 지방 중심 AI 투자로 균형 발전을 이뤄야 한다고 말했다.",
+    "같은 날 울산의 전통시장 두 곳도 방문했다."
+   ],
+   "url": "https://www.segye.com/newsView/20261121504606",
+   "media": "세계일보",
+   "date_evidence": "URL 날짜 2026-11-21(KST), 수집 기간 내 날짜",
+   "title_en": "President Lee visits Ulsan AI data center site: \"Balanced growth through AI investment in the regions\"",
+   "summary_en": [
+    "President Lee Jae-myung visited the construction site of SK's AI data center in Ulsan on Nov. 21.",
+    "Lee said overconcentration in the Seoul metropolitan area is causing all sorts of problems and called for balanced development through AI investment in the regions.",
+    "He also stopped by two traditional markets in Ulsan the same day."
+   ],
+   "expressions": [
+    [
+     "construction site",
+     null,
+     "건설 현장"
+    ],
+    [
+     "called for",
+     "call for",
+     "촉구하다"
+    ],
+    [
+     "stopped by",
+     "stop by",
+     "들르다"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title": "국민의힘, 대구서 장외집회…조작기소 특검법·조희대 탄핵 추진 비판",
+   "summary": [
+    "국민의힘은 21일 대구에서 대규모 장외집회를 열고 여당의 조작기소 특검법 강행 처리와 조희대 대법원장 탄핵 추진을 비판했다.",
+    "집회에서는 이재명 대통령 재판 재개도 촉구했다.",
+    "국민의힘은 민주당의 특검법 강행 처리에 반발해 지난 7일부터 전국을 돌며 장외집회를 열고 있다."
+   ],
+   "url": "https://weekly.khan.co.kr/article/202611211935001/",
+   "media": "주간경향",
+   "date_evidence": "URL 날짜 2026-11-21 19:35 KST",
+   "title_en": "People Power Party rallies in Daegu against the special counsel bill and push to impeach Jo Hee-de",
+   "summary_en": [
+    "The People Power Party held a large outdoor rally in Daegu on Nov. 21, slamming the ruling party for ramming through the fabricated-indictment special counsel bill and pushing to impeach Chief Justice Jo Hee-de.",
+    "The rally also demanded that President Lee Jae-myung's trials resume.",
+    "The party has been holding rallies across the country since Nov. 7 in protest of the Democratic Party's forced passage of the special counsel bill."
+   ],
+   "expressions": [
+    [
+     "ramming through",
+     "ram through",
+     "강행 처리하다"
+    ],
+    [
+     "special counsel",
+     null,
+     "특별검사"
+    ],
+    [
+     "in protest of",
+     null,
+     "~에 항의해"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title": "50대 성범죄자, 전자발찌 끊고 도주…평택서 진천으로 이동해 훼손",
+   "summary": [
+    "보호관찰 중이던 50대 성범죄자가 21일 오전 8시 50분쯤 충북 진천군에서 전자발찌를 끊고 달아났다.",
+    "그는 평택에서 진천으로 이동한 뒤 전자발찌를 훼손한 것으로 전해졌다.",
+    "법무부 보호관찰소는 경찰과 공조해 그의 뒤를 쫓고 있다."
+   ],
+   "url": "https://www.seoul.co.kr/news/society/accident/2026/11/21/20261121500031",
+   "media": "서울신문",
+   "date_evidence": "URL 날짜 2026-11-21(KST), 사건 시각 21일 오전 8시 50분",
+   "title_en": "Sex offender in his 50s cuts off ankle monitor and flees after moving from Pyeongtaek to Jincheon",
+   "summary_en": [
+    "A sex offender in his 50s who was on probation cut off his electronic ankle monitor and fled in Jincheon County, North Chungcheong Province, at around 8:50 a.m. on Nov. 21.",
+    "He reportedly traveled from Pyeongtaek to Jincheon before tampering with the device.",
+    "The Justice Ministry's probation office is tracking him down in cooperation with police."
+   ],
+   "expressions": [
+    [
+     "on probation",
+     null,
+     "보호관찰 중인"
+    ],
+    [
+     "ankle monitor",
+     null,
+     "전자발찌"
+    ],
+    [
+     "tracking him down",
+     "track down",
+     "추적하다"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title": "비닐하우스 옆 지나던 60대, 공기총에 맞아 숨져",
+   "summary": [
+    "21일 오전 강원 평창군 방림면에서 총기 오발 신고가 접수됐다.",
+    "비닐하우스 옆을 지나던 60대 행인 A씨가 공기총에 맞아 숨졌다.",
+    "경찰은 B씨를 중과실치사 혐의로 입건해 조사하고 있다."
+   ],
+   "url": "https://www.seoul.co.kr/news/society/2026/11/21/20261121500038",
+   "media": "서울신문",
+   "date_evidence": "URL 날짜 2026-11-21(KST), 사건 시각 21일 오전",
+   "title_en": "Man in his 60s killed by air gun shot while walking past a greenhouse",
+   "summary_en": [
+    "Authorities received a report of an accidental gun discharge in Bangnim-myeon, Pyeongchang County, Gangwon Province, on the morning of Nov. 21.",
+    "A, a passerby in his 60s, was hit by an air gun shot and died while walking past a greenhouse.",
+    "Police booked B on charges of death by gross negligence and are investigating."
+   ],
+   "expressions": [
+    [
+     "accidental gun discharge",
+     null,
+     "총기 오발"
+    ],
+    [
+     "passerby",
+     null,
+     "행인"
+    ],
+    [
+     "gross negligence",
+     null,
+     "중과실"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title": "국토부 \"재초환 부과기한 연장 불가\"…반포현대 179억 부담금 연내 부과 전망",
+   "summary": [
+    "국토교통부는 19일 재건축초과이익환수제(재초환) 부담금 부과 기한을 연장할 수 없다는 서초구 의견을 받아들였다.",
+    "이에 따라 2021년 준공된 반포현대의 부담금 부과 기한은 올해 12월 30일로 확정됐다.",
+    "반포현대의 부담금 예정액은 179억원이다."
+   ],
+   "url": "https://www.fnnews.com/news/202611191436079686",
+   "media": "파이낸셜뉴스",
+   "date_evidence": "URL 날짜 2026-11-19 14:36 KST(시작 06:00 이후)",
+   "title_en": "Land ministry rules out extending reconstruction levy deadline; Banpo Hyundai faces 17.9 billion won levy this year",
+   "summary_en": [
+    "The Ministry of Land, Infrastructure and Transport on Nov. 19 accepted Seocho District's view that the deadline for imposing reconstruction excess-profit levies cannot be extended.",
+    "As a result, the levy deadline for Banpo Hyundai, completed in 2021, was set for Dec. 30 this year.",
+    "Banpo Hyundai's estimated levy is 17.9 billion won."
+   ],
+   "expressions": [
+    [
+     "excess-profit levies",
+     "excess-profit levy",
+     "초과이익 부담금"
+    ],
+    [
+     "set for",
+     null,
+     "~로 정해지다"
+    ],
+    [
+     "estimated levy",
+     null,
+     "부담금 예정액"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "title": "뉴욕증시 폭락…S&P500·다우 조정 국면 진입, 나스닥 5.28% 급락",
+   "summary": [
+    "20일 S&P500지수는 3.7% 내린 6,910.39, 나스닥지수는 5.28% 내린 22,617.73으로 마감했다.",
+    "다우지수는 949.73포인트(1.93%) 내린 48,147.33으로 마감했고, S&P500과 함께 고점 대비 10% 넘게 떨어진 조정 국면에 들어섰다.",
+    "CNBC는 앤트로픽 IPO, 엔비디아의 커지는 악재, 인플레이션 대응에 고전하는 연준 등을 매도세 원인으로 꼽았다."
+   ],
+   "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html",
+   "media": "CNBC",
+   "date_evidence": "URL 날짜 2026-11-20(ET)=11/20 14:00~11/21 14:00 KST, 기간 내",
+   "title_en": "Wall Street sell-off: S&P 500 and Dow enter correction as Nasdaq plunges 5.28%",
+   "summary_en": [
+    "On Nov. 20, the S&P 500 fell 3.7% to close at 6,910.39, and the Nasdaq dropped 5.28% to 22,617.73.",
+    "The Dow lost 949.73 points, or 1.93%, to 48,147.33, entering correction territory more than 10% below its record along with the S&P 500.",
+    "CNBC cited the Anthropic IPO, Nvidia's mounting troubles and a Federal Reserve losing the inflation fight among the reasons for the sell-off."
+   ],
+   "expressions": [
+    [
+     "correction territory",
+     null,
+     "조정 국면"
+    ],
+    [
+     "mounting troubles",
+     null,
+     "커지는 악재"
+    ],
+    [
+     "sell-off",
+     null,
+     "매도세"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "정치",
+   "title": "트럼프, 시진핑·푸틴 회담 후 기자회견…\"미국 다시 존중받아\"",
+   "summary": [
+    "트럼프 대통령은 20일 백악관 기자회견에서 아시아 순방과 시진핑 국가주석·푸틴 대통령과의 회담 성과를 내세웠다.",
+    "트럼프 대통령은 미국이 \"전례 없이 다시 존중받고 있다\"고 말했고, 시진핑 주석과 AI 안전장치에 관한 몇 가지 합의를 했다고 밝혔다.",
+    "그는 대중국 반도체 수출 문제를 두고 베선트 재무장관 등과 갈등을 빚는 러트닉 상무장관을 여전히 지지한다고 말했다."
+   ],
+   "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/",
+   "media": "CBS News",
+   "date_evidence": "URL 날짜 2026-11-20(ET), 기간 내",
+   "title_en": "Trump holds press conference after Xi-Putin summit: U.S. \"respected again\"",
+   "summary_en": [
+    "At a White House news conference on Nov. 20, President Trump touted his Asia trip and his meetings with Chinese President Xi Jinping and Russian President Vladimir Putin.",
+    "Trump said the U.S. is \"respected again like never before\" and that he and Xi had reached some agreements on putting guardrails on AI.",
+    "He said he still backs Commerce Secretary Howard Lutnick amid a rift with Treasury Secretary Scott Bessent and others over chips going to China."
+   ],
+   "expressions": [
+    [
+     "touted",
+     "tout",
+     "내세우다"
+    ],
+    [
+     "guardrails",
+     "guardrail",
+     "안전장치"
+    ],
+    [
+     "amid a rift",
+     null,
+     "갈등 속에"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "정치",
+   "title": "트럼프, '야구 전설' 피트 로즈 사후 사면",
+   "summary": [
+    "트럼프 대통령은 19일 아시아 순방에서 돌아오는 길에 트루스소셜을 통해 MLB 통산 최다 안타 기록 보유자 피트 로즈를 사후 사면한다고 발표했다.",
+    "트럼프 대통령은 사면 범위를 구체적으로 밝히지 않았고, 백악관 관계자는 로즈의 탈세 혐의를 언급했다.",
+    "사면은 야구 명예의 전당에는 적용되지 않는다."
+   ],
+   "url": "https://www.cbsnews.com/news/pete-rose-pardoned-by-trump/",
+   "media": "CBS News",
+   "date_evidence": "검색 결과: 11/19(ET) 트루스소셜 발표 보도(CNN 동일 이슈 URL 2026/11/19), 기간 시작 11/18 16:00 ET 이후",
+   "title_en": "Trump posthumously pardons baseball legend Pete Rose",
+   "summary_en": [
+    "Flying home from Asia on Nov. 19, President Trump announced on Truth Social a posthumous pardon for Pete Rose, MLB's all-time hits leader.",
+    "Trump did not specify what the pardon covers, and a White House official pointed to Rose's tax charges.",
+    "The pardon does not apply to the Baseball Hall of Fame."
+   ],
+   "expressions": [
+    [
+     "posthumous pardon",
+     null,
+     "사후 사면"
+    ],
+    [
+     "all-time hits leader",
+     null,
+     "통산 최다 안타 기록 보유자"
+    ],
+    [
+     "pointed to",
+     "point to",
+     "언급하다"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "사회",
+   "title": "2025년 LA 팰리세이즈 산불 낸 남성, 재심서 유죄 평결",
+   "summary": [
+    "연방 배심원단은 20일 재심에서 2025년 로스앤젤레스 팰리세이즈 산불을 낸 혐의로 기소된 조너선 린더크네히트(30)에게 유죄를 평결했다.",
+    "검찰은 그가 2025년 1월 1일 낸 라크먼 산불이 일주일간 잠복하다 팰리세이즈 산불로 번졌다고 주장했다.",
+    "지난 6월 열린 1차 재판은 심리 무효로 끝났다."
+   ],
+   "url": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336",
+   "media": "NBC News",
+   "date_evidence": "검색 결과: 재심 평결 11/20(금, ET), CNN 동일 이슈 URL 2026/11/20",
+   "title_en": "Man found guilty in retrial over 2025 Palisades Fire in Los Angeles",
+   "summary_en": [
+    "A federal jury on Nov. 20 convicted Jonathan Rinderknecht, 30, in his retrial on charges of starting the 2025 Palisades Fire in Los Angeles.",
+    "Prosecutors said the Lachman Fire he set on Jan. 1, 2025, smoldered for a week before becoming the Palisades Fire.",
+    "His first trial in June ended in a mistrial."
+   ],
+   "expressions": [
+    [
+     "convicted",
+     "convict",
+     "유죄 평결하다"
+    ],
+    [
+     "smoldered",
+     "smolder",
+     "불씨가 남아 타다"
+    ],
+    [
+     "ended in a mistrial",
+     "end in a mistrial",
+     "심리 무효로 끝나다"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "사회",
+   "title": "법원, 미 육군의 아이오와 '납 아지드 5톤' 폭파 계획 일시 중단 명령",
+   "summary": [
+    "연방 판사가 미 육군에 납 아지드 5톤을 폭파 처리하려던 계획을 일시 중단하라고 명령했다.",
+    "환경 운동가들이 소송을 제기한 데 따른 것으로, 아이오와 주민들은 납 노출을 우려하고 있다.",
+    "납 아지드는 폭탄 제조에 쓰이는 물질이다."
+   ],
+   "url": "https://www.cnn.com/2026/11/20/us/iowa-lead-azide-army-detonation",
+   "media": "CNN",
+   "date_evidence": "URL 날짜 2026-11-20(ET), 기간 내",
+   "title_en": "Judge halts Army's plan to detonate 5 tons of lead azide in Iowa",
+   "summary_en": [
+    "A federal judge ordered the U.S. Army to pause its plan to detonate five tons of lead azide.",
+    "The order came after environmental activists sued, as Iowa residents worry about lead exposure.",
+    "Lead azide is a bomb-making material."
+   ],
+   "expressions": [
+    [
+     "detonate",
+     null,
+     "폭파하다"
+    ],
+    [
+     "lead exposure",
+     null,
+     "납 노출"
+    ],
+    [
+     "bomb-making material",
+     null,
+     "폭탄 제조 물질"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "모빌리티",
+   "title": "머스크 \"운전대·페달 없는 모델Y 만들 것\"…출시 시점은 미정",
+   "summary": [
+    "일론 머스크 테슬라 CEO는 뉴욕타임스 딜북 서밋에서 운전대와 페달이 없는 자율주행 모델Y를 만들 계획이라고 밝혔다.",
+    "이 차량은 6~7명을 태우는 단체 이동용으로, 2인승 사이버캡을 보완하는 모델이다.",
+    "출시 시점은 제시되지 않았고, 미국 연방 자동차 안전기준은 차량에 기본 운전 장치를 갖추도록 요구한다."
+   ],
+   "url": "https://electrek.co/2026/11/19/musk-tesla-model-y-no-steering-wheel-7-seat/",
+   "media": "Electrek",
+   "date_evidence": "URL 날짜 2026-11-19(ET), 기간 시작 11/18 16:00 ET 이후",
+   "title_en": "Musk says Tesla will build a Model Y with no steering wheel or pedals, but gives no date",
+   "summary_en": [
+    "Tesla CEO Elon Musk said at The New York Times' DealBook Summit that Tesla plans to build an autonomous Model Y without a steering wheel or pedals.",
+    "The vehicle is meant for transporting groups of six or seven people, complementing the two-seat Cybercab.",
+    "No timeline was given, and U.S. Federal Motor Vehicle Safety Standards require vehicles to include basic driver controls."
+   ],
+   "expressions": [
+    [
+     "steering wheel",
+     null,
+     "운전대"
+    ],
+    [
+     "complementing",
+     "complement",
+     "보완하다"
+    ],
+    [
+     "driver controls",
+     null,
+     "운전 장치"
+    ]
+   ]
+  }
+ ],
+ "headlines": [
+  {
+   "ko": "뉴욕증시에서 S&P500이 3.7%, 나스닥이 5.28% 급락했고 S&P500과 다우지수가 조정 국면에 들어섰다",
+   "en": "On Wall Street, the S&P 500 sank 3.7% and the Nasdaq 5.28%, pushing the S&P 500 and the Dow into correction"
+  },
+  {
+   "ko": "올해 누적 수출액이 19일 1조 달러를 넘었고 반도체가 전체 수출의 약 43.3%를 차지했다",
+   "en": "Korea's cumulative exports this year topped $1 trillion on Nov. 19, with chips making up about 43.3% of the total"
+  },
+  {
+   "ko": "국토부가 재초환 부과 기한 연장 불가 의견을 받아들이면서 반포현대에 179억원 부담금이 연내 부과될 전망이다",
+   "en": "With the land ministry rejecting an extension of the reconstruction levy deadline, Banpo Hyundai is expected to face a 17.9 billion won levy this year"
+  }
+ ],
+ "parents": {
+  "news": {
+   "text": "📰 **Daily News Brief** | 2026-11-22 (일)\n_수집 기간: 11/19 06:00 ~ 11/22 06:00 KST_\n\n**오늘의 핵심**\n• 뉴욕증시에서 S&P500이 3.7%, 나스닥이 5.28% 급락했고 S&P500과 다우지수가 조정 국면에 들어섰다\n• 올해 누적 수출액이 19일 1조 달러를 넘었고 반도체가 전체 수출의 약 43.3%를 차지했다\n• 국토부가 재초환 부과 기한 연장 불가 의견을 받아들이면서 반포현대에 179억원 부담금이 연내 부과될 전망이다\n\n🧵 상세 뉴스는 스레드에서 분야별로 확인: 🇰🇷 한국·🇺🇸 미국 (경제 · 정치 · 사회 · 부동산 · 모빌리티)",
+   "verified": true,
+   "ts": "1795295429.043719"
+  },
+  "english": {
+   "text": "📚 **Daily English Brief** | 2026-11-22 (일)\n_수집 기간: 11/19 06:00 ~ 11/22 06:00 KST_\n\n**Today's Headlines / 오늘의 핵심**\n• On Wall Street, the S&P 500 sank 3.7% and the Nasdaq 5.28%, pushing the S&P 500 and the Dow into correction\n  _뉴욕증시에서 S&P500이 3.7%, 나스닥이 5.28% 급락했고 S&P500과 다우지수가 조정 국면에 들어섰다_\n• Korea's cumulative exports this year topped $1 trillion on Nov. 19, with chips making up about 43.3% of the total\n  _올해 누적 수출액이 19일 1조 달러를 넘었고 반도체가 전체 수출의 약 43.3%를 차지했다_\n• With the land ministry rejecting an extension of the reconstruction levy deadline, Banpo Hyundai is expected to face a 17.9 billion won levy this year\n  _국토부가 재초환 부과 기한 연장 불가 의견을 받아들이면서 반포현대에 179억원 부담금이 연내 부과될 전망이다_\n\n🧵 Category threads / 스레드에서 분야별 확인: 🇰🇷 Korea·🇺🇸 US (Economy · Politics · Society · Real Estate · Mobility)",
+   "verified": true,
+   "ts": "1795295475.031729"
+  }
+ },
+ "replies": [
+  {
+   "channel": "news",
+   "country": "KR",
+   "category": "경제",
+   "part": 1,
+   "parts": 1,
+   "text": "🇰🇷 **한국 · 💰 경제**\n**1. 수출 누적 1조 달러 돌파…반도체가 1분에 42억원어치 수출**\n• 관세청은 20일 올해 누적 수출액이 19일 오후 2시 9분 기준 1조 달러를 넘었다고 밝혔다.\n• 같은 기간 반도체 수출액은 4339억 달러로 전년 같은 기간보다 197.4% 늘었다.\n• 반도체는 전체 수출액의 약 43.3%를 차지했다.\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026112013480000181)\n\n**2. 한은, 26일 올해 마지막 금통위…기준금리 인상 전망 우세**\n• 한국은행 금융통화위원회는 26일 올해 마지막 통화정책방향 회의를 열어 기준금리를 결정한다.\n• 현재 기준금리는 3.00%이며 시장에서는 추가 인상 가능성이 높다는 전망이 우세하다.\n• 한미 금리차 확대 가능성과 반도체 호조에 따른 성장률·물가 상승률 확대가 인상 요인으로 꼽힌다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611211105346704)",
+   "len": 523,
+   "verified": true,
+   "ts": "1795295435.104269"
+  },
+  {
+   "channel": "english",
+   "country": "KR",
+   "category": "경제",
+   "part": 1,
+   "parts": 1,
+   "text": "🇰🇷 **Korea · 💰 Economy / 한국 · 경제**\n**1. Exports top $1 trillion for the year, with chips shipping 4.2 billion won worth every minute**\n_수출 누적 1조 달러 돌파…반도체가 1분에 42억원어치 수출_\n• The Korea Customs Service said Nov. 20 that cumulative exports this year surpassed $1 trillion as of 2:09 p.m. on Nov. 19.\n  _관세청은 20일 올해 누적 수출액이 19일 오후 2시 9분 기준 1조 달러를 넘었다고 밝혔다._\n• Over the same period, semiconductor exports jumped 197.4% year over year to $433.9 billion.\n  _같은 기간 반도체 수출액은 4339억 달러로 전년 같은 기간보다 197.4% 늘었다._\n• Chips accounted for about 43.3% of total exports.\n  _반도체는 전체 수출액의 약 43.3%를 차지했다._\n📝 `surpassed` (surpass) 넘어서다 · `year over year` 전년 대비 · `accounted for` (account for) 차지하다\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026112013480000181)\n\n**2. BOK holds its last rate meeting of the year on Nov. 26, with a hike widely expected**\n_한은, 26일 올해 마지막 금통위…기준금리 인상 전망 우세_\n• The Bank of Korea's Monetary Policy Board will decide its benchmark rate at its final policy meeting of the year on Nov. 26.\n  _한국은행 금융통화위원회는 26일 올해 마지막 통화정책방향 회의를 열어 기준금리를 결정한다._\n• The base rate currently stands at 3.00%, and markets largely expect another hike.\n  _현재 기준금리는 3.00%이며 시장에서는 추가 인상 가능성이 높다는 전망이 우세하다._\n• A possible wider Korea-U.S. rate gap and higher growth and inflation driven by the chip boom are cited as reasons for a hike.\n  _한미 금리차 확대 가능성과 반도체 호조에 따른 성장률·물가 상승률 확대가 인상 요인으로 꼽힌다._\n📝 `benchmark rate` 기준금리 · `stands at` (stand at) ~이다(수준에 있다) · `rate gap` 금리차\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611211105346704)",
+   "len": 1513,
+   "verified": true,
+   "ts": "1795295484.135969"
+  },
+  {
+   "channel": "news",
+   "country": "KR",
+   "category": "정치",
+   "part": 1,
+   "parts": 1,
+   "text": "🇰🇷 **한국 · 🏛️ 정치**\n**1. 이 대통령 지지율 40%로 1%p 상승…민주 36%·국힘 28% [갤럽]**\n• 한국갤럽이 20일 발표한 조사에서 이재명 대통령의 국정 지지율은 40%였다.\n• 이는 전주보다 1%p 오른 수치다.\n• 정당 지지도는 더불어민주당 36%, 국민의힘 28%였다.\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026112011060004277)\n\n**2. 이 대통령, 울산 AI 데이터센터 방문…\"지방 중심 AI 투자로 균형 발전\"**\n• 이재명 대통령은 21일 울산 SK AI 데이터센터 건설 현장을 찾았다.\n• 이 대통령은 수도권 집중 때문에 온갖 문제가 발생하고 있다며 지방 중심 AI 투자로 균형 발전을 이뤄야 한다고 말했다.\n• 같은 날 울산의 전통시장 두 곳도 방문했다.\n🔗 [세계일보](https://www.segye.com/newsView/20261121504606)\n\n**3. 국민의힘, 대구서 장외집회…조작기소 특검법·조희대 탄핵 추진 비판**\n• 국민의힘은 21일 대구에서 대규모 장외집회를 열고 여당의 조작기소 특검법 강행 처리와 조희대 대법원장 탄핵 추진을 비판했다.\n• 집회에서는 이재명 대통령 재판 재개도 촉구했다.\n• 국민의힘은 민주당의 특검법 강행 처리에 반발해 지난 7일부터 전국을 돌며 장외집회를 열고 있다.\n🔗 [주간경향](https://weekly.khan.co.kr/article/202611211935001/)",
+   "len": 746,
+   "verified": true,
+   "ts": "1795295440.097759"
+  },
+  {
+   "channel": "english",
+   "country": "KR",
+   "category": "정치",
+   "part": 1,
+   "parts": 1,
+   "text": "🇰🇷 **Korea · 🏛️ Politics / 한국 · 정치**\n**1. President Lee's approval rises 1 point to 40%; Democrats 36%, PPP 28% (Gallup)**\n_이 대통령 지지율 40%로 1%p 상승…민주 36%·국힘 28% [갤럽]_\n• In a Gallup Korea poll released Nov. 20, President Lee Jae-myung's approval rating came in at 40%.\n  _한국갤럽이 20일 발표한 조사에서 이재명 대통령의 국정 지지율은 40%였다._\n• That was up 1 percentage point from the previous week.\n  _이는 전주보다 1%p 오른 수치다._\n• In party support, the Democratic Party polled 36% and the People Power Party 28%.\n  _정당 지지도는 더불어민주당 36%, 국민의힘 28%였다._\n📝 `approval rating` 지지율 · `percentage point` 퍼센트포인트 · `polled` (poll) 지지율을 얻다\n🔗 [한국일보](https://www.hankookilbo.com/news/article/A2026112011060004277)\n\n**2. President Lee visits Ulsan AI data center site: \"Balanced growth through AI investment in the regions\"**\n_이 대통령, 울산 AI 데이터센터 방문…\"지방 중심 AI 투자로 균형 발전\"_\n• President Lee Jae-myung visited the construction site of SK's AI data center in Ulsan on Nov. 21.\n  _이재명 대통령은 21일 울산 SK AI 데이터센터 건설 현장을 찾았다._\n• Lee said overconcentration in the Seoul metropolitan area is causing all sorts of problems and called for balanced development through AI investment in the regions.\n  _이 대통령은 수도권 집중 때문에 온갖 문제가 발생하고 있다며 지방 중심 AI 투자로 균형 발전을 이뤄야 한다고 말했다._\n• He also stopped by two traditional markets in Ulsan the same day.\n  _같은 날 울산의 전통시장 두 곳도 방문했다._\n📝 `construction site` 건설 현장 · `called for` (call for) 촉구하다 · `stopped by` (stop by) 들르다\n🔗 [세계일보](https://www.segye.com/newsView/20261121504606)\n\n**3. People Power Party rallies in Daegu against the special counsel bill and push to impeach Jo Hee-de**\n_국민의힘, 대구서 장외집회…조작기소 특검법·조희대 탄핵 추진 비판_\n• The People Power Party held a large outdoor rally in Daegu on Nov. 21, slamming the ruling party for ramming through the fabricated-indictment special counsel bill and pushing to impeach Chief Justice Jo Hee-de.\n  _국민의힘은 21일 대구에서 대규모 장외집회를 열고 여당의 조작기소 특검법 강행 처리와 조희대 대법원장 탄핵 추진을 비판했다._\n• The rally also demanded that President Lee Jae-myung's trials resume.\n  _집회에서는 이재명 대통령 재판 재개도 촉구했다._\n• The party has been holding rallies across the country since Nov. 7 in protest of the Democratic Party's forced passage of the special counsel bill.\n  _국민의힘은 민주당의 특검법 강행 처리에 반발해 지난 7일부터 전국을 돌며 장외집회를 열고 있다._\n📝 `ramming through` (ram through) 강행 처리하다 · `special counsel` 특별검사 · `in protest of` ~에 항의해\n🔗 [주간경향](https://weekly.khan.co.kr/article/202611211935001/)",
+   "len": 2341,
+   "verified": true,
+   "ts": "1795295493.025659"
+  },
+  {
+   "channel": "news",
+   "country": "KR",
+   "category": "사회",
+   "part": 1,
+   "parts": 1,
+   "text": "🇰🇷 **한국 · 👥 사회**\n**1. 50대 성범죄자, 전자발찌 끊고 도주…평택서 진천으로 이동해 훼손**\n• 보호관찰 중이던 50대 성범죄자가 21일 오전 8시 50분쯤 충북 진천군에서 전자발찌를 끊고 달아났다.\n• 그는 평택에서 진천으로 이동한 뒤 전자발찌를 훼손한 것으로 전해졌다.\n• 법무부 보호관찰소는 경찰과 공조해 그의 뒤를 쫓고 있다.\n🔗 [서울신문](https://www.seoul.co.kr/news/society/accident/2026/11/21/20261121500031)\n\n**2. 비닐하우스 옆 지나던 60대, 공기총에 맞아 숨져**\n• 21일 오전 강원 평창군 방림면에서 총기 오발 신고가 접수됐다.\n• 비닐하우스 옆을 지나던 60대 행인 A씨가 공기총에 맞아 숨졌다.\n• 경찰은 B씨를 중과실치사 혐의로 입건해 조사하고 있다.\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/21/20261121500038)",
+   "len": 496,
+   "verified": true,
+   "ts": "1795295443.771189"
+  },
+  {
+   "channel": "english",
+   "country": "KR",
+   "category": "사회",
+   "part": 1,
+   "parts": 1,
+   "text": "🇰🇷 **Korea · 👥 Society / 한국 · 사회**\n**1. Sex offender in his 50s cuts off ankle monitor and flees after moving from Pyeongtaek to Jincheon**\n_50대 성범죄자, 전자발찌 끊고 도주…평택서 진천으로 이동해 훼손_\n• A sex offender in his 50s who was on probation cut off his electronic ankle monitor and fled in Jincheon County, North Chungcheong Province, at around 8:50 a.m. on Nov. 21.\n  _보호관찰 중이던 50대 성범죄자가 21일 오전 8시 50분쯤 충북 진천군에서 전자발찌를 끊고 달아났다._\n• He reportedly traveled from Pyeongtaek to Jincheon before tampering with the device.\n  _그는 평택에서 진천으로 이동한 뒤 전자발찌를 훼손한 것으로 전해졌다._\n• The Justice Ministry's probation office is tracking him down in cooperation with police.\n  _법무부 보호관찰소는 경찰과 공조해 그의 뒤를 쫓고 있다._\n📝 `on probation` 보호관찰 중인 · `ankle monitor` 전자발찌 · `tracking him down` (track down) 추적하다\n🔗 [서울신문](https://www.seoul.co.kr/news/society/accident/2026/11/21/20261121500031)\n\n**2. Man in his 60s killed by air gun shot while walking past a greenhouse**\n_비닐하우스 옆 지나던 60대, 공기총에 맞아 숨져_\n• Authorities received a report of an accidental gun discharge in Bangnim-myeon, Pyeongchang County, Gangwon Province, on the morning of Nov. 21.\n  _21일 오전 강원 평창군 방림면에서 총기 오발 신고가 접수됐다._\n• A, a passerby in his 60s, was hit by an air gun shot and died while walking past a greenhouse.\n  _비닐하우스 옆을 지나던 60대 행인 A씨가 공기총에 맞아 숨졌다._\n• Police booked B on charges of death by gross negligence and are investigating.\n  _경찰은 B씨를 중과실치사 혐의로 입건해 조사하고 있다._\n📝 `accidental gun discharge` 총기 오발 · `passerby` 행인 · `gross negligence` 중과실\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/21/20261121500038)",
+   "len": 1539,
+   "verified": true,
+   "ts": "1795295499.200599"
+  },
+  {
+   "channel": "news",
+   "country": "KR",
+   "category": "부동산",
+   "part": 1,
+   "parts": 1,
+   "text": "🇰🇷 **한국 · 🏠 부동산**\n**1. 국토부 \"재초환 부과기한 연장 불가\"…반포현대 179억 부담금 연내 부과 전망**\n• 국토교통부는 19일 재건축초과이익환수제(재초환) 부담금 부과 기한을 연장할 수 없다는 서초구 의견을 받아들였다.\n• 이에 따라 2021년 준공된 반포현대의 부담금 부과 기한은 올해 12월 30일로 확정됐다.\n• 반포현대의 부담금 예정액은 179억원이다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611191436079686)",
+   "len": 271,
+   "verified": true,
+   "ts": "1795295446.171829"
+  },
+  {
+   "channel": "english",
+   "country": "KR",
+   "category": "부동산",
+   "part": 1,
+   "parts": 1,
+   "text": "🇰🇷 **Korea · 🏠 Real Estate / 한국 · 부동산**\n**1. Land ministry rules out extending reconstruction levy deadline; Banpo Hyundai faces 17.9 billion won levy this year**\n_국토부 \"재초환 부과기한 연장 불가\"…반포현대 179억 부담금 연내 부과 전망_\n• The Ministry of Land, Infrastructure and Transport on Nov. 19 accepted Seocho District's view that the deadline for imposing reconstruction excess-profit levies cannot be extended.\n  _국토교통부는 19일 재건축초과이익환수제(재초환) 부담금 부과 기한을 연장할 수 없다는 서초구 의견을 받아들였다._\n• As a result, the levy deadline for Banpo Hyundai, completed in 2021, was set for Dec. 30 this year.\n  _이에 따라 2021년 준공된 반포현대의 부담금 부과 기한은 올해 12월 30일로 확정됐다._\n• Banpo Hyundai's estimated levy is 17.9 billion won.\n  _반포현대의 부담금 예정액은 179억원이다._\n📝 `excess-profit levies` (excess-profit levy) 초과이익 부담금 · `set for` ~로 정해지다 · `estimated levy` 부담금 예정액\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611191436079686)",
+   "len": 858,
+   "verified": true,
+   "ts": "1795295503.125289"
+  },
+  {
+   "channel": "news",
+   "country": "KR",
+   "category": "모빌리티",
+   "part": 1,
+   "parts": 1,
+   "text": "🇰🇷 **한국 · 🚗 모빌리티**\n_해당 기간 새 기사 없음_",
+   "len": 34,
+   "verified": true,
+   "ts": "1795295447.071539"
+  },
+  {
+   "channel": "english",
+   "country": "KR",
+   "category": "모빌리티",
+   "part": 1,
+   "parts": 1,
+   "text": "🇰🇷 **Korea · 🚗 Mobility / 한국 · 모빌리티**\n_No new articles in this period / 해당 기간 새 기사 없음_",
+   "len": 86,
+   "verified": true,
+   "ts": "1795295504.055089"
+  },
+  {
+   "channel": "news",
+   "country": "US",
+   "category": "경제",
+   "part": 1,
+   "parts": 1,
+   "text": "🇺🇸 **미국 · 💰 경제**\n**1. 뉴욕증시 폭락…S&P500·다우 조정 국면 진입, 나스닥 5.28% 급락**\n• 20일 S&P500지수는 3.7% 내린 6,910.39, 나스닥지수는 5.28% 내린 22,617.73으로 마감했다.\n• 다우지수는 949.73포인트(1.93%) 내린 48,147.33으로 마감했고, S&P500과 함께 고점 대비 10% 넘게 떨어진 조정 국면에 들어섰다.\n• CNBC는 앤트로픽 IPO, 엔비디아의 커지는 악재, 인플레이션 대응에 고전하는 연준 등을 매도세 원인으로 꼽았다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html)",
+   "len": 367,
+   "verified": true,
+   "ts": "1795295453.148419"
+  },
+  {
+   "channel": "english",
+   "country": "US",
+   "category": "경제",
+   "part": 1,
+   "parts": 1,
+   "text": "🇺🇸 **US · 💰 Economy / 미국 · 경제**\n**1. Wall Street sell-off: S&P 500 and Dow enter correction as Nasdaq plunges 5.28%**\n_뉴욕증시 폭락…S&P500·다우 조정 국면 진입, 나스닥 5.28% 급락_\n• On Nov. 20, the S&P 500 fell 3.7% to close at 6,910.39, and the Nasdaq dropped 5.28% to 22,617.73.\n  _20일 S&P500지수는 3.7% 내린 6,910.39, 나스닥지수는 5.28% 내린 22,617.73으로 마감했다._\n• The Dow lost 949.73 points, or 1.93%, to 48,147.33, entering correction territory more than 10% below its record along with the S&P 500.\n  _다우지수는 949.73포인트(1.93%) 내린 48,147.33으로 마감했고, S&P500과 함께 고점 대비 10% 넘게 떨어진 조정 국면에 들어섰다._\n• CNBC cited the Anthropic IPO, Nvidia's mounting troubles and a Federal Reserve losing the inflation fight among the reasons for the sell-off.\n  _CNBC는 앤트로픽 IPO, 엔비디아의 커지는 악재, 인플레이션 대응에 고전하는 연준 등을 매도세 원인으로 꼽았다._\n📝 `correction territory` 조정 국면 · `mounting troubles` 커지는 악재 · `sell-off` 매도세\n🔗 [CNBC](https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html)",
+   "len": 930,
+   "verified": true,
+   "ts": "1795295511.106739"
+  },
+  {
+   "channel": "news",
+   "country": "US",
+   "category": "정치",
+   "part": 1,
+   "parts": 1,
+   "text": "🇺🇸 **미국 · 🏛️ 정치**\n**1. 트럼프, 시진핑·푸틴 회담 후 기자회견…\"미국 다시 존중받아\"**\n• 트럼프 대통령은 20일 백악관 기자회견에서 아시아 순방과 시진핑 국가주석·푸틴 대통령과의 회담 성과를 내세웠다.\n• 트럼프 대통령은 미국이 \"전례 없이 다시 존중받고 있다\"고 말했고, 시진핑 주석과 AI 안전장치에 관한 몇 가지 합의를 했다고 밝혔다.\n• 그는 대중국 반도체 수출 문제를 두고 베선트 재무장관 등과 갈등을 빚는 러트닉 상무장관을 여전히 지지한다고 말했다.\n🔗 [CBS News](https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/)\n\n**2. 트럼프, '야구 전설' 피트 로즈 사후 사면**\n• 트럼프 대통령은 19일 아시아 순방에서 돌아오는 길에 트루스소셜을 통해 MLB 통산 최다 안타 기록 보유자 피트 로즈를 사후 사면한다고 발표했다.\n• 트럼프 대통령은 사면 범위를 구체적으로 밝히지 않았고, 백악관 관계자는 로즈의 탈세 혐의를 언급했다.\n• 사면은 야구 명예의 전당에는 적용되지 않는다.\n🔗 [CBS News](https://www.cbsnews.com/news/pete-rose-pardoned-by-trump/)",
+   "len": 643,
+   "verified": true,
+   "ts": "1795295457.688939"
+  },
+  {
+   "channel": "english",
+   "country": "US",
+   "category": "정치",
+   "part": 1,
+   "parts": 1,
+   "text": "🇺🇸 **US · 🏛️ Politics / 미국 · 정치**\n**1. Trump holds press conference after Xi-Putin summit: U.S. \"respected again\"**\n_트럼프, 시진핑·푸틴 회담 후 기자회견…\"미국 다시 존중받아\"_\n• At a White House news conference on Nov. 20, President Trump touted his Asia trip and his meetings with Chinese President Xi Jinping and Russian President Vladimir Putin.\n  _트럼프 대통령은 20일 백악관 기자회견에서 아시아 순방과 시진핑 국가주석·푸틴 대통령과의 회담 성과를 내세웠다._\n• Trump said the U.S. is \"respected again like never before\" and that he and Xi had reached some agreements on putting guardrails on AI.\n  _트럼프 대통령은 미국이 \"전례 없이 다시 존중받고 있다\"고 말했고, 시진핑 주석과 AI 안전장치에 관한 몇 가지 합의를 했다고 밝혔다._\n• He said he still backs Commerce Secretary Howard Lutnick amid a rift with Treasury Secretary Scott Bessent and others over chips going to China.\n  _그는 대중국 반도체 수출 문제를 두고 베선트 재무장관 등과 갈등을 빚는 러트닉 상무장관을 여전히 지지한다고 말했다._\n📝 `touted` (tout) 내세우다 · `guardrails` (guardrail) 안전장치 · `amid a rift` 갈등 속에\n🔗 [CBS News](https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/)\n\n**2. Trump posthumously pardons baseball legend Pete Rose**\n_트럼프, '야구 전설' 피트 로즈 사후 사면_\n• Flying home from Asia on Nov. 19, President Trump announced on Truth Social a posthumous pardon for Pete Rose, MLB's all-time hits leader.\n  _트럼프 대통령은 19일 아시아 순방에서 돌아오는 길에 트루스소셜을 통해 MLB 통산 최다 안타 기록 보유자 피트 로즈를 사후 사면한다고 발표했다._\n• Trump did not specify what the pardon covers, and a White House official pointed to Rose's tax charges.\n  _트럼프 대통령은 사면 범위를 구체적으로 밝히지 않았고, 백악관 관계자는 로즈의 탈세 혐의를 언급했다._\n• The pardon does not apply to the Baseball Hall of Fame.\n  _사면은 야구 명예의 전당에는 적용되지 않는다._\n📝 `posthumous pardon` 사후 사면 · `all-time hits leader` 통산 최다 안타 기록 보유자 · `pointed to` (point to) 언급하다\n🔗 [CBS News](https://www.cbsnews.com/news/pete-rose-pardoned-by-trump/)",
+   "len": 1742,
+   "verified": true,
+   "ts": "1795295518.366099"
+  },
+  {
+   "channel": "news",
+   "country": "US",
+   "category": "사회",
+   "part": 1,
+   "parts": 1,
+   "text": "🇺🇸 **미국 · 👥 사회**\n**1. 2025년 LA 팰리세이즈 산불 낸 남성, 재심서 유죄 평결**\n• 연방 배심원단은 20일 재심에서 2025년 로스앤젤레스 팰리세이즈 산불을 낸 혐의로 기소된 조너선 린더크네히트(30)에게 유죄를 평결했다.\n• 검찰은 그가 2025년 1월 1일 낸 라크먼 산불이 일주일간 잠복하다 팰리세이즈 산불로 번졌다고 주장했다.\n• 지난 6월 열린 1차 재판은 심리 무효로 끝났다.\n🔗 [NBC News](https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336)\n\n**2. 법원, 미 육군의 아이오와 '납 아지드 5톤' 폭파 계획 일시 중단 명령**\n• 연방 판사가 미 육군에 납 아지드 5톤을 폭파 처리하려던 계획을 일시 중단하라고 명령했다.\n• 환경 운동가들이 소송을 제기한 데 따른 것으로, 아이오와 주민들은 납 노출을 우려하고 있다.\n• 납 아지드는 폭탄 제조에 쓰이는 물질이다.\n🔗 [CNN](https://www.cnn.com/2026/11/20/us/iowa-lead-azide-army-detonation)",
+   "len": 601,
+   "verified": true,
+   "ts": "1795295461.715329"
+  },
+  {
+   "channel": "english",
+   "country": "US",
+   "category": "사회",
+   "part": 1,
+   "parts": 1,
+   "text": "🇺🇸 **US · 👥 Society / 미국 · 사회**\n**1. Man found guilty in retrial over 2025 Palisades Fire in Los Angeles**\n_2025년 LA 팰리세이즈 산불 낸 남성, 재심서 유죄 평결_\n• A federal jury on Nov. 20 convicted Jonathan Rinderknecht, 30, in his retrial on charges of starting the 2025 Palisades Fire in Los Angeles.\n  _연방 배심원단은 20일 재심에서 2025년 로스앤젤레스 팰리세이즈 산불을 낸 혐의로 기소된 조너선 린더크네히트(30)에게 유죄를 평결했다._\n• Prosecutors said the Lachman Fire he set on Jan. 1, 2025, smoldered for a week before becoming the Palisades Fire.\n  _검찰은 그가 2025년 1월 1일 낸 라크먼 산불이 일주일간 잠복하다 팰리세이즈 산불로 번졌다고 주장했다._\n• His first trial in June ended in a mistrial.\n  _지난 6월 열린 1차 재판은 심리 무효로 끝났다._\n📝 `convicted` (convict) 유죄 평결하다 · `smoldered` (smolder) 불씨가 남아 타다 · `ended in a mistrial` (end in a mistrial) 심리 무효로 끝나다\n🔗 [NBC News](https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336)\n\n**2. Judge halts Army's plan to detonate 5 tons of lead azide in Iowa**\n_법원, 미 육군의 아이오와 '납 아지드 5톤' 폭파 계획 일시 중단 명령_\n• A federal judge ordered the U.S. Army to pause its plan to detonate five tons of lead azide.\n  _연방 판사가 미 육군에 납 아지드 5톤을 폭파 처리하려던 계획을 일시 중단하라고 명령했다._\n• The order came after environmental activists sued, as Iowa residents worry about lead exposure.\n  _환경 운동가들이 소송을 제기한 데 따른 것으로, 아이오와 주민들은 납 노출을 우려하고 있다._\n• Lead azide is a bomb-making material.\n  _납 아지드는 폭탄 제조에 쓰이는 물질이다._\n📝 `detonate` 폭파하다 · `lead exposure` 납 노출 · `bomb-making material` 폭탄 제조 물질\n🔗 [CNN](https://www.cnn.com/2026/11/20/us/iowa-lead-azide-army-detonation)",
+   "len": 1501,
+   "verified": true,
+   "ts": "1795295525.169459"
+  },
+  {
+   "channel": "news",
+   "country": "US",
+   "category": "부동산",
+   "part": 1,
+   "parts": 1,
+   "text": "🇺🇸 **미국 · 🏠 부동산**\n_해당 기간 새 기사 없음_",
+   "len": 33,
+   "verified": true,
+   "ts": "1795295462.783299"
+  },
+  {
+   "channel": "english",
+   "country": "US",
+   "category": "부동산",
+   "part": 1,
+   "parts": 1,
+   "text": "🇺🇸 **US · 🏠 Real Estate / 미국 · 부동산**\n_No new articles in this period / 해당 기간 새 기사 없음_",
+   "len": 85,
+   "verified": true,
+   "ts": "1795295526.316309"
+  },
+  {
+   "channel": "news",
+   "country": "US",
+   "category": "모빌리티",
+   "part": 1,
+   "parts": 1,
+   "text": "🇺🇸 **미국 · 🚗 모빌리티**\n**1. 머스크 \"운전대·페달 없는 모델Y 만들 것\"…출시 시점은 미정**\n• 일론 머스크 테슬라 CEO는 뉴욕타임스 딜북 서밋에서 운전대와 페달이 없는 자율주행 모델Y를 만들 계획이라고 밝혔다.\n• 이 차량은 6~7명을 태우는 단체 이동용으로, 2인승 사이버캡을 보완하는 모델이다.\n• 출시 시점은 제시되지 않았고, 미국 연방 자동차 안전기준은 차량에 기본 운전 장치를 갖추도록 요구한다.\n🔗 [Electrek](https://electrek.co/2026/11/19/musk-tesla-model-y-no-steering-wheel-7-seat/)",
+   "len": 327,
+   "verified": true,
+   "ts": "1795295465.268059"
+  },
+  {
+   "channel": "english",
+   "country": "US",
+   "category": "모빌리티",
+   "part": 1,
+   "parts": 1,
+   "text": "🇺🇸 **US · 🚗 Mobility / 미국 · 모빌리티**\n**1. Musk says Tesla will build a Model Y with no steering wheel or pedals, but gives no date**\n_머스크 \"운전대·페달 없는 모델Y 만들 것\"…출시 시점은 미정_\n• Tesla CEO Elon Musk said at The New York Times' DealBook Summit that Tesla plans to build an autonomous Model Y without a steering wheel or pedals.\n  _일론 머스크 테슬라 CEO는 뉴욕타임스 딜북 서밋에서 운전대와 페달이 없는 자율주행 모델Y를 만들 계획이라고 밝혔다._\n• The vehicle is meant for transporting groups of six or seven people, complementing the two-seat Cybercab.\n  _이 차량은 6~7명을 태우는 단체 이동용으로, 2인승 사이버캡을 보완하는 모델이다._\n• No timeline was given, and U.S. Federal Motor Vehicle Safety Standards require vehicles to include basic driver controls.\n  _출시 시점은 제시되지 않았고, 미국 연방 자동차 안전기준은 차량에 기본 운전 장치를 갖추도록 요구한다._\n📝 `steering wheel` 운전대 · `complementing` (complement) 보완하다 · `driver controls` 운전 장치\n🔗 [Electrek](https://electrek.co/2026/11/19/musk-tesla-model-y-no-steering-wheel-7-seat/)",
+   "len": 907,
+   "verified": true,
+   "ts": "1795295530.206169"
+  }
+ ],
+ "verification_errors": []
+}
