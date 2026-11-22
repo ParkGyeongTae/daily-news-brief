@@ -1,0 +1,678 @@
+{
+ "date": "2026-11-23",
+ "period": "11/20 06:00 ~ 11/23 06:00 KST",
+ "articles": [
+  {
+   "country": "KR",
+   "category": "경제",
+   "title_ko": "'블랙먼데이' 우려에 정부 긴급 F4 회의 가동",
+   "title_en": "Government convenes emergency F4 meeting amid 'Black Monday' fears",
+   "lines": [
+    [
+     "Deputy Prime Minister and Finance Minister Lee Hyung-il held an emergency market review meeting (F4) on the afternoon of the 22nd to discuss stock market stabilization measures.",
+     "이형일 부총리 겸 재정경제부 장관은 22일 오후 긴급 시장상황점검회의(F4 회의)를 열어 증시 안정 대책을 논의했다."
+    ],
+    [
+     "After the KOSPI closed down 5.21% at 4,869.96 on the 20th, the Nasdaq plunged 5.3% that day local time, fueling 'Black Monday' fears for the 23rd.",
+     "코스피가 20일 5.21% 내린 4869.96으로 마감한 데 이어 나스닥이 20일(현지시간) 5.3% 폭락하면서 23일 '블랙먼데이' 우려가 커졌다."
+    ],
+    [
+     "The F4 reportedly unveiled stabilization steps, including easing caps on listed firms' share buyback orders and a special crackdown on illegal short selling, both for three months.",
+     "F4는 상장사 자기주식 매수 주문 수량 한도 3개월 완화, 불법 공매도 3개월 특별 집중 감시 등 시장안정조치를 내놓은 것으로 전해졌다."
+    ]
+   ],
+   "media": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611221422508097",
+   "date_evidence": "URL 202611221422 = 2026-11-22 14:22 KST",
+   "expressions": [
+    [
+     "fueling",
+     "fuel",
+     "~을 부추기다"
+    ],
+    [
+     "share buyback",
+     null,
+     "자사주 매입"
+    ],
+    [
+     "short selling",
+     null,
+     "공매도"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "경제",
+   "title_ko": "코스피 4800선 같은데…시총 1조 클럽 1월보다 26곳 감소",
+   "title_en": "Same KOSPI level, but 26 fewer trillion-won club stocks than in January",
+   "lines": [
+    [
+     "On the 20th, 211 KOSPI stocks had a market cap of at least 1 trillion won, down 26 (11.0%) from 237 on Jan. 16, when the index closed at 4,840.74.",
+     "20일 유가증권시장 시가총액 1조원 이상 종목은 211개로, 코스피가 4840.74에 마감한 1월 16일(237개)보다 26개(11.0%) 줄었다."
+    ],
+    [
+     "Of 932 stocks listed on both dates, 671 (72.0%) were trading below their Jan. 16 levels.",
+     "두 시점 모두 상장된 932개 종목 중 671개(72.0%)의 주가가 1월 16일보다 낮았다."
+    ],
+    [
+     "Among KOSPI 200 constituents, 81% had fallen 40% or more from their peaks, nearing the 85% seen during the COVID-19 pandemic.",
+     "코스피200 구성 종목 중 고점 대비 40% 이상 하락한 종목 비중은 81%로 코로나19 팬데믹 당시(85%)에 근접했다."
+    ]
+   ],
+   "media": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611221541249953",
+   "date_evidence": "URL 202611221541 = 2026-11-22 15:41 KST",
+   "expressions": [
+    [
+     "market cap",
+     null,
+     "시가총액"
+    ],
+    [
+     "trading below",
+     "trade below",
+     "~보다 낮게 거래되다"
+    ],
+    [
+     "constituents",
+     "constituent",
+     "구성 종목"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title_ko": "민주당 \"조희대 탄핵안 연내 국회 의결\"…예산안 일정과 조율",
+   "title_en": "Democrats aim to pass Jo Hee-de impeachment motion this year, timed with budget",
+   "lines": [
+    [
+     "The Democratic Party's task force on impeaching Chief Justice Jo Hee-de aims to have the National Assembly pass the impeachment motion by year-end.",
+     "민주당 조희대 대법원장 탄핵 추진단은 탄핵소추안을 연내 국회에서 의결하는 것을 목표로 하고 있다."
+    ],
+    [
+     "Grounds under review include delays in recommending Supreme Court justice nominees and refusing to appear and take the oath before the National Assembly.",
+     "탄핵 사유로는 대법관 후보자 제청 지연, 국회 출석·선서 거부 등이 검토되고 있다."
+    ],
+    [
+     "The party plans to coordinate the timing of the impeachment vote with the budget bill schedule.",
+     "민주당은 탄핵안 처리 일정을 예산안 처리 일정과 조율할 방침이다."
+    ]
+   ],
+   "media": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611221805533142",
+   "date_evidence": "URL 202611221805 = 2026-11-22 18:05 KST",
+   "expressions": [
+    [
+     "task force",
+     null,
+     "추진단"
+    ],
+    [
+     "impeachment motion",
+     null,
+     "탄핵소추안"
+    ],
+    [
+     "under review",
+     null,
+     "검토 중인"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title_ko": "국민의힘 윤상현 \"비상계엄은 내란이라는 대법원 판결 존중\"",
+   "title_en": "PPP's Yoon Sang-hyun: 'I respect the Supreme Court ruling that martial law was insurrection'",
+   "lines": [
+    [
+     "People Power Party lawmaker Yoon Sang-hyun said he respects the Supreme Court ruling that the Dec. 3 martial law declaration was an insurrection.",
+     "국민의힘 윤상현 의원은 '12·3 비상계엄은 내란'이라는 대법원 판결을 존중한다고 밝혔다."
+    ],
+    [
+     "The ruling came in the Supreme Court appeal of former Prime Minister Han Duck-soo's case.",
+     "이 판단은 한덕수 전 국무총리 사건 상고심에서 나왔다."
+    ],
+    [
+     "Yoon said the party should also clarify its position, but no official party stance has been issued yet.",
+     "윤 의원은 당도 입장을 정리해야 한다고 말했지만, 당의 공식 입장은 아직 나오지 않았다."
+    ]
+   ],
+   "media": "경향신문",
+   "url": "https://www.khan.co.kr/article/202611221426001/",
+   "date_evidence": "URL 202611221426 = 2026-11-22 14:26 KST",
+   "expressions": [
+    [
+     "martial law",
+     null,
+     "계엄"
+    ],
+    [
+     "insurrection",
+     null,
+     "내란"
+    ],
+    [
+     "clarify its position",
+     "clarify one's position",
+     "입장을 정리하다"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title_ko": "국민의힘, 연금·금융·주거·일자리 청년정책 16개 제안",
+   "title_en": "PPP proposes 16 youth policies on pensions, finance, housing and jobs",
+   "lines": [
+    [
+     "The People Power Party's youth policy planning group under its policy committee unveiled its first youth policy package on the 22nd.",
+     "국민의힘 정책위원회 청년정책기획단은 22일 제1호 청년정책 패키지를 발표했다."
+    ],
+    [
+     "It proposed a total of 16 policies across four areas: the national pension, finance, housing and jobs.",
+     "국민연금·금융·주거·일자리 4개 분야에서 총 16개 정책을 제안했다."
+    ],
+    [
+     "It also proposed a 'future generation impact assessment' to evaluate in advance how legislation and policies affect young people.",
+     "입법·정책이 청년 세대에 미칠 영향을 사전에 평가하는 '미래세대 영향평가제' 도입도 제안했다."
+    ]
+   ],
+   "media": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611221806001555",
+   "date_evidence": "URL 202611221806 = 2026-11-22 18:06 KST",
+   "expressions": [
+    [
+     "policy package",
+     null,
+     "정책 패키지"
+    ],
+    [
+     "impact assessment",
+     null,
+     "영향 평가"
+    ],
+    [
+     "in advance",
+     null,
+     "사전에"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title_ko": "금천구 주차타워 지하서 미라화된 시신 발견…설비 고장으로 수습 못 해",
+   "title_en": "Mummified body found under Geumcheon parking tower, not yet recovered",
+   "lines": [
+    [
+     "A mummified male body was found in the basement of a building's parking tower in Gasan-dong, Geumcheon-gu, Seoul.",
+     "서울 금천구 가산동의 한 건물 주차타워 지하에서 미라화된 남성 시신이 발견됐다."
+    ],
+    [
+     "A manager found the body after going down to check a parking equipment malfunction, but it has not been recovered due to safety concerns.",
+     "주차 설비 고장으로 관리자가 내려갔다가 시신을 발견했으며, 안전사고 우려로 아직 수습하지 못했다."
+    ],
+    [
+     "Police are focusing on a possible accidental death from a fall, and no signs of foul play have been found so far.",
+     "경찰은 실족에 따른 사고사 가능성을 중심으로 수사 중이며, 현재까지 타살 혐의점은 발견되지 않았다."
+    ]
+   ],
+   "media": "서울신문",
+   "url": "https://www.seoul.co.kr/news/society/accident/2026/11/22/20261122500077",
+   "date_evidence": "URL 2026/11/22, 검색 결과 22일 속보(전체 22일 KST, 경계일 아님)",
+   "expressions": [
+    [
+     "malfunction",
+     null,
+     "고장"
+    ],
+    [
+     "safety concerns",
+     null,
+     "안전 우려"
+    ],
+    [
+     "foul play",
+     null,
+     "범죄 행위(타살)"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title_ko": "김대중마라톤 10㎞ 완주 직후 19세 대학생 쓰러져 숨져",
+   "title_en": "19-year-old student dies after collapsing at Kim Dae-jung Marathon finish",
+   "lines": [
+    [
+     "A 19-year-old college student running the 10 km course of the Kim Dae-jung Marathon in Mokpo, South Jeolla Province, collapsed right after crossing the finish line.",
+     "전남 목포 김대중마라톤 10㎞ 코스에 참가한 19세 대학생이 결승선을 통과한 직후 쓰러졌다."
+    ],
+    [
+     "The student was taken to a hospital but died.",
+     "이 대학생은 병원으로 이송됐으나 숨졌다."
+    ],
+    [
+     "The hospital determined the death was from natural causes, and police plan to look into the circumstances.",
+     "병원은 병사로 판단했고, 경찰은 경위를 조사할 방침이다."
+    ]
+   ],
+   "media": "서울신문",
+   "url": "https://www.seoul.co.kr/news/society/2026/11/22/20261122500110",
+   "date_evidence": "URL 2026/11/22, 검색 결과 22일 속보(경계일 아님)",
+   "expressions": [
+    [
+     "crossing the finish line",
+     "cross the finish line",
+     "결승선을 통과하다"
+    ],
+    [
+     "natural causes",
+     null,
+     "자연사(병사)"
+    ],
+    [
+     "look into",
+     null,
+     "조사하다"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title_ko": "\"4인 가구 만점도 떨어진다\"…서울 아파트 청약 가점 치솟자 '추첨제' 주목",
+   "title_en": "'Even a top score for a family of four can lose': lottery units in focus as Seoul subscription scores soar",
+   "lines": [
+    [
+     "The average winning score for Seoul apartment subscriptions rose from 56.17 points in 2023 to 59.68 in 2024 and 65.81 in 2025.",
+     "서울 아파트 평균 청약 당첨 가점은 2023년 56.17점에서 2024년 59.68점, 2025년 65.81점으로 올랐다."
+    ],
+    [
+     "As scores soar, units allocated by lottery are drawing attention as an alternative.",
+     "가점이 치솟자 추첨제 물량이 대안으로 주목받고 있다."
+    ],
+    [
+     "A complex near Nambu Bus Terminal Station in Seoul will begin with special supply on the 23rd, followed by first- and second-priority subscriptions on the 24th–26th.",
+     "서울 남부터미널역 인근 단지는 23일 특별공급을 시작으로 24~26일 1·2순위 청약을 진행한다."
+    ]
+   ],
+   "media": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611201333006409",
+   "date_evidence": "URL 202611201333 = 2026-11-20 13:33 KST (시작일, 06:00 이후 확인)",
+   "expressions": [
+    [
+     "winning score",
+     null,
+     "당첨 가점"
+    ],
+    [
+     "drawing attention",
+     "draw attention",
+     "주목받다"
+    ],
+    [
+     "special supply",
+     null,
+     "특별공급"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title_ko": "5대 은행 가계대출 이달 2.4조 증가…전세대출 118조 넘어",
+   "title_en": "Household loans at five major banks up 2.4 trillion won this month; jeonse loans top 118 trillion",
+   "lines": [
+    [
+     "Outstanding household loans at the five major banks stood at 785.9902 trillion won as of the 19th, up about 2.4 trillion won this month.",
+     "5대 은행의 19일 기준 가계대출 잔액은 785조9902억원으로 이달 들어 2조4000억원가량 늘었다."
+    ],
+    [
+     "Jeonse loans totaled 118.4055 trillion won as of the 19th.",
+     "19일 기준 전세대출 잔액은 118조4055억원이었다."
+    ],
+    [
+     "Over the same period, time deposits at the five banks jumped 19.8 trillion won.",
+     "같은 기간 5대 은행 정기예금은 19조8000억원 급증했다."
+    ]
+   ],
+   "media": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611220500385506",
+   "date_evidence": "URL 202611220500 = 2026-11-22 05:00 KST",
+   "expressions": [
+    [
+     "household loans",
+     null,
+     "가계대출"
+    ],
+    [
+     "stood at",
+     "stand at",
+     "~을 기록하다"
+    ],
+    [
+     "time deposits",
+     "time deposit",
+     "정기예금"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "title_ko": "미시간대 11월 소비자심리지수 51.5로 상승",
+   "title_en": "University of Michigan consumer sentiment rises to 51.5 in November",
+   "lines": [
+    [
+     "The University of Michigan's final consumer sentiment index for November rose to 51.5 from 48 in October.",
+     "미시간대의 11월 소비자심리지수 확정치는 51.5로 10월의 48에서 올랐다."
+    ],
+    [
+     "Lower gasoline prices, a better outlook for business conditions and plunging inflation expectations drove the gain.",
+     "휘발유 가격 하락, 경기 여건 전망 개선, 기대 인플레이션 급락이 상승 요인으로 꼽혔다."
+    ],
+    [
+     "Year-ahead inflation expectations fell to 3.7%, while the five-year measure slipped to 3.3%.",
+     "1년 기대 인플레이션은 3.7%, 5년 기대 인플레이션은 3.3%로 내려갔다."
+    ]
+   ],
+   "media": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-20/us-consumer-sentiment-rises-on-improved-post-election-outlook",
+   "date_evidence": "URL 2026-11-20(미 동부), 금요일 발표 → 11/21 KST, 기간 내",
+   "expressions": [
+    [
+     "consumer sentiment",
+     null,
+     "소비자 심리"
+    ],
+    [
+     "inflation expectations",
+     null,
+     "기대 인플레이션"
+    ],
+    [
+     "slipped to",
+     "slip to",
+     "~로 소폭 하락하다"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "정치",
+   "title_ko": "트럼프, 페니 주조 중단 '커먼 센츠 법' 서명",
+   "title_en": "Trump signs Common Cents Act ending penny production",
+   "lines": [
+    [
+     "President Trump on the 20th signed the bipartisan Common Cents Act, which directs the federal government to stop minting the penny.",
+     "트럼프 대통령은 20일 연방정부의 페니(1센트 동전) 주조 중단을 명시한 초당적 '커먼 센츠 법'에 서명했다."
+    ],
+    [
+     "The measure passed both the House and the Senate by voice vote.",
+     "이 법안은 상·하원에서 모두 구두 표결로 통과됐다."
+    ],
+    [
+     "The law lets businesses round cash totals to the nearest nickel, with rounding left to merchants' discretion.",
+     "이 법은 현금 거래 시 총액을 5센트 단위로 반올림할 수 있게 했으며, 반올림 여부는 상점이 선택한다."
+    ]
+   ],
+   "media": "CBS News",
+   "url": "https://www.cbsnews.com/news/trump-signs-common-cents-act-into-law/",
+   "date_evidence": "검색 결과: 2026-11-20(금, 미국) 서명 → 11/21 KST, 기간 내",
+   "expressions": [
+    [
+     "minting",
+     "mint",
+     "주조하다"
+    ],
+    [
+     "voice vote",
+     null,
+     "구두 표결"
+    ],
+    [
+     "discretion",
+     null,
+     "재량"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "사회",
+   "title_ko": "추수감사절 앞두고 미 동·서부 해안에 폭풍 예보…남서부 홍수로 사망자",
+   "title_en": "Storms forecast on both U.S. coasts ahead of Thanksgiving after deadly Southwest floods",
+   "lines": [
+    [
+     "Devastating flooding in the U.S. Southwest left multiple people dead and hundreds stranded.",
+     "미국 남서부에서 큰 홍수로 여러 명이 숨지고 수백 명이 고립됐다."
+    ],
+    [
+     "More storms are forecast on both the East and West coasts early next week.",
+     "다음 주 초 동부와 서부 해안에 추가 폭풍이 예보됐다."
+    ],
+    [
+     "The stormy weather could impact Thanksgiving travelers.",
+     "이번 폭풍은 추수감사절 여행객에게 영향을 줄 수 있다."
+    ]
+   ],
+   "media": "NPR",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
+   "date_evidence": "URL 2026/11/21(미국) → 11/21 14:00~11/22 14:00 KST, 기간 내",
+   "expressions": [
+    [
+     "stranded",
+     null,
+     "고립된"
+    ],
+    [
+     "early next week",
+     null,
+     "다음 주 초"
+    ],
+    [
+     "stormy weather",
+     null,
+     "궂은 날씨, 폭풍우"
+    ]
+   ]
+  }
+ ],
+ "headlines": [
+  [
+   "Amid 'Black Monday' fears, the government held an emergency F4 meeting on the 22nd to discuss stock market stabilization measures",
+   "정부가 '블랙먼데이' 우려 속에 22일 긴급 F4 회의를 열어 증시 안정 대책을 논의했다"
+  ],
+  [
+   "The Democratic Party aims to have the National Assembly pass an impeachment motion against Chief Justice Jo Hee-de by year-end",
+   "민주당이 조희대 대법원장 탄핵소추안을 연내 국회에서 의결하는 것을 목표로 하고 있다"
+  ],
+  [
+   "The University of Michigan's final November consumer sentiment index rose to 51.5 from 48 in October",
+   "미시간대 11월 소비자심리지수 확정치가 51.5로 10월 48에서 올랐다"
+  ]
+ ],
+ "messages": {
+  "news": {
+   "parent": "📰 **Daily News Brief** | 2026-11-23 (월)\n_수집 기간: 11/20 06:00 ~ 11/23 06:00 KST_\n\n**오늘의 핵심**\n• 정부가 '블랙먼데이' 우려 속에 22일 긴급 F4 회의를 열어 증시 안정 대책을 논의했다\n• 민주당이 조희대 대법원장 탄핵소추안을 연내 국회에서 의결하는 것을 목표로 하고 있다\n• 미시간대 11월 소비자심리지수 확정치가 51.5로 10월 48에서 올랐다\n\n🧵 상세 뉴스는 스레드에서 분야별로 확인: 🇰🇷 한국·🇺🇸 미국 (경제 · 정치 · 사회 · 부동산 · 모빌리티)",
+   "replies": [
+    {
+     "country": "KR",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 💰 경제**\n**1. '블랙먼데이' 우려에 정부 긴급 F4 회의 가동**\n• 이형일 부총리 겸 재정경제부 장관은 22일 오후 긴급 시장상황점검회의(F4 회의)를 열어 증시 안정 대책을 논의했다.\n• 코스피가 20일 5.21% 내린 4869.96으로 마감한 데 이어 나스닥이 20일(현지시간) 5.3% 폭락하면서 23일 '블랙먼데이' 우려가 커졌다.\n• F4는 상장사 자기주식 매수 주문 수량 한도 3개월 완화, 불법 공매도 3개월 특별 집중 감시 등 시장안정조치를 내놓은 것으로 전해졌다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611221422508097)\n\n**2. 코스피 4800선 같은데…시총 1조 클럽 1월보다 26곳 감소**\n• 20일 유가증권시장 시가총액 1조원 이상 종목은 211개로, 코스피가 4840.74에 마감한 1월 16일(237개)보다 26개(11.0%) 줄었다.\n• 두 시점 모두 상장된 932개 종목 중 671개(72.0%)의 주가가 1월 16일보다 낮았다.\n• 코스피200 구성 종목 중 고점 대비 40% 이상 하락한 종목 비중은 81%로 코로나19 팬데믹 당시(85%)에 근접했다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611221541249953)",
+     "verified": true,
+     "ts": "1795381702.769639"
+    },
+    {
+     "country": "KR",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 🏛️ 정치**\n**1. 민주당 \"조희대 탄핵안 연내 국회 의결\"…예산안 일정과 조율**\n• 민주당 조희대 대법원장 탄핵 추진단은 탄핵소추안을 연내 국회에서 의결하는 것을 목표로 하고 있다.\n• 탄핵 사유로는 대법관 후보자 제청 지연, 국회 출석·선서 거부 등이 검토되고 있다.\n• 민주당은 탄핵안 처리 일정을 예산안 처리 일정과 조율할 방침이다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611221805533142)\n\n**2. 국민의힘 윤상현 \"비상계엄은 내란이라는 대법원 판결 존중\"**\n• 국민의힘 윤상현 의원은 '12·3 비상계엄은 내란'이라는 대법원 판결을 존중한다고 밝혔다.\n• 이 판단은 한덕수 전 국무총리 사건 상고심에서 나왔다.\n• 윤 의원은 당도 입장을 정리해야 한다고 말했지만, 당의 공식 입장은 아직 나오지 않았다.\n🔗 [경향신문](https://www.khan.co.kr/article/202611221426001/)\n\n**3. 국민의힘, 연금·금융·주거·일자리 청년정책 16개 제안**\n• 국민의힘 정책위원회 청년정책기획단은 22일 제1호 청년정책 패키지를 발표했다.\n• 국민연금·금융·주거·일자리 4개 분야에서 총 16개 정책을 제안했다.\n• 입법·정책이 청년 세대에 미칠 영향을 사전에 평가하는 '미래세대 영향평가제' 도입도 제안했다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611221806001555)",
+     "verified": true,
+     "ts": "1795381707.923019"
+    },
+    {
+     "country": "KR",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 👥 사회**\n**1. 금천구 주차타워 지하서 미라화된 시신 발견…설비 고장으로 수습 못 해**\n• 서울 금천구 가산동의 한 건물 주차타워 지하에서 미라화된 남성 시신이 발견됐다.\n• 주차 설비 고장으로 관리자가 내려갔다가 시신을 발견했으며, 안전사고 우려로 아직 수습하지 못했다.\n• 경찰은 실족에 따른 사고사 가능성을 중심으로 수사 중이며, 현재까지 타살 혐의점은 발견되지 않았다.\n🔗 [서울신문](https://www.seoul.co.kr/news/society/accident/2026/11/22/20261122500077)\n\n**2. 김대중마라톤 10㎞ 완주 직후 19세 대학생 쓰러져 숨져**\n• 전남 목포 김대중마라톤 10㎞ 코스에 참가한 19세 대학생이 결승선을 통과한 직후 쓰러졌다.\n• 이 대학생은 병원으로 이송됐으나 숨졌다.\n• 병원은 병사로 판단했고, 경찰은 경위를 조사할 방침이다.\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/22/20261122500110)",
+     "verified": true,
+     "ts": "1795381711.659749"
+    },
+    {
+     "country": "KR",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 🏠 부동산**\n**1. \"4인 가구 만점도 떨어진다\"…서울 아파트 청약 가점 치솟자 '추첨제' 주목**\n• 서울 아파트 평균 청약 당첨 가점은 2023년 56.17점에서 2024년 59.68점, 2025년 65.81점으로 올랐다.\n• 가점이 치솟자 추첨제 물량이 대안으로 주목받고 있다.\n• 서울 남부터미널역 인근 단지는 23일 특별공급을 시작으로 24~26일 1·2순위 청약을 진행한다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611201333006409)\n\n**2. 5대 은행 가계대출 이달 2.4조 증가…전세대출 118조 넘어**\n• 5대 은행의 19일 기준 가계대출 잔액은 785조9902억원으로 이달 들어 2조4000억원가량 늘었다.\n• 19일 기준 전세대출 잔액은 118조4055억원이었다.\n• 같은 기간 5대 은행 정기예금은 19조8000억원 급증했다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611220500385506)",
+     "verified": true,
+     "ts": "1795381715.359359"
+    },
+    {
+     "country": "KR",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇰🇷 **한국 · 🚗 모빌리티**\n_해당 기간 새 기사 없음_",
+     "verified": true,
+     "ts": "1795381716.352939"
+    },
+    {
+     "country": "US",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 💰 경제**\n**1. 미시간대 11월 소비자심리지수 51.5로 상승**\n• 미시간대의 11월 소비자심리지수 확정치는 51.5로 10월의 48에서 올랐다.\n• 휘발유 가격 하락, 경기 여건 전망 개선, 기대 인플레이션 급락이 상승 요인으로 꼽혔다.\n• 1년 기대 인플레이션은 3.7%, 5년 기대 인플레이션은 3.3%로 내려갔다.\n🔗 [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-20/us-consumer-sentiment-rises-on-improved-post-election-outlook)",
+     "verified": true,
+     "ts": "1795381719.212689"
+    },
+    {
+     "country": "US",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 🏛️ 정치**\n**1. 트럼프, 페니 주조 중단 '커먼 센츠 법' 서명**\n• 트럼프 대통령은 20일 연방정부의 페니(1센트 동전) 주조 중단을 명시한 초당적 '커먼 센츠 법'에 서명했다.\n• 이 법안은 상·하원에서 모두 구두 표결로 통과됐다.\n• 이 법은 현금 거래 시 총액을 5센트 단위로 반올림할 수 있게 했으며, 반올림 여부는 상점이 선택한다.\n🔗 [CBS News](https://www.cbsnews.com/news/trump-signs-common-cents-act-into-law/)",
+     "verified": true,
+     "ts": "1795381721.185239"
+    },
+    {
+     "country": "US",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 👥 사회**\n**1. 추수감사절 앞두고 미 동·서부 해안에 폭풍 예보…남서부 홍수로 사망자**\n• 미국 남서부에서 큰 홍수로 여러 명이 숨지고 수백 명이 고립됐다.\n• 다음 주 초 동부와 서부 해안에 추가 폭풍이 예보됐다.\n• 이번 폭풍은 추수감사절 여행객에게 영향을 줄 수 있다.\n🔗 [NPR](https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino)",
+     "verified": true,
+     "ts": "1795381723.615269"
+    },
+    {
+     "country": "US",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 🏠 부동산**\n_해당 기간 새 기사 없음_",
+     "verified": true,
+     "ts": "1795381724.590149"
+    },
+    {
+     "country": "US",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇺🇸 **미국 · 🚗 모빌리티**\n_해당 기간 새 기사 없음_",
+     "verified": true,
+     "ts": "1795381725.531749"
+    }
+   ],
+   "parent_ts": "1795381694.468029"
+  },
+  "english": {
+   "parent": "📚 **Daily English Brief** | 2026-11-23 (월)\n_수집 기간: 11/20 06:00 ~ 11/23 06:00 KST_\n\n**Today's Headlines / 오늘의 핵심**\n• Amid 'Black Monday' fears, the government held an emergency F4 meeting on the 22nd to discuss stock market stabilization measures\n  _정부가 '블랙먼데이' 우려 속에 22일 긴급 F4 회의를 열어 증시 안정 대책을 논의했다_\n• The Democratic Party aims to have the National Assembly pass an impeachment motion against Chief Justice Jo Hee-de by year-end\n  _민주당이 조희대 대법원장 탄핵소추안을 연내 국회에서 의결하는 것을 목표로 하고 있다_\n• The University of Michigan's final November consumer sentiment index rose to 51.5 from 48 in October\n  _미시간대 11월 소비자심리지수 확정치가 51.5로 10월 48에서 올랐다_\n\n🧵 Category threads / 스레드에서 분야별 확인: 🇰🇷 Korea·🇺🇸 US (Economy · Politics · Society · Real Estate · Mobility)",
+   "replies": [
+    {
+     "country": "KR",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 💰 Economy / 한국 · 경제**\n**1. Government convenes emergency F4 meeting amid 'Black Monday' fears**\n_'블랙먼데이' 우려에 정부 긴급 F4 회의 가동_\n• Deputy Prime Minister and Finance Minister Lee Hyung-il held an emergency market review meeting (F4) on the afternoon of the 22nd to discuss stock market stabilization measures.\n  _이형일 부총리 겸 재정경제부 장관은 22일 오후 긴급 시장상황점검회의(F4 회의)를 열어 증시 안정 대책을 논의했다._\n• After the KOSPI closed down 5.21% at 4,869.96 on the 20th, the Nasdaq plunged 5.3% that day local time, fueling 'Black Monday' fears for the 23rd.\n  _코스피가 20일 5.21% 내린 4869.96으로 마감한 데 이어 나스닥이 20일(현지시간) 5.3% 폭락하면서 23일 '블랙먼데이' 우려가 커졌다._\n• The F4 reportedly unveiled stabilization steps, including easing caps on listed firms' share buyback orders and a special crackdown on illegal short selling, both for three months.\n  _F4는 상장사 자기주식 매수 주문 수량 한도 3개월 완화, 불법 공매도 3개월 특별 집중 감시 등 시장안정조치를 내놓은 것으로 전해졌다._\n📝 `fueling` (fuel) ~을 부추기다 · `share buyback` 자사주 매입 · `short selling` 공매도\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611221422508097)\n\n**2. Same KOSPI level, but 26 fewer trillion-won club stocks than in January**\n_코스피 4800선 같은데…시총 1조 클럽 1월보다 26곳 감소_\n• On the 20th, 211 KOSPI stocks had a market cap of at least 1 trillion won, down 26 (11.0%) from 237 on Jan. 16, when the index closed at 4,840.74.\n  _20일 유가증권시장 시가총액 1조원 이상 종목은 211개로, 코스피가 4840.74에 마감한 1월 16일(237개)보다 26개(11.0%) 줄었다._\n• Of 932 stocks listed on both dates, 671 (72.0%) were trading below their Jan. 16 levels.\n  _두 시점 모두 상장된 932개 종목 중 671개(72.0%)의 주가가 1월 16일보다 낮았다._\n• Among KOSPI 200 constituents, 81% had fallen 40% or more from their peaks, nearing the 85% seen during the COVID-19 pandemic.\n  _코스피200 구성 종목 중 고점 대비 40% 이상 하락한 종목 비중은 81%로 코로나19 팬데믹 당시(85%)에 근접했다._\n📝 `market cap` 시가총액 · `trading below` (trade below) ~보다 낮게 거래되다 · `constituents` (constituent) 구성 종목\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611221541249953)",
+     "verified": true,
+     "ts": "1795381743.907679"
+    },
+    {
+     "country": "KR",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 🏛️ Politics / 한국 · 정치**\n**1. Democrats aim to pass Jo Hee-de impeachment motion this year, timed with budget**\n_민주당 \"조희대 탄핵안 연내 국회 의결\"…예산안 일정과 조율_\n• The Democratic Party's task force on impeaching Chief Justice Jo Hee-de aims to have the National Assembly pass the impeachment motion by year-end.\n  _민주당 조희대 대법원장 탄핵 추진단은 탄핵소추안을 연내 국회에서 의결하는 것을 목표로 하고 있다._\n• Grounds under review include delays in recommending Supreme Court justice nominees and refusing to appear and take the oath before the National Assembly.\n  _탄핵 사유로는 대법관 후보자 제청 지연, 국회 출석·선서 거부 등이 검토되고 있다._\n• The party plans to coordinate the timing of the impeachment vote with the budget bill schedule.\n  _민주당은 탄핵안 처리 일정을 예산안 처리 일정과 조율할 방침이다._\n📝 `task force` 추진단 · `impeachment motion` 탄핵소추안 · `under review` 검토 중인\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611221805533142)\n\n**2. PPP's Yoon Sang-hyun: 'I respect the Supreme Court ruling that martial law was insurrection'**\n_국민의힘 윤상현 \"비상계엄은 내란이라는 대법원 판결 존중\"_\n• People Power Party lawmaker Yoon Sang-hyun said he respects the Supreme Court ruling that the Dec. 3 martial law declaration was an insurrection.\n  _국민의힘 윤상현 의원은 '12·3 비상계엄은 내란'이라는 대법원 판결을 존중한다고 밝혔다._\n• The ruling came in the Supreme Court appeal of former Prime Minister Han Duck-soo's case.\n  _이 판단은 한덕수 전 국무총리 사건 상고심에서 나왔다._\n• Yoon said the party should also clarify its position, but no official party stance has been issued yet.\n  _윤 의원은 당도 입장을 정리해야 한다고 말했지만, 당의 공식 입장은 아직 나오지 않았다._\n📝 `martial law` 계엄 · `insurrection` 내란 · `clarify its position` (clarify one's position) 입장을 정리하다\n🔗 [경향신문](https://www.khan.co.kr/article/202611221426001/)\n\n**3. PPP proposes 16 youth policies on pensions, finance, housing and jobs**\n_국민의힘, 연금·금융·주거·일자리 청년정책 16개 제안_\n• The People Power Party's youth policy planning group under its policy committee unveiled its first youth policy package on the 22nd.\n  _국민의힘 정책위원회 청년정책기획단은 22일 제1호 청년정책 패키지를 발표했다._\n• It proposed a total of 16 policies across four areas: the national pension, finance, housing and jobs.\n  _국민연금·금융·주거·일자리 4개 분야에서 총 16개 정책을 제안했다._\n• It also proposed a 'future generation impact assessment' to evaluate in advance how legislation and policies affect young people.\n  _입법·정책이 청년 세대에 미칠 영향을 사전에 평가하는 '미래세대 영향평가제' 도입도 제안했다._\n📝 `policy package` 정책 패키지 · `impact assessment` 영향 평가 · `in advance` 사전에\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611221806001555)",
+     "verified": true,
+     "ts": "1795381752.854039"
+    },
+    {
+     "country": "KR",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 👥 Society / 한국 · 사회**\n**1. Mummified body found under Geumcheon parking tower, not yet recovered**\n_금천구 주차타워 지하서 미라화된 시신 발견…설비 고장으로 수습 못 해_\n• A mummified male body was found in the basement of a building's parking tower in Gasan-dong, Geumcheon-gu, Seoul.\n  _서울 금천구 가산동의 한 건물 주차타워 지하에서 미라화된 남성 시신이 발견됐다._\n• A manager found the body after going down to check a parking equipment malfunction, but it has not been recovered due to safety concerns.\n  _주차 설비 고장으로 관리자가 내려갔다가 시신을 발견했으며, 안전사고 우려로 아직 수습하지 못했다._\n• Police are focusing on a possible accidental death from a fall, and no signs of foul play have been found so far.\n  _경찰은 실족에 따른 사고사 가능성을 중심으로 수사 중이며, 현재까지 타살 혐의점은 발견되지 않았다._\n📝 `malfunction` 고장 · `safety concerns` 안전 우려 · `foul play` 범죄 행위(타살)\n🔗 [서울신문](https://www.seoul.co.kr/news/society/accident/2026/11/22/20261122500077)\n\n**2. 19-year-old student dies after collapsing at Kim Dae-jung Marathon finish**\n_김대중마라톤 10㎞ 완주 직후 19세 대학생 쓰러져 숨져_\n• A 19-year-old college student running the 10 km course of the Kim Dae-jung Marathon in Mokpo, South Jeolla Province, collapsed right after crossing the finish line.\n  _전남 목포 김대중마라톤 10㎞ 코스에 참가한 19세 대학생이 결승선을 통과한 직후 쓰러졌다._\n• The student was taken to a hospital but died.\n  _이 대학생은 병원으로 이송됐으나 숨졌다._\n• The hospital determined the death was from natural causes, and police plan to look into the circumstances.\n  _병원은 병사로 판단했고, 경찰은 경위를 조사할 방침이다._\n📝 `crossing the finish line` (cross the finish line) 결승선을 통과하다 · `natural causes` 자연사(병사) · `look into` 조사하다\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/22/20261122500110)",
+     "verified": true,
+     "ts": "1795381759.127349"
+    },
+    {
+     "country": "KR",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 🏠 Real Estate / 한국 · 부동산**\n**1. 'Even a top score for a family of four can lose': lottery units in focus as Seoul subscription scores soar**\n_\"4인 가구 만점도 떨어진다\"…서울 아파트 청약 가점 치솟자 '추첨제' 주목_\n• The average winning score for Seoul apartment subscriptions rose from 56.17 points in 2023 to 59.68 in 2024 and 65.81 in 2025.\n  _서울 아파트 평균 청약 당첨 가점은 2023년 56.17점에서 2024년 59.68점, 2025년 65.81점으로 올랐다._\n• As scores soar, units allocated by lottery are drawing attention as an alternative.\n  _가점이 치솟자 추첨제 물량이 대안으로 주목받고 있다._\n• A complex near Nambu Bus Terminal Station in Seoul will begin with special supply on the 23rd, followed by first- and second-priority subscriptions on the 24th–26th.\n  _서울 남부터미널역 인근 단지는 23일 특별공급을 시작으로 24~26일 1·2순위 청약을 진행한다._\n📝 `winning score` 당첨 가점 · `drawing attention` (draw attention) 주목받다 · `special supply` 특별공급\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611201333006409)\n\n**2. Household loans at five major banks up 2.4 trillion won this month; jeonse loans top 118 trillion**\n_5대 은행 가계대출 이달 2.4조 증가…전세대출 118조 넘어_\n• Outstanding household loans at the five major banks stood at 785.9902 trillion won as of the 19th, up about 2.4 trillion won this month.\n  _5대 은행의 19일 기준 가계대출 잔액은 785조9902억원으로 이달 들어 2조4000억원가량 늘었다._\n• Jeonse loans totaled 118.4055 trillion won as of the 19th.\n  _19일 기준 전세대출 잔액은 118조4055억원이었다._\n• Over the same period, time deposits at the five banks jumped 19.8 trillion won.\n  _같은 기간 5대 은행 정기예금은 19조8000억원 급증했다._\n📝 `household loans` 가계대출 · `stood at` (stand at) ~을 기록하다 · `time deposits` (time deposit) 정기예금\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611220500385506)",
+     "verified": true,
+     "ts": "1795381765.461149"
+    },
+    {
+     "country": "KR",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇰🇷 **Korea · 🚗 Mobility / 한국 · 모빌리티**\n_No new articles in this period / 해당 기간 새 기사 없음_",
+     "verified": true,
+     "ts": "1795381766.548049"
+    },
+    {
+     "country": "US",
+     "category": "경제",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 💰 Economy / 미국 · 경제**\n**1. University of Michigan consumer sentiment rises to 51.5 in November**\n_미시간대 11월 소비자심리지수 51.5로 상승_\n• The University of Michigan's final consumer sentiment index for November rose to 51.5 from 48 in October.\n  _미시간대의 11월 소비자심리지수 확정치는 51.5로 10월의 48에서 올랐다._\n• Lower gasoline prices, a better outlook for business conditions and plunging inflation expectations drove the gain.\n  _휘발유 가격 하락, 경기 여건 전망 개선, 기대 인플레이션 급락이 상승 요인으로 꼽혔다._\n• Year-ahead inflation expectations fell to 3.7%, while the five-year measure slipped to 3.3%.\n  _1년 기대 인플레이션은 3.7%, 5년 기대 인플레이션은 3.3%로 내려갔다._\n📝 `consumer sentiment` 소비자 심리 · `inflation expectations` 기대 인플레이션 · `slipped to` (slip to) ~로 소폭 하락하다\n🔗 [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-20/us-consumer-sentiment-rises-on-improved-post-election-outlook)",
+     "verified": true,
+     "ts": "1795381770.796019"
+    },
+    {
+     "country": "US",
+     "category": "정치",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 🏛️ Politics / 미국 · 정치**\n**1. Trump signs Common Cents Act ending penny production**\n_트럼프, 페니 주조 중단 '커먼 센츠 법' 서명_\n• President Trump on the 20th signed the bipartisan Common Cents Act, which directs the federal government to stop minting the penny.\n  _트럼프 대통령은 20일 연방정부의 페니(1센트 동전) 주조 중단을 명시한 초당적 '커먼 센츠 법'에 서명했다._\n• The measure passed both the House and the Senate by voice vote.\n  _이 법안은 상·하원에서 모두 구두 표결로 통과됐다._\n• The law lets businesses round cash totals to the nearest nickel, with rounding left to merchants' discretion.\n  _이 법은 현금 거래 시 총액을 5센트 단위로 반올림할 수 있게 했으며, 반올림 여부는 상점이 선택한다._\n📝 `minting` (mint) 주조하다 · `voice vote` 구두 표결 · `discretion` 재량\n🔗 [CBS News](https://www.cbsnews.com/news/trump-signs-common-cents-act-into-law/)",
+     "verified": true,
+     "ts": "1795381773.729549"
+    },
+    {
+     "country": "US",
+     "category": "사회",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 👥 Society / 미국 · 사회**\n**1. Storms forecast on both U.S. coasts ahead of Thanksgiving after deadly Southwest floods**\n_추수감사절 앞두고 미 동·서부 해안에 폭풍 예보…남서부 홍수로 사망자_\n• Devastating flooding in the U.S. Southwest left multiple people dead and hundreds stranded.\n  _미국 남서부에서 큰 홍수로 여러 명이 숨지고 수백 명이 고립됐다._\n• More storms are forecast on both the East and West coasts early next week.\n  _다음 주 초 동부와 서부 해안에 추가 폭풍이 예보됐다._\n• The stormy weather could impact Thanksgiving travelers.\n  _이번 폭풍은 추수감사절 여행객에게 영향을 줄 수 있다._\n📝 `stranded` 고립된 · `early next week` 다음 주 초 · `stormy weather` 궂은 날씨, 폭풍우\n🔗 [NPR](https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino)",
+     "verified": true,
+     "ts": "1795381777.002669"
+    },
+    {
+     "country": "US",
+     "category": "부동산",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 🏠 Real Estate / 미국 · 부동산**\n_No new articles in this period / 해당 기간 새 기사 없음_",
+     "verified": true,
+     "ts": "1795381778.076629"
+    },
+    {
+     "country": "US",
+     "category": "모빌리티",
+     "part": "1/1",
+     "text": "🇺🇸 **US · 🚗 Mobility / 미국 · 모빌리티**\n_No new articles in this period / 해당 기간 새 기사 없음_",
+     "verified": true,
+     "ts": "1795381779.042739"
+    }
+   ],
+   "parent_ts": "1795381731.596969"
+  }
+ },
+ "verified": {
+  "parent": true,
+  "categories": true
+ }
+}
