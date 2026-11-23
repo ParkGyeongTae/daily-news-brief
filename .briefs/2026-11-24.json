@@ -1,0 +1,710 @@
+{
+ "date": "2026-11-24",
+ "period": "11/21 06:00 ~ 11/24 06:00 KST",
+ "articles": [
+  {
+   "country": "KR",
+   "category": "경제",
+   "title": "코스피 4700 겨우 지켜…장중 4600선도 붕괴",
+   "en": "KOSPI barely holds 4,700 after dipping below 4,600 intraday",
+   "s": [
+    "23일 코스피는 전 거래일보다 161.42p(3.31%) 내린 4708.54에 마감했다.",
+    "장중 4586.80까지 밀렸고 오전 11시 30분쯤 매도 사이드카가 발동됐다.",
+    "미국 반도체주 급락과 트럼프 대통령의 해외 AI 데이터센터 과세 방침이 부담으로 작용했다."
+   ],
+   "se": [
+    "On the 23rd, the KOSPI closed at 4,708.54, down 161.42 points (3.31%) from the previous session.",
+    "It slid as low as 4,586.80 intraday, triggering a sell-side sidecar around 11:30 a.m.",
+    "A plunge in U.S. chip stocks and President Trump's plan to tax overseas AI data centers weighed on the market."
+   ],
+   "ex": [
+    [
+     "previous session",
+     null,
+     "직전 거래일"
+    ],
+    [
+     "sell-side sidecar",
+     null,
+     "매도 사이드카"
+    ],
+    [
+     "weighed on",
+     "weigh on",
+     "~에 부담을 주다"
+    ]
+   ],
+   "src": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611231802221593",
+   "evidence": "URL 날짜 2026-11-23 18:02 KST, 검색 결과 23일 마감 기사"
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title": "국민의힘, 조작기소 특검법 권한쟁의심판 청구",
+   "en": "People Power Party files competence dispute over special counsel bill",
+   "s": [
+    "국민의힘은 23일 소속 의원 109명 전원 명의로 헌법재판소에 권한쟁의심판 청구서를 냈다.",
+    "상임위원회 단계부터 의원의 심의·표결권이 침해됐다는 취지다.",
+    "청구 대상은 조정식 국회의장과 서영교 법사위원장이다."
+   ],
+   "se": [
+    "On the 23rd, the People Power Party filed a petition for a competence dispute with the Constitutional Court in the names of all 109 of its lawmakers.",
+    "The party argues lawmakers' rights to deliberate and vote were infringed starting at the standing committee stage.",
+    "The petition names National Assembly Speaker Cho Jeong-sik and Legislation and Judiciary Committee Chair Seo Young-kyo."
+   ],
+   "ex": [
+    [
+     "competence dispute",
+     null,
+     "권한쟁의"
+    ],
+    [
+     "standing committee",
+     null,
+     "상임위원회"
+    ],
+    [
+     "were infringed",
+     "infringe",
+     "침해하다"
+    ]
+   ],
+   "src": "노컷뉴스",
+   "url": "https://nocutnews.co.kr/news/6611102",
+   "evidence": "검색 결과 내용: 국민의힘 23일 청구서 제출"
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title": "예산 처리시한 D-10…여야, 미래대응기금 놓고 대치",
+   "en": "Budget deadline 10 days away as parties clash over Future Response Fund",
+   "s": [
+    "국민의힘은 미래대응기금이 '이재명 정부의 쌈짓돈'으로 전락할 수 있다며 전액 삭감을 요구하고 있다.",
+    "민주당은 기금 신설 자체는 양보할 수 없다는 입장이다.",
+    "여야는 예산안 법정 처리시한인 12월 2일을 열흘 앞두고 대치하고 있다."
+   ],
+   "se": [
+    "The People Power Party is demanding a full cut to the Future Response Fund, saying it could become the Lee Jae-myung government's 'slush fund.'",
+    "The Democratic Party says it cannot back down on creating the fund itself.",
+    "The two sides are locked in a standoff 10 days before the Dec. 2 legal deadline for passing the budget."
+   ],
+   "ex": [
+    [
+     "full cut",
+     null,
+     "전액 삭감"
+    ],
+    [
+     "slush fund",
+     null,
+     "쌈짓돈·비자금"
+    ],
+    [
+     "locked in a standoff",
+     null,
+     "대치 중인"
+    ]
+   ],
+   "src": "세계일보",
+   "url": "https://www.segye.com/newsView/20261122501552",
+   "evidence": "URL 날짜 2026-11-22 (기간 중간일)"
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title": "음주운전 사고 배우 고경표 경찰 출석…\"정말 죄송\"",
+   "en": "Actor Ko Kyung-pyo appears before police over drunk-driving crash",
+   "s": [
+    "만취 상태로 차를 몰다 교통사고를 낸 혐의를 받는 배우 고경표(36)씨가 23일 경찰에 출석했다.",
+    "고씨는 \"무책임한 모습, 정말 죄송하다\"고 사과했다.",
+    "사고 당시 음주량에 대해서는 \"많이 마신 걸로 기억한다\"고 답했다."
+   ],
+   "se": [
+    "Actor Ko Kyung-pyo, 36, who is accused of causing a traffic accident while heavily intoxicated, appeared before police on the 23rd.",
+    "Ko apologized, saying he was \"truly sorry\" for acting irresponsibly.",
+    "Asked how much he drank at the time of the crash, he said he remembered drinking \"a lot.\""
+   ],
+   "ex": [
+    [
+     "is accused of",
+     "be accused of",
+     "~혐의를 받다"
+    ],
+    [
+     "heavily intoxicated",
+     null,
+     "만취한"
+    ],
+    [
+     "appeared before police",
+     "appear before",
+     "~에 출석하다"
+    ]
+   ],
+   "src": "서울신문",
+   "url": "https://www.seoul.co.kr/news/society/accident/2026/11/23/20261123500356",
+   "evidence": "URL 날짜 2026-11-23"
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title": "불법체류 노동자 후진 승합차에 치여 50대 농장주 숨져",
+   "en": "Farm owner in his 50s killed by van reversed by undocumented worker",
+   "s": [
+    "천안의 한 축사에서 태국 국적 A(40)씨가 승합차를 후진하다 농장주 B(56)씨를 들이받았다.",
+    "B씨는 병원으로 옮겨졌으나 숨졌다.",
+    "A씨는 \"못 봤다\"고 진술했고, 불법체류 사실이 확인돼 출입국관리법 위반 혐의로 현행범 체포됐다."
+   ],
+   "se": [
+    "At a livestock farm in Cheonan, A, a 40-year-old Thai national, hit farm owner B, 56, while backing up a van.",
+    "B was taken to a hospital but died.",
+    "A told police he \"didn't see\" him and was arrested on the spot for violating the Immigration Act after his illegal stay was confirmed."
+   ],
+   "ex": [
+    [
+     "backing up",
+     "back up",
+     "후진하다"
+    ],
+    [
+     "arrested on the spot",
+     null,
+     "현행범 체포된"
+    ],
+    [
+     "illegal stay",
+     null,
+     "불법체류"
+    ]
+   ],
+   "src": "서울신문",
+   "url": "https://www.seoul.co.kr/news/society/accident/2026/11/23/20261123500169",
+   "evidence": "URL 날짜 2026-11-23"
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title": "58분 거리 17분 만에…경찰, 수능 지각 위기 삼수생 수송",
+   "en": "Police cover 58-minute trip in 17 minutes for test-taker at risk of missing exam",
+   "s": [
+    "경찰은 수험생 A씨의 시험장까지 예상 이동 시간이 58분으로 나오자 순찰차로 17분 만에 데려다줬다.",
+    "A씨는 입실 마감 8분 전 시험장에 도착했다.",
+    "삼수생인 A씨는 경찰을 \"은인\"이라고 부르며 눈물을 보였다."
+   ],
+   "se": [
+    "When the estimated travel time to the test site came up as 58 minutes, police drove test-taker A there in a patrol car in 17 minutes.",
+    "A arrived at the test site eight minutes before the entry deadline.",
+    "A, taking the exam for the third time, called the officers \"lifesavers\" and shed tears."
+   ],
+   "ex": [
+    [
+     "patrol car",
+     null,
+     "순찰차"
+    ],
+    [
+     "entry deadline",
+     null,
+     "입실 마감"
+    ],
+    [
+     "shed tears",
+     null,
+     "눈물을 흘리다"
+    ]
+   ],
+   "src": "서울신문",
+   "url": "https://seoul.co.kr/news/society/2026/11/23/20261123500361",
+   "evidence": "URL 날짜 2026-11-23"
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title": "12월 전국 아파트 입주 1만6486가구…전년 대비 49% 감소",
+   "en": "December apartment move-ins at 16,486 units nationwide, down 49%",
+   "s": [
+    "직방에 따르면 12월 전국 아파트 입주 예정 물량은 22개 단지, 1만6486가구다.",
+    "이는 전년 동월보다 49% 줄어든 것으로, 수도권 물량은 66.5% 감소했다.",
+    "인천 계양구에서는 3기 신도시의 첫 입주가 이뤄진다."
+   ],
+   "se": [
+    "According to Zigbang, 16,486 units in 22 apartment complexes nationwide are scheduled for move-in in December.",
+    "That is down 49% from a year earlier, with volume in the Seoul metropolitan area down 66.5%.",
+    "Gyeyang-gu in Incheon will see the first move-ins in the third-generation new towns."
+   ],
+   "ex": [
+    [
+     "scheduled for move-in",
+     null,
+     "입주 예정인"
+    ],
+    [
+     "from a year earlier",
+     null,
+     "전년 대비"
+    ],
+    [
+     "third-generation new towns",
+     null,
+     "3기 신도시"
+    ]
+   ],
+   "src": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611230919507296",
+   "evidence": "URL 날짜 2026-11-23 09:19 KST"
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title": "HDC현대산업개발, 1.1조 규모 광명 하안주공6·7단지 재건축 수주",
+   "en": "HDC Hyundai Development wins 1.1 trillion won reconstruction deal in Gwangmyeong",
+   "s": [
+    "HDC현대산업개발이 공사비 1.1조원 규모의 광명 하안주공6·7단지 재건축 사업을 수주했다.",
+    "사업지는 경기 광명시 하안동 296번지 일대다.",
+    "지하 3층~지상 최고 44층, 16개 동, 아파트 3152가구 규모로 재건축된다."
+   ],
+   "se": [
+    "HDC Hyundai Development won the reconstruction project for Haan Jugong complexes 6 and 7 in Gwangmyeong, with construction costs of 1.1 trillion won.",
+    "The site is located around 296 Haan-dong in Gwangmyeong, Gyeonggi Province.",
+    "It will be rebuilt into 3,152 apartment units in 16 buildings, with three basement levels and up to 44 floors above ground."
+   ],
+   "ex": [
+    [
+     "reconstruction project",
+     null,
+     "재건축 사업"
+    ],
+    [
+     "construction costs",
+     null,
+     "공사비"
+    ],
+    [
+     "above ground",
+     null,
+     "지상"
+    ]
+   ],
+   "src": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611231343369424",
+   "evidence": "URL 날짜 2026-11-23 13:43 KST"
+  },
+  {
+   "country": "KR",
+   "category": "모빌리티",
+   "title": "카카오, 카카오모빌리티 상장 갈등에 1.5조원 규모 국제중재 피소",
+   "en": "Kakao faces 1.5 trillion won arbitration over Kakao Mobility listing dispute",
+   "s": [
+    "카카오는 23일 공시를 통해 TPG 측이 국제상업회의소(ICC)에 국제중재를 신청했다고 밝혔다.",
+    "TPG는 카카오모빌리티의 미국 ADR 상장 추진 의무 위반을 주장하며 청구 금액을 1조5000억원 이상으로 추산했다.",
+    "카카오는 청구 내용과 금액의 타당성을 모두 부인했다."
+   ],
+   "se": [
+    "Kakao said in a regulatory filing on the 23rd that TPG had filed for international arbitration with the International Chamber of Commerce (ICC).",
+    "TPG claims Kakao breached its obligation to pursue a U.S. ADR listing for Kakao Mobility, estimating its claim at more than 1.5 trillion won.",
+    "Kakao denied both the merits of the claims and the validity of the amount."
+   ],
+   "ex": [
+    [
+     "regulatory filing",
+     null,
+     "공시"
+    ],
+    [
+     "filed for",
+     "file for",
+     "~을 신청하다"
+    ],
+    [
+     "breached its obligation",
+     "breach an obligation",
+     "의무를 위반하다"
+    ]
+   ],
+   "src": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611230913076336",
+   "evidence": "URL 날짜 2026-11-23 09:13 KST"
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "title": "젠슨 황 엔비디아 CEO 복귀…다우 1400p·나스닥 6% 급등",
+   "en": "Jensen Huang returns as Nvidia CEO; Dow soars 1,400 points, Nasdaq surges 6%",
+   "s": [
+    "엔비디아 이사회는 23일(현지시간) 만장일치로 젠슨 황을 CEO로 복귀시켰다.",
+    "엔비디아 주가는 33% 급등했다.",
+    "다우지수는 1400포인트 치솟았고 나스닥은 6% 올라 2025년 4월 이후 최고의 하루를 기록했다."
+   ],
+   "se": [
+    "Nvidia's board unanimously reinstated Jensen Huang as CEO on the 23rd (local time).",
+    "Nvidia shares skyrocketed 33%.",
+    "The Dow soared 1,400 points and the Nasdaq surged 6% in its best day since April 2025."
+   ],
+   "ex": [
+    [
+     "reinstated",
+     "reinstate",
+     "복귀시키다"
+    ],
+    [
+     "skyrocketed",
+     "skyrocket",
+     "치솟다"
+    ],
+    [
+     "best day since",
+     null,
+     "~이후 최고의 하루"
+    ]
+   ],
+   "src": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+   "evidence": "URL 날짜 2026-11-23 ET (KST 11/23 14:00 이후, 기간 내)"
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "title": "크라우드스트라이크, 지스케일러 439억달러에 인수",
+   "en": "CrowdStrike to buy Zscaler for $43.9 billion",
+   "s": [
+    "크라우드스트라이크는 23일 지스케일러를 약 439억달러 규모의 전액 주식 교환 방식으로 인수한다고 발표했다.",
+    "지스케일러 주주는 1주당 크라우드스트라이크 주식 1.135주를 받으며, 이는 지난 금요일 종가 대비 34% 프리미엄이다.",
+    "인수가가 비싸다는 반응에 크라우드스트라이크 주가는 10% 하락했다."
+   ],
+   "se": [
+    "CrowdStrike announced on the 23rd it will acquire Zscaler in an all-stock deal valued at about $43.9 billion.",
+    "Zscaler shareholders will receive 1.135 CrowdStrike shares per share, a 34% premium to last Friday's close.",
+    "CrowdStrike shares fell 10% as investors balked at the price."
+   ],
+   "ex": [
+    [
+     "all-stock deal",
+     null,
+     "전액 주식 교환 거래"
+    ],
+    [
+     "premium to",
+     null,
+     "~대비 프리미엄"
+    ],
+    [
+     "balked at",
+     "balk at",
+     "~에 난색을 표하다"
+    ]
+   ],
+   "src": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+   "evidence": "URL 날짜 2026-11-23 ET"
+  },
+  {
+   "country": "US",
+   "category": "정치",
+   "title": "트럼프, 연방 계약업체에 \"의회 요청 응답 전 백악관과 협의\" 행정명령",
+   "en": "Trump orders federal contractors to consult White House before responding to Congress",
+   "s": [
+    "트럼프 대통령은 연방 계약업체와 하청업체가 의회의 정보 요청에 대해 행정부와 협의하도록 하는 행정명령에 서명했다.",
+    "명령은 백악관이 특권 대상으로 보는 소통 내용은 제출하지 않도록 했다.",
+    "차기 하원 법사위원장이 될 민주당 제이미 래스킨 의원은 \"전례 없고 노골적으로 불법\"이라고 비판했다."
+   ],
+   "se": [
+    "President Trump signed an executive order directing federal contractors and subcontractors to consult with the administration on information requests from Congress.",
+    "The order directs them to withhold communications the White House considers privileged.",
+    "Democratic Rep. Jamie Raskin, set to chair the House Judiciary Committee, called it \"unprecedented and blatantly unlawful.\""
+   ],
+   "ex": [
+    [
+     "executive order",
+     null,
+     "행정명령"
+    ],
+    [
+     "information requests",
+     null,
+     "정보 요청"
+    ],
+    [
+     "blatantly unlawful",
+     null,
+     "노골적으로 불법인"
+    ]
+   ],
+   "src": "NPR",
+   "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+   "evidence": "URL 날짜 2026-11-21 ET (KST 11/21 14:00 이후, 기간 내)"
+  },
+  {
+   "country": "US",
+   "category": "사회",
+   "title": "오하이오 베이비샤워 총격으로 3명 사망",
+   "en": "Shooting at Ohio baby shower leaves 3 dead",
+   "s": [
+    "21일(현지시간) 저녁 오하이오주 파마의 한 행사장에서 열린 베이비샤워에서 총격이 발생해 3명이 숨지고 1명이 다쳤다.",
+    "당국은 가정 내 분쟁으로 보이는 사건이라고 밝혔다.",
+    "29세 남성이 구금됐고, 또 다른 총격 용의자인 19세 남성은 사망자 중 한 명이었다."
+   ],
+   "se": [
+    "A shooting at a baby shower at a venue in Parma, Ohio, on the evening of the 21st (local time) killed three people and wounded one.",
+    "Authorities said it appeared to stem from a domestic dispute.",
+    "A 29-year-old man was taken into custody, and a second suspected shooter, a 19-year-old man, was among the dead."
+   ],
+   "ex": [
+    [
+     "baby shower",
+     null,
+     "출산 축하 파티"
+    ],
+    [
+     "domestic dispute",
+     null,
+     "가정 내 분쟁"
+    ],
+    [
+     "taken into custody",
+     "take into custody",
+     "구금하다"
+    ]
+   ],
+   "src": "CNN",
+   "url": "https://www.cnn.com/2026/11/22/us/ohio-baby-shower-shooting",
+   "evidence": "URL 날짜 2026-11-22 ET, 사건 11/21 토요일 저녁 ET = KST 11/22 오전"
+  }
+ ],
+ "headlines": [
+  [
+   "코스피가 미국 반도체주 급락 여파로 3.31% 내린 4708.54로 마감하며 4700선을 겨우 지켰다",
+   "The KOSPI closed down 3.31% at 4,708.54 on a plunge in U.S. chip stocks, barely holding the 4,700 line"
+  ],
+  [
+   "엔비디아가 젠슨 황을 CEO로 복귀시키자 주가가 33% 급등하고 나스닥이 6% 올랐다",
+   "Nvidia shares jumped 33% and the Nasdaq rose 6% after the company brought Jensen Huang back as CEO"
+  ],
+  [
+   "카카오가 카카오모빌리티 상장 갈등으로 TPG로부터 1조5000억원 이상 규모의 국제중재를 신청당했다",
+   "Kakao faces international arbitration from TPG worth more than 1.5 trillion won over the Kakao Mobility listing dispute"
+  ]
+ ],
+ "channels": {
+  "news": {
+   "id": "C0C6NRNGE81",
+   "parent": {
+    "text": "📰 **Daily News Brief** | 2026-11-24 (화)\n_수집 기간: 11/21 06:00 ~ 11/24 06:00 KST_\n\n**오늘의 핵심**\n• 코스피가 미국 반도체주 급락 여파로 3.31% 내린 4708.54로 마감하며 4700선을 겨우 지켰다\n• 엔비디아가 젠슨 황을 CEO로 복귀시키자 주가가 33% 급등하고 나스닥이 6% 올랐다\n• 카카오가 카카오모빌리티 상장 갈등으로 TPG로부터 1조5000억원 이상 규모의 국제중재를 신청당했다\n\n🧵 상세 뉴스는 스레드에서 분야별로 확인: 🇰🇷 한국·🇺🇸 미국 (경제 · 정치 · 사회 · 부동산 · 모빌리티)",
+    "verified": true,
+    "ts": "1795468091.878619"
+   },
+   "replies": [
+    {
+     "id": "news:KR:경제:1/1",
+     "country": "KR",
+     "category": "경제",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **한국 · 💰 경제**\n**1. 코스피 4700 겨우 지켜…장중 4600선도 붕괴**\n• 23일 코스피는 전 거래일보다 161.42p(3.31%) 내린 4708.54에 마감했다.\n• 장중 4586.80까지 밀렸고 오전 11시 30분쯤 매도 사이드카가 발동됐다.\n• 미국 반도체주 급락과 트럼프 대통령의 해외 AI 데이터센터 과세 방침이 부담으로 작용했다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611231802221593)",
+     "verified": true,
+     "ts": "1795468099.019459"
+    },
+    {
+     "id": "news:KR:정치:1/1",
+     "country": "KR",
+     "category": "정치",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **한국 · 🏛️ 정치**\n**1. 국민의힘, 조작기소 특검법 권한쟁의심판 청구**\n• 국민의힘은 23일 소속 의원 109명 전원 명의로 헌법재판소에 권한쟁의심판 청구서를 냈다.\n• 상임위원회 단계부터 의원의 심의·표결권이 침해됐다는 취지다.\n• 청구 대상은 조정식 국회의장과 서영교 법사위원장이다.\n🔗 [노컷뉴스](https://nocutnews.co.kr/news/6611102)\n\n**2. 예산 처리시한 D-10…여야, 미래대응기금 놓고 대치**\n• 국민의힘은 미래대응기금이 '이재명 정부의 쌈짓돈'으로 전락할 수 있다며 전액 삭감을 요구하고 있다.\n• 민주당은 기금 신설 자체는 양보할 수 없다는 입장이다.\n• 여야는 예산안 법정 처리시한인 12월 2일을 열흘 앞두고 대치하고 있다.\n🔗 [세계일보](https://www.segye.com/newsView/20261122501552)",
+     "verified": true,
+     "ts": "1795468102.329839"
+    },
+    {
+     "id": "news:KR:사회:1/1",
+     "country": "KR",
+     "category": "사회",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **한국 · 👥 사회**\n**1. 음주운전 사고 배우 고경표 경찰 출석…\"정말 죄송\"**\n• 만취 상태로 차를 몰다 교통사고를 낸 혐의를 받는 배우 고경표(36)씨가 23일 경찰에 출석했다.\n• 고씨는 \"무책임한 모습, 정말 죄송하다\"고 사과했다.\n• 사고 당시 음주량에 대해서는 \"많이 마신 걸로 기억한다\"고 답했다.\n🔗 [서울신문](https://www.seoul.co.kr/news/society/accident/2026/11/23/20261123500356)\n\n**2. 불법체류 노동자 후진 승합차에 치여 50대 농장주 숨져**\n• 천안의 한 축사에서 태국 국적 A(40)씨가 승합차를 후진하다 농장주 B(56)씨를 들이받았다.\n• B씨는 병원으로 옮겨졌으나 숨졌다.\n• A씨는 \"못 봤다\"고 진술했고, 불법체류 사실이 확인돼 출입국관리법 위반 혐의로 현행범 체포됐다.\n🔗 [서울신문](https://www.seoul.co.kr/news/society/accident/2026/11/23/20261123500169)\n\n**3. 58분 거리 17분 만에…경찰, 수능 지각 위기 삼수생 수송**\n• 경찰은 수험생 A씨의 시험장까지 예상 이동 시간이 58분으로 나오자 순찰차로 17분 만에 데려다줬다.\n• A씨는 입실 마감 8분 전 시험장에 도착했다.\n• 삼수생인 A씨는 경찰을 \"은인\"이라고 부르며 눈물을 보였다.\n🔗 [서울신문](https://seoul.co.kr/news/society/2026/11/23/20261123500361)",
+     "verified": true,
+     "ts": "1795468109.604469"
+    },
+    {
+     "id": "news:KR:부동산:1/1",
+     "country": "KR",
+     "category": "부동산",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **한국 · 🏠 부동산**\n**1. 12월 전국 아파트 입주 1만6486가구…전년 대비 49% 감소**\n• 직방에 따르면 12월 전국 아파트 입주 예정 물량은 22개 단지, 1만6486가구다.\n• 이는 전년 동월보다 49% 줄어든 것으로, 수도권 물량은 66.5% 감소했다.\n• 인천 계양구에서는 3기 신도시의 첫 입주가 이뤄진다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611230919507296)\n\n**2. HDC현대산업개발, 1.1조 규모 광명 하안주공6·7단지 재건축 수주**\n• HDC현대산업개발이 공사비 1.1조원 규모의 광명 하안주공6·7단지 재건축 사업을 수주했다.\n• 사업지는 경기 광명시 하안동 296번지 일대다.\n• 지하 3층~지상 최고 44층, 16개 동, 아파트 3152가구 규모로 재건축된다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611231343369424)",
+     "verified": true,
+     "ts": "1795468112.940979"
+    },
+    {
+     "id": "news:KR:모빌리티:1/1",
+     "country": "KR",
+     "category": "모빌리티",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **한국 · 🚗 모빌리티**\n**1. 카카오, 카카오모빌리티 상장 갈등에 1.5조원 규모 국제중재 피소**\n• 카카오는 23일 공시를 통해 TPG 측이 국제상업회의소(ICC)에 국제중재를 신청했다고 밝혔다.\n• TPG는 카카오모빌리티의 미국 ADR 상장 추진 의무 위반을 주장하며 청구 금액을 1조5000억원 이상으로 추산했다.\n• 카카오는 청구 내용과 금액의 타당성을 모두 부인했다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611230913076336)",
+     "verified": true,
+     "ts": "1795468118.287449"
+    },
+    {
+     "id": "news:US:경제:1/1",
+     "country": "US",
+     "category": "경제",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **미국 · 💰 경제**\n**1. 젠슨 황 엔비디아 CEO 복귀…다우 1400p·나스닥 6% 급등**\n• 엔비디아 이사회는 23일(현지시간) 만장일치로 젠슨 황을 CEO로 복귀시켰다.\n• 엔비디아 주가는 33% 급등했다.\n• 다우지수는 1400포인트 치솟았고 나스닥은 6% 올라 2025년 4월 이후 최고의 하루를 기록했다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)\n\n**2. 크라우드스트라이크, 지스케일러 439억달러에 인수**\n• 크라우드스트라이크는 23일 지스케일러를 약 439억달러 규모의 전액 주식 교환 방식으로 인수한다고 발표했다.\n• 지스케일러 주주는 1주당 크라우드스트라이크 주식 1.135주를 받으며, 이는 지난 금요일 종가 대비 34% 프리미엄이다.\n• 인수가가 비싸다는 반응에 크라우드스트라이크 주가는 10% 하락했다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html)",
+     "verified": true,
+     "ts": "1795468122.262169"
+    },
+    {
+     "id": "news:US:정치:1/1",
+     "country": "US",
+     "category": "정치",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **미국 · 🏛️ 정치**\n**1. 트럼프, 연방 계약업체에 \"의회 요청 응답 전 백악관과 협의\" 행정명령**\n• 트럼프 대통령은 연방 계약업체와 하청업체가 의회의 정보 요청에 대해 행정부와 협의하도록 하는 행정명령에 서명했다.\n• 명령은 백악관이 특권 대상으로 보는 소통 내용은 제출하지 않도록 했다.\n• 차기 하원 법사위원장이 될 민주당 제이미 래스킨 의원은 \"전례 없고 노골적으로 불법\"이라고 비판했다.\n🔗 [NPR](https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress)",
+     "verified": true,
+     "ts": "1795468124.813709"
+    },
+    {
+     "id": "news:US:사회:1/1",
+     "country": "US",
+     "category": "사회",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **미국 · 👥 사회**\n**1. 오하이오 베이비샤워 총격으로 3명 사망**\n• 21일(현지시간) 저녁 오하이오주 파마의 한 행사장에서 열린 베이비샤워에서 총격이 발생해 3명이 숨지고 1명이 다쳤다.\n• 당국은 가정 내 분쟁으로 보이는 사건이라고 밝혔다.\n• 29세 남성이 구금됐고, 또 다른 총격 용의자인 19세 남성은 사망자 중 한 명이었다.\n🔗 [CNN](https://www.cnn.com/2026/11/22/us/ohio-baby-shower-shooting)",
+     "verified": true,
+     "ts": "1795468127.291669"
+    },
+    {
+     "id": "news:US:부동산:1/1",
+     "country": "US",
+     "category": "부동산",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **미국 · 🏠 부동산**\n_해당 기간 새 기사 없음_",
+     "verified": true,
+     "ts": "1795468128.587119"
+    },
+    {
+     "id": "news:US:모빌리티:1/1",
+     "country": "US",
+     "category": "모빌리티",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **미국 · 🚗 모빌리티**\n_해당 기간 새 기사 없음_",
+     "verified": true,
+     "ts": "1795468129.253179"
+    }
+   ]
+  },
+  "english": {
+   "id": "C0C6KR1MEEP",
+   "parent": {
+    "text": "📚 **Daily English Brief** | 2026-11-24 (화)\n_수집 기간: 11/21 06:00 ~ 11/24 06:00 KST_\n\n**Today's Headlines / 오늘의 핵심**\n• The KOSPI closed down 3.31% at 4,708.54 on a plunge in U.S. chip stocks, barely holding the 4,700 line\n  _코스피가 미국 반도체주 급락 여파로 3.31% 내린 4708.54로 마감하며 4700선을 겨우 지켰다_\n• Nvidia shares jumped 33% and the Nasdaq rose 6% after the company brought Jensen Huang back as CEO\n  _엔비디아가 젠슨 황을 CEO로 복귀시키자 주가가 33% 급등하고 나스닥이 6% 올랐다_\n• Kakao faces international arbitration from TPG worth more than 1.5 trillion won over the Kakao Mobility listing dispute\n  _카카오가 카카오모빌리티 상장 갈등으로 TPG로부터 1조5000억원 이상 규모의 국제중재를 신청당했다_\n\n🧵 Category threads / 스레드에서 분야별 확인: 🇰🇷 Korea·🇺🇸 US (Economy · Politics · Society · Real Estate · Mobility)",
+    "verified": true,
+    "ts": "1795468140.287699"
+   },
+   "replies": [
+    {
+     "id": "english:KR:경제:1/1",
+     "country": "KR",
+     "category": "경제",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **Korea · 💰 Economy / 한국 · 경제**\n**1. KOSPI barely holds 4,700 after dipping below 4,600 intraday**\n_코스피 4700 겨우 지켜…장중 4600선도 붕괴_\n• On the 23rd, the KOSPI closed at 4,708.54, down 161.42 points (3.31%) from the previous session.\n  _23일 코스피는 전 거래일보다 161.42p(3.31%) 내린 4708.54에 마감했다._\n• It slid as low as 4,586.80 intraday, triggering a sell-side sidecar around 11:30 a.m.\n  _장중 4586.80까지 밀렸고 오전 11시 30분쯤 매도 사이드카가 발동됐다._\n• A plunge in U.S. chip stocks and President Trump's plan to tax overseas AI data centers weighed on the market.\n  _미국 반도체주 급락과 트럼프 대통령의 해외 AI 데이터센터 과세 방침이 부담으로 작용했다._\n📝 `previous session` 직전 거래일 · `sell-side sidecar` 매도 사이드카 · `weighed on` (weigh on) ~에 부담을 주다\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611231802221593)",
+     "verified": true,
+     "ts": "1795468149.470989"
+    },
+    {
+     "id": "english:KR:정치:1/1",
+     "country": "KR",
+     "category": "정치",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **Korea · 🏛️ Politics / 한국 · 정치**\n**1. People Power Party files competence dispute over special counsel bill**\n_국민의힘, 조작기소 특검법 권한쟁의심판 청구_\n• On the 23rd, the People Power Party filed a petition for a competence dispute with the Constitutional Court in the names of all 109 of its lawmakers.\n  _국민의힘은 23일 소속 의원 109명 전원 명의로 헌법재판소에 권한쟁의심판 청구서를 냈다._\n• The party argues lawmakers' rights to deliberate and vote were infringed starting at the standing committee stage.\n  _상임위원회 단계부터 의원의 심의·표결권이 침해됐다는 취지다._\n• The petition names National Assembly Speaker Cho Jeong-sik and Legislation and Judiciary Committee Chair Seo Young-kyo.\n  _청구 대상은 조정식 국회의장과 서영교 법사위원장이다._\n📝 `competence dispute` 권한쟁의 · `standing committee` 상임위원회 · `were infringed` (infringe) 침해하다\n🔗 [노컷뉴스](https://nocutnews.co.kr/news/6611102)\n\n**2. Budget deadline 10 days away as parties clash over Future Response Fund**\n_예산 처리시한 D-10…여야, 미래대응기금 놓고 대치_\n• The People Power Party is demanding a full cut to the Future Response Fund, saying it could become the Lee Jae-myung government's 'slush fund.'\n  _국민의힘은 미래대응기금이 '이재명 정부의 쌈짓돈'으로 전락할 수 있다며 전액 삭감을 요구하고 있다._\n• The Democratic Party says it cannot back down on creating the fund itself.\n  _민주당은 기금 신설 자체는 양보할 수 없다는 입장이다._\n• The two sides are locked in a standoff 10 days before the Dec. 2 legal deadline for passing the budget.\n  _여야는 예산안 법정 처리시한인 12월 2일을 열흘 앞두고 대치하고 있다._\n📝 `full cut` 전액 삭감 · `slush fund` 쌈짓돈·비자금 · `locked in a standoff` 대치 중인\n🔗 [세계일보](https://www.segye.com/newsView/20261122501552)",
+     "verified": true,
+     "ts": "1795468155.309059"
+    },
+    {
+     "id": "english:KR:사회:1/1",
+     "country": "KR",
+     "category": "사회",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **Korea · 👥 Society / 한국 · 사회**\n**1. Actor Ko Kyung-pyo appears before police over drunk-driving crash**\n_음주운전 사고 배우 고경표 경찰 출석…\"정말 죄송\"_\n• Actor Ko Kyung-pyo, 36, who is accused of causing a traffic accident while heavily intoxicated, appeared before police on the 23rd.\n  _만취 상태로 차를 몰다 교통사고를 낸 혐의를 받는 배우 고경표(36)씨가 23일 경찰에 출석했다._\n• Ko apologized, saying he was \"truly sorry\" for acting irresponsibly.\n  _고씨는 \"무책임한 모습, 정말 죄송하다\"고 사과했다._\n• Asked how much he drank at the time of the crash, he said he remembered drinking \"a lot.\"\n  _사고 당시 음주량에 대해서는 \"많이 마신 걸로 기억한다\"고 답했다._\n📝 `is accused of` (be accused of) ~혐의를 받다 · `heavily intoxicated` 만취한 · `appeared before police` (appear before) ~에 출석하다\n🔗 [서울신문](https://www.seoul.co.kr/news/society/accident/2026/11/23/20261123500356)\n\n**2. Farm owner in his 50s killed by van reversed by undocumented worker**\n_불법체류 노동자 후진 승합차에 치여 50대 농장주 숨져_\n• At a livestock farm in Cheonan, A, a 40-year-old Thai national, hit farm owner B, 56, while backing up a van.\n  _천안의 한 축사에서 태국 국적 A(40)씨가 승합차를 후진하다 농장주 B(56)씨를 들이받았다._\n• B was taken to a hospital but died.\n  _B씨는 병원으로 옮겨졌으나 숨졌다._\n• A told police he \"didn't see\" him and was arrested on the spot for violating the Immigration Act after his illegal stay was confirmed.\n  _A씨는 \"못 봤다\"고 진술했고, 불법체류 사실이 확인돼 출입국관리법 위반 혐의로 현행범 체포됐다._\n📝 `backing up` (back up) 후진하다 · `arrested on the spot` 현행범 체포된 · `illegal stay` 불법체류\n🔗 [서울신문](https://www.seoul.co.kr/news/society/accident/2026/11/23/20261123500169)\n\n**3. Police cover 58-minute trip in 17 minutes for test-taker at risk of missing exam**\n_58분 거리 17분 만에…경찰, 수능 지각 위기 삼수생 수송_\n• When the estimated travel time to the test site came up as 58 minutes, police drove test-taker A there in a patrol car in 17 minutes.\n  _경찰은 수험생 A씨의 시험장까지 예상 이동 시간이 58분으로 나오자 순찰차로 17분 만에 데려다줬다._\n• A arrived at the test site eight minutes before the entry deadline.\n  _A씨는 입실 마감 8분 전 시험장에 도착했다._\n• A, taking the exam for the third time, called the officers \"lifesavers\" and shed tears.\n  _삼수생인 A씨는 경찰을 \"은인\"이라고 부르며 눈물을 보였다._\n📝 `patrol car` 순찰차 · `entry deadline` 입실 마감 · `shed tears` 눈물을 흘리다\n🔗 [서울신문](https://seoul.co.kr/news/society/2026/11/23/20261123500361)",
+     "verified": true,
+     "ts": "1795468166.607899"
+    },
+    {
+     "id": "english:KR:부동산:1/1",
+     "country": "KR",
+     "category": "부동산",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **Korea · 🏠 Real Estate / 한국 · 부동산**\n**1. December apartment move-ins at 16,486 units nationwide, down 49%**\n_12월 전국 아파트 입주 1만6486가구…전년 대비 49% 감소_\n• According to Zigbang, 16,486 units in 22 apartment complexes nationwide are scheduled for move-in in December.\n  _직방에 따르면 12월 전국 아파트 입주 예정 물량은 22개 단지, 1만6486가구다._\n• That is down 49% from a year earlier, with volume in the Seoul metropolitan area down 66.5%.\n  _이는 전년 동월보다 49% 줄어든 것으로, 수도권 물량은 66.5% 감소했다._\n• Gyeyang-gu in Incheon will see the first move-ins in the third-generation new towns.\n  _인천 계양구에서는 3기 신도시의 첫 입주가 이뤄진다._\n📝 `scheduled for move-in` 입주 예정인 · `from a year earlier` 전년 대비 · `third-generation new towns` 3기 신도시\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611230919507296)\n\n**2. HDC Hyundai Development wins 1.1 trillion won reconstruction deal in Gwangmyeong**\n_HDC현대산업개발, 1.1조 규모 광명 하안주공6·7단지 재건축 수주_\n• HDC Hyundai Development won the reconstruction project for Haan Jugong complexes 6 and 7 in Gwangmyeong, with construction costs of 1.1 trillion won.\n  _HDC현대산업개발이 공사비 1.1조원 규모의 광명 하안주공6·7단지 재건축 사업을 수주했다._\n• The site is located around 296 Haan-dong in Gwangmyeong, Gyeonggi Province.\n  _사업지는 경기 광명시 하안동 296번지 일대다._\n• It will be rebuilt into 3,152 apartment units in 16 buildings, with three basement levels and up to 44 floors above ground.\n  _지하 3층~지상 최고 44층, 16개 동, 아파트 3152가구 규모로 재건축된다._\n📝 `reconstruction project` 재건축 사업 · `construction costs` 공사비 · `above ground` 지상\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611231343369424)",
+     "verified": true,
+     "ts": "1795468172.833579"
+    },
+    {
+     "id": "english:KR:모빌리티:1/1",
+     "country": "KR",
+     "category": "모빌리티",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **Korea · 🚗 Mobility / 한국 · 모빌리티**\n**1. Kakao faces 1.5 trillion won arbitration over Kakao Mobility listing dispute**\n_카카오, 카카오모빌리티 상장 갈등에 1.5조원 규모 국제중재 피소_\n• Kakao said in a regulatory filing on the 23rd that TPG had filed for international arbitration with the International Chamber of Commerce (ICC).\n  _카카오는 23일 공시를 통해 TPG 측이 국제상업회의소(ICC)에 국제중재를 신청했다고 밝혔다._\n• TPG claims Kakao breached its obligation to pursue a U.S. ADR listing for Kakao Mobility, estimating its claim at more than 1.5 trillion won.\n  _TPG는 카카오모빌리티의 미국 ADR 상장 추진 의무 위반을 주장하며 청구 금액을 1조5000억원 이상으로 추산했다._\n• Kakao denied both the merits of the claims and the validity of the amount.\n  _카카오는 청구 내용과 금액의 타당성을 모두 부인했다._\n📝 `regulatory filing` 공시 · `filed for` (file for) ~을 신청하다 · `breached its obligation` (breach an obligation) 의무를 위반하다\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611230913076336)",
+     "verified": true,
+     "ts": "1795468176.574809"
+    },
+    {
+     "id": "english:US:경제:1/1",
+     "country": "US",
+     "category": "경제",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **US · 💰 Economy / 미국 · 경제**\n**1. Jensen Huang returns as Nvidia CEO; Dow soars 1,400 points, Nasdaq surges 6%**\n_젠슨 황 엔비디아 CEO 복귀…다우 1400p·나스닥 6% 급등_\n• Nvidia's board unanimously reinstated Jensen Huang as CEO on the 23rd (local time).\n  _엔비디아 이사회는 23일(현지시간) 만장일치로 젠슨 황을 CEO로 복귀시켰다._\n• Nvidia shares skyrocketed 33%.\n  _엔비디아 주가는 33% 급등했다._\n• The Dow soared 1,400 points and the Nasdaq surged 6% in its best day since April 2025.\n  _다우지수는 1400포인트 치솟았고 나스닥은 6% 올라 2025년 4월 이후 최고의 하루를 기록했다._\n📝 `reinstated` (reinstate) 복귀시키다 · `skyrocketed` (skyrocket) 치솟다 · `best day since` ~이후 최고의 하루\n🔗 [CNBC](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)\n\n**2. CrowdStrike to buy Zscaler for $43.9 billion**\n_크라우드스트라이크, 지스케일러 439억달러에 인수_\n• CrowdStrike announced on the 23rd it will acquire Zscaler in an all-stock deal valued at about $43.9 billion.\n  _크라우드스트라이크는 23일 지스케일러를 약 439억달러 규모의 전액 주식 교환 방식으로 인수한다고 발표했다._\n• Zscaler shareholders will receive 1.135 CrowdStrike shares per share, a 34% premium to last Friday's close.\n  _지스케일러 주주는 1주당 크라우드스트라이크 주식 1.135주를 받으며, 이는 지난 금요일 종가 대비 34% 프리미엄이다._\n• CrowdStrike shares fell 10% as investors balked at the price.\n  _인수가가 비싸다는 반응에 크라우드스트라이크 주가는 10% 하락했다._\n📝 `all-stock deal` 전액 주식 교환 거래 · `premium to` ~대비 프리미엄 · `balked at` (balk at) ~에 난색을 표하다\n🔗 [CNBC](https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html)",
+     "verified": true,
+     "ts": "1795468185.448769"
+    },
+    {
+     "id": "english:US:정치:1/1",
+     "country": "US",
+     "category": "정치",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **US · 🏛️ Politics / 미국 · 정치**\n**1. Trump orders federal contractors to consult White House before responding to Congress**\n_트럼프, 연방 계약업체에 \"의회 요청 응답 전 백악관과 협의\" 행정명령_\n• President Trump signed an executive order directing federal contractors and subcontractors to consult with the administration on information requests from Congress.\n  _트럼프 대통령은 연방 계약업체와 하청업체가 의회의 정보 요청에 대해 행정부와 협의하도록 하는 행정명령에 서명했다._\n• The order directs them to withhold communications the White House considers privileged.\n  _명령은 백악관이 특권 대상으로 보는 소통 내용은 제출하지 않도록 했다._\n• Democratic Rep. Jamie Raskin, set to chair the House Judiciary Committee, called it \"unprecedented and blatantly unlawful.\"\n  _차기 하원 법사위원장이 될 민주당 제이미 래스킨 의원은 \"전례 없고 노골적으로 불법\"이라고 비판했다._\n📝 `executive order` 행정명령 · `information requests` 정보 요청 · `blatantly unlawful` 노골적으로 불법인\n🔗 [NPR](https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress)",
+     "verified": true,
+     "ts": "1795468189.150819"
+    },
+    {
+     "id": "english:US:사회:1/1",
+     "country": "US",
+     "category": "사회",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **US · 👥 Society / 미국 · 사회**\n**1. Shooting at Ohio baby shower leaves 3 dead**\n_오하이오 베이비샤워 총격으로 3명 사망_\n• A shooting at a baby shower at a venue in Parma, Ohio, on the evening of the 21st (local time) killed three people and wounded one.\n  _21일(현지시간) 저녁 오하이오주 파마의 한 행사장에서 열린 베이비샤워에서 총격이 발생해 3명이 숨지고 1명이 다쳤다._\n• Authorities said it appeared to stem from a domestic dispute.\n  _당국은 가정 내 분쟁으로 보이는 사건이라고 밝혔다._\n• A 29-year-old man was taken into custody, and a second suspected shooter, a 19-year-old man, was among the dead.\n  _29세 남성이 구금됐고, 또 다른 총격 용의자인 19세 남성은 사망자 중 한 명이었다._\n📝 `baby shower` 출산 축하 파티 · `domestic dispute` 가정 내 분쟁 · `taken into custody` (take into custody) 구금하다\n🔗 [CNN](https://www.cnn.com/2026/11/22/us/ohio-baby-shower-shooting)",
+     "verified": true,
+     "ts": "1795468192.747889"
+    },
+    {
+     "id": "english:US:부동산:1/1",
+     "country": "US",
+     "category": "부동산",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **US · 🏠 Real Estate / 미국 · 부동산**\n_No new articles in this period / 해당 기간 새 기사 없음_",
+     "verified": true,
+     "ts": "1795468193.849759"
+    },
+    {
+     "id": "english:US:모빌리티:1/1",
+     "country": "US",
+     "category": "모빌리티",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **US · 🚗 Mobility / 미국 · 모빌리티**\n_No new articles in this period / 해당 기간 새 기사 없음_",
+     "verified": true,
+     "ts": "1795468194.799979"
+    }
+   ]
+  }
+ }
+}
