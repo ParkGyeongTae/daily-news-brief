@@ -1,0 +1,813 @@
+{
+ "date": "2026-11-25",
+ "period": "2026-11-22 06:00 ~ 2026-11-25 06:00 KST",
+ "headlines": [
+  {
+   "ko": "코스피가 젠슨 황 복귀 효과에 6.32% 급등한 5006.03으로 마감하며 5000선을 회복했다",
+   "en": "The KOSPI soared 6.32% to close at 5,006.03 on Jensen Huang's return, reclaiming the 5,000 mark"
+  },
+  {
+   "ko": "채권시장 참여자 54%가 26일 금통위에서 기준금리 인상을 예상했다",
+   "en": "54% of bond market participants expect a base rate hike at the Monetary Policy Board meeting on the 26th"
+  },
+  {
+   "ko": "미국 11월 소비자신뢰지수가 11.4포인트 오른 103.3으로 2025년 1월 이후 최고를 기록했다",
+   "en": "The U.S. consumer confidence index jumped 11.4 points to 103.3 in November, the highest since January 2025"
+  }
+ ],
+ "articles": [
+  {
+   "country": "KR",
+   "category": "경제",
+   "title_ko": "코스피, 젠슨 황 복귀에 6.32% 급등…5000선 회복",
+   "title_en": "KOSPI soars 6.32% on Jensen Huang's return, reclaims 5,000",
+   "summary": [
+    "24일 코스피는 전 거래일보다 297.49p(6.32%) 오른 5006.03에 마감했다.",
+    "젠슨 황의 엔비디아 CEO 복귀로 전날 엔비디아 주가가 31.5% 폭등한 흐름이 이어졌다.",
+    "오전 9시6분에는 유가증권시장에 매수 사이드카가 발동됐다."
+   ],
+   "summary_en": [
+    "The KOSPI closed at 5,006.03 on the 24th, up 297.49 points (6.32%) from the previous session.",
+    "The rally extended the previous day's 31.5% surge in Nvidia shares after Jensen Huang was reinstated as CEO.",
+    "A buy-side sidecar was triggered on the main board at 9:06 a.m."
+   ],
+   "expressions": [
+    [
+     "previous session",
+     null,
+     "직전 거래일"
+    ],
+    [
+     "was reinstated",
+     "be reinstated",
+     "복직되다"
+    ],
+    [
+     "buy-side sidecar",
+     null,
+     "매수 사이드카"
+    ]
+   ],
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611241604048501",
+   "date_basis": "URL 202611241604 = 2026-11-24 16:04 KST"
+  },
+  {
+   "country": "KR",
+   "category": "경제",
+   "title_ko": "채권시장 참여자 54% \"11월 금통위, 기준금리 인상 예상\"",
+   "title_en": "54% of bond market participants expect a November rate hike",
+   "summary": [
+    "채권시장 참여자의 54%가 11월 금통위에서 기준금리 인상을 예상했다.",
+    "한국은행 금융통화위원회는 26일 통화정책방향 결정회의를 열어 기준금리를 결정한다.",
+    "현재 기준금리는 연 3.00%다."
+   ],
+   "summary_en": [
+    "54% of bond market participants expect a base rate hike at the November Monetary Policy Board meeting.",
+    "The Bank of Korea's Monetary Policy Board will meet on the 26th to decide on the base rate.",
+    "The base rate currently stands at 3.00% a year."
+   ],
+   "expressions": [
+    [
+     "bond market participants",
+     null,
+     "채권시장 참여자"
+    ],
+    [
+     "rate hike",
+     null,
+     "금리 인상"
+    ],
+    [
+     "stands at",
+     "stand at",
+     "~수준이다"
+    ]
+   ],
+   "source": "뉴시스",
+   "url": "https://www.newsis.com/view/NISX20261124_0003880879",
+   "date_basis": "URL NISX20261124 = 2026-11-24 KST (기간 중간일)"
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title_ko": "예산소위, 청와대 특활비 놓고 충돌 끝 보류",
+   "title_en": "Budget subcommittee shelves review of presidential office's special funds after clash",
+   "summary": [
+    "예산안조정소위에서 여야가 청와대 특수활동비를 두고 정면 충돌해 심사를 보류했다.",
+    "국민의힘은 \"내로남불 사과해야\", 민주당은 \"역대 첫 공개\"라고 맞섰다.",
+    "예산안 법정 처리 시한인 12월 2일까지는 열흘도 남지 않았다."
+   ],
+   "summary_en": [
+    "Rival parties clashed head-on over the presidential office's special activity funds in the budget adjustment subcommittee, putting the review on hold.",
+    "The People Power Party demanded an apology for \"double standards,\" while the Democratic Party countered it was \"the first-ever disclosure.\"",
+    "Fewer than 10 days remain until the Dec. 2 legal deadline for passing the budget."
+   ],
+   "expressions": [
+    [
+     "clashed head-on",
+     "clash head-on",
+     "정면 충돌하다"
+    ],
+    [
+     "on hold",
+     null,
+     "보류된"
+    ],
+    [
+     "legal deadline",
+     null,
+     "법정 시한"
+    ]
+   ],
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611242253013485",
+   "date_basis": "URL 202611242253 = 2026-11-24 22:53 KST"
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title_ko": "이용철 법무장관 후보자 청문회…여야 격돌 예고",
+   "title_en": "Rival parties set to clash at justice minister nominee Lee Yong-cheol's hearing",
+   "summary": [
+    "국회 법제사법위원회는 24일 오전 10시 이용철 법무부 장관 후보자 인사청문회 일정을 잡았다.",
+    "국민의힘은 법사위 보이콧 방침에도 이번 청문회에는 참여하기로 했다.",
+    "민주당은 \"역량 검증 우선\", 국민의힘은 \"공소취소 포기 선언하라\"고 요구했다."
+   ],
+   "summary_en": [
+    "The Legislation and Judiciary Committee scheduled a confirmation hearing for Justice Minister nominee Lee Yong-cheol at 10 a.m. on the 24th.",
+    "The People Power Party decided to take part in the hearing despite its plan to boycott the committee.",
+    "The Democratic Party called for \"vetting competence first,\" while the People Power Party demanded he \"pledge to give up dropping charges.\""
+   ],
+   "expressions": [
+    [
+     "confirmation hearing",
+     null,
+     "인사청문회"
+    ],
+    [
+     "take part in",
+     null,
+     "참여하다"
+    ],
+    [
+     "dropping charges",
+     "drop charges",
+     "공소를 취소하다"
+    ]
+   ],
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611240501030951",
+   "date_basis": "URL 202611240501 = 2026-11-24 05:01 KST (시작 11/22 06:00 이후)"
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title_ko": "청해부대 파견연장 동의안 국방위 소위 통과…'한국판 IRA'는 주춤",
+   "title_en": "Cheonghae Unit extension clears defense subcommittee as 'Korean IRA' stalls",
+   "summary": [
+    "국회 국방위원회 소위원회가 청해부대 파견연장 수정동의안을 여야 합의로 통과시켰다.",
+    "이재명 정부는 미국·서방과의 신뢰 회복에 나서고 있다.",
+    "반면 '한국판 IRA' 추진은 주춤하고 있다."
+   ],
+   "summary_en": [
+    "A National Assembly defense subcommittee passed an amended motion to extend the Cheonghae Unit's deployment by bipartisan agreement.",
+    "The Lee Jae-myung government is moving to restore trust with the U.S. and the West.",
+    "By contrast, the push for a \"Korean version of the IRA\" has stalled."
+   ],
+   "expressions": [
+    [
+     "bipartisan agreement",
+     null,
+     "여야 합의"
+    ],
+    [
+     "restore trust",
+     null,
+     "신뢰를 회복하다"
+    ],
+    [
+     "has stalled",
+     "stall",
+     "주춤하다"
+    ]
+   ],
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611241500573292",
+   "date_basis": "URL 202611241500 = 2026-11-24 15:00 KST"
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title_ko": "\"사제폭탄으로 민주당 무너뜨리겠다\" 협박글…경찰 긴급 수색",
+   "title_en": "Online threat to \"bring down\" Democratic Party with homemade bomb prompts police search",
+   "summary": [
+    "온라인 커뮤니티에 더불어민주당을 겨냥한 사제폭탄 테러 암시 글이 올라왔다.",
+    "경찰은 광주시당 등 전국 시·도당사를 긴급 수색했다.",
+    "경찰은 수색 뒤 작성자 신원과 경위를 조사할 방침이다."
+   ],
+   "summary_en": [
+    "A post hinting at a homemade bomb attack targeting the Democratic Party appeared on an online community.",
+    "Police carried out urgent searches of the party's city and provincial offices nationwide, including its Gwangju chapter.",
+    "Police plan to identify the author and look into the circumstances after the search."
+   ],
+   "expressions": [
+    [
+     "homemade bomb",
+     null,
+     "사제폭탄"
+    ],
+    [
+     "carried out",
+     "carry out",
+     "실시하다"
+    ],
+    [
+     "look into",
+     null,
+     "조사하다"
+    ]
+   ],
+   "source": "서울신문",
+   "url": "https://www.seoul.co.kr/news/society/2026/11/24/20261124500331",
+   "date_basis": "URL 2026/11/24 (KST 기간 중간일)"
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title_ko": "부산서 이웃집 부부에 흉기…70대 아내 숨지고 80대 남편 중상",
+   "title_en": "Knife attack on neighbors in Busan kills wife in her 70s, seriously injures husband in his 80s",
+   "summary": [
+    "부산에서 70대 남성이 이웃집 부부에게 흉기를 휘둘러 70대 아내가 숨지고 80대 남편이 크게 다쳤다.",
+    "부산 서부경찰서는 이 남성을 현행범으로 체포했다.",
+    "경찰은 구속영장을 신청할 예정이다."
+   ],
+   "summary_en": [
+    "A man in his 70s attacked a neighboring couple with a knife in Busan, killing the wife in her 70s and seriously injuring the husband in his 80s.",
+    "Busan Seobu Police Station arrested the man on the spot.",
+    "Police plan to seek an arrest warrant."
+   ],
+   "expressions": [
+    [
+     "seriously injuring",
+     "seriously injure",
+     "중상을 입히다"
+    ],
+    [
+     "on the spot",
+     null,
+     "현장에서"
+    ],
+    [
+     "seek an arrest warrant",
+     null,
+     "구속영장을 신청하다"
+    ]
+   ],
+   "source": "서울신문",
+   "url": "https://www.seoul.co.kr/news/society/2026/11/24/20261124500175",
+   "date_basis": "URL 2026/11/24 (KST 기간 중간일)"
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title_ko": "제주 중학생 숨진 채 발견…유족 \"수년간 괴롭힘\" 학폭 의혹",
+   "title_en": "Jeju middle schooler found dead; family alleges years of bullying",
+   "summary": [
+    "중학교 3학년 학생이 제주시 탑동 앞바다에서 숨진 채 발견됐다.",
+    "유족은 학생이 수년간 특정 학생들의 괴롭힘에 시달렸다고 주장하고 있다.",
+    "제주도교육청은 현재까지 학교폭력 신고가 접수되지 않았다고 밝혔다."
+   ],
+   "summary_en": [
+    "A third-year middle school student was found dead in the waters off Tap-dong in Jeju City.",
+    "The family claims the student had suffered bullying by certain students for years.",
+    "The Jeju Provincial Office of Education said no school violence report had been filed so far."
+   ],
+   "expressions": [
+    [
+     "found dead",
+     null,
+     "숨진 채 발견된"
+    ],
+    [
+     "suffered bullying",
+     "suffer bullying",
+     "괴롭힘에 시달리다"
+    ],
+    [
+     "filed",
+     "file",
+     "접수하다"
+    ]
+   ],
+   "source": "서울신문",
+   "url": "https://www.seoul.co.kr/news/society/accident/2026/11/24/20261124500100",
+   "date_basis": "URL 2026/11/24 (KST 기간 중간일)"
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title_ko": "공시가 현실화율 동결에도…강남 초고가 단지 보유세 40% 늘어",
+   "title_en": "Despite frozen assessment ratio, Gangnam luxury complexes face 40% higher holding taxes",
+   "summary": [
+    "공동주택 공시가격 현실화율이 동결됐지만 강남 초고가 단지 보유세는 40% 늘어날 것으로 분석됐다.",
+    "종합부동산세 공정시장가액비율 상향과 고가주택 구간 세율 인상 등 세제개편안의 영향이 크다.",
+    "반포자이 전용 84㎡의 내년 보유세는 2641만원으로 올해 1810만원보다 46% 늘어날 것으로 추산됐다."
+   ],
+   "summary_en": [
+    "Although the official price-to-market ratio for apartments was frozen, holding taxes on Gangnam's ultra-luxury complexes are projected to rise 40%.",
+    "The tax reform plan, including a higher fair market value ratio for the comprehensive real estate tax and higher rates for high-priced homes, is the main driver.",
+    "Next year's holding tax on an 84㎡ unit at Banpo Xi is estimated at 26.41 million won, up 46% from 18.1 million won this year."
+   ],
+   "expressions": [
+    [
+     "holding taxes",
+     null,
+     "보유세"
+    ],
+    [
+     "fair market value ratio",
+     null,
+     "공정시장가액비율"
+    ],
+    [
+     "main driver",
+     null,
+     "주요 요인"
+    ]
+   ],
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611230602118443",
+   "date_basis": "URL 202611230602 = 2026-11-23 06:02 KST"
+  },
+  {
+   "country": "KR",
+   "category": "모빌리티",
+   "title_ko": "에스오에스랩, 북미 빅테크와 87억 라이다 계약…로보택시 공급망 기회",
+   "title_en": "SOS Lab lands 8.7 billion won lidar deal with North American Big Tech, eyes robotaxi market",
+   "summary": [
+    "에스오에스랩이 북미 빅테크와 약 87억원 규모의 자율주행용 라이다 개발·공급계약을 맺었다.",
+    "이 계약으로 회사의 로보택시 공급망 진입 가능성이 주목받고 있다.",
+    "웨이모 6세대 시스템에는 라이다 4개가 탑재되지만 차세대 시스템은 2개 중심으로 센서 수를 줄이는 방향으로 개발되는 것으로 전해졌다."
+   ],
+   "summary_en": [
+    "SOS Lab signed a roughly 8.7 billion won contract to develop and supply autonomous-driving lidar for a North American Big Tech firm.",
+    "The deal has drawn attention to the company's potential entry into the robotaxi supply chain.",
+    "Waymo's sixth-generation system carries four lidars, but its next-generation system is reportedly being developed with fewer sensors, centered on two."
+   ],
+   "expressions": [
+    [
+     "supply chain",
+     null,
+     "공급망"
+    ],
+    [
+     "drawn attention to",
+     "draw attention to",
+     "~에 주목을 끌다"
+    ],
+    [
+     "next-generation",
+     null,
+     "차세대의"
+    ]
+   ],
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611240932345253",
+   "date_basis": "URL 202611240932 = 2026-11-24 09:32 KST"
+  },
+  {
+   "country": "KR",
+   "category": "모빌리티",
+   "title_ko": "현대차의 웨이모 로보택시 공급 확대…SK온 美 공장에 훈풍",
+   "title_en": "Hyundai's growing Waymo robotaxi supply gives SK On's U.S. plant a tailwind",
+   "summary": [
+    "현대차의 웨이모 로보택시 공급 확대가 SK온의 배터리 수요를 늘릴 것이라는 전망이 나왔다.",
+    "이는 SK온 미국 조지아 공장의 내년 가동률 반등을 이끌 것으로 전망된다.",
+    "2028년까지 현대차의 웨이모 로보택시 공급 규모는 5만대로 관측된다."
+   ],
+   "summary_en": [
+    "Hyundai Motor's expanding robotaxi supply to Waymo is expected to lift battery demand for SK On.",
+    "This is forecast to drive a rebound in the utilization rate at SK On's Georgia plant next year.",
+    "Hyundai's robotaxi supply to Waymo is projected to reach 50,000 units by 2028."
+   ],
+   "expressions": [
+    [
+     "tailwind",
+     null,
+     "순풍, 호재"
+    ],
+    [
+     "utilization rate",
+     null,
+     "가동률"
+    ],
+    [
+     "battery demand",
+     null,
+     "배터리 수요"
+    ]
+   ],
+   "source": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10946906",
+   "date_basis": "검색 결과 발행일 2026-11-24 (KST 기간 중간일)"
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "title_ko": "美 11월 소비자신뢰지수 103.3…2025년 1월 이후 최고",
+   "title_en": "U.S. consumer confidence hits 103.3 in November, highest since January 2025",
+   "summary": [
+    "콘퍼런스보드의 11월 소비자신뢰지수는 11.4포인트 오른 103.3으로 2025년 1월 이후 최고를 기록했다.",
+    "이는 다우존스 집계 전망치 92.2를 웃돈 수치다.",
+    "민주당 지지층과 무당층이 상승을 이끌었지만 12개월 기대 인플레이션은 5.7%로 높은 수준을 유지했다."
+   ],
+   "summary_en": [
+    "The Conference Board's consumer confidence index rose 11.4 points to 103.3 in November, the highest since January 2025.",
+    "The reading beat the Dow Jones consensus estimate of 92.2.",
+    "Democrats and independents drove the gain, but 12-month inflation expectations stayed high at 5.7%."
+   ],
+   "expressions": [
+    [
+     "consensus estimate",
+     null,
+     "시장 전망치"
+    ],
+    [
+     "drove the gain",
+     "drive the gain",
+     "상승을 이끌다"
+    ],
+    [
+     "inflation expectations",
+     null,
+     "기대 인플레이션"
+    ]
+   ],
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+   "date_basis": "URL 2026/11/24 ET; 지표 발표 11/24 10:00 ET(=11/25 00:00 KST) 직후 기사, 종료 11/25 06:00 KST(=11/24 16:00 ET) 이전"
+  },
+  {
+   "country": "US",
+   "category": "정치",
+   "title_ko": "트럼프, 뉴섬의 사형수 감형 결정 공격",
+   "title_en": "Trump goes after Newsom over death penalty commutations",
+   "summary": [
+    "트럼프 대통령은 개빈 뉴섬 캘리포니아 주지사의 사형수 수백 명 감형 결정을 공격했다.",
+    "뉴섬은 트럼프의 오랜 정적이다.",
+    "뉴섬은 2028년 대선 출마 가능성이 거론되는 민주당 인사다."
+   ],
+   "summary_en": [
+    "President Trump attacked California Gov. Gavin Newsom's decision to commute hundreds of death sentences.",
+    "Newsom is a longtime foil of Trump.",
+    "Newsom is a Democrat seen as a potential 2028 presidential candidate."
+   ],
+   "expressions": [
+    [
+     "goes after",
+     "go after",
+     "~를 공격하다"
+    ],
+    [
+     "commute",
+     null,
+     "감형하다"
+    ],
+    [
+     "longtime foil",
+     null,
+     "오랜 맞수"
+    ]
+   ],
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/11/23/politics/trump-newsom-death-penalty-commutations-2028",
+   "date_basis": "URL 2026/11/23 ET (=11/23 14:00 KST 이후, 기간 내)"
+  },
+  {
+   "country": "US",
+   "category": "정치",
+   "title_ko": "트럼프, 성추문 입막음 돈 유죄 판결 뒤집기 재도전 기회 얻어",
+   "title_en": "Trump gets another shot at overturning hush money conviction",
+   "summary": [
+    "연방 제2순회항소법원은 트럼프 대통령이 34개 주 혐의 유죄 판결 항소를 연방 법원에서 다뤄야 한다고 다시 주장할 수 있다고 판단했다.",
+    "트럼프는 연방지법 판사를 상대로 이 주장을 다시 설득할 수 있게 됐다.",
+    "트럼프는 성추문 입막음 돈 사건 유죄 판결을 뒤집으려 하고 있다."
+   ],
+   "summary_en": [
+    "The 2nd U.S. Circuit Court of Appeals ruled that President Trump can again argue his appeal on 34 state counts should be heard in federal court.",
+    "Trump can now try again to persuade a district court judge on this point.",
+    "Trump is seeking to overturn his hush money conviction."
+   ],
+   "expressions": [
+    [
+     "another shot",
+     null,
+     "또 한 번의 기회"
+    ],
+    [
+     "heard in federal court",
+     "be heard",
+     "연방 법원에서 심리되다"
+    ],
+    [
+     "district court judge",
+     null,
+     "연방지법 판사"
+    ]
+   ],
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/11/23/politics/trump-attempt-overturn-hush-money-conviction",
+   "date_basis": "URL 2026/11/23 ET (기간 내)"
+  },
+  {
+   "country": "US",
+   "category": "사회",
+   "title_ko": "GWB 총격 혐의 은퇴 뉴욕경찰 형사, 살인 혐의 무죄 주장",
+   "title_en": "Retired NYPD detective accused in deadly GWB shooting pleads not guilty",
+   "summary": [
+    "은퇴한 뉴욕경찰 형사 빅터 로메로(62)가 23일(현지시간) 2급 살인 혐의에 대해 무죄를 주장했다.",
+    "그는 10월 20일 조지워싱턴 다리에서 코런 어바인을 총으로 쏴 숨지게 한 혐의를 받는다.",
+    "법원은 보석 없이 구금을 명령했고, 검찰은 그가 총격 다음 날 아침 차량 운전석 쪽을 반복해 닦는 영상이 있다고 밝혔다."
+   ],
+   "summary_en": [
+    "Victor Romero, 62, a retired NYPD detective, pleaded not guilty to second-degree murder on the 23rd local time.",
+    "He is accused of fatally shooting Koran Irvine on the George Washington Bridge on Oct. 20.",
+    "The court ordered him held without bail, and prosecutors cited video of him repeatedly wiping down the driver's side of his car the morning after the shooting."
+   ],
+   "expressions": [
+    [
+     "pleaded not guilty",
+     "plead not guilty",
+     "무죄를 주장하다"
+    ],
+    [
+     "held without bail",
+     null,
+     "보석 없이 구금된"
+    ],
+    [
+     "wiping down",
+     "wipe down",
+     "닦아내다"
+    ]
+   ],
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/newyork/news/george-washington-bridge-shooting-retired-detective-arraignment/",
+   "date_basis": "검색 결과 내용: 2026-11-23(월) 오전 인정신문 (ET), 기간 내"
+  },
+  {
+   "country": "US",
+   "category": "사회",
+   "title_ko": "댈러스서 생일 맞은 엄마, 사고 직후 총격 사망…용의자 살인 혐의 기소",
+   "title_en": "Dallas mother shot dead after crash on her birthday; suspect charged with murder",
+   "summary": [
+    "댈러스에서 네 아이의 엄마가 자신의 생일에 교통사고 직후 총에 맞아 숨졌다.",
+    "댈러스 경찰은 피해자 차량을 들이받은 차량의 운전자로 지목된 후안 안토니오 곤살레스-오르두나(29)를 체포해 살인 혐의로 기소했다.",
+    "경찰은 총격범으로 지목된 두 번째 용의자의 신원도 공개했다."
+   ],
+   "summary_en": [
+    "A mother of four in Dallas was shot dead right after a car crash on her birthday.",
+    "Dallas police arrested Juan Antonio Gonzalez-Orduna, 29, the suspected driver of the vehicle that struck the victim's car, and charged him with murder.",
+    "Police also named a second suspect, the alleged gunman."
+   ],
+   "expressions": [
+    [
+     "shot dead",
+     null,
+     "총에 맞아 숨진"
+    ],
+    [
+     "charged him with murder",
+     "charge with",
+     "~혐의로 기소하다"
+    ],
+    [
+     "alleged gunman",
+     null,
+     "총격범으로 지목된 인물"
+    ]
+   ],
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/texas/news/dallas-crash-shooting-charges-11-22-2026/",
+   "date_basis": "URL 11-22-2026 ET (=11/22 14:00 KST 이후, 기간 내)"
+  },
+  {
+   "country": "US",
+   "category": "부동산",
+   "title_ko": "얼어붙은 美 주택시장…기존주택 판매 16년 만에 최저",
+   "title_en": "Frozen U.S. housing market: existing-home sales at 16-year low",
+   "summary": [
+    "10월 미국 기존주택 판매는 16년 만에 최저로 떨어졌다.",
+    "향후 거래를 보여주는 잠정주택 판매는 25년 된 전미부동산중개인협회 지수에서 사상 최저를 기록했다.",
+    "집값 상승세는 최근 둔화했지만 여전히 팬데믹 이전보다 50% 넘게 높다."
+   ],
+   "summary_en": [
+    "U.S. existing-home sales fell to a 16-year low in October.",
+    "Pending sales, an indicator of future closings, hit a record low on the Realtors' 25-year-old index.",
+    "Home price growth has slowed recently, but prices are still up more than 50% from pre-pandemic levels."
+   ],
+   "expressions": [
+    [
+     "existing-home sales",
+     null,
+     "기존주택 판매"
+    ],
+    [
+     "record low",
+     null,
+     "사상 최저"
+    ],
+    [
+     "pre-pandemic levels",
+     null,
+     "팬데믹 이전 수준"
+    ]
+   ],
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
+   "date_basis": "URL 2026/11/23 ET (기간 내)"
+  },
+  {
+   "country": "US",
+   "category": "부동산",
+   "title_ko": "美 신축 주택, 기존 주택보다 싸게 팔려",
+   "title_en": "New U.S. homes now selling for less than existing ones",
+   "summary": [
+    "미국에서 신축 주택이 기존 주택보다 낮은 가격에 팔리고 있다.",
+    "9월 신축 주택 중위가격은 40만400달러였다.",
+    "같은 달 기존 주택 중위가격은 41만7500달러였다."
+   ],
+   "summary_en": [
+    "Newly built homes in the U.S. are now selling for less than pre-owned ones.",
+    "The median new-home price was $400,400 in September.",
+    "The median price of existing homes was $417,500 in the same month."
+   ],
+   "expressions": [
+    [
+     "Newly built",
+     null,
+     "신축의"
+    ],
+    [
+     "pre-owned",
+     null,
+     "기존의, 중고의"
+    ],
+    [
+     "median new-home price",
+     null,
+     "신축 주택 중위가격"
+    ]
+   ],
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/11/23/economy/new-home-builds-construction-problems",
+   "date_basis": "URL 2026/11/23 ET (기간 내)"
+  }
+ ],
+ "channels": {
+  "news": {
+   "channel_id": "C0C6NRNGE81",
+   "parent": {
+    "text": "📰 **Daily News Brief** | 2026-11-25 (수)\n_수집 기간: 11/22 06:00 ~ 11/25 06:00 KST_\n\n**오늘의 핵심**\n• 코스피가 젠슨 황 복귀 효과에 6.32% 급등한 5006.03으로 마감하며 5000선을 회복했다\n• 채권시장 참여자 54%가 26일 금통위에서 기준금리 인상을 예상했다\n• 미국 11월 소비자신뢰지수가 11.4포인트 오른 103.3으로 2025년 1월 이후 최고를 기록했다\n\n🧵 상세 뉴스는 스레드에서 분야별로 확인: 🇰🇷 한국·🇺🇸 미국 (경제 · 정치 · 사회 · 부동산 · 모빌리티)",
+    "verified": true,
+    "ts": "1795554573.593779"
+   },
+   "replies": [
+    {
+     "id": "news|KR|경제|1/1",
+     "text": "🇰🇷 **한국 · 💰 경제**\n**1. 코스피, 젠슨 황 복귀에 6.32% 급등…5000선 회복**\n• 24일 코스피는 전 거래일보다 297.49p(6.32%) 오른 5006.03에 마감했다.\n• 젠슨 황의 엔비디아 CEO 복귀로 전날 엔비디아 주가가 31.5% 폭등한 흐름이 이어졌다.\n• 오전 9시6분에는 유가증권시장에 매수 사이드카가 발동됐다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611241604048501)\n\n**2. 채권시장 참여자 54% \"11월 금통위, 기준금리 인상 예상\"**\n• 채권시장 참여자의 54%가 11월 금통위에서 기준금리 인상을 예상했다.\n• 한국은행 금융통화위원회는 26일 통화정책방향 결정회의를 열어 기준금리를 결정한다.\n• 현재 기준금리는 연 3.00%다.\n🔗 [뉴시스](https://www.newsis.com/view/NISX20261124_0003880879)",
+     "verified": true,
+     "ts": "1795554583.750949"
+    },
+    {
+     "id": "news|KR|정치|1/1",
+     "text": "🇰🇷 **한국 · 🏛️ 정치**\n**1. 예산소위, 청와대 특활비 놓고 충돌 끝 보류**\n• 예산안조정소위에서 여야가 청와대 특수활동비를 두고 정면 충돌해 심사를 보류했다.\n• 국민의힘은 \"내로남불 사과해야\", 민주당은 \"역대 첫 공개\"라고 맞섰다.\n• 예산안 법정 처리 시한인 12월 2일까지는 열흘도 남지 않았다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611242253013485)\n\n**2. 이용철 법무장관 후보자 청문회…여야 격돌 예고**\n• 국회 법제사법위원회는 24일 오전 10시 이용철 법무부 장관 후보자 인사청문회 일정을 잡았다.\n• 국민의힘은 법사위 보이콧 방침에도 이번 청문회에는 참여하기로 했다.\n• 민주당은 \"역량 검증 우선\", 국민의힘은 \"공소취소 포기 선언하라\"고 요구했다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611240501030951)\n\n**3. 청해부대 파견연장 동의안 국방위 소위 통과…'한국판 IRA'는 주춤**\n• 국회 국방위원회 소위원회가 청해부대 파견연장 수정동의안을 여야 합의로 통과시켰다.\n• 이재명 정부는 미국·서방과의 신뢰 회복에 나서고 있다.\n• 반면 '한국판 IRA' 추진은 주춤하고 있다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611241500573292)",
+     "verified": true,
+     "ts": "1795554588.592179"
+    },
+    {
+     "id": "news|KR|사회|1/1",
+     "text": "🇰🇷 **한국 · 👥 사회**\n**1. \"사제폭탄으로 민주당 무너뜨리겠다\" 협박글…경찰 긴급 수색**\n• 온라인 커뮤니티에 더불어민주당을 겨냥한 사제폭탄 테러 암시 글이 올라왔다.\n• 경찰은 광주시당 등 전국 시·도당사를 긴급 수색했다.\n• 경찰은 수색 뒤 작성자 신원과 경위를 조사할 방침이다.\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/24/20261124500331)\n\n**2. 부산서 이웃집 부부에 흉기…70대 아내 숨지고 80대 남편 중상**\n• 부산에서 70대 남성이 이웃집 부부에게 흉기를 휘둘러 70대 아내가 숨지고 80대 남편이 크게 다쳤다.\n• 부산 서부경찰서는 이 남성을 현행범으로 체포했다.\n• 경찰은 구속영장을 신청할 예정이다.\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/24/20261124500175)\n\n**3. 제주 중학생 숨진 채 발견…유족 \"수년간 괴롭힘\" 학폭 의혹**\n• 중학교 3학년 학생이 제주시 탑동 앞바다에서 숨진 채 발견됐다.\n• 유족은 학생이 수년간 특정 학생들의 괴롭힘에 시달렸다고 주장하고 있다.\n• 제주도교육청은 현재까지 학교폭력 신고가 접수되지 않았다고 밝혔다.\n🔗 [서울신문](https://www.seoul.co.kr/news/society/accident/2026/11/24/20261124500100)",
+     "verified": true,
+     "ts": "1795554593.433419"
+    },
+    {
+     "id": "news|KR|부동산|1/1",
+     "text": "🇰🇷 **한국 · 🏠 부동산**\n**1. 공시가 현실화율 동결에도…강남 초고가 단지 보유세 40% 늘어**\n• 공동주택 공시가격 현실화율이 동결됐지만 강남 초고가 단지 보유세는 40% 늘어날 것으로 분석됐다.\n• 종합부동산세 공정시장가액비율 상향과 고가주택 구간 세율 인상 등 세제개편안의 영향이 크다.\n• 반포자이 전용 84㎡의 내년 보유세는 2641만원으로 올해 1810만원보다 46% 늘어날 것으로 추산됐다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611230602118443)",
+     "verified": true,
+     "ts": "1795554595.953209"
+    },
+    {
+     "id": "news|KR|모빌리티|1/1",
+     "text": "🇰🇷 **한국 · 🚗 모빌리티**\n**1. 에스오에스랩, 북미 빅테크와 87억 라이다 계약…로보택시 공급망 기회**\n• 에스오에스랩이 북미 빅테크와 약 87억원 규모의 자율주행용 라이다 개발·공급계약을 맺었다.\n• 이 계약으로 회사의 로보택시 공급망 진입 가능성이 주목받고 있다.\n• 웨이모 6세대 시스템에는 라이다 4개가 탑재되지만 차세대 시스템은 2개 중심으로 센서 수를 줄이는 방향으로 개발되는 것으로 전해졌다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611240932345253)\n\n**2. 현대차의 웨이모 로보택시 공급 확대…SK온 美 공장에 훈풍**\n• 현대차의 웨이모 로보택시 공급 확대가 SK온의 배터리 수요를 늘릴 것이라는 전망이 나왔다.\n• 이는 SK온 미국 조지아 공장의 내년 가동률 반등을 이끌 것으로 전망된다.\n• 2028년까지 현대차의 웨이모 로보택시 공급 규모는 5만대로 관측된다.\n🔗 [헤럴드경제](https://biz.heraldcorp.com/article/10946906)",
+     "verified": true,
+     "ts": "1795554599.739099"
+    },
+    {
+     "id": "news|US|경제|1/1",
+     "text": "🇺🇸 **미국 · 💰 경제**\n**1. 美 11월 소비자신뢰지수 103.3…2025년 1월 이후 최고**\n• 콘퍼런스보드의 11월 소비자신뢰지수는 11.4포인트 오른 103.3으로 2025년 1월 이후 최고를 기록했다.\n• 이는 다우존스 집계 전망치 92.2를 웃돈 수치다.\n• 민주당 지지층과 무당층이 상승을 이끌었지만 12개월 기대 인플레이션은 5.7%로 높은 수준을 유지했다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html)",
+     "verified": true,
+     "ts": "1795554609.177169"
+    },
+    {
+     "id": "news|US|정치|1/1",
+     "text": "🇺🇸 **미국 · 🏛️ 정치**\n**1. 트럼프, 뉴섬의 사형수 감형 결정 공격**\n• 트럼프 대통령은 개빈 뉴섬 캘리포니아 주지사의 사형수 수백 명 감형 결정을 공격했다.\n• 뉴섬은 트럼프의 오랜 정적이다.\n• 뉴섬은 2028년 대선 출마 가능성이 거론되는 민주당 인사다.\n🔗 [CNN](https://www.cnn.com/2026/11/23/politics/trump-newsom-death-penalty-commutations-2028)\n\n**2. 트럼프, 성추문 입막음 돈 유죄 판결 뒤집기 재도전 기회 얻어**\n• 연방 제2순회항소법원은 트럼프 대통령이 34개 주 혐의 유죄 판결 항소를 연방 법원에서 다뤄야 한다고 다시 주장할 수 있다고 판단했다.\n• 트럼프는 연방지법 판사를 상대로 이 주장을 다시 설득할 수 있게 됐다.\n• 트럼프는 성추문 입막음 돈 사건 유죄 판결을 뒤집으려 하고 있다.\n🔗 [CNN](https://www.cnn.com/2026/11/23/politics/trump-attempt-overturn-hush-money-conviction)",
+     "verified": true,
+     "ts": "1795554613.044809"
+    },
+    {
+     "id": "news|US|사회|1/1",
+     "text": "🇺🇸 **미국 · 👥 사회**\n**1. GWB 총격 혐의 은퇴 뉴욕경찰 형사, 살인 혐의 무죄 주장**\n• 은퇴한 뉴욕경찰 형사 빅터 로메로(62)가 23일(현지시간) 2급 살인 혐의에 대해 무죄를 주장했다.\n• 그는 10월 20일 조지워싱턴 다리에서 코런 어바인을 총으로 쏴 숨지게 한 혐의를 받는다.\n• 법원은 보석 없이 구금을 명령했고, 검찰은 그가 총격 다음 날 아침 차량 운전석 쪽을 반복해 닦는 영상이 있다고 밝혔다.\n🔗 [CBS News](https://www.cbsnews.com/newyork/news/george-washington-bridge-shooting-retired-detective-arraignment/)\n\n**2. 댈러스서 생일 맞은 엄마, 사고 직후 총격 사망…용의자 살인 혐의 기소**\n• 댈러스에서 네 아이의 엄마가 자신의 생일에 교통사고 직후 총에 맞아 숨졌다.\n• 댈러스 경찰은 피해자 차량을 들이받은 차량의 운전자로 지목된 후안 안토니오 곤살레스-오르두나(29)를 체포해 살인 혐의로 기소했다.\n• 경찰은 총격범으로 지목된 두 번째 용의자의 신원도 공개했다.\n🔗 [CBS News](https://www.cbsnews.com/texas/news/dallas-crash-shooting-charges-11-22-2026/)",
+     "verified": true,
+     "ts": "1795554617.446469"
+    },
+    {
+     "id": "news|US|부동산|1/1",
+     "text": "🇺🇸 **미국 · 🏠 부동산**\n**1. 얼어붙은 美 주택시장…기존주택 판매 16년 만에 최저**\n• 10월 미국 기존주택 판매는 16년 만에 최저로 떨어졌다.\n• 향후 거래를 보여주는 잠정주택 판매는 25년 된 전미부동산중개인협회 지수에서 사상 최저를 기록했다.\n• 집값 상승세는 최근 둔화했지만 여전히 팬데믹 이전보다 50% 넘게 높다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html)\n\n**2. 美 신축 주택, 기존 주택보다 싸게 팔려**\n• 미국에서 신축 주택이 기존 주택보다 낮은 가격에 팔리고 있다.\n• 9월 신축 주택 중위가격은 40만400달러였다.\n• 같은 달 기존 주택 중위가격은 41만7500달러였다.\n🔗 [CNN](https://www.cnn.com/2026/11/23/economy/new-home-builds-construction-problems)",
+     "verified": true,
+     "ts": "1795554620.774239"
+    },
+    {
+     "id": "news|US|모빌리티|1/1",
+     "text": "🇺🇸 **미국 · 🚗 모빌리티**\n_해당 기간 새 기사 없음_",
+     "verified": true,
+     "ts": "1795554621.559399"
+    }
+   ]
+  },
+  "english": {
+   "channel_id": "C0C6KR1MEEP",
+   "parent": {
+    "text": "📚 **Daily English Brief** | 2026-11-25 (수)\n_수집 기간: 11/22 06:00 ~ 11/25 06:00 KST_\n\n**Today's Headlines / 오늘의 핵심**\n• The KOSPI soared 6.32% to close at 5,006.03 on Jensen Huang's return, reclaiming the 5,000 mark\n  _코스피가 젠슨 황 복귀 효과에 6.32% 급등한 5006.03으로 마감하며 5000선을 회복했다_\n• 54% of bond market participants expect a base rate hike at the Monetary Policy Board meeting on the 26th\n  _채권시장 참여자 54%가 26일 금통위에서 기준금리 인상을 예상했다_\n• The U.S. consumer confidence index jumped 11.4 points to 103.3 in November, the highest since January 2025\n  _미국 11월 소비자신뢰지수가 11.4포인트 오른 103.3으로 2025년 1월 이후 최고를 기록했다_\n\n🧵 Category threads / 스레드에서 분야별 확인: 🇰🇷 Korea·🇺🇸 US (Economy · Politics · Society · Real Estate · Mobility)",
+    "verified": true,
+    "ts": "1795554631.216439"
+   },
+   "replies": [
+    {
+     "id": "english|KR|경제|1/1",
+     "text": "🇰🇷 **Korea · 💰 Economy / 한국 · 경제**\n**1. KOSPI soars 6.32% on Jensen Huang's return, reclaims 5,000**\n_코스피, 젠슨 황 복귀에 6.32% 급등…5000선 회복_\n• The KOSPI closed at 5,006.03 on the 24th, up 297.49 points (6.32%) from the previous session.\n  _24일 코스피는 전 거래일보다 297.49p(6.32%) 오른 5006.03에 마감했다._\n• The rally extended the previous day's 31.5% surge in Nvidia shares after Jensen Huang was reinstated as CEO.\n  _젠슨 황의 엔비디아 CEO 복귀로 전날 엔비디아 주가가 31.5% 폭등한 흐름이 이어졌다._\n• A buy-side sidecar was triggered on the main board at 9:06 a.m.\n  _오전 9시6분에는 유가증권시장에 매수 사이드카가 발동됐다._\n📝 `previous session` 직전 거래일 · `was reinstated` (be reinstated) 복직되다 · `buy-side sidecar` 매수 사이드카\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611241604048501)\n\n**2. 54% of bond market participants expect a November rate hike**\n_채권시장 참여자 54% \"11월 금통위, 기준금리 인상 예상\"_\n• 54% of bond market participants expect a base rate hike at the November Monetary Policy Board meeting.\n  _채권시장 참여자의 54%가 11월 금통위에서 기준금리 인상을 예상했다._\n• The Bank of Korea's Monetary Policy Board will meet on the 26th to decide on the base rate.\n  _한국은행 금융통화위원회는 26일 통화정책방향 결정회의를 열어 기준금리를 결정한다._\n• The base rate currently stands at 3.00% a year.\n  _현재 기준금리는 연 3.00%다._\n📝 `bond market participants` 채권시장 참여자 · `rate hike` 금리 인상 · `stands at` (stand at) ~수준이다\n🔗 [뉴시스](https://www.newsis.com/view/NISX20261124_0003880879)",
+     "verified": true,
+     "ts": "1795554639.474129"
+    },
+    {
+     "id": "english|KR|정치|1/1",
+     "text": "🇰🇷 **Korea · 🏛️ Politics / 한국 · 정치**\n**1. Budget subcommittee shelves review of presidential office's special funds after clash**\n_예산소위, 청와대 특활비 놓고 충돌 끝 보류_\n• Rival parties clashed head-on over the presidential office's special activity funds in the budget adjustment subcommittee, putting the review on hold.\n  _예산안조정소위에서 여야가 청와대 특수활동비를 두고 정면 충돌해 심사를 보류했다._\n• The People Power Party demanded an apology for \"double standards,\" while the Democratic Party countered it was \"the first-ever disclosure.\"\n  _국민의힘은 \"내로남불 사과해야\", 민주당은 \"역대 첫 공개\"라고 맞섰다._\n• Fewer than 10 days remain until the Dec. 2 legal deadline for passing the budget.\n  _예산안 법정 처리 시한인 12월 2일까지는 열흘도 남지 않았다._\n📝 `clashed head-on` (clash head-on) 정면 충돌하다 · `on hold` 보류된 · `legal deadline` 법정 시한\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611242253013485)\n\n**2. Rival parties set to clash at justice minister nominee Lee Yong-cheol's hearing**\n_이용철 법무장관 후보자 청문회…여야 격돌 예고_\n• The Legislation and Judiciary Committee scheduled a confirmation hearing for Justice Minister nominee Lee Yong-cheol at 10 a.m. on the 24th.\n  _국회 법제사법위원회는 24일 오전 10시 이용철 법무부 장관 후보자 인사청문회 일정을 잡았다._\n• The People Power Party decided to take part in the hearing despite its plan to boycott the committee.\n  _국민의힘은 법사위 보이콧 방침에도 이번 청문회에는 참여하기로 했다._\n• The Democratic Party called for \"vetting competence first,\" while the People Power Party demanded he \"pledge to give up dropping charges.\"\n  _민주당은 \"역량 검증 우선\", 국민의힘은 \"공소취소 포기 선언하라\"고 요구했다._\n📝 `confirmation hearing` 인사청문회 · `take part in` 참여하다 · `dropping charges` (drop charges) 공소를 취소하다\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611240501030951)\n\n**3. Cheonghae Unit extension clears defense subcommittee as 'Korean IRA' stalls**\n_청해부대 파견연장 동의안 국방위 소위 통과…'한국판 IRA'는 주춤_\n• A National Assembly defense subcommittee passed an amended motion to extend the Cheonghae Unit's deployment by bipartisan agreement.\n  _국회 국방위원회 소위원회가 청해부대 파견연장 수정동의안을 여야 합의로 통과시켰다._\n• The Lee Jae-myung government is moving to restore trust with the U.S. and the West.\n  _이재명 정부는 미국·서방과의 신뢰 회복에 나서고 있다._\n• By contrast, the push for a \"Korean version of the IRA\" has stalled.\n  _반면 '한국판 IRA' 추진은 주춤하고 있다._\n📝 `bipartisan agreement` 여야 합의 · `restore trust` 신뢰를 회복하다 · `has stalled` (stall) 주춤하다\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611241500573292)",
+     "verified": true,
+     "ts": "1795554648.216309"
+    },
+    {
+     "id": "english|KR|사회|1/1",
+     "text": "🇰🇷 **Korea · 👥 Society / 한국 · 사회**\n**1. Online threat to \"bring down\" Democratic Party with homemade bomb prompts police search**\n_\"사제폭탄으로 민주당 무너뜨리겠다\" 협박글…경찰 긴급 수색_\n• A post hinting at a homemade bomb attack targeting the Democratic Party appeared on an online community.\n  _온라인 커뮤니티에 더불어민주당을 겨냥한 사제폭탄 테러 암시 글이 올라왔다._\n• Police carried out urgent searches of the party's city and provincial offices nationwide, including its Gwangju chapter.\n  _경찰은 광주시당 등 전국 시·도당사를 긴급 수색했다._\n• Police plan to identify the author and look into the circumstances after the search.\n  _경찰은 수색 뒤 작성자 신원과 경위를 조사할 방침이다._\n📝 `homemade bomb` 사제폭탄 · `carried out` (carry out) 실시하다 · `look into` 조사하다\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/24/20261124500331)\n\n**2. Knife attack on neighbors in Busan kills wife in her 70s, seriously injures husband in his 80s**\n_부산서 이웃집 부부에 흉기…70대 아내 숨지고 80대 남편 중상_\n• A man in his 70s attacked a neighboring couple with a knife in Busan, killing the wife in her 70s and seriously injuring the husband in his 80s.\n  _부산에서 70대 남성이 이웃집 부부에게 흉기를 휘둘러 70대 아내가 숨지고 80대 남편이 크게 다쳤다._\n• Busan Seobu Police Station arrested the man on the spot.\n  _부산 서부경찰서는 이 남성을 현행범으로 체포했다._\n• Police plan to seek an arrest warrant.\n  _경찰은 구속영장을 신청할 예정이다._\n📝 `seriously injuring` (seriously injure) 중상을 입히다 · `on the spot` 현장에서 · `seek an arrest warrant` 구속영장을 신청하다\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/24/20261124500175)\n\n**3. Jeju middle schooler found dead; family alleges years of bullying**\n_제주 중학생 숨진 채 발견…유족 \"수년간 괴롭힘\" 학폭 의혹_\n• A third-year middle school student was found dead in the waters off Tap-dong in Jeju City.\n  _중학교 3학년 학생이 제주시 탑동 앞바다에서 숨진 채 발견됐다._\n• The family claims the student had suffered bullying by certain students for years.\n  _유족은 학생이 수년간 특정 학생들의 괴롭힘에 시달렸다고 주장하고 있다._\n• The Jeju Provincial Office of Education said no school violence report had been filed so far.\n  _제주도교육청은 현재까지 학교폭력 신고가 접수되지 않았다고 밝혔다._\n📝 `found dead` 숨진 채 발견된 · `suffered bullying` (suffer bullying) 괴롭힘에 시달리다 · `filed` (file) 접수하다\n🔗 [서울신문](https://www.seoul.co.kr/news/society/accident/2026/11/24/20261124500100)",
+     "verified": true,
+     "ts": "1795554656.449839"
+    },
+    {
+     "id": "english|KR|부동산|1/1",
+     "text": "🇰🇷 **Korea · 🏠 Real Estate / 한국 · 부동산**\n**1. Despite frozen assessment ratio, Gangnam luxury complexes face 40% higher holding taxes**\n_공시가 현실화율 동결에도…강남 초고가 단지 보유세 40% 늘어_\n• Although the official price-to-market ratio for apartments was frozen, holding taxes on Gangnam's ultra-luxury complexes are projected to rise 40%.\n  _공동주택 공시가격 현실화율이 동결됐지만 강남 초고가 단지 보유세는 40% 늘어날 것으로 분석됐다._\n• The tax reform plan, including a higher fair market value ratio for the comprehensive real estate tax and higher rates for high-priced homes, is the main driver.\n  _종합부동산세 공정시장가액비율 상향과 고가주택 구간 세율 인상 등 세제개편안의 영향이 크다._\n• Next year's holding tax on an 84㎡ unit at Banpo Xi is estimated at 26.41 million won, up 46% from 18.1 million won this year.\n  _반포자이 전용 84㎡의 내년 보유세는 2641만원으로 올해 1810만원보다 46% 늘어날 것으로 추산됐다._\n📝 `holding taxes` 보유세 · `fair market value ratio` 공정시장가액비율 · `main driver` 주요 요인\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611230602118443)",
+     "verified": true,
+     "ts": "1795554660.570679"
+    },
+    {
+     "id": "english|KR|모빌리티|1/1",
+     "text": "🇰🇷 **Korea · 🚗 Mobility / 한국 · 모빌리티**\n**1. SOS Lab lands 8.7 billion won lidar deal with North American Big Tech, eyes robotaxi market**\n_에스오에스랩, 북미 빅테크와 87억 라이다 계약…로보택시 공급망 기회_\n• SOS Lab signed a roughly 8.7 billion won contract to develop and supply autonomous-driving lidar for a North American Big Tech firm.\n  _에스오에스랩이 북미 빅테크와 약 87억원 규모의 자율주행용 라이다 개발·공급계약을 맺었다._\n• The deal has drawn attention to the company's potential entry into the robotaxi supply chain.\n  _이 계약으로 회사의 로보택시 공급망 진입 가능성이 주목받고 있다._\n• Waymo's sixth-generation system carries four lidars, but its next-generation system is reportedly being developed with fewer sensors, centered on two.\n  _웨이모 6세대 시스템에는 라이다 4개가 탑재되지만 차세대 시스템은 2개 중심으로 센서 수를 줄이는 방향으로 개발되는 것으로 전해졌다._\n📝 `supply chain` 공급망 · `drawn attention to` (draw attention to) ~에 주목을 끌다 · `next-generation` 차세대의\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611240932345253)\n\n**2. Hyundai's growing Waymo robotaxi supply gives SK On's U.S. plant a tailwind**\n_현대차의 웨이모 로보택시 공급 확대…SK온 美 공장에 훈풍_\n• Hyundai Motor's expanding robotaxi supply to Waymo is expected to lift battery demand for SK On.\n  _현대차의 웨이모 로보택시 공급 확대가 SK온의 배터리 수요를 늘릴 것이라는 전망이 나왔다._\n• This is forecast to drive a rebound in the utilization rate at SK On's Georgia plant next year.\n  _이는 SK온 미국 조지아 공장의 내년 가동률 반등을 이끌 것으로 전망된다._\n• Hyundai's robotaxi supply to Waymo is projected to reach 50,000 units by 2028.\n  _2028년까지 현대차의 웨이모 로보택시 공급 규모는 5만대로 관측된다._\n📝 `tailwind` 순풍, 호재 · `utilization rate` 가동률 · `battery demand` 배터리 수요\n🔗 [헤럴드경제](https://biz.heraldcorp.com/article/10946906)",
+     "verified": true,
+     "ts": "1795554666.995739"
+    },
+    {
+     "id": "english|US|경제|1/1",
+     "text": "🇺🇸 **US · 💰 Economy / 미국 · 경제**\n**1. U.S. consumer confidence hits 103.3 in November, highest since January 2025**\n_美 11월 소비자신뢰지수 103.3…2025년 1월 이후 최고_\n• The Conference Board's consumer confidence index rose 11.4 points to 103.3 in November, the highest since January 2025.\n  _콘퍼런스보드의 11월 소비자신뢰지수는 11.4포인트 오른 103.3으로 2025년 1월 이후 최고를 기록했다._\n• The reading beat the Dow Jones consensus estimate of 92.2.\n  _이는 다우존스 집계 전망치 92.2를 웃돈 수치다._\n• Democrats and independents drove the gain, but 12-month inflation expectations stayed high at 5.7%.\n  _민주당 지지층과 무당층이 상승을 이끌었지만 12개월 기대 인플레이션은 5.7%로 높은 수준을 유지했다._\n📝 `consensus estimate` 시장 전망치 · `drove the gain` (drive the gain) 상승을 이끌다 · `inflation expectations` 기대 인플레이션\n🔗 [CNBC](https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html)",
+     "verified": true,
+     "ts": "1795554673.212679"
+    },
+    {
+     "id": "english|US|정치|1/1",
+     "text": "🇺🇸 **US · 🏛️ Politics / 미국 · 정치**\n**1. Trump goes after Newsom over death penalty commutations**\n_트럼프, 뉴섬의 사형수 감형 결정 공격_\n• President Trump attacked California Gov. Gavin Newsom's decision to commute hundreds of death sentences.\n  _트럼프 대통령은 개빈 뉴섬 캘리포니아 주지사의 사형수 수백 명 감형 결정을 공격했다._\n• Newsom is a longtime foil of Trump.\n  _뉴섬은 트럼프의 오랜 정적이다._\n• Newsom is a Democrat seen as a potential 2028 presidential candidate.\n  _뉴섬은 2028년 대선 출마 가능성이 거론되는 민주당 인사다._\n📝 `goes after` (go after) ~를 공격하다 · `commute` 감형하다 · `longtime foil` 오랜 맞수\n🔗 [CNN](https://www.cnn.com/2026/11/23/politics/trump-newsom-death-penalty-commutations-2028)\n\n**2. Trump gets another shot at overturning hush money conviction**\n_트럼프, 성추문 입막음 돈 유죄 판결 뒤집기 재도전 기회 얻어_\n• The 2nd U.S. Circuit Court of Appeals ruled that President Trump can again argue his appeal on 34 state counts should be heard in federal court.\n  _연방 제2순회항소법원은 트럼프 대통령이 34개 주 혐의 유죄 판결 항소를 연방 법원에서 다뤄야 한다고 다시 주장할 수 있다고 판단했다._\n• Trump can now try again to persuade a district court judge on this point.\n  _트럼프는 연방지법 판사를 상대로 이 주장을 다시 설득할 수 있게 됐다._\n• Trump is seeking to overturn his hush money conviction.\n  _트럼프는 성추문 입막음 돈 사건 유죄 판결을 뒤집으려 하고 있다._\n📝 `another shot` 또 한 번의 기회 · `heard in federal court` (be heard) 연방 법원에서 심리되다 · `district court judge` 연방지법 판사\n🔗 [CNN](https://www.cnn.com/2026/11/23/politics/trump-attempt-overturn-hush-money-conviction)",
+     "verified": true,
+     "ts": "1795554679.283049"
+    },
+    {
+     "id": "english|US|사회|1/1",
+     "text": "🇺🇸 **US · 👥 Society / 미국 · 사회**\n**1. Retired NYPD detective accused in deadly GWB shooting pleads not guilty**\n_GWB 총격 혐의 은퇴 뉴욕경찰 형사, 살인 혐의 무죄 주장_\n• Victor Romero, 62, a retired NYPD detective, pleaded not guilty to second-degree murder on the 23rd local time.\n  _은퇴한 뉴욕경찰 형사 빅터 로메로(62)가 23일(현지시간) 2급 살인 혐의에 대해 무죄를 주장했다._\n• He is accused of fatally shooting Koran Irvine on the George Washington Bridge on Oct. 20.\n  _그는 10월 20일 조지워싱턴 다리에서 코런 어바인을 총으로 쏴 숨지게 한 혐의를 받는다._\n• The court ordered him held without bail, and prosecutors cited video of him repeatedly wiping down the driver's side of his car the morning after the shooting.\n  _법원은 보석 없이 구금을 명령했고, 검찰은 그가 총격 다음 날 아침 차량 운전석 쪽을 반복해 닦는 영상이 있다고 밝혔다._\n📝 `pleaded not guilty` (plead not guilty) 무죄를 주장하다 · `held without bail` 보석 없이 구금된 · `wiping down` (wipe down) 닦아내다\n🔗 [CBS News](https://www.cbsnews.com/newyork/news/george-washington-bridge-shooting-retired-detective-arraignment/)\n\n**2. Dallas mother shot dead after crash on her birthday; suspect charged with murder**\n_댈러스서 생일 맞은 엄마, 사고 직후 총격 사망…용의자 살인 혐의 기소_\n• A mother of four in Dallas was shot dead right after a car crash on her birthday.\n  _댈러스에서 네 아이의 엄마가 자신의 생일에 교통사고 직후 총에 맞아 숨졌다._\n• Dallas police arrested Juan Antonio Gonzalez-Orduna, 29, the suspected driver of the vehicle that struck the victim's car, and charged him with murder.\n  _댈러스 경찰은 피해자 차량을 들이받은 차량의 운전자로 지목된 후안 안토니오 곤살레스-오르두나(29)를 체포해 살인 혐의로 기소했다._\n• Police also named a second suspect, the alleged gunman.\n  _경찰은 총격범으로 지목된 두 번째 용의자의 신원도 공개했다._\n📝 `shot dead` 총에 맞아 숨진 · `charged him with murder` (charge with) ~혐의로 기소하다 · `alleged gunman` 총격범으로 지목된 인물\n🔗 [CBS News](https://www.cbsnews.com/texas/news/dallas-crash-shooting-charges-11-22-2026/)",
+     "verified": true,
+     "ts": "1795554686.612989"
+    },
+    {
+     "id": "english|US|부동산|1/1",
+     "text": "🇺🇸 **US · 🏠 Real Estate / 미국 · 부동산**\n**1. Frozen U.S. housing market: existing-home sales at 16-year low**\n_얼어붙은 美 주택시장…기존주택 판매 16년 만에 최저_\n• U.S. existing-home sales fell to a 16-year low in October.\n  _10월 미국 기존주택 판매는 16년 만에 최저로 떨어졌다._\n• Pending sales, an indicator of future closings, hit a record low on the Realtors' 25-year-old index.\n  _향후 거래를 보여주는 잠정주택 판매는 25년 된 전미부동산중개인협회 지수에서 사상 최저를 기록했다._\n• Home price growth has slowed recently, but prices are still up more than 50% from pre-pandemic levels.\n  _집값 상승세는 최근 둔화했지만 여전히 팬데믹 이전보다 50% 넘게 높다._\n📝 `existing-home sales` 기존주택 판매 · `record low` 사상 최저 · `pre-pandemic levels` 팬데믹 이전 수준\n🔗 [CNBC](https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html)\n\n**2. New U.S. homes now selling for less than existing ones**\n_美 신축 주택, 기존 주택보다 싸게 팔려_\n• Newly built homes in the U.S. are now selling for less than pre-owned ones.\n  _미국에서 신축 주택이 기존 주택보다 낮은 가격에 팔리고 있다._\n• The median new-home price was $400,400 in September.\n  _9월 신축 주택 중위가격은 40만400달러였다._\n• The median price of existing homes was $417,500 in the same month.\n  _같은 달 기존 주택 중위가격은 41만7500달러였다._\n📝 `Newly built` 신축의 · `pre-owned` 기존의, 중고의 · `median new-home price` 신축 주택 중위가격\n🔗 [CNN](https://www.cnn.com/2026/11/23/economy/new-home-builds-construction-problems)",
+     "verified": true,
+     "ts": "1795554692.066689"
+    },
+    {
+     "id": "english|US|모빌리티|1/1",
+     "text": "🇺🇸 **US · 🚗 Mobility / 미국 · 모빌리티**\n_No new articles in this period / 해당 기간 새 기사 없음_",
+     "verified": true,
+     "ts": "1795554693.023429"
+    }
+   ]
+  }
+ },
+ "verification": {
+  "all_passed": true
+ }
+}
