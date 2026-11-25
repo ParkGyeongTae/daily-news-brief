@@ -1,0 +1,763 @@
+{
+ "date": "2026-11-26",
+ "run_start_utc": "2026-11-25T21:03:46.590166+00:00",
+ "period": "2026-11-23 06:00 ~ 2026-11-26 06:00 KST",
+ "articles": [
+  {
+   "country": "KR",
+   "category": "경제",
+   "title_ko": "코스피 6% 급락해 4700선 붕괴…하루 만에 반등분 반납",
+   "title_en": "KOSPI plunges 6%, breaks below 4,700, giving back a day's rebound",
+   "summary_ko": [
+    "25일 코스피는 전 거래일보다 308.52p(6.16%) 내린 4697.51에 마감했다.",
+    "삼성전자는 9.87%, SK하이닉스는 11.05% 떨어졌다.",
+    "코스닥은 15.24p(2.29%) 내린 650.64에 마감했다."
+   ],
+   "summary_en": [
+    "On the 25th, the KOSPI closed at 4,697.51, down 308.52 points (6.16%) from the previous session.",
+    "Samsung Electronics fell 9.87% and SK hynix dropped 11.05%.",
+    "The KOSDAQ ended down 15.24 points (2.29%) at 650.64."
+   ],
+   "expressions": [
+    [
+     "breaks below",
+     "break below",
+     "하향 돌파하다"
+    ],
+    [
+     "giving back",
+     "give back",
+     "(상승분을) 반납하다"
+    ],
+    [
+     "previous session",
+     null,
+     "전 거래일"
+    ]
+   ],
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611251548238653",
+   "date_evidence": "URL 2026-11-25 15:48 KST"
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title_ko": "김민석, 조희대 탄핵 '5당 연대' 제안…국민의힘은 장외투쟁 확대",
+   "title_en": "Kim Min-seok proposes 'five-party alliance' to impeach Jo Hee-de; PPP expands street protests",
+   "summary_ko": [
+    "민주당 김민석 대표는 25일 최고위원회의에서 조국혁신당·진보당·기본소득당·사회민주당에 5당 연대를 제안했다.",
+    "국민의힘 장동혁 대표는 \"조희대 탄핵이 아니라 이재명 탄핵이 먼저여야 하지 않겠느냐\"고 반발했다.",
+    "국민의힘은 26일 경기 용인, 28일 대전, 29일 경북 상주·문경에서 규탄대회를 이어갈 계획이다."
+   ],
+   "summary_en": [
+    "Democratic Party leader Kim Min-seok proposed a five-party alliance to the Rebuilding Korea, Progressive, Basic Income and Social Democratic parties at a Supreme Council meeting on the 25th.",
+    "People Power Party leader Jang Dong-hyuk pushed back, asking, \"Shouldn't Lee Jae-myung's impeachment come first, not Jo Hee-de's?\"",
+    "The People Power Party plans to continue protest rallies in Yongin, Gyeonggi, on the 26th, Daejeon on the 28th, and Sangju and Mungyeong, North Gyeongsang, on the 29th."
+   ],
+   "expressions": [
+    [
+     "pushed back",
+     "push back",
+     "반발하다"
+    ],
+    [
+     "come first",
+     null,
+     "우선이다"
+    ],
+    [
+     "protest rallies",
+     null,
+     "규탄 집회"
+    ]
+   ],
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611251029242074",
+   "date_evidence": "URL 2026-11-25 10:29 KST"
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title_ko": "기초연금 '소득 적을수록 더 많이'…차등 지급 개정안 복지소위 통과",
+   "title_en": "Basic pension bill to pay 'more to those who earn less' clears welfare subcommittee",
+   "summary_ko": [
+    "국회 보건복지위원회 법안심사소위원회가 기초연금 차등 지급 개정안을 통과시켰다.",
+    "개정안은 소득이 적을수록 기초연금을 더 많이 지급하는 내용이다.",
+    "여야는 별다른 이견 없이 개정안을 처리했다."
+   ],
+   "summary_en": [
+    "The bill review subcommittee of the National Assembly's Health and Welfare Committee passed a bill for differentiated basic pension payments.",
+    "The bill pays larger basic pensions to those with lower incomes.",
+    "Rival parties handled the bill without notable disagreement."
+   ],
+   "expressions": [
+    [
+     "clears",
+     "clear",
+     "(관문을) 통과하다"
+    ],
+    [
+     "bill review subcommittee",
+     null,
+     "법안심사소위원회"
+    ],
+    [
+     "without notable disagreement",
+     null,
+     "별다른 이견 없이"
+    ]
+   ],
+   "source": "서울신문",
+   "url": "https://seoul.co.kr/news/politics/2026/11/25/20261125500336",
+   "date_evidence": "URL 날짜 2026-11-25 (기간 내 전일)"
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title_ko": "김해 남해고속도로서 트레일러 전도·연쇄 추돌…3명 숨지고 3명 다쳐",
+   "title_en": "Trailer overturns on Namhae Expressway in Gimhae, causing pileup that kills 3 and injures 3",
+   "summary_ko": [
+    "경남 김해 남해고속도로에서 트레일러가 넘어지며 연쇄 추돌 사고가 났다.",
+    "승용차 5대가 잇따라 부딪혀 3명이 숨지고 3명이 다쳤다.",
+    "경찰은 블랙박스 영상 등을 분석해 트레일러 전도 원인을 조사하고 있다."
+   ],
+   "summary_en": [
+    "A trailer overturned on the Namhae Expressway in Gimhae, South Gyeongsang Province, triggering a chain collision.",
+    "Five passenger cars crashed one after another, killing three people and injuring three.",
+    "Police are analyzing dashcam footage and other evidence to determine why the trailer overturned."
+   ],
+   "expressions": [
+    [
+     "chain collision",
+     null,
+     "연쇄 추돌"
+    ],
+    [
+     "one after another",
+     null,
+     "잇따라"
+    ],
+    [
+     "dashcam footage",
+     null,
+     "블랙박스 영상"
+    ]
+   ],
+   "source": "서울신문",
+   "url": "https://www.seoul.co.kr/news/society/accident/2026/11/25/20261125500101",
+   "date_evidence": "URL 날짜 2026-11-25 (기간 내 전일)"
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title_ko": "\"피해자가 원치 않아도 교제폭력 가해자 처벌해야\"…경찰 국민참여단 권고",
+   "title_en": "\"Punish dating violence offenders even if victims object,\" police citizen panel recommends",
+   "summary_ko": [
+    "경찰 정책 국민참여단이 교제폭력 가해자 처벌에 관한 권고안을 냈다.",
+    "피해자가 처벌을 원하지 않더라도 가해자를 처벌해야 한다는 내용이다.",
+    "국민참여단은 경찰이 교제폭력 사건에 적극 개입해야 한다고 권고했다."
+   ],
+   "summary_en": [
+    "The police's citizen participation panel issued recommendations on punishing dating violence offenders.",
+    "It said offenders should be punished even when victims do not want them punished.",
+    "The panel recommended that police actively intervene in dating violence cases."
+   ],
+   "expressions": [
+    [
+     "dating violence",
+     null,
+     "교제폭력"
+    ],
+    [
+     "citizen participation panel",
+     null,
+     "국민참여단"
+    ],
+    [
+     "actively intervene",
+     null,
+     "적극 개입하다"
+    ]
+   ],
+   "source": "서울신문",
+   "url": "https://www.seoul.co.kr/news/society/2026/11/25/20261125500233",
+   "date_evidence": "URL 날짜 2026-11-25 (기간 내 전일)"
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title_ko": "'리트 만점자 과외' 주장 남성 경찰 출석…\"추가 증거 성실히 제출\"",
+   "title_en": "Man who claims he tutored LEET top scorer appears before police, vows to \"submit more evidence\"",
+   "summary_ko": [
+    "부정행위 의혹을 받다 숨진 리트(LEET) 만점자를 과외했다고 주장한 남성이 경찰에 출석했다.",
+    "그는 참고인 신분으로 약 4시간 20분간 조사를 받고 귀가했다.",
+    "그는 \"추가 증거를 성실히 제출할 것\"이라고 밝혔다."
+   ],
+   "summary_en": [
+    "A man who claims he tutored a perfect LEET scorer, who died while under suspicion of cheating, appeared before police.",
+    "He was questioned as a witness for about 4 hours and 20 minutes before going home.",
+    "He said he \"will faithfully submit additional evidence.\""
+   ],
+   "expressions": [
+    [
+     "under suspicion of",
+     null,
+     "~의 의혹을 받는"
+    ],
+    [
+     "appeared before police",
+     "appear before",
+     "~에 출석하다"
+    ],
+    [
+     "questioned as a witness",
+     "question as a witness",
+     "참고인 조사를 받다"
+    ]
+   ],
+   "source": "서울신문",
+   "url": "https://www.seoul.co.kr/news/society/accident/2026/11/25/20261125500332",
+   "date_evidence": "URL 날짜 2026-11-25 (기간 내 전일)"
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title_ko": "서울 탈출해도 답 없다…경기마저 덮친 전세난",
+   "title_en": "Leaving Seoul is no answer as jeonse crunch hits Gyeonggi too",
+   "summary_ko": [
+    "한국부동산원 집계로 경기 아파트 전셋값은 올해 11월 셋째 주까지 누적 6.88% 올랐다.",
+    "아실 기준 24일 경기 아파트 전세 매물은 1만3558건으로 1년 전보다 28.8% 줄었다.",
+    "경기 전세수급지수는 110.7로 4년여 만의 최고 수준이다."
+   ],
+   "summary_en": [
+    "Gyeonggi apartment jeonse prices have risen a cumulative 6.88% this year through the third week of November, according to the Korea Real Estate Board.",
+    "Jeonse listings for Gyeonggi apartments stood at 13,558 on the 24th, down 28.8% from a year earlier, according to Asil.",
+    "The Gyeonggi jeonse supply-demand index stands at 110.7, the highest in more than four years."
+   ],
+   "expressions": [
+    [
+     "jeonse crunch",
+     null,
+     "전세난"
+    ],
+    [
+     "cumulative",
+     null,
+     "누적"
+    ],
+    [
+     "supply-demand index",
+     null,
+     "수급지수"
+    ]
+   ],
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611250630386746",
+   "date_evidence": "URL 2026-11-25 06:30 KST"
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title_ko": "서울시 \"주택공급 확대하려면 정비사업 규제부터 풀어야\"",
+   "title_en": "Seoul says redevelopment rules must be eased first to expand housing supply",
+   "summary_ko": [
+    "서울시가 국토교통부에 주택공급 확대를 위해 정비사업 규제부터 풀어야 한다고 주장했다.",
+    "서울시는 정비사업 금융규제와 거래 제한 완화를 요구했다.",
+    "서울시는 시중은행이 세부 시행기준이 없다는 이유로 이주비 대출 적용을 미루고 있다고 지적했다."
+   ],
+   "summary_en": [
+    "The Seoul Metropolitan Government told the Ministry of Land, Infrastructure and Transport that redevelopment regulations must be eased first to expand housing supply.",
+    "The city called for easing financial regulations and transaction restrictions on redevelopment projects.",
+    "The city pointed out that commercial banks are holding off on relocation loans, citing a lack of detailed implementation guidelines."
+   ],
+   "expressions": [
+    [
+     "housing supply",
+     null,
+     "주택공급"
+    ],
+    [
+     "holding off on",
+     "hold off on",
+     "~을 미루다"
+    ],
+    [
+     "implementation guidelines",
+     null,
+     "시행기준"
+    ]
+   ],
+   "source": "서울신문",
+   "url": "https://www.seoul.co.kr/news/politics/2026/11/25/20261125500334",
+   "date_evidence": "URL 날짜 2026-11-25 (기간 내 전일)"
+  },
+  {
+   "country": "KR",
+   "category": "모빌리티",
+   "title_ko": "2035년 신규 택시 전량 전기차로…정부·택시업계 협약",
+   "title_en": "All new taxis to be electric by 2035 under government-industry pact",
+   "summary_ko": [
+    "정부와 전국 택시업계 단체들이 전기택시 전환 활성화를 위한 업무협약을 맺었다.",
+    "협약 참여 기관들은 2035년까지 신규 도입하는 모든 택시를 전기차로 보급하기 위해 노력하기로 했다.",
+    "정부는 내연차 전환지원금 도입과 택시 차고지 중심의 급속충전시설 확충을 추진한다."
+   ],
+   "summary_en": [
+    "The government and national taxi industry groups signed a memorandum of understanding to promote the switch to electric taxis.",
+    "The participants agreed to work toward making every newly introduced taxi an EV by 2035.",
+    "The government will push to introduce a conversion subsidy for internal combustion vehicles and expand fast-charging facilities centered on taxi depots."
+   ],
+   "expressions": [
+    [
+     "memorandum of understanding",
+     null,
+     "업무협약"
+    ],
+    [
+     "work toward",
+     null,
+     "~을 위해 노력하다"
+    ],
+    [
+     "taxi depots",
+     null,
+     "택시 차고지"
+    ]
+   ],
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611241359137012",
+   "date_evidence": "URL 2026-11-24 13:59 KST"
+  },
+  {
+   "country": "KR",
+   "category": "모빌리티",
+   "title_ko": "현대차, 서울 도심서 '아트리아 AI' 실력 공개",
+   "title_en": "Hyundai shows off 'Atria AI' on downtown Seoul streets",
+   "summary_ko": [
+    "현대차그룹은 자체 자율주행 AI '아트리아 AI'를 탑재한 SDV 테스트 차량의 도심 주행 영상을 24일 공개했다.",
+    "영상에서 테스트 차량은 운전자 개입 없이 복잡한 도심을 주행했다.",
+    "현대차그룹은 아트리아 AI 기반 레벨 2++ 차량을 2029년 하반기 양산하는 것을 목표로 한다."
+   ],
+   "summary_en": [
+    "Hyundai Motor Group on the 24th released a video of an SDV test vehicle equipped with its in-house autonomous driving AI, 'Atria AI,' driving in the city.",
+    "In the video, the test vehicle navigated complex city streets without driver intervention.",
+    "Hyundai Motor Group aims to mass-produce Level 2++ vehicles based on Atria AI in the second half of 2029."
+   ],
+   "expressions": [
+    [
+     "shows off",
+     "show off",
+     "선보이다"
+    ],
+    [
+     "driver intervention",
+     null,
+     "운전자 개입"
+    ],
+    [
+     "mass-produce",
+     null,
+     "양산하다"
+    ]
+   ],
+   "source": "서울신문",
+   "url": "https://www.seoul.co.kr/news/economy/industry/2026/11/25/20261125021003",
+   "date_evidence": "URL 날짜 2026-11-25 (기간 내 전일)"
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "title_ko": "美 10월 PCE 물가 3.8%로 가속",
+   "title_en": "US October PCE inflation accelerates to 3.8%",
+   "summary_ko": [
+    "미국 연준이 선호하는 물가 지표인 10월 PCE 물가지수는 전년 대비 3.8% 올랐다.",
+    "이는 9월 3.7%보다 높아진 것으로, 시장 예상치와 같았다.",
+    "식품·에너지를 뺀 근원 PCE는 3.3%로 예상치보다 0.1%포인트 높았다."
+   ],
+   "summary_en": [
+    "The PCE price index, the Fed's preferred inflation gauge, rose 3.8% from a year earlier in October.",
+    "That was up from 3.7% in September and in line with market expectations.",
+    "Core PCE, which excludes food and energy, was 3.3%, 0.1 percentage point above forecasts."
+   ],
+   "expressions": [
+    [
+     "preferred inflation gauge",
+     null,
+     "선호하는 물가 지표"
+    ],
+    [
+     "in line with",
+     null,
+     "~에 부합하는"
+    ],
+    [
+     "percentage point",
+     null,
+     "퍼센트포인트"
+    ]
+   ],
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+   "date_evidence": "URL 2026-11-25 ET (발표 08:30 ET = 11/25 22:30 KST)"
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "title_ko": "다우, 장중 1100p 급락 딛고 상승 마감",
+   "title_en": "Dow ends higher after erasing 1,100-point intraday drop",
+   "summary_ko": [
+    "25일(현지시간) 다우지수는 장중 1100포인트 넘게 빠졌다가 166포인트(0.3%) 오른 채 마감했다.",
+    "S&P500은 0.3%, 나스닥은 0.6% 내렸다.",
+    "미국 증시는 추수감사절인 26일 휴장하고 27일에는 오후 1시에 조기 폐장한다."
+   ],
+   "summary_en": [
+    "On the 25th (local time), the Dow fell more than 1,100 points intraday before closing up 166 points (0.3%).",
+    "The S&P 500 slipped 0.3% and the Nasdaq fell 0.6%.",
+    "U.S. stock markets will be closed for Thanksgiving on the 26th and close early at 1 p.m. on the 27th."
+   ],
+   "expressions": [
+    [
+     "intraday",
+     null,
+     "장중"
+    ],
+    [
+     "slipped",
+     "slip",
+     "소폭 하락하다"
+    ],
+    [
+     "close early",
+     null,
+     "조기 폐장하다"
+    ]
+   ],
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+   "date_evidence": "URL 2026-11-24 ET, 제목상 수요일(11/25 ET) 마감 = 11/26 06:00 KST 이전"
+  },
+  {
+   "country": "US",
+   "category": "정치",
+   "title_ko": "공화당, 젠슨 황 엔비디아 복귀 놓고 트럼프와 엇갈려",
+   "title_en": "Republicans break with Trump over Jensen Huang's return to Nvidia",
+   "summary_ko": [
+    "공화당 주도 하원 정보위·외교위 위원장과 중국공산당 특위 위원장이 공동성명으로 엔비디아를 비판했다.",
+    "피트 리케츠 상원의원은 젠슨 황의 행동이 복귀를 뒷받침하지 않는다고 밝혔다.",
+    "트럼프 대통령은 젠슨 황 사면에 대해 \"언제나 선택지\"이지만 필요하지 않을 것이라고 말했다."
+   ],
+   "summary_en": [
+    "The chairs of the GOP-led House intelligence and foreign affairs committees and the House select committee on the CCP criticized Nvidia in a joint statement.",
+    "Sen. Pete Ricketts said Jensen Huang's behavior does not support his reinstatement.",
+    "President Trump said a pardon for Huang is \"always an option\" but likely won't be necessary."
+   ],
+   "expressions": [
+    [
+     "break with",
+     null,
+     "~와 갈라서다"
+    ],
+    [
+     "joint statement",
+     null,
+     "공동성명"
+    ],
+    [
+     "reinstatement",
+     null,
+     "복직"
+    ]
+   ],
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/11/24/politics/republicans-trump-nvidia-jensen-huang-intl",
+   "date_evidence": "URL 2026-11-24 ET (11/24 14:00~11/25 14:00 KST, 기간 내)"
+  },
+  {
+   "country": "US",
+   "category": "사회",
+   "title_ko": "美 추수감사절 앞두고 양대 해안 폭풍…여행 차질 우려",
+   "title_en": "Storms on both coasts threaten Thanksgiving travel",
+   "summary_ko": [
+    "추수감사절을 앞두고 미국 동·서부 해안에 폭풍과 홍수가 예보돼 여행 차질이 우려된다.",
+    "AAA는 연휴 기간 8180만 명이 집에서 50마일 이상 이동할 것으로 내다봤다.",
+    "마이키 셰릴 뉴저지 주지사는 주 전역에 비상사태를 선포하고 목적지에 일찍 도착하라고 당부했다."
+   ],
+   "summary_en": [
+    "Ahead of Thanksgiving, storms and flooding are forecast for the US East and West coasts, raising fears of travel disruption.",
+    "AAA projects 81.8 million people will travel 50 miles or more from home over the holiday.",
+    "New Jersey Gov. Mikie Sherrill declared a statewide state of emergency and urged travelers to reach their destinations early."
+   ],
+   "expressions": [
+    [
+     "travel disruption",
+     null,
+     "여행 차질"
+    ],
+    [
+     "state of emergency",
+     null,
+     "비상사태"
+    ],
+    [
+     "reach their destinations",
+     "reach one's destination",
+     "목적지에 도착하다"
+    ]
+   ],
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/11/24/us/live-news/thanksgiving-travel",
+   "date_evidence": "URL 2026-11-24 ET (기간 내)"
+  },
+  {
+   "country": "US",
+   "category": "모빌리티",
+   "title_ko": "우버·누로, 루시드 로보택시 무인 시험 돌입…2027년 출시 앞둬",
+   "title_en": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
+   "summary_ko": [
+    "우버와 누로가 루시드 차량 기반 로보택시의 무인 주행 시험을 시작했다.",
+    "두 회사는 곧 직원들에게 무인 승차를 제공하고 2027년 1분기 상용 로보택시 서비스를 출시할 계획이다.",
+    "우버는 루시드 투자 계획을 3억달러에서 5억달러로 늘렸다."
+   ],
+   "summary_en": [
+    "Uber and Nuro have begun driverless testing of robotaxis based on Lucid vehicles.",
+    "The companies plan to soon offer driverless rides to employees and launch a commercial robotaxi service in the first quarter of 2027.",
+    "Uber raised its planned investment in Lucid from $300 million to $500 million."
+   ],
+   "expressions": [
+    [
+     "driverless testing",
+     null,
+     "무인 주행 시험"
+    ],
+    [
+     "commercial robotaxi service",
+     null,
+     "상용 로보택시 서비스"
+    ],
+    [
+     "ahead of",
+     null,
+     "~을 앞두고"
+    ]
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch",
+   "date_evidence": "URL 2026-11-24 ET (기간 내)"
+  }
+ ],
+ "headlines": [
+  {
+   "ko": "코스피가 6.16% 급락한 4697.51로 마감하며 하루 만에 반등분을 반납했다",
+   "en": "The KOSPI plunged 6.16% to close at 4,697.51, giving up a day's rebound"
+  },
+  {
+   "ko": "미국 10월 PCE 물가가 3.8%로 9월 3.7%보다 높아졌다",
+   "en": "US October PCE inflation rose to 3.8%, up from 3.7% in September"
+  },
+  {
+   "ko": "정부와 택시업계가 2035년까지 신규 택시를 모두 전기차로 보급하기로 협약했다",
+   "en": "The government and the taxi industry agreed to make all new taxis electric by 2035"
+  }
+ ],
+ "channels": {
+  "news": {
+   "channel": "C0C6NRNGE81",
+   "parent": {
+    "text": "📰 **Daily News Brief** | 2026-11-26 (목)\n_수집 기간: 11/23 06:00 ~ 11/26 06:00 KST_\n\n**오늘의 핵심**\n• 코스피가 6.16% 급락한 4697.51로 마감하며 하루 만에 반등분을 반납했다\n• 미국 10월 PCE 물가가 3.8%로 9월 3.7%보다 높아졌다\n• 정부와 택시업계가 2035년까지 신규 택시를 모두 전기차로 보급하기로 협약했다\n\n🧵 상세 뉴스는 스레드에서 분야별로 확인: 🇰🇷 한국·🇺🇸 미국 (경제 · 정치 · 사회 · 부동산 · 모빌리티)",
+    "verified": true,
+    "ts": "1795640905.710499"
+   },
+   "replies": [
+    {
+     "country": "KR",
+     "category": "경제",
+     "part": 1,
+     "total": 1,
+     "text": "🇰🇷 **한국 · 💰 경제**\n**1. 코스피 6% 급락해 4700선 붕괴…하루 만에 반등분 반납**\n• 25일 코스피는 전 거래일보다 308.52p(6.16%) 내린 4697.51에 마감했다.\n• 삼성전자는 9.87%, SK하이닉스는 11.05% 떨어졌다.\n• 코스닥은 15.24p(2.29%) 내린 650.64에 마감했다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611251548238653)",
+     "verified": true,
+     "ts": "1795640913.848549"
+    },
+    {
+     "country": "KR",
+     "category": "정치",
+     "part": 1,
+     "total": 1,
+     "text": "🇰🇷 **한국 · 🏛️ 정치**\n**1. 김민석, 조희대 탄핵 '5당 연대' 제안…국민의힘은 장외투쟁 확대**\n• 민주당 김민석 대표는 25일 최고위원회의에서 조국혁신당·진보당·기본소득당·사회민주당에 5당 연대를 제안했다.\n• 국민의힘 장동혁 대표는 \"조희대 탄핵이 아니라 이재명 탄핵이 먼저여야 하지 않겠느냐\"고 반발했다.\n• 국민의힘은 26일 경기 용인, 28일 대전, 29일 경북 상주·문경에서 규탄대회를 이어갈 계획이다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611251029242074)\n\n**2. 기초연금 '소득 적을수록 더 많이'…차등 지급 개정안 복지소위 통과**\n• 국회 보건복지위원회 법안심사소위원회가 기초연금 차등 지급 개정안을 통과시켰다.\n• 개정안은 소득이 적을수록 기초연금을 더 많이 지급하는 내용이다.\n• 여야는 별다른 이견 없이 개정안을 처리했다.\n🔗 [서울신문](https://seoul.co.kr/news/politics/2026/11/25/20261125500336)",
+     "verified": true,
+     "ts": "1795640917.753769"
+    },
+    {
+     "country": "KR",
+     "category": "사회",
+     "part": 1,
+     "total": 1,
+     "text": "🇰🇷 **한국 · 👥 사회**\n**1. 김해 남해고속도로서 트레일러 전도·연쇄 추돌…3명 숨지고 3명 다쳐**\n• 경남 김해 남해고속도로에서 트레일러가 넘어지며 연쇄 추돌 사고가 났다.\n• 승용차 5대가 잇따라 부딪혀 3명이 숨지고 3명이 다쳤다.\n• 경찰은 블랙박스 영상 등을 분석해 트레일러 전도 원인을 조사하고 있다.\n🔗 [서울신문](https://www.seoul.co.kr/news/society/accident/2026/11/25/20261125500101)\n\n**2. \"피해자가 원치 않아도 교제폭력 가해자 처벌해야\"…경찰 국민참여단 권고**\n• 경찰 정책 국민참여단이 교제폭력 가해자 처벌에 관한 권고안을 냈다.\n• 피해자가 처벌을 원하지 않더라도 가해자를 처벌해야 한다는 내용이다.\n• 국민참여단은 경찰이 교제폭력 사건에 적극 개입해야 한다고 권고했다.\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/25/20261125500233)\n\n**3. '리트 만점자 과외' 주장 남성 경찰 출석…\"추가 증거 성실히 제출\"**\n• 부정행위 의혹을 받다 숨진 리트(LEET) 만점자를 과외했다고 주장한 남성이 경찰에 출석했다.\n• 그는 참고인 신분으로 약 4시간 20분간 조사를 받고 귀가했다.\n• 그는 \"추가 증거를 성실히 제출할 것\"이라고 밝혔다.\n🔗 [서울신문](https://www.seoul.co.kr/news/society/accident/2026/11/25/20261125500332)",
+     "verified": true,
+     "ts": "1795640922.802449"
+    },
+    {
+     "country": "KR",
+     "category": "부동산",
+     "part": 1,
+     "total": 1,
+     "text": "🇰🇷 **한국 · 🏠 부동산**\n**1. 서울 탈출해도 답 없다…경기마저 덮친 전세난**\n• 한국부동산원 집계로 경기 아파트 전셋값은 올해 11월 셋째 주까지 누적 6.88% 올랐다.\n• 아실 기준 24일 경기 아파트 전세 매물은 1만3558건으로 1년 전보다 28.8% 줄었다.\n• 경기 전세수급지수는 110.7로 4년여 만의 최고 수준이다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611250630386746)\n\n**2. 서울시 \"주택공급 확대하려면 정비사업 규제부터 풀어야\"**\n• 서울시가 국토교통부에 주택공급 확대를 위해 정비사업 규제부터 풀어야 한다고 주장했다.\n• 서울시는 정비사업 금융규제와 거래 제한 완화를 요구했다.\n• 서울시는 시중은행이 세부 시행기준이 없다는 이유로 이주비 대출 적용을 미루고 있다고 지적했다.\n🔗 [서울신문](https://www.seoul.co.kr/news/politics/2026/11/25/20261125500334)",
+     "verified": true,
+     "ts": "1795640926.411789"
+    },
+    {
+     "country": "KR",
+     "category": "모빌리티",
+     "part": 1,
+     "total": 1,
+     "text": "🇰🇷 **한국 · 🚗 모빌리티**\n**1. 2035년 신규 택시 전량 전기차로…정부·택시업계 협약**\n• 정부와 전국 택시업계 단체들이 전기택시 전환 활성화를 위한 업무협약을 맺었다.\n• 협약 참여 기관들은 2035년까지 신규 도입하는 모든 택시를 전기차로 보급하기 위해 노력하기로 했다.\n• 정부는 내연차 전환지원금 도입과 택시 차고지 중심의 급속충전시설 확충을 추진한다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611241359137012)\n\n**2. 현대차, 서울 도심서 '아트리아 AI' 실력 공개**\n• 현대차그룹은 자체 자율주행 AI '아트리아 AI'를 탑재한 SDV 테스트 차량의 도심 주행 영상을 24일 공개했다.\n• 영상에서 테스트 차량은 운전자 개입 없이 복잡한 도심을 주행했다.\n• 현대차그룹은 아트리아 AI 기반 레벨 2++ 차량을 2029년 하반기 양산하는 것을 목표로 한다.\n🔗 [서울신문](https://www.seoul.co.kr/news/economy/industry/2026/11/25/20261125021003)",
+     "verified": true,
+     "ts": "1795640930.102459"
+    },
+    {
+     "country": "US",
+     "category": "경제",
+     "part": 1,
+     "total": 1,
+     "text": "🇺🇸 **미국 · 💰 경제**\n**1. 美 10월 PCE 물가 3.8%로 가속**\n• 미국 연준이 선호하는 물가 지표인 10월 PCE 물가지수는 전년 대비 3.8% 올랐다.\n• 이는 9월 3.7%보다 높아진 것으로, 시장 예상치와 같았다.\n• 식품·에너지를 뺀 근원 PCE는 3.3%로 예상치보다 0.1%포인트 높았다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html)\n\n**2. 다우, 장중 1100p 급락 딛고 상승 마감**\n• 25일(현지시간) 다우지수는 장중 1100포인트 넘게 빠졌다가 166포인트(0.3%) 오른 채 마감했다.\n• S&P500은 0.3%, 나스닥은 0.6% 내렸다.\n• 미국 증시는 추수감사절인 26일 휴장하고 27일에는 오후 1시에 조기 폐장한다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html)",
+     "verified": true,
+     "ts": "1795640936.267419"
+    },
+    {
+     "country": "US",
+     "category": "정치",
+     "part": 1,
+     "total": 1,
+     "text": "🇺🇸 **미국 · 🏛️ 정치**\n**1. 공화당, 젠슨 황 엔비디아 복귀 놓고 트럼프와 엇갈려**\n• 공화당 주도 하원 정보위·외교위 위원장과 중국공산당 특위 위원장이 공동성명으로 엔비디아를 비판했다.\n• 피트 리케츠 상원의원은 젠슨 황의 행동이 복귀를 뒷받침하지 않는다고 밝혔다.\n• 트럼프 대통령은 젠슨 황 사면에 대해 \"언제나 선택지\"이지만 필요하지 않을 것이라고 말했다.\n🔗 [CNN](https://www.cnn.com/2026/11/24/politics/republicans-trump-nvidia-jensen-huang-intl)",
+     "verified": true,
+     "ts": "1795640938.903139"
+    },
+    {
+     "country": "US",
+     "category": "사회",
+     "part": 1,
+     "total": 1,
+     "text": "🇺🇸 **미국 · 👥 사회**\n**1. 美 추수감사절 앞두고 양대 해안 폭풍…여행 차질 우려**\n• 추수감사절을 앞두고 미국 동·서부 해안에 폭풍과 홍수가 예보돼 여행 차질이 우려된다.\n• AAA는 연휴 기간 8180만 명이 집에서 50마일 이상 이동할 것으로 내다봤다.\n• 마이키 셰릴 뉴저지 주지사는 주 전역에 비상사태를 선포하고 목적지에 일찍 도착하라고 당부했다.\n🔗 [CNN](https://www.cnn.com/2026/11/24/us/live-news/thanksgiving-travel)",
+     "verified": true,
+     "ts": "1795640941.338349"
+    },
+    {
+     "country": "US",
+     "category": "부동산",
+     "part": 1,
+     "total": 1,
+     "text": "🇺🇸 **미국 · 🏠 부동산**\n_해당 기간 새 기사 없음_",
+     "verified": true,
+     "ts": "1795640942.269199"
+    },
+    {
+     "country": "US",
+     "category": "모빌리티",
+     "part": 1,
+     "total": 1,
+     "text": "🇺🇸 **미국 · 🚗 모빌리티**\n**1. 우버·누로, 루시드 로보택시 무인 시험 돌입…2027년 출시 앞둬**\n• 우버와 누로가 루시드 차량 기반 로보택시의 무인 주행 시험을 시작했다.\n• 두 회사는 곧 직원들에게 무인 승차를 제공하고 2027년 1분기 상용 로보택시 서비스를 출시할 계획이다.\n• 우버는 루시드 투자 계획을 3억달러에서 5억달러로 늘렸다.\n🔗 [TechCrunch](https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch)",
+     "verified": true,
+     "ts": "1795640944.700969"
+    }
+   ]
+  },
+  "english": {
+   "channel": "C0C6KR1MEEP",
+   "parent": {
+    "text": "📚 **Daily English Brief** | 2026-11-26 (목)\n_수집 기간: 11/23 06:00 ~ 11/26 06:00 KST_\n\n**Today's Headlines / 오늘의 핵심**\n• The KOSPI plunged 6.16% to close at 4,697.51, giving up a day's rebound\n  _코스피가 6.16% 급락한 4697.51로 마감하며 하루 만에 반등분을 반납했다_\n• US October PCE inflation rose to 3.8%, up from 3.7% in September\n  _미국 10월 PCE 물가가 3.8%로 9월 3.7%보다 높아졌다_\n• The government and the taxi industry agreed to make all new taxis electric by 2035\n  _정부와 택시업계가 2035년까지 신규 택시를 모두 전기차로 보급하기로 협약했다_\n\n🧵 Category threads / 스레드에서 분야별 확인: 🇰🇷 Korea·🇺🇸 US (Economy · Politics · Society · Real Estate · Mobility)",
+    "verified": true,
+    "ts": "1795640954.355459"
+   },
+   "replies": [
+    {
+     "country": "KR",
+     "category": "경제",
+     "part": 1,
+     "total": 1,
+     "text": "🇰🇷 **Korea · 💰 Economy / 한국 · 경제**\n**1. KOSPI plunges 6%, breaks below 4,700, giving back a day's rebound**\n_코스피 6% 급락해 4700선 붕괴…하루 만에 반등분 반납_\n• On the 25th, the KOSPI closed at 4,697.51, down 308.52 points (6.16%) from the previous session.\n  _25일 코스피는 전 거래일보다 308.52p(6.16%) 내린 4697.51에 마감했다._\n• Samsung Electronics fell 9.87% and SK hynix dropped 11.05%.\n  _삼성전자는 9.87%, SK하이닉스는 11.05% 떨어졌다._\n• The KOSDAQ ended down 15.24 points (2.29%) at 650.64.\n  _코스닥은 15.24p(2.29%) 내린 650.64에 마감했다._\n📝 `breaks below` (break below) 하향 돌파하다 · `giving back` (give back) (상승분을) 반납하다 · `previous session` 전 거래일\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611251548238653)",
+     "verified": true,
+     "ts": "1795640960.167859"
+    },
+    {
+     "country": "KR",
+     "category": "정치",
+     "part": 1,
+     "total": 1,
+     "text": "🇰🇷 **Korea · 🏛️ Politics / 한국 · 정치**\n**1. Kim Min-seok proposes 'five-party alliance' to impeach Jo Hee-de; PPP expands street protests**\n_김민석, 조희대 탄핵 '5당 연대' 제안…국민의힘은 장외투쟁 확대_\n• Democratic Party leader Kim Min-seok proposed a five-party alliance to the Rebuilding Korea, Progressive, Basic Income and Social Democratic parties at a Supreme Council meeting on the 25th.\n  _민주당 김민석 대표는 25일 최고위원회의에서 조국혁신당·진보당·기본소득당·사회민주당에 5당 연대를 제안했다._\n• People Power Party leader Jang Dong-hyuk pushed back, asking, \"Shouldn't Lee Jae-myung's impeachment come first, not Jo Hee-de's?\"\n  _국민의힘 장동혁 대표는 \"조희대 탄핵이 아니라 이재명 탄핵이 먼저여야 하지 않겠느냐\"고 반발했다._\n• The People Power Party plans to continue protest rallies in Yongin, Gyeonggi, on the 26th, Daejeon on the 28th, and Sangju and Mungyeong, North Gyeongsang, on the 29th.\n  _국민의힘은 26일 경기 용인, 28일 대전, 29일 경북 상주·문경에서 규탄대회를 이어갈 계획이다._\n📝 `pushed back` (push back) 반발하다 · `come first` 우선이다 · `protest rallies` 규탄 집회\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611251029242074)\n\n**2. Basic pension bill to pay 'more to those who earn less' clears welfare subcommittee**\n_기초연금 '소득 적을수록 더 많이'…차등 지급 개정안 복지소위 통과_\n• The bill review subcommittee of the National Assembly's Health and Welfare Committee passed a bill for differentiated basic pension payments.\n  _국회 보건복지위원회 법안심사소위원회가 기초연금 차등 지급 개정안을 통과시켰다._\n• The bill pays larger basic pensions to those with lower incomes.\n  _개정안은 소득이 적을수록 기초연금을 더 많이 지급하는 내용이다._\n• Rival parties handled the bill without notable disagreement.\n  _여야는 별다른 이견 없이 개정안을 처리했다._\n📝 `clears` (clear) (관문을) 통과하다 · `bill review subcommittee` 법안심사소위원회 · `without notable disagreement` 별다른 이견 없이\n🔗 [서울신문](https://seoul.co.kr/news/politics/2026/11/25/20261125500336)",
+     "verified": true,
+     "ts": "1795640967.140099"
+    },
+    {
+     "country": "KR",
+     "category": "사회",
+     "part": 1,
+     "total": 1,
+     "text": "🇰🇷 **Korea · 👥 Society / 한국 · 사회**\n**1. Trailer overturns on Namhae Expressway in Gimhae, causing pileup that kills 3 and injures 3**\n_김해 남해고속도로서 트레일러 전도·연쇄 추돌…3명 숨지고 3명 다쳐_\n• A trailer overturned on the Namhae Expressway in Gimhae, South Gyeongsang Province, triggering a chain collision.\n  _경남 김해 남해고속도로에서 트레일러가 넘어지며 연쇄 추돌 사고가 났다._\n• Five passenger cars crashed one after another, killing three people and injuring three.\n  _승용차 5대가 잇따라 부딪혀 3명이 숨지고 3명이 다쳤다._\n• Police are analyzing dashcam footage and other evidence to determine why the trailer overturned.\n  _경찰은 블랙박스 영상 등을 분석해 트레일러 전도 원인을 조사하고 있다._\n📝 `chain collision` 연쇄 추돌 · `one after another` 잇따라 · `dashcam footage` 블랙박스 영상\n🔗 [서울신문](https://www.seoul.co.kr/news/society/accident/2026/11/25/20261125500101)\n\n**2. \"Punish dating violence offenders even if victims object,\" police citizen panel recommends**\n_\"피해자가 원치 않아도 교제폭력 가해자 처벌해야\"…경찰 국민참여단 권고_\n• The police's citizen participation panel issued recommendations on punishing dating violence offenders.\n  _경찰 정책 국민참여단이 교제폭력 가해자 처벌에 관한 권고안을 냈다._\n• It said offenders should be punished even when victims do not want them punished.\n  _피해자가 처벌을 원하지 않더라도 가해자를 처벌해야 한다는 내용이다._\n• The panel recommended that police actively intervene in dating violence cases.\n  _국민참여단은 경찰이 교제폭력 사건에 적극 개입해야 한다고 권고했다._\n📝 `dating violence` 교제폭력 · `citizen participation panel` 국민참여단 · `actively intervene` 적극 개입하다\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/25/20261125500233)\n\n**3. Man who claims he tutored LEET top scorer appears before police, vows to \"submit more evidence\"**\n_'리트 만점자 과외' 주장 남성 경찰 출석…\"추가 증거 성실히 제출\"_\n• A man who claims he tutored a perfect LEET scorer, who died while under suspicion of cheating, appeared before police.\n  _부정행위 의혹을 받다 숨진 리트(LEET) 만점자를 과외했다고 주장한 남성이 경찰에 출석했다._\n• He was questioned as a witness for about 4 hours and 20 minutes before going home.\n  _그는 참고인 신분으로 약 4시간 20분간 조사를 받고 귀가했다._\n• He said he \"will faithfully submit additional evidence.\"\n  _그는 \"추가 증거를 성실히 제출할 것\"이라고 밝혔다._\n📝 `under suspicion of` ~의 의혹을 받는 · `appeared before police` (appear before) ~에 출석하다 · `questioned as a witness` (question as a witness) 참고인 조사를 받다\n🔗 [서울신문](https://www.seoul.co.kr/news/society/accident/2026/11/25/20261125500332)",
+     "verified": true,
+     "ts": "1795640975.605279"
+    },
+    {
+     "country": "KR",
+     "category": "부동산",
+     "part": 1,
+     "total": 1,
+     "text": "🇰🇷 **Korea · 🏠 Real Estate / 한국 · 부동산**\n**1. Leaving Seoul is no answer as jeonse crunch hits Gyeonggi too**\n_서울 탈출해도 답 없다…경기마저 덮친 전세난_\n• Gyeonggi apartment jeonse prices have risen a cumulative 6.88% this year through the third week of November, according to the Korea Real Estate Board.\n  _한국부동산원 집계로 경기 아파트 전셋값은 올해 11월 셋째 주까지 누적 6.88% 올랐다._\n• Jeonse listings for Gyeonggi apartments stood at 13,558 on the 24th, down 28.8% from a year earlier, according to Asil.\n  _아실 기준 24일 경기 아파트 전세 매물은 1만3558건으로 1년 전보다 28.8% 줄었다._\n• The Gyeonggi jeonse supply-demand index stands at 110.7, the highest in more than four years.\n  _경기 전세수급지수는 110.7로 4년여 만의 최고 수준이다._\n📝 `jeonse crunch` 전세난 · `cumulative` 누적 · `supply-demand index` 수급지수\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611250630386746)\n\n**2. Seoul says redevelopment rules must be eased first to expand housing supply**\n_서울시 \"주택공급 확대하려면 정비사업 규제부터 풀어야\"_\n• The Seoul Metropolitan Government told the Ministry of Land, Infrastructure and Transport that redevelopment regulations must be eased first to expand housing supply.\n  _서울시가 국토교통부에 주택공급 확대를 위해 정비사업 규제부터 풀어야 한다고 주장했다._\n• The city called for easing financial regulations and transaction restrictions on redevelopment projects.\n  _서울시는 정비사업 금융규제와 거래 제한 완화를 요구했다._\n• The city pointed out that commercial banks are holding off on relocation loans, citing a lack of detailed implementation guidelines.\n  _서울시는 시중은행이 세부 시행기준이 없다는 이유로 이주비 대출 적용을 미루고 있다고 지적했다._\n📝 `housing supply` 주택공급 · `holding off on` (hold off on) ~을 미루다 · `implementation guidelines` 시행기준\n🔗 [서울신문](https://www.seoul.co.kr/news/politics/2026/11/25/20261125500334)",
+     "verified": true,
+     "ts": "1795640981.894279"
+    },
+    {
+     "country": "KR",
+     "category": "모빌리티",
+     "part": 1,
+     "total": 1,
+     "text": "🇰🇷 **Korea · 🚗 Mobility / 한국 · 모빌리티**\n**1. All new taxis to be electric by 2035 under government-industry pact**\n_2035년 신규 택시 전량 전기차로…정부·택시업계 협약_\n• The government and national taxi industry groups signed a memorandum of understanding to promote the switch to electric taxis.\n  _정부와 전국 택시업계 단체들이 전기택시 전환 활성화를 위한 업무협약을 맺었다._\n• The participants agreed to work toward making every newly introduced taxi an EV by 2035.\n  _협약 참여 기관들은 2035년까지 신규 도입하는 모든 택시를 전기차로 보급하기 위해 노력하기로 했다._\n• The government will push to introduce a conversion subsidy for internal combustion vehicles and expand fast-charging facilities centered on taxi depots.\n  _정부는 내연차 전환지원금 도입과 택시 차고지 중심의 급속충전시설 확충을 추진한다._\n📝 `memorandum of understanding` 업무협약 · `work toward` ~을 위해 노력하다 · `taxi depots` 택시 차고지\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611241359137012)\n\n**2. Hyundai shows off 'Atria AI' on downtown Seoul streets**\n_현대차, 서울 도심서 '아트리아 AI' 실력 공개_\n• Hyundai Motor Group on the 24th released a video of an SDV test vehicle equipped with its in-house autonomous driving AI, 'Atria AI,' driving in the city.\n  _현대차그룹은 자체 자율주행 AI '아트리아 AI'를 탑재한 SDV 테스트 차량의 도심 주행 영상을 24일 공개했다._\n• In the video, the test vehicle navigated complex city streets without driver intervention.\n  _영상에서 테스트 차량은 운전자 개입 없이 복잡한 도심을 주행했다._\n• Hyundai Motor Group aims to mass-produce Level 2++ vehicles based on Atria AI in the second half of 2029.\n  _현대차그룹은 아트리아 AI 기반 레벨 2++ 차량을 2029년 하반기 양산하는 것을 목표로 한다._\n📝 `shows off` (show off) 선보이다 · `driver intervention` 운전자 개입 · `mass-produce` 양산하다\n🔗 [서울신문](https://www.seoul.co.kr/news/economy/industry/2026/11/25/20261125021003)",
+     "verified": true,
+     "ts": "1795640988.201529"
+    },
+    {
+     "country": "US",
+     "category": "경제",
+     "part": 1,
+     "total": 1,
+     "text": "🇺🇸 **US · 💰 Economy / 미국 · 경제**\n**1. US October PCE inflation accelerates to 3.8%**\n_美 10월 PCE 물가 3.8%로 가속_\n• The PCE price index, the Fed's preferred inflation gauge, rose 3.8% from a year earlier in October.\n  _미국 연준이 선호하는 물가 지표인 10월 PCE 물가지수는 전년 대비 3.8% 올랐다._\n• That was up from 3.7% in September and in line with market expectations.\n  _이는 9월 3.7%보다 높아진 것으로, 시장 예상치와 같았다._\n• Core PCE, which excludes food and energy, was 3.3%, 0.1 percentage point above forecasts.\n  _식품·에너지를 뺀 근원 PCE는 3.3%로 예상치보다 0.1%포인트 높았다._\n📝 `preferred inflation gauge` 선호하는 물가 지표 · `in line with` ~에 부합하는 · `percentage point` 퍼센트포인트\n🔗 [CNBC](https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html)\n\n**2. Dow ends higher after erasing 1,100-point intraday drop**\n_다우, 장중 1100p 급락 딛고 상승 마감_\n• On the 25th (local time), the Dow fell more than 1,100 points intraday before closing up 166 points (0.3%).\n  _25일(현지시간) 다우지수는 장중 1100포인트 넘게 빠졌다가 166포인트(0.3%) 오른 채 마감했다._\n• The S&P 500 slipped 0.3% and the Nasdaq fell 0.6%.\n  _S&P500은 0.3%, 나스닥은 0.6% 내렸다._\n• U.S. stock markets will be closed for Thanksgiving on the 26th and close early at 1 p.m. on the 27th.\n  _미국 증시는 추수감사절인 26일 휴장하고 27일에는 오후 1시에 조기 폐장한다._\n📝 `intraday` 장중 · `slipped` (slip) 소폭 하락하다 · `close early` 조기 폐장하다\n🔗 [CNBC](https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html)",
+     "verified": true,
+     "ts": "1795640996.944539"
+    },
+    {
+     "country": "US",
+     "category": "정치",
+     "part": 1,
+     "total": 1,
+     "text": "🇺🇸 **US · 🏛️ Politics / 미국 · 정치**\n**1. Republicans break with Trump over Jensen Huang's return to Nvidia**\n_공화당, 젠슨 황 엔비디아 복귀 놓고 트럼프와 엇갈려_\n• The chairs of the GOP-led House intelligence and foreign affairs committees and the House select committee on the CCP criticized Nvidia in a joint statement.\n  _공화당 주도 하원 정보위·외교위 위원장과 중국공산당 특위 위원장이 공동성명으로 엔비디아를 비판했다._\n• Sen. Pete Ricketts said Jensen Huang's behavior does not support his reinstatement.\n  _피트 리케츠 상원의원은 젠슨 황의 행동이 복귀를 뒷받침하지 않는다고 밝혔다._\n• President Trump said a pardon for Huang is \"always an option\" but likely won't be necessary.\n  _트럼프 대통령은 젠슨 황 사면에 대해 \"언제나 선택지\"이지만 필요하지 않을 것이라고 말했다._\n📝 `break with` ~와 갈라서다 · `joint statement` 공동성명 · `reinstatement` 복직\n🔗 [CNN](https://www.cnn.com/2026/11/24/politics/republicans-trump-nvidia-jensen-huang-intl)",
+     "verified": true,
+     "ts": "1795641000.547489"
+    },
+    {
+     "country": "US",
+     "category": "사회",
+     "part": 1,
+     "total": 1,
+     "text": "🇺🇸 **US · 👥 Society / 미국 · 사회**\n**1. Storms on both coasts threaten Thanksgiving travel**\n_美 추수감사절 앞두고 양대 해안 폭풍…여행 차질 우려_\n• Ahead of Thanksgiving, storms and flooding are forecast for the US East and West coasts, raising fears of travel disruption.\n  _추수감사절을 앞두고 미국 동·서부 해안에 폭풍과 홍수가 예보돼 여행 차질이 우려된다._\n• AAA projects 81.8 million people will travel 50 miles or more from home over the holiday.\n  _AAA는 연휴 기간 8180만 명이 집에서 50마일 이상 이동할 것으로 내다봤다._\n• New Jersey Gov. Mikie Sherrill declared a statewide state of emergency and urged travelers to reach their destinations early.\n  _마이키 셰릴 뉴저지 주지사는 주 전역에 비상사태를 선포하고 목적지에 일찍 도착하라고 당부했다._\n📝 `travel disruption` 여행 차질 · `state of emergency` 비상사태 · `reach their destinations` (reach one's destination) 목적지에 도착하다\n🔗 [CNN](https://www.cnn.com/2026/11/24/us/live-news/thanksgiving-travel)",
+     "verified": true,
+     "ts": "1795641004.295969"
+    },
+    {
+     "country": "US",
+     "category": "부동산",
+     "part": 1,
+     "total": 1,
+     "text": "🇺🇸 **US · 🏠 Real Estate / 미국 · 부동산**\n_No new articles in this period / 해당 기간 새 기사 없음_",
+     "verified": true,
+     "ts": "1795641005.375019"
+    },
+    {
+     "country": "US",
+     "category": "모빌리티",
+     "part": 1,
+     "total": 1,
+     "text": "🇺🇸 **US · 🚗 Mobility / 미국 · 모빌리티**\n**1. Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch**\n_우버·누로, 루시드 로보택시 무인 시험 돌입…2027년 출시 앞둬_\n• Uber and Nuro have begun driverless testing of robotaxis based on Lucid vehicles.\n  _우버와 누로가 루시드 차량 기반 로보택시의 무인 주행 시험을 시작했다._\n• The companies plan to soon offer driverless rides to employees and launch a commercial robotaxi service in the first quarter of 2027.\n  _두 회사는 곧 직원들에게 무인 승차를 제공하고 2027년 1분기 상용 로보택시 서비스를 출시할 계획이다._\n• Uber raised its planned investment in Lucid from $300 million to $500 million.\n  _우버는 루시드 투자 계획을 3억달러에서 5억달러로 늘렸다._\n📝 `driverless testing` 무인 주행 시험 · `commercial robotaxi service` 상용 로보택시 서비스 · `ahead of` ~을 앞두고\n🔗 [TechCrunch](https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch)",
+     "verified": true,
+     "ts": "1795641009.090169"
+    }
+   ]
+  }
+ }
+}
