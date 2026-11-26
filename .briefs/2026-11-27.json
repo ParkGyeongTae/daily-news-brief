@@ -1,0 +1,785 @@
+{
+ "date": "2026-11-27",
+ "weekday": "금",
+ "period": "11/24 06:00 ~ 11/27 06:00 KST",
+ "period_utc": [
+  "2026-11-23T21:00:00Z",
+  "2026-11-26T21:00:00Z"
+ ],
+ "articles": [
+  {
+   "country": "KR",
+   "category": "경제",
+   "title_ko": "한은, 기준금리 연 3.25%로 인상…성장률 전망 대폭 상향",
+   "title_en": "BOK raises base rate to 3.25%, sharply lifts growth outlook",
+   "summary_ko": [
+    "한국은행 금융통화위원회는 26일 기준금리를 연 3.00%에서 3.25%로 0.25%포인트 올렸다.",
+    "한은은 올해 성장률 전망을 3.9%, 내년은 4.1%로 대폭 상향했다.",
+    "금통위는 고물가와 가계부채 리스크가 지속된다며 추가 긴축 기조를 유지했다."
+   ],
+   "summary_en": [
+    "The Bank of Korea's Monetary Policy Board raised the base rate by 0.25 percentage point to 3.25% from 3.00% on the 26th.",
+    "The BOK sharply raised its growth forecast to 3.9% for this year and 4.1% for next year.",
+    "The board maintained its stance toward further tightening, citing persistent risks from high inflation and household debt."
+   ],
+   "media": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611261002322163",
+   "date_evidence": "URL 202611261002 = 2026-11-26 10:02 KST",
+   "expressions": [
+    [
+     "base rate",
+     "기준금리"
+    ],
+    [
+     "growth forecast",
+     "성장률 전망"
+    ],
+    [
+     "further tightening",
+     "추가 긴축"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "경제",
+   "title_ko": "코스피, 금리 인상 날 0.29% 반등…장중 4800선 찍고 4711 마감",
+   "title_en": "KOSPI rebounds 0.29% on rate hike day, closes at 4,711 after topping 4,800 intraday",
+   "summary_ko": [
+    "26일 코스피는 전 거래일보다 13.70p(0.29%) 오른 4711.21에 마감했다.",
+    "지수는 장중 4817.77까지 올랐지만 기준금리 인상과 외국인 순매도에 상승폭 대부분을 반납했다.",
+    "기관은 7508억원을 순매수했고 개인과 외국인은 각각 1조438억원, 1137억원을 순매도했다."
+   ],
+   "summary_en": [
+    "On the 26th, the KOSPI closed up 13.70 points, or 0.29%, at 4,711.21.",
+    "The index climbed as high as 4,817.77 intraday but gave back most of its gains on the rate hike and foreign net selling.",
+    "Institutions were net buyers of 750.8 billion won, while individuals and foreigners net sold 1.0438 trillion won and 113.7 billion won, respectively."
+   ],
+   "media": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611261548115574",
+   "date_evidence": "URL 202611261548 = 2026-11-26 15:48 KST",
+   "expressions": [
+    [
+     "gave back",
+     "give back",
+     "반납하다"
+    ],
+    [
+     "net selling",
+     "순매도"
+    ],
+    [
+     "net buyers",
+     "순매수자"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title_ko": "정동영·조현, '동반 사퇴' 앞두고 국회서 퇴임 소회",
+   "title_en": "Chung Dong-young and Cho Hyun share farewell remarks at National Assembly ahead of joint resignation",
+   "summary_ko": [
+    "'동반 사퇴'를 앞둔 정동영 통일부 장관과 조현 외교부 장관이 26일 국회 외교통일위원회에서 마지막 소회를 밝혔다.",
+    "조현 장관은 \"부족함이 많았다\"고 말했다.",
+    "정동영 장관은 그간의 논쟁이 \"국익을 위한 충정\"이었다고 밝혔다."
+   ],
+   "summary_en": [
+    "Unification Minister Chung Dong-young and Foreign Minister Cho Hyun, set to step down together, gave their final remarks at the National Assembly's Foreign Affairs and Unification Committee on the 26th.",
+    "Minister Cho said, \"I fell short in many ways.\"",
+    "Minister Chung said the past disputes reflected his \"devotion to the national interest.\""
+   ],
+   "media": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611261128170582",
+   "date_evidence": "URL 202611261128 = 2026-11-26 11:28 KST",
+   "expressions": [
+    [
+     "step down",
+     "물러나다"
+    ],
+    [
+     "fell short",
+     "fall short",
+     "부족하다"
+    ],
+    [
+     "national interest",
+     "국익"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title_ko": "예산 처리 시한 일주일 앞…162조 미래대응기금 심사 착수도 못해",
+   "title_en": "A week before budget deadline, review of 162 trillion won future response fund has yet to begin",
+   "summary_ko": [
+    "내년도 예산안 법정 처리 시한이 일주일 남았지만 예결위는 162조원 규모 미래대응기금 심사에 착수하지 못했다.",
+    "여야는 기금 설치법과 예산 중 무엇을 먼저 처리할지를 두고 맞서고 있다.",
+    "민주당은 법정 시한인 다음 달 2일까지 예산안을 처리한다는 입장이다."
+   ],
+   "summary_en": [
+    "With a week left before the legal deadline for next year's budget, the budget committee has yet to begin reviewing the 162 trillion won Future Response Fund.",
+    "The ruling and opposition parties are at odds over whether to pass the fund's establishment law or its budget first.",
+    "The Democratic Party insists on passing the budget by the legal deadline of Dec. 2."
+   ],
+   "media": "서울신문",
+   "url": "https://www.seoul.co.kr/news/politics/2026/11/26/20261126003001",
+   "date_evidence": "URL 날짜 2026/11/26 (KST 하루 전체가 수집 기간 내)",
+   "expressions": [
+    [
+     "legal deadline",
+     "법정 시한"
+    ],
+    [
+     "at odds over",
+     "~를 두고 대립하는"
+    ],
+    [
+     "yet to begin",
+     "아직 시작하지 못한"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title_ko": "학교 비정규직 27일 총파업…급식·돌봄 차질 우려",
+   "title_en": "School irregular workers to strike on the 27th, raising concerns over meals and child care",
+   "summary_ko": [
+    "급식과 돌봄 등을 맡는 교육공무직 노동자들이 임금 인상과 처우 개선을 요구하며 27일 총파업에 나선다.",
+    "교육부와 시도교육청은 파업 대응 상황실을 설치했다.",
+    "교육당국은 급식·돌봄 차질에 대비해 비상 대응에 들어갔다."
+   ],
+   "summary_en": [
+    "Education support workers in charge of school meals and child care will go on a general strike on the 27th, demanding higher wages and better working conditions.",
+    "The Ministry of Education and regional education offices have set up strike response centers.",
+    "Education authorities have shifted into emergency mode to prepare for disruptions to meals and child care."
+   ],
+   "media": "경향신문",
+   "url": "https://www.khan.co.kr/article/202611261004001",
+   "date_evidence": "URL 202611261004 = 2026-11-26 10:04 KST",
+   "expressions": [
+    [
+     "go on a general strike",
+     "총파업에 나서다"
+    ],
+    [
+     "working conditions",
+     "근로 조건"
+    ],
+    [
+     "emergency mode",
+     "비상 체제"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title_ko": "의사 국가고시 일부 과목 만점자 7배 급증",
+   "title_en": "Perfect scorers on some medical licensing exam subjects jump sevenfold",
+   "summary_ko": [
+    "의사 국가고시 일부 과목에서 만점자가 크게 늘었다.",
+    "해당 과목 만점자는 20명에서 137명으로 약 7배가 됐다.",
+    "정부는 특정 과목의 수치만으로 부정행위를 판단하기는 어렵다는 입장이다."
+   ],
+   "summary_en": [
+    "The number of perfect scorers surged in some subjects of the national medical licensing exam.",
+    "Perfect scorers in those subjects rose from 20 to 137, roughly a sevenfold increase.",
+    "The government says it is difficult to determine cheating based on figures from specific subjects alone."
+   ],
+   "media": "서울신문",
+   "url": "https://www.seoul.co.kr/news/society/2026/11/26/20261126500129",
+   "date_evidence": "URL 날짜 2026/11/26 (KST 하루 전체가 수집 기간 내)",
+   "expressions": [
+    [
+     "perfect scorers",
+     "만점자"
+    ],
+    [
+     "medical licensing exam",
+     "의사 국가고시"
+    ],
+    [
+     "sevenfold increase",
+     "7배 증가"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title_ko": "정릉동 59㎡ 8억2천만원 신고가…서울 외곽 중저가는 계속 오른다",
+   "title_en": "59㎡ unit in Jeongneung-dong hits record 820 million won as mid- to low-priced homes in outer Seoul keep rising",
+   "summary_ko": [
+    "서울 정릉동 전용 59㎡ 아파트가 8억2천만원에 거래되며 신고가를 썼다.",
+    "강남권과 달리 서울 외곽 중저가 아파트값은 계속 오르고 있다.",
+    "주택 공급 부족 우려와 대출 규제 강화, 전셋값 부담에 따른 세입자의 매수 전환이 외곽 집값을 끌어올리고 있다는 분석이 나왔다."
+   ],
+   "summary_en": [
+    "A 59-square-meter apartment in Seoul's Jeongneung-dong sold for a record 820 million won.",
+    "Unlike the Gangnam area, prices of mid- to low-priced apartments on the outskirts of Seoul keep rising.",
+    "Analysts say supply shortage worries, tighter lending rules and tenants switching to buying due to soaring jeonse costs are driving up prices on the outskirts."
+   ],
+   "media": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611260602138087",
+   "date_evidence": "URL 202611260602 = 2026-11-26 06:02 KST",
+   "expressions": [
+    [
+     "sold for a record",
+     "최고가에 팔리다"
+    ],
+    [
+     "supply shortage",
+     "공급 부족"
+    ],
+    [
+     "lending rules",
+     "대출 규제"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title_ko": "영등포·광진도 하락 전환…94주 오른 서울 집값 상승폭 최저",
+   "title_en": "Yeongdeungpo and Gwangjin turn lower as Seoul home prices post smallest gain in 94-week rally",
+   "summary_ko": [
+    "이번 주 서울 아파트 매매가격지수는 0.01% 올라 94주 연속 상승했지만 상승폭은 94주 만에 가장 작았다.",
+    "영등포구와 광진구도 하락세로 돌아섰다.",
+    "전문가는 고강도 대출 규제와 증시 변동성 확대로 매수 여력이 위축됐다고 분석했다."
+   ],
+   "summary_en": [
+    "Seoul's apartment sales price index rose 0.01% this week, extending gains to 94 straight weeks but marking the smallest rise in 94 weeks.",
+    "Yeongdeungpo and Gwangjin districts also turned downward.",
+    "An expert said tough lending curbs and heightened stock market volatility have squeezed buying power."
+   ],
+   "media": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10950304",
+   "date_evidence": "검색 결과의 '이번 주(11/26 목 부동산원 발표) 0.01% 상승·94주' 내용과 기사 ID가 11/26 기사(10949932 금리 인상 09:30경, 10950782 장 마감)의 사이",
+   "expressions": [
+    [
+     "turned downward",
+     "turn downward",
+     "하락 전환하다"
+    ],
+    [
+     "lending curbs",
+     "대출 규제"
+    ],
+    [
+     "buying power",
+     "매수 여력"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "모빌리티",
+   "title_ko": "대광위, 신도시 교통대책 38개 사업 직접 챙긴다",
+   "title_en": "Metropolitan transport commission to directly oversee 38 new town transport projects",
+   "summary_ko": [
+    "대도시권광역교통위원회가 신도시 교통대책 38개 사업을 직접 관리한다.",
+    "대광위는 25일 코레일 서울본부에서 '신도시 교통대책 신속추진 TF 전체회의'를 열기로 했다.",
+    "회의 안건은 올해 운영 성과 공유와 향후 발전 방향 논의다."
+   ],
+   "summary_en": [
+    "The Metropolitan Transport Commission will directly manage 38 new town transportation projects.",
+    "The commission scheduled a plenary meeting of its task force for speedy implementation of new town transport measures at Korail's Seoul headquarters on the 25th.",
+    "The agenda covers sharing this year's results and discussing future directions."
+   ],
+   "media": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611240815330504",
+   "date_evidence": "URL 202611240815 = 2026-11-24 08:15 KST (시작 06:00 이후)",
+   "expressions": [
+    [
+     "directly manage",
+     "직접 관리하다"
+    ],
+    [
+     "plenary meeting",
+     "전체회의"
+    ],
+    [
+     "speedy implementation",
+     "신속 추진"
+    ]
+   ]
+  },
+  {
+   "country": "KR",
+   "category": "모빌리티",
+   "title_ko": "다올證 \"현대차, 웨이모 로보택시 확대 수혜…자율주행 가치 재평가 기대\"",
+   "title_en": "Daol: \"Hyundai to benefit from Waymo's robotaxi expansion, autonomous driving value set for rerating\"",
+   "summary_ko": [
+    "다올투자증권은 현대차가 웨이모의 로보택시 확대로 수혜를 볼 것으로 분석했다.",
+    "웨이모의 해외 확장 과정에서 아이오닉5가 주요 차량으로 쓰일 가능성이 있다고 봤다.",
+    "연간 700만대 이상의 신차 생산능력이 중장기적으로 자율주행 AI 학습 경쟁력이 될 수 있다고 평가했다."
+   ],
+   "summary_en": [
+    "Daol Investment & Securities said Hyundai Motor would benefit from Waymo's robotaxi expansion.",
+    "It said the Ioniq 5 could serve as a key vehicle as Waymo expands overseas.",
+    "It said Hyundai's capacity to build more than 7 million new vehicles a year could become a competitive edge in training autonomous driving AI over the mid to long term."
+   ],
+   "media": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2653077",
+   "date_evidence": "검색 결과에 '26일 보고서'·'오늘 기준 최신 기사'로 표시, 인접 ID 2653083은 11/26 아침 '전일 주요공시'",
+   "expressions": [
+    [
+     "benefit from",
+     "~의 수혜를 보다"
+    ],
+    [
+     "competitive edge",
+     "경쟁력"
+    ],
+    [
+     "mid to long term",
+     "중장기"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "title_ko": "美, 중국·EU 등 14개 교역 상대에 새 관세 제안",
+   "title_en": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+   "summary_ko": [
+    "미국 정부가 과잉생산 조사에 따라 중국과 EU 등 14개 교역 상대에 새로운 301조 관세를 제안했다.",
+    "중국과 베트남에는 가장 높은 20% 관세가 제안됐다.",
+    "관세는 의견 수렴과 공청회를 거쳐 이르면 1월 발효될 예정이다."
+   ],
+   "summary_en": [
+    "The U.S. proposed new Section 301 tariffs on 14 trading partners, including China and the EU, following a probe into excess capacity.",
+    "China and Vietnam face the highest proposed tariff rate of 20%.",
+    "The tariffs could take effect as early as January after a public comment process and hearings."
+   ],
+   "media": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+   "date_evidence": "URL 날짜 2026/11/25 (미 동부 11/25 = KST 11/25 14:00~11/26 14:00, 기간 내)",
+   "expressions": [
+    [
+     "Section 301 tariffs",
+     "301조 관세"
+    ],
+    [
+     "excess capacity",
+     "과잉 생산"
+    ],
+    [
+     "take effect",
+     "발효되다"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "title_ko": "인플레이션에 美 연휴 지출 부담…추수감사절 식탁 6% 비싸져",
+   "title_en": "Inflation strains U.S. holiday budgets as Thanksgiving dinner costs rise 6%",
+   "summary_ko": [
+    "미국농업인연맹은 10인분 추수감사절 저녁 식사 비용이 6% 오른 58.63달러라고 밝혔다.",
+    "호퍼는 추수감사절 항공료가 약 31%, 크리스마스 항공료가 약 23% 올랐다고 분석했다.",
+    "베인앤드컴퍼니는 연말 소매 판매가 처음으로 1조 달러를 넘겠지만 증가분 대부분은 물가 상승 때문이라고 봤다."
+   ],
+   "summary_en": [
+    "The American Farm Bureau Federation said a 10-person Thanksgiving dinner costs $58.63, up 6%.",
+    "Hopper found Thanksgiving airfares are up about 31% and Christmas fares about 23%.",
+    "Bain & Company expects holiday retail sales to top $1 trillion for the first time, but said most of the growth comes from inflation."
+   ],
+   "media": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+   "date_evidence": "URL 날짜 2026/11/25 (미 동부, 기간 내)",
+   "expressions": [
+    [
+     "holiday budgets",
+     "연휴 예산"
+    ],
+    [
+     "airfares",
+     "항공료"
+    ],
+    [
+     "retail sales",
+     "소매 판매"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "정치",
+   "title_ko": "트럼프, 엔비디아 주식 수천만 달러 보유한 채 젠슨 황 복귀 압박",
+   "title_en": "Trump owned millions in Nvidia stock as he pressed chip giant to reinstate Jensen Huang",
+   "summary_ko": [
+    "재산공개 문서에 따르면 트럼프 대통령은 수천만 달러 규모의 엔비디아 주식을 보유하고 있다.",
+    "트럼프는 이 주식을 보유한 상태에서 엔비디아에 젠슨 황의 CEO 복귀를 압박했다.",
+    "이 때문에 트럼프는 지난 2주간 엔비디아 주가 급등락에 개인적 이해관계를 갖게 됐다."
+   ],
+   "summary_en": [
+    "President Trump holds tens of millions of dollars worth of Nvidia shares, financial disclosure documents show.",
+    "Trump pressed Nvidia to reinstate Jensen Huang as CEO while holding the shares.",
+    "That gave Trump a personal stake in Nvidia's stock market roller coaster over the past two weeks."
+   ],
+   "media": "CBS News",
+   "url": "https://www.cbsnews.com/news/trump-nvidia-stock-jensen-huang/",
+   "date_evidence": "검색 결과에 2026-11-25 보도(업데이트)로 표시, 11/25 트럼프 관련 뉴스 검색에 노출",
+   "expressions": [
+    [
+     "financial disclosure",
+     "재산 공개"
+    ],
+    [
+     "personal stake",
+     "개인적 이해관계"
+    ],
+    [
+     "roller coaster",
+     "급등락"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "사회",
+   "title_ko": "美 육군, 아이오와서 납 아자이드 약 5톤 폭파 처리",
+   "title_en": "U.S. Army detonates about 5 tons of lead azide in Iowa",
+   "summary_ko": [
+    "미 육군이 25일 아이오와주 미들타운 육군 탄약공장에서 약 5톤의 납 아자이드를 폭파 처리했다.",
+    "환경단체와 주민들은 납 먼지 피해를 우려해 법적 대응에 나섰지만 폭파를 막지 못했다.",
+    "연방재난관리청(FEMA)은 대기 측정 결과 \"납이 검출되지 않았다\"고 밝혔고 표면 시료 조사는 진행 중이다."
+   ],
+   "summary_en": [
+    "The U.S. Army detonated about 5 tons of lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa, on the 25th.",
+    "Environmental groups and residents fearing lead dust filed a legal challenge but failed to stop the detonation.",
+    "FEMA said air monitoring found \"no detectable lead,\" and post-detonation surface sampling is underway."
+   ],
+   "media": "NPR",
+   "url": "https://www.npr.org/2026/11/25/nx-s1-6054005/in-a-flash-the-army-blew-up-nearly-5-tons-of-a-degraded-explosive-at-its-plant-in-iowa",
+   "date_evidence": "URL 날짜 2026/11/25 (미국, 기간 내)",
+   "expressions": [
+    [
+     "legal challenge",
+     "법적 이의 제기"
+    ],
+    [
+     "air monitoring",
+     "대기 측정"
+    ],
+    [
+     "surface sampling",
+     "표면 시료 채취"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "부동산",
+   "title_ko": "美 모기지 금리 6주 새 5번째 하락…여전히 7% 웃돌아",
+   "title_en": "U.S. mortgage rates fall for fifth time in six weeks, still top 7%",
+   "summary_ko": [
+    "프레디맥에 따르면 30년 고정 모기지 금리는 평균 7.21%로 전주 7.28%에서 내렸다.",
+    "6주 동안 다섯 번째 하락이지만 여전히 7%를 웃돌았다.",
+    "1년 전 같은 금리는 6.23%였다."
+   ],
+   "summary_en": [
+    "The average 30-year fixed mortgage rate fell to 7.21% from 7.28% the previous week, according to Freddie Mac.",
+    "It was the fifth decline in six weeks, but the rate still topped 7%.",
+    "A year ago, the rate stood at 6.23%."
+   ],
+   "media": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-mortgage-rates-fall-for-fifth-time-in-six-weeks-still-top-7",
+   "date_evidence": "URL 날짜 2026-11-25 (미국, 기간 내)",
+   "expressions": [
+    [
+     "30-year fixed mortgage rate",
+     "30년 고정 모기지 금리"
+    ],
+    [
+     "topped",
+     "top",
+     "웃돌다"
+    ]
+   ]
+  },
+  {
+   "country": "US",
+   "category": "모빌리티",
+   "title_ko": "웨이모, 폐쇄된 고속도로 차로 진입 11건에 약 4500대 리콜",
+   "title_en": "Waymo recalls about 4,500 vehicles after 11 incidents of entering closed freeway lanes",
+   "summary_ko": [
+    "웨이모는 10월 1일 이후 로보택시가 폐쇄된 고속도로 차로에 진입한 사고 11건을 계기로 약 4500대를 리콜했다.",
+    "웨이모는 캘리포니아 규제 당국의 고속도로 운행 금지 이후 미국 전역에서 고속도로 운행을 중단했다.",
+    "NHTSA와 NTSB는 산타모니카에서 웨이모 차량이 도로로 뛰어든 어린이를 친 사고를 조사하고 있다."
+   ],
+   "summary_en": [
+    "Waymo recalled about 4,500 vehicles after 11 incidents since Oct. 1 in which its robotaxis entered closed freeway lanes.",
+    "Waymo halted freeway operations across the U.S. after a California regulator barred its vehicles from freeways.",
+    "NHTSA and the NTSB are investigating a crash in which a Waymo vehicle struck a child who ran into a street in Santa Monica."
+   ],
+   "media": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/waymo-recall-prompted-by-robotaxis-entering-closed-freeway-lanes.html",
+   "date_evidence": "URL 날짜 2026/11/24 (미 동부 11/24 00:00 = KST 11/24 14:00, 기간 내)",
+   "expressions": [
+    [
+     "closed freeway lanes",
+     "폐쇄된 고속도로 차로"
+    ],
+    [
+     "halted",
+     "halt",
+     "중단하다"
+    ],
+    [
+     "ran into a street",
+     "run into",
+     "도로로 뛰어들다"
+    ]
+   ]
+  }
+ ],
+ "headlines": [
+  {
+   "ko": "한국은행이 기준금리를 연 3.25%로 0.25%포인트 올리고 내년 성장률 전망을 4.1%로 상향했다",
+   "en": "The Bank of Korea raised its base rate by 0.25 percentage point to 3.25% and lifted next year's growth forecast to 4.1%"
+  },
+  {
+   "ko": "미국이 중국·EU 등 14개 교역 상대에 새 301조 관세를 제안했다",
+   "en": "The U.S. proposed new Section 301 tariffs on 14 trading partners, including China and the EU"
+  },
+  {
+   "ko": "웨이모가 폐쇄된 고속도로 차로 진입 사고 11건을 계기로 약 4500대를 리콜했다",
+   "en": "Waymo recalled about 4,500 vehicles after 11 incidents of entering closed freeway lanes"
+  }
+ ],
+ "channels": {
+  "news": {
+   "channel": "C0C6NRNGE81",
+   "parent": {
+    "text": "📰 **Daily News Brief** | 2026-11-27 (금)\n_수집 기간: 11/24 06:00 ~ 11/27 06:00 KST_\n\n**오늘의 핵심**\n• 한국은행이 기준금리를 연 3.25%로 0.25%포인트 올리고 내년 성장률 전망을 4.1%로 상향했다\n• 미국이 중국·EU 등 14개 교역 상대에 새 301조 관세를 제안했다\n• 웨이모가 폐쇄된 고속도로 차로 진입 사고 11건을 계기로 약 4500대를 리콜했다\n\n🧵 상세 뉴스는 스레드에서 분야별로 확인: 🇰🇷 한국·🇺🇸 미국 (경제 · 정치 · 사회 · 부동산 · 모빌리티)",
+    "verified": true,
+    "ts": "1795727351.382319"
+   },
+   "replies": [
+    {
+     "id": "news/KR/경제/1/1",
+     "country": "KR",
+     "category": "경제",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **한국 · 💰 경제**\n**1. 한은, 기준금리 연 3.25%로 인상…성장률 전망 대폭 상향**\n• 한국은행 금융통화위원회는 26일 기준금리를 연 3.00%에서 3.25%로 0.25%포인트 올렸다.\n• 한은은 올해 성장률 전망을 3.9%, 내년은 4.1%로 대폭 상향했다.\n• 금통위는 고물가와 가계부채 리스크가 지속된다며 추가 긴축 기조를 유지했다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611261002322163)\n\n**2. 코스피, 금리 인상 날 0.29% 반등…장중 4800선 찍고 4711 마감**\n• 26일 코스피는 전 거래일보다 13.70p(0.29%) 오른 4711.21에 마감했다.\n• 지수는 장중 4817.77까지 올랐지만 기준금리 인상과 외국인 순매도에 상승폭 대부분을 반납했다.\n• 기관은 7508억원을 순매수했고 개인과 외국인은 각각 1조438억원, 1137억원을 순매도했다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611261548115574)",
+     "verified": true,
+     "ts": "1795727358.366379"
+    },
+    {
+     "id": "news/KR/정치/1/1",
+     "country": "KR",
+     "category": "정치",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **한국 · 🏛️ 정치**\n**1. 정동영·조현, '동반 사퇴' 앞두고 국회서 퇴임 소회**\n• '동반 사퇴'를 앞둔 정동영 통일부 장관과 조현 외교부 장관이 26일 국회 외교통일위원회에서 마지막 소회를 밝혔다.\n• 조현 장관은 \"부족함이 많았다\"고 말했다.\n• 정동영 장관은 그간의 논쟁이 \"국익을 위한 충정\"이었다고 밝혔다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611261128170582)\n\n**2. 예산 처리 시한 일주일 앞…162조 미래대응기금 심사 착수도 못해**\n• 내년도 예산안 법정 처리 시한이 일주일 남았지만 예결위는 162조원 규모 미래대응기금 심사에 착수하지 못했다.\n• 여야는 기금 설치법과 예산 중 무엇을 먼저 처리할지를 두고 맞서고 있다.\n• 민주당은 법정 시한인 다음 달 2일까지 예산안을 처리한다는 입장이다.\n🔗 [서울신문](https://www.seoul.co.kr/news/politics/2026/11/26/20261126003001)",
+     "verified": true,
+     "ts": "1795727362.191949"
+    },
+    {
+     "id": "news/KR/사회/1/1",
+     "country": "KR",
+     "category": "사회",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **한국 · 👥 사회**\n**1. 학교 비정규직 27일 총파업…급식·돌봄 차질 우려**\n• 급식과 돌봄 등을 맡는 교육공무직 노동자들이 임금 인상과 처우 개선을 요구하며 27일 총파업에 나선다.\n• 교육부와 시도교육청은 파업 대응 상황실을 설치했다.\n• 교육당국은 급식·돌봄 차질에 대비해 비상 대응에 들어갔다.\n🔗 [경향신문](https://www.khan.co.kr/article/202611261004001)\n\n**2. 의사 국가고시 일부 과목 만점자 7배 급증**\n• 의사 국가고시 일부 과목에서 만점자가 크게 늘었다.\n• 해당 과목 만점자는 20명에서 137명으로 약 7배가 됐다.\n• 정부는 특정 과목의 수치만으로 부정행위를 판단하기는 어렵다는 입장이다.\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/26/20261126500129)",
+     "verified": true,
+     "ts": "1795727365.463889"
+    },
+    {
+     "id": "news/KR/부동산/1/1",
+     "country": "KR",
+     "category": "부동산",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **한국 · 🏠 부동산**\n**1. 정릉동 59㎡ 8억2천만원 신고가…서울 외곽 중저가는 계속 오른다**\n• 서울 정릉동 전용 59㎡ 아파트가 8억2천만원에 거래되며 신고가를 썼다.\n• 강남권과 달리 서울 외곽 중저가 아파트값은 계속 오르고 있다.\n• 주택 공급 부족 우려와 대출 규제 강화, 전셋값 부담에 따른 세입자의 매수 전환이 외곽 집값을 끌어올리고 있다는 분석이 나왔다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611260602138087)\n\n**2. 영등포·광진도 하락 전환…94주 오른 서울 집값 상승폭 최저**\n• 이번 주 서울 아파트 매매가격지수는 0.01% 올라 94주 연속 상승했지만 상승폭은 94주 만에 가장 작았다.\n• 영등포구와 광진구도 하락세로 돌아섰다.\n• 전문가는 고강도 대출 규제와 증시 변동성 확대로 매수 여력이 위축됐다고 분석했다.\n🔗 [헤럴드경제](https://biz.heraldcorp.com/article/10950304)",
+     "verified": true,
+     "ts": "1795727369.184089"
+    },
+    {
+     "id": "news/KR/모빌리티/1/1",
+     "country": "KR",
+     "category": "모빌리티",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **한국 · 🚗 모빌리티**\n**1. 대광위, 신도시 교통대책 38개 사업 직접 챙긴다**\n• 대도시권광역교통위원회가 신도시 교통대책 38개 사업을 직접 관리한다.\n• 대광위는 25일 코레일 서울본부에서 '신도시 교통대책 신속추진 TF 전체회의'를 열기로 했다.\n• 회의 안건은 올해 운영 성과 공유와 향후 발전 방향 논의다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611240815330504)\n\n**2. 다올證 \"현대차, 웨이모 로보택시 확대 수혜…자율주행 가치 재평가 기대\"**\n• 다올투자증권은 현대차가 웨이모의 로보택시 확대로 수혜를 볼 것으로 분석했다.\n• 웨이모의 해외 확장 과정에서 아이오닉5가 주요 차량으로 쓰일 가능성이 있다고 봤다.\n• 연간 700만대 이상의 신차 생산능력이 중장기적으로 자율주행 AI 학습 경쟁력이 될 수 있다고 평가했다.\n🔗 [이투데이](https://www.etoday.co.kr/news/view/2653077)",
+     "verified": true,
+     "ts": "1795727372.843249"
+    },
+    {
+     "id": "news/US/경제/1/1",
+     "country": "US",
+     "category": "경제",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **미국 · 💰 경제**\n**1. 美, 중국·EU 등 14개 교역 상대에 새 관세 제안**\n• 미국 정부가 과잉생산 조사에 따라 중국과 EU 등 14개 교역 상대에 새로운 301조 관세를 제안했다.\n• 중국과 베트남에는 가장 높은 20% 관세가 제안됐다.\n• 관세는 의견 수렴과 공청회를 거쳐 이르면 1월 발효될 예정이다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html)\n\n**2. 인플레이션에 美 연휴 지출 부담…추수감사절 식탁 6% 비싸져**\n• 미국농업인연맹은 10인분 추수감사절 저녁 식사 비용이 6% 오른 58.63달러라고 밝혔다.\n• 호퍼는 추수감사절 항공료가 약 31%, 크리스마스 항공료가 약 23% 올랐다고 분석했다.\n• 베인앤드컴퍼니는 연말 소매 판매가 처음으로 1조 달러를 넘겠지만 증가분 대부분은 물가 상승 때문이라고 봤다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html)",
+     "verified": true,
+     "ts": "1795727379.248789"
+    },
+    {
+     "id": "news/US/정치/1/1",
+     "country": "US",
+     "category": "정치",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **미국 · 🏛️ 정치**\n**1. 트럼프, 엔비디아 주식 수천만 달러 보유한 채 젠슨 황 복귀 압박**\n• 재산공개 문서에 따르면 트럼프 대통령은 수천만 달러 규모의 엔비디아 주식을 보유하고 있다.\n• 트럼프는 이 주식을 보유한 상태에서 엔비디아에 젠슨 황의 CEO 복귀를 압박했다.\n• 이 때문에 트럼프는 지난 2주간 엔비디아 주가 급등락에 개인적 이해관계를 갖게 됐다.\n🔗 [CBS News](https://www.cbsnews.com/news/trump-nvidia-stock-jensen-huang/)",
+     "verified": true,
+     "ts": "1795727381.835099"
+    },
+    {
+     "id": "news/US/사회/1/1",
+     "country": "US",
+     "category": "사회",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **미국 · 👥 사회**\n**1. 美 육군, 아이오와서 납 아자이드 약 5톤 폭파 처리**\n• 미 육군이 25일 아이오와주 미들타운 육군 탄약공장에서 약 5톤의 납 아자이드를 폭파 처리했다.\n• 환경단체와 주민들은 납 먼지 피해를 우려해 법적 대응에 나섰지만 폭파를 막지 못했다.\n• 연방재난관리청(FEMA)은 대기 측정 결과 \"납이 검출되지 않았다\"고 밝혔고 표면 시료 조사는 진행 중이다.\n🔗 [NPR](https://www.npr.org/2026/11/25/nx-s1-6054005/in-a-flash-the-army-blew-up-nearly-5-tons-of-a-degraded-explosive-at-its-plant-in-iowa)",
+     "verified": true,
+     "ts": "1795727384.558009"
+    },
+    {
+     "id": "news/US/부동산/1/1",
+     "country": "US",
+     "category": "부동산",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **미국 · 🏠 부동산**\n**1. 美 모기지 금리 6주 새 5번째 하락…여전히 7% 웃돌아**\n• 프레디맥에 따르면 30년 고정 모기지 금리는 평균 7.21%로 전주 7.28%에서 내렸다.\n• 6주 동안 다섯 번째 하락이지만 여전히 7%를 웃돌았다.\n• 1년 전 같은 금리는 6.23%였다.\n🔗 [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-25/us-mortgage-rates-fall-for-fifth-time-in-six-weeks-still-top-7)",
+     "verified": true,
+     "ts": "1795727386.946159"
+    },
+    {
+     "id": "news/US/모빌리티/1/1",
+     "country": "US",
+     "category": "모빌리티",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **미국 · 🚗 모빌리티**\n**1. 웨이모, 폐쇄된 고속도로 차로 진입 11건에 약 4500대 리콜**\n• 웨이모는 10월 1일 이후 로보택시가 폐쇄된 고속도로 차로에 진입한 사고 11건을 계기로 약 4500대를 리콜했다.\n• 웨이모는 캘리포니아 규제 당국의 고속도로 운행 금지 이후 미국 전역에서 고속도로 운행을 중단했다.\n• NHTSA와 NTSB는 산타모니카에서 웨이모 차량이 도로로 뛰어든 어린이를 친 사고를 조사하고 있다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/24/waymo-recall-prompted-by-robotaxis-entering-closed-freeway-lanes.html)",
+     "verified": true,
+     "ts": "1795727389.679719"
+    }
+   ]
+  },
+  "english": {
+   "channel": "C0C6KR1MEEP",
+   "parent": {
+    "text": "📚 **Daily English Brief** | 2026-11-27 (금)\n_수집 기간: 11/24 06:00 ~ 11/27 06:00 KST_\n\n**Today's Headlines / 오늘의 핵심**\n• The Bank of Korea raised its base rate by 0.25 percentage point to 3.25% and lifted next year's growth forecast to 4.1%\n  _한국은행이 기준금리를 연 3.25%로 0.25%포인트 올리고 내년 성장률 전망을 4.1%로 상향했다_\n• The U.S. proposed new Section 301 tariffs on 14 trading partners, including China and the EU\n  _미국이 중국·EU 등 14개 교역 상대에 새 301조 관세를 제안했다_\n• Waymo recalled about 4,500 vehicles after 11 incidents of entering closed freeway lanes\n  _웨이모가 폐쇄된 고속도로 차로 진입 사고 11건을 계기로 약 4500대를 리콜했다_\n\n🧵 Category threads / 스레드에서 분야별 확인: 🇰🇷 Korea·🇺🇸 US (Economy · Politics · Society · Real Estate · Mobility)",
+    "verified": true,
+    "ts": "1795727400.993219"
+   },
+   "replies": [
+    {
+     "id": "english/KR/경제/1/1",
+     "country": "KR",
+     "category": "경제",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **Korea · 💰 Economy / 한국 · 경제**\n**1. BOK raises base rate to 3.25%, sharply lifts growth outlook**\n_한은, 기준금리 연 3.25%로 인상…성장률 전망 대폭 상향_\n• The Bank of Korea's Monetary Policy Board raised the base rate by 0.25 percentage point to 3.25% from 3.00% on the 26th.\n  _한국은행 금융통화위원회는 26일 기준금리를 연 3.00%에서 3.25%로 0.25%포인트 올렸다._\n• The BOK sharply raised its growth forecast to 3.9% for this year and 4.1% for next year.\n  _한은은 올해 성장률 전망을 3.9%, 내년은 4.1%로 대폭 상향했다._\n• The board maintained its stance toward further tightening, citing persistent risks from high inflation and household debt.\n  _금통위는 고물가와 가계부채 리스크가 지속된다며 추가 긴축 기조를 유지했다._\n📝 `base rate` 기준금리 · `growth forecast` 성장률 전망 · `further tightening` 추가 긴축\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611261002322163)\n\n**2. KOSPI rebounds 0.29% on rate hike day, closes at 4,711 after topping 4,800 intraday**\n_코스피, 금리 인상 날 0.29% 반등…장중 4800선 찍고 4711 마감_\n• On the 26th, the KOSPI closed up 13.70 points, or 0.29%, at 4,711.21.\n  _26일 코스피는 전 거래일보다 13.70p(0.29%) 오른 4711.21에 마감했다._\n• The index climbed as high as 4,817.77 intraday but gave back most of its gains on the rate hike and foreign net selling.\n  _지수는 장중 4817.77까지 올랐지만 기준금리 인상과 외국인 순매도에 상승폭 대부분을 반납했다._\n• Institutions were net buyers of 750.8 billion won, while individuals and foreigners net sold 1.0438 trillion won and 113.7 billion won, respectively.\n  _기관은 7508억원을 순매수했고 개인과 외국인은 각각 1조438억원, 1137억원을 순매도했다._\n📝 `gave back` (give back) 반납하다 · `net selling` 순매도 · `net buyers` 순매수자\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611261548115574)",
+     "verified": true,
+     "ts": "1795727410.131709"
+    },
+    {
+     "id": "english/KR/정치/1/1",
+     "country": "KR",
+     "category": "정치",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **Korea · 🏛️ Politics / 한국 · 정치**\n**1. Chung Dong-young and Cho Hyun share farewell remarks at National Assembly ahead of joint resignation**\n_정동영·조현, '동반 사퇴' 앞두고 국회서 퇴임 소회_\n• Unification Minister Chung Dong-young and Foreign Minister Cho Hyun, set to step down together, gave their final remarks at the National Assembly's Foreign Affairs and Unification Committee on the 26th.\n  _'동반 사퇴'를 앞둔 정동영 통일부 장관과 조현 외교부 장관이 26일 국회 외교통일위원회에서 마지막 소회를 밝혔다._\n• Minister Cho said, \"I fell short in many ways.\"\n  _조현 장관은 \"부족함이 많았다\"고 말했다._\n• Minister Chung said the past disputes reflected his \"devotion to the national interest.\"\n  _정동영 장관은 그간의 논쟁이 \"국익을 위한 충정\"이었다고 밝혔다._\n📝 `step down` 물러나다 · `fell short` (fall short) 부족하다 · `national interest` 국익\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611261128170582)\n\n**2. A week before budget deadline, review of 162 trillion won future response fund has yet to begin**\n_예산 처리 시한 일주일 앞…162조 미래대응기금 심사 착수도 못해_\n• With a week left before the legal deadline for next year's budget, the budget committee has yet to begin reviewing the 162 trillion won Future Response Fund.\n  _내년도 예산안 법정 처리 시한이 일주일 남았지만 예결위는 162조원 규모 미래대응기금 심사에 착수하지 못했다._\n• The ruling and opposition parties are at odds over whether to pass the fund's establishment law or its budget first.\n  _여야는 기금 설치법과 예산 중 무엇을 먼저 처리할지를 두고 맞서고 있다._\n• The Democratic Party insists on passing the budget by the legal deadline of Dec. 2.\n  _민주당은 법정 시한인 다음 달 2일까지 예산안을 처리한다는 입장이다._\n📝 `legal deadline` 법정 시한 · `at odds over` ~를 두고 대립하는 · `yet to begin` 아직 시작하지 못한\n🔗 [서울신문](https://www.seoul.co.kr/news/politics/2026/11/26/20261126003001)",
+     "verified": true,
+     "ts": "1795727416.422299"
+    },
+    {
+     "id": "english/KR/사회/1/1",
+     "country": "KR",
+     "category": "사회",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **Korea · 👥 Society / 한국 · 사회**\n**1. School irregular workers to strike on the 27th, raising concerns over meals and child care**\n_학교 비정규직 27일 총파업…급식·돌봄 차질 우려_\n• Education support workers in charge of school meals and child care will go on a general strike on the 27th, demanding higher wages and better working conditions.\n  _급식과 돌봄 등을 맡는 교육공무직 노동자들이 임금 인상과 처우 개선을 요구하며 27일 총파업에 나선다._\n• The Ministry of Education and regional education offices have set up strike response centers.\n  _교육부와 시도교육청은 파업 대응 상황실을 설치했다._\n• Education authorities have shifted into emergency mode to prepare for disruptions to meals and child care.\n  _교육당국은 급식·돌봄 차질에 대비해 비상 대응에 들어갔다._\n📝 `go on a general strike` 총파업에 나서다 · `working conditions` 근로 조건 · `emergency mode` 비상 체제\n🔗 [경향신문](https://www.khan.co.kr/article/202611261004001)\n\n**2. Perfect scorers on some medical licensing exam subjects jump sevenfold**\n_의사 국가고시 일부 과목 만점자 7배 급증_\n• The number of perfect scorers surged in some subjects of the national medical licensing exam.\n  _의사 국가고시 일부 과목에서 만점자가 크게 늘었다._\n• Perfect scorers in those subjects rose from 20 to 137, roughly a sevenfold increase.\n  _해당 과목 만점자는 20명에서 137명으로 약 7배가 됐다._\n• The government says it is difficult to determine cheating based on figures from specific subjects alone.\n  _정부는 특정 과목의 수치만으로 부정행위를 판단하기는 어렵다는 입장이다._\n📝 `perfect scorers` 만점자 · `medical licensing exam` 의사 국가고시 · `sevenfold increase` 7배 증가\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/26/20261126500129)",
+     "verified": true,
+     "ts": "1795727421.965579"
+    },
+    {
+     "id": "english/KR/부동산/1/1",
+     "country": "KR",
+     "category": "부동산",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **Korea · 🏠 Real Estate / 한국 · 부동산**\n**1. 59㎡ unit in Jeongneung-dong hits record 820 million won as mid- to low-priced homes in outer Seoul keep rising**\n_정릉동 59㎡ 8억2천만원 신고가…서울 외곽 중저가는 계속 오른다_\n• A 59-square-meter apartment in Seoul's Jeongneung-dong sold for a record 820 million won.\n  _서울 정릉동 전용 59㎡ 아파트가 8억2천만원에 거래되며 신고가를 썼다._\n• Unlike the Gangnam area, prices of mid- to low-priced apartments on the outskirts of Seoul keep rising.\n  _강남권과 달리 서울 외곽 중저가 아파트값은 계속 오르고 있다._\n• Analysts say supply shortage worries, tighter lending rules and tenants switching to buying due to soaring jeonse costs are driving up prices on the outskirts.\n  _주택 공급 부족 우려와 대출 규제 강화, 전셋값 부담에 따른 세입자의 매수 전환이 외곽 집값을 끌어올리고 있다는 분석이 나왔다._\n📝 `sold for a record` 최고가에 팔리다 · `supply shortage` 공급 부족 · `lending rules` 대출 규제\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611260602138087)\n\n**2. Yeongdeungpo and Gwangjin turn lower as Seoul home prices post smallest gain in 94-week rally**\n_영등포·광진도 하락 전환…94주 오른 서울 집값 상승폭 최저_\n• Seoul's apartment sales price index rose 0.01% this week, extending gains to 94 straight weeks but marking the smallest rise in 94 weeks.\n  _이번 주 서울 아파트 매매가격지수는 0.01% 올라 94주 연속 상승했지만 상승폭은 94주 만에 가장 작았다._\n• Yeongdeungpo and Gwangjin districts also turned downward.\n  _영등포구와 광진구도 하락세로 돌아섰다._\n• An expert said tough lending curbs and heightened stock market volatility have squeezed buying power.\n  _전문가는 고강도 대출 규제와 증시 변동성 확대로 매수 여력이 위축됐다고 분석했다._\n📝 `turned downward` (turn downward) 하락 전환하다 · `lending curbs` 대출 규제 · `buying power` 매수 여력\n🔗 [헤럴드경제](https://biz.heraldcorp.com/article/10950304)",
+     "verified": true,
+     "ts": "1795727428.553579"
+    },
+    {
+     "id": "english/KR/모빌리티/1/1",
+     "country": "KR",
+     "category": "모빌리티",
+     "part": 1,
+     "parts": 1,
+     "text": "🇰🇷 **Korea · 🚗 Mobility / 한국 · 모빌리티**\n**1. Metropolitan transport commission to directly oversee 38 new town transport projects**\n_대광위, 신도시 교통대책 38개 사업 직접 챙긴다_\n• The Metropolitan Transport Commission will directly manage 38 new town transportation projects.\n  _대도시권광역교통위원회가 신도시 교통대책 38개 사업을 직접 관리한다._\n• The commission scheduled a plenary meeting of its task force for speedy implementation of new town transport measures at Korail's Seoul headquarters on the 25th.\n  _대광위는 25일 코레일 서울본부에서 '신도시 교통대책 신속추진 TF 전체회의'를 열기로 했다._\n• The agenda covers sharing this year's results and discussing future directions.\n  _회의 안건은 올해 운영 성과 공유와 향후 발전 방향 논의다._\n📝 `directly manage` 직접 관리하다 · `plenary meeting` 전체회의 · `speedy implementation` 신속 추진\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611240815330504)\n\n**2. Daol: \"Hyundai to benefit from Waymo's robotaxi expansion, autonomous driving value set for rerating\"**\n_다올證 \"현대차, 웨이모 로보택시 확대 수혜…자율주행 가치 재평가 기대\"_\n• Daol Investment & Securities said Hyundai Motor would benefit from Waymo's robotaxi expansion.\n  _다올투자증권은 현대차가 웨이모의 로보택시 확대로 수혜를 볼 것으로 분석했다._\n• It said the Ioniq 5 could serve as a key vehicle as Waymo expands overseas.\n  _웨이모의 해외 확장 과정에서 아이오닉5가 주요 차량으로 쓰일 가능성이 있다고 봤다._\n• It said Hyundai's capacity to build more than 7 million new vehicles a year could become a competitive edge in training autonomous driving AI over the mid to long term.\n  _연간 700만대 이상의 신차 생산능력이 중장기적으로 자율주행 AI 학습 경쟁력이 될 수 있다고 평가했다._\n📝 `benefit from` ~의 수혜를 보다 · `competitive edge` 경쟁력 · `mid to long term` 중장기\n🔗 [이투데이](https://www.etoday.co.kr/news/view/2653077)",
+     "verified": true,
+     "ts": "1795727434.763379"
+    },
+    {
+     "id": "english/US/경제/1/1",
+     "country": "US",
+     "category": "경제",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **US · 💰 Economy / 미국 · 경제**\n**1. U.S. proposes new tariffs on 14 trading partners, including China and the EU**\n_美, 중국·EU 등 14개 교역 상대에 새 관세 제안_\n• The U.S. proposed new Section 301 tariffs on 14 trading partners, including China and the EU, following a probe into excess capacity.\n  _미국 정부가 과잉생산 조사에 따라 중국과 EU 등 14개 교역 상대에 새로운 301조 관세를 제안했다._\n• China and Vietnam face the highest proposed tariff rate of 20%.\n  _중국과 베트남에는 가장 높은 20% 관세가 제안됐다._\n• The tariffs could take effect as early as January after a public comment process and hearings.\n  _관세는 의견 수렴과 공청회를 거쳐 이르면 1월 발효될 예정이다._\n📝 `Section 301 tariffs` 301조 관세 · `excess capacity` 과잉 생산 · `take effect` 발효되다\n🔗 [CNBC](https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html)\n\n**2. Inflation strains U.S. holiday budgets as Thanksgiving dinner costs rise 6%**\n_인플레이션에 美 연휴 지출 부담…추수감사절 식탁 6% 비싸져_\n• The American Farm Bureau Federation said a 10-person Thanksgiving dinner costs $58.63, up 6%.\n  _미국농업인연맹은 10인분 추수감사절 저녁 식사 비용이 6% 오른 58.63달러라고 밝혔다._\n• Hopper found Thanksgiving airfares are up about 31% and Christmas fares about 23%.\n  _호퍼는 추수감사절 항공료가 약 31%, 크리스마스 항공료가 약 23% 올랐다고 분석했다._\n• Bain & Company expects holiday retail sales to top $1 trillion for the first time, but said most of the growth comes from inflation.\n  _베인앤드컴퍼니는 연말 소매 판매가 처음으로 1조 달러를 넘겠지만 증가분 대부분은 물가 상승 때문이라고 봤다._\n📝 `holiday budgets` 연휴 예산 · `airfares` 항공료 · `retail sales` 소매 판매\n🔗 [CNBC](https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html)",
+     "verified": true,
+     "ts": "1795727444.280989"
+    },
+    {
+     "id": "english/US/정치/1/1",
+     "country": "US",
+     "category": "정치",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **US · 🏛️ Politics / 미국 · 정치**\n**1. Trump owned millions in Nvidia stock as he pressed chip giant to reinstate Jensen Huang**\n_트럼프, 엔비디아 주식 수천만 달러 보유한 채 젠슨 황 복귀 압박_\n• President Trump holds tens of millions of dollars worth of Nvidia shares, financial disclosure documents show.\n  _재산공개 문서에 따르면 트럼프 대통령은 수천만 달러 규모의 엔비디아 주식을 보유하고 있다._\n• Trump pressed Nvidia to reinstate Jensen Huang as CEO while holding the shares.\n  _트럼프는 이 주식을 보유한 상태에서 엔비디아에 젠슨 황의 CEO 복귀를 압박했다._\n• That gave Trump a personal stake in Nvidia's stock market roller coaster over the past two weeks.\n  _이 때문에 트럼프는 지난 2주간 엔비디아 주가 급등락에 개인적 이해관계를 갖게 됐다._\n📝 `financial disclosure` 재산 공개 · `personal stake` 개인적 이해관계 · `roller coaster` 급등락\n🔗 [CBS News](https://www.cbsnews.com/news/trump-nvidia-stock-jensen-huang/)",
+     "verified": true,
+     "ts": "1795727447.662329"
+    },
+    {
+     "id": "english/US/사회/1/1",
+     "country": "US",
+     "category": "사회",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **US · 👥 Society / 미국 · 사회**\n**1. U.S. Army detonates about 5 tons of lead azide in Iowa**\n_美 육군, 아이오와서 납 아자이드 약 5톤 폭파 처리_\n• The U.S. Army detonated about 5 tons of lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa, on the 25th.\n  _미 육군이 25일 아이오와주 미들타운 육군 탄약공장에서 약 5톤의 납 아자이드를 폭파 처리했다._\n• Environmental groups and residents fearing lead dust filed a legal challenge but failed to stop the detonation.\n  _환경단체와 주민들은 납 먼지 피해를 우려해 법적 대응에 나섰지만 폭파를 막지 못했다._\n• FEMA said air monitoring found \"no detectable lead,\" and post-detonation surface sampling is underway.\n  _연방재난관리청(FEMA)은 대기 측정 결과 \"납이 검출되지 않았다\"고 밝혔고 표면 시료 조사는 진행 중이다._\n📝 `legal challenge` 법적 이의 제기 · `air monitoring` 대기 측정 · `surface sampling` 표면 시료 채취\n🔗 [NPR](https://www.npr.org/2026/11/25/nx-s1-6054005/in-a-flash-the-army-blew-up-nearly-5-tons-of-a-degraded-explosive-at-its-plant-in-iowa)",
+     "verified": true,
+     "ts": "1795727451.687439"
+    },
+    {
+     "id": "english/US/부동산/1/1",
+     "country": "US",
+     "category": "부동산",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **US · 🏠 Real Estate / 미국 · 부동산**\n**1. U.S. mortgage rates fall for fifth time in six weeks, still top 7%**\n_美 모기지 금리 6주 새 5번째 하락…여전히 7% 웃돌아_\n• The average 30-year fixed mortgage rate fell to 7.21% from 7.28% the previous week, according to Freddie Mac.\n  _프레디맥에 따르면 30년 고정 모기지 금리는 평균 7.21%로 전주 7.28%에서 내렸다._\n• It was the fifth decline in six weeks, but the rate still topped 7%.\n  _6주 동안 다섯 번째 하락이지만 여전히 7%를 웃돌았다._\n• A year ago, the rate stood at 6.23%.\n  _1년 전 같은 금리는 6.23%였다._\n📝 `30-year fixed mortgage rate` 30년 고정 모기지 금리 · `topped` (top) 웃돌다\n🔗 [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-25/us-mortgage-rates-fall-for-fifth-time-in-six-weeks-still-top-7)",
+     "verified": true,
+     "ts": "1795727455.152959"
+    },
+    {
+     "id": "english/US/모빌리티/1/1",
+     "country": "US",
+     "category": "모빌리티",
+     "part": 1,
+     "parts": 1,
+     "text": "🇺🇸 **US · 🚗 Mobility / 미국 · 모빌리티**\n**1. Waymo recalls about 4,500 vehicles after 11 incidents of entering closed freeway lanes**\n_웨이모, 폐쇄된 고속도로 차로 진입 11건에 약 4500대 리콜_\n• Waymo recalled about 4,500 vehicles after 11 incidents since Oct. 1 in which its robotaxis entered closed freeway lanes.\n  _웨이모는 10월 1일 이후 로보택시가 폐쇄된 고속도로 차로에 진입한 사고 11건을 계기로 약 4500대를 리콜했다._\n• Waymo halted freeway operations across the U.S. after a California regulator barred its vehicles from freeways.\n  _웨이모는 캘리포니아 규제 당국의 고속도로 운행 금지 이후 미국 전역에서 고속도로 운행을 중단했다._\n• NHTSA and the NTSB are investigating a crash in which a Waymo vehicle struck a child who ran into a street in Santa Monica.\n  _NHTSA와 NTSB는 산타모니카에서 웨이모 차량이 도로로 뛰어든 어린이를 친 사고를 조사하고 있다._\n📝 `closed freeway lanes` 폐쇄된 고속도로 차로 · `halted` (halt) 중단하다 · `ran into a street` (run into) 도로로 뛰어들다\n🔗 [CNBC](https://www.cnbc.com/2026/11/24/waymo-recall-prompted-by-robotaxis-entering-closed-freeway-lanes.html)",
+     "verified": true,
+     "ts": "1795727459.320489"
+    }
+   ]
+  }
+ },
+ "verification": {
+  "parent": true,
+  "categories": "all verified",
+  "dedup_against": [
+   "2026-11-26",
+   "2026-11-25"
+  ]
+ }
+}
