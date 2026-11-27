@@ -1,0 +1,727 @@
+{
+ "date": "2026-11-28",
+ "period": "11/25 06:00 ~ 11/28 06:00 KST",
+ "articles": [
+  {
+   "country": "KR",
+   "category": "경제",
+   "title_ko": "코스피 4.34% 급등해 4900선 회복…코스닥 8% 뛰어 700선 탈환",
+   "title_en": "KOSPI Surges 4.34% to Reclaim 4,900; KOSDAQ Jumps 8% to Retake 700",
+   "summary": [
+    "27일 코스피는 전 거래일보다 204.47p(4.34%) 오른 4915.68에 마감했다.",
+    "코스닥은 8.13% 오른 708.99로 700선을 회복했다.",
+    "증안펀드 확대 기대감 속에 외국인 매수세가 돌아왔다."
+   ],
+   "summary_en": [
+    "On the 27th, the KOSPI closed up 204.47 points, or 4.34%, at 4,915.68.",
+    "The KOSDAQ rose 8.13% to 708.99, reclaiming the 700 mark.",
+    "Foreign buying returned amid hopes for an expanded market stabilization fund."
+   ],
+   "expressions": [
+    [
+     "closed up",
+     "close up",
+     "상승 마감하다"
+    ],
+    [
+     "reclaiming the 700 mark",
+     "reclaim the ... mark",
+     "~선을 회복하다"
+    ],
+    [
+     "market stabilization fund",
+     null,
+     "증시안정펀드"
+    ]
+   ],
+   "media": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2654023",
+   "date_evidence": "검색결과: 11/27 장 마감 기사(코스피 4.34% 마감)"
+  },
+  {
+   "country": "KR",
+   "category": "경제",
+   "title_ko": "李대통령 \"자본시장 정상화는 핵심 국정과제…김용범 위원장에 전권\"",
+   "title_en": "President Lee: \"Normalizing the Capital Market Is a Core Policy Task\"",
+   "summary": [
+    "이재명 대통령은 자본시장 정상화를 핵심 국정과제로 꼽았다.",
+    "이 대통령은 김용범 위원장이 이끄는 자본시장대전환위원회에 운영과 위원 구성의 전권을 줬다고 밝혔다.",
+    "이 대통령은 부처가 이견을 내면 위원회가 대통령실에 직접 보고하도록 했다고 설명했다."
+   ],
+   "summary_en": [
+    "President Lee Jae-myung named normalizing the capital market a core national policy task.",
+    "He said he gave full authority over operations and membership to the capital market transformation committee led by Chairman Kim Yong-beom.",
+    "He explained that the committee will report directly to the presidential office if ministries raise objections."
+   ],
+   "expressions": [
+    [
+     "core national policy task",
+     null,
+     "핵심 국정과제"
+    ],
+    [
+     "full authority",
+     null,
+     "전권"
+    ],
+    [
+     "raise objections",
+     "raise an objection",
+     "이견을 제기하다"
+    ]
+   ],
+   "media": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611280002555700",
+   "date_evidence": "URL 시각 2026-11-28 00:02 KST"
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title_ko": "與, 조희대 탄핵안 12월 3일 공동 발의·9일 처리 유력",
+   "title_en": "Ruling Party Likely to Co-Sponsor Impeachment Motion Against Cho Hee-de on Dec. 3, Vote on the 9th",
+   "summary": [
+    "민주당은 12·3 비상계엄 2주기인 12월 3일 범여권 정당들과 조희대 대법원장 탄핵안을 공동 발의하는 방안을 유력하게 검토하고 있다.",
+    "민주당은 7일이나 8일 본회의에서 탄핵안을 보고한 뒤 9일 표결하는 방안을 검토 중이다.",
+    "대법원장 탄핵안은 재적 의원 과반 찬성으로 가결돼 161석의 민주당 단독으로도 처리할 수 있다."
+   ],
+   "summary_en": [
+    "The Democratic Party is strongly considering co-sponsoring an impeachment motion against Chief Justice Cho Hee-de with pro-government parties on Dec. 3, the second anniversary of martial law.",
+    "The party is considering reporting the motion at a plenary session on the 7th or 8th and voting on the 9th.",
+    "A motion to impeach the chief justice needs a majority of sitting lawmakers, so the 161-seat Democratic Party can pass it alone."
+   ],
+   "expressions": [
+    [
+     "impeachment motion",
+     null,
+     "탄핵소추안"
+    ],
+    [
+     "plenary session",
+     null,
+     "본회의"
+    ],
+    [
+     "sitting lawmakers",
+     null,
+     "재적 의원"
+    ]
+   ],
+   "media": "세계일보",
+   "url": "https://www.segye.com/newsView/20261126516912",
+   "date_evidence": "URL 날짜 2026-11-26 (KST 종일 기간 내)"
+  },
+  {
+   "country": "KR",
+   "category": "정치",
+   "title_ko": "李대통령 \"내란 책임자에 합당한 책임 물을 때 완전한 내란 종식\"",
+   "title_en": "President Lee: \"Insurrection Fully Ends Only When Those Responsible Are Held Accountable\"",
+   "summary": [
+    "이재명 대통령은 27일 사회대개혁위원회 출범 1주년 간담회에서 발언했다.",
+    "이 대통령은 내란 책임자들에게 헌정 유린의 합당한 책임을 물을 때 완전한 내란 종식이 이뤄진다고 말했다.",
+    "이 대통령은 돌봄·일자리·주거와 기후위기 대응의 '3+1 메가 프로젝트'를 동시에 추진하겠다고 밝혔다."
+   ],
+   "summary_en": [
+    "President Lee Jae-myung spoke on the 27th at a meeting marking the first anniversary of the Social Reform Committee.",
+    "He said the insurrection will fully end only when those responsible are held accountable for undermining the constitutional order.",
+    "He said he will simultaneously push a \"3+1 mega project\" on care, jobs, housing and the climate crisis."
+   ],
+   "expressions": [
+    [
+     "held accountable",
+     "hold accountable",
+     "책임을 묻다"
+    ],
+    [
+     "constitutional order",
+     null,
+     "헌정 질서"
+    ],
+    [
+     "climate crisis",
+     null,
+     "기후위기"
+    ]
+   ],
+   "media": "서울신문",
+   "url": "https://www.seoul.co.kr/news/politics/2026/11/27/20261127500251",
+   "date_evidence": "URL 날짜 2026-11-27"
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title_ko": "경찰, '임플란트 환자 2명 사망' 강남 치과 압수수색",
+   "title_en": "Police Raid Gangnam Dental Clinic Where Two Implant Patients Died",
+   "summary": [
+    "서울경찰청 광역수사단은 27일 사기와 의료법 위반 혐의로 강남구의 한 치과병원을 압수수색했다.",
+    "이 치과에서는 지난해 12월 30일과 올해 8월 3일 임플란트 수술을 받던 환자 2명이 숨졌다.",
+    "이 치과는 본인부담금 할인을 미끼로 보험금을 빼돌리고 환자 소개비를 지급했다는 의혹도 받고 있다."
+   ],
+   "summary_en": [
+    "Seoul police's metropolitan investigation unit raided a dental clinic in Gangnam-gu on the 27th on charges of fraud and medical law violations.",
+    "Two patients died during implant surgery at the clinic on Dec. 30 last year and Aug. 3 this year.",
+    "The clinic is also suspected of siphoning off insurance money with out-of-pocket discounts and paying patient referral fees."
+   ],
+   "expressions": [
+    [
+     "on charges of",
+     null,
+     "~혐의로"
+    ],
+    [
+     "siphoning off",
+     "siphon off",
+     "빼돌리다"
+    ],
+    [
+     "referral fees",
+     "referral fee",
+     "소개비"
+    ]
+   ],
+   "media": "서울신문",
+   "url": "https://www.seoul.co.kr/news/society/2026/11/27/20261127500095",
+   "date_evidence": "URL 날짜 2026-11-27, 27일 오전 압수수색"
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title_ko": "남경필 전 경기지사 아들, 스토킹·협박 혐의로 체포",
+   "title_en": "Son of Former Gyeonggi Governor Nam Kyung-pil Arrested on Stalking and Threat Charges",
+   "summary": [
+    "경기 성남수정경찰서는 남경필 전 경기지사의 아들 남모씨를 자택에서 체포했다.",
+    "남씨에게는 성폭력처벌법·스토킹처벌법 위반, 폭행, 특수협박 혐의가 적용됐다.",
+    "전 여자친구는 남씨가 헤어지자고 하면 성관계 영상을 유포하겠다고 여러 차례 협박했다며 고소했다."
+   ],
+   "summary_en": [
+    "Seongnam Sujeong Police Station arrested Nam, the son of former Gyeonggi Governor Nam Kyung-pil, at his home.",
+    "Nam faces charges under the sexual violence and anti-stalking laws, plus assault and aggravated intimidation.",
+    "His ex-girlfriend filed a complaint, saying he repeatedly threatened to leak a sex video if she broke up with him."
+   ],
+   "expressions": [
+    [
+     "aggravated intimidation",
+     null,
+     "특수협박"
+    ],
+    [
+     "filed a complaint",
+     "file a complaint",
+     "고소하다"
+    ],
+    [
+     "broke up with",
+     "break up with",
+     "~와 헤어지다"
+    ]
+   ],
+   "media": "경향신문",
+   "url": "https://www.khan.co.kr/article/202611271053011",
+   "date_evidence": "URL 시각 2026-11-27 10:53"
+  },
+  {
+   "country": "KR",
+   "category": "사회",
+   "title_ko": "화성서 화물차 돌출 적재물에 스리랑카 노동자 2명 참변",
+   "title_en": "Two Sri Lankan Workers Killed by Truck's Protruding Cargo in Hwaseong",
+   "summary": [
+    "경기 화성에서 화물차의 돌출 적재물에 도로 가장자리를 걷던 스리랑카 국적 노동자 2명이 숨졌다.",
+    "경찰은 50대 화물차 운전자를 이들을 숨지게 한 혐의로 조사하고 있다.",
+    "경찰은 적재 기준 위반 여부도 확인하고 있다."
+   ],
+   "summary_en": [
+    "In Hwaseong, Gyeonggi Province, two Sri Lankan workers walking along a roadside were killed by a truck's protruding cargo.",
+    "Police are investigating the truck driver in his 50s on suspicion of causing their deaths.",
+    "Police are also checking whether loading regulations were violated."
+   ],
+   "expressions": [
+    [
+     "protruding cargo",
+     null,
+     "돌출 적재물"
+    ],
+    [
+     "on suspicion of",
+     null,
+     "~혐의로"
+    ],
+    [
+     "loading regulations",
+     null,
+     "적재 기준"
+    ]
+   ],
+   "media": "세계일보",
+   "url": "https://www.segye.com/newsView/20261127506898",
+   "date_evidence": "URL 날짜 2026-11-27"
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title_ko": "올해 주택 종부세 대상 73만명…1년 새 19만명 늘어",
+   "title_en": "730,000 Billed for Housing Comprehensive Real Estate Tax, Up 190,000 in a Year",
+   "summary": [
+    "올해 주택분 종부세 고지 인원은 72만6000명으로 지난해보다 18만7000명(34.5%) 늘었다.",
+    "서울 고지 인원은 45만9263명으로 40.1% 증가했다.",
+    "1세대 1주택자 고지 인원은 23만1000명으로 53.0% 늘었고 고지 세액은 1679억원에서 3660억원으로 급증했다."
+   ],
+   "summary_en": [
+    "This year, 726,000 people received comprehensive real estate tax bills on housing, up 187,000, or 34.5%, from last year.",
+    "The number billed in Seoul rose 40.1% to 459,263.",
+    "The number of single-home owners billed rose 53.0% to 231,000, and their tax bills soared from 167.9 billion won to 366 billion won."
+   ],
+   "expressions": [
+    [
+     "comprehensive real estate tax",
+     null,
+     "종합부동산세"
+    ],
+    [
+     "tax bills",
+     "tax bill",
+     "세금 고지서"
+    ],
+    [
+     "single-home owners",
+     "single-home owner",
+     "1주택자"
+    ]
+   ],
+   "media": "서울신문",
+   "url": "https://www.seoul.co.kr/news/economy/2026/11/26/20261126500267",
+   "date_evidence": "URL 날짜 2026-11-26"
+  },
+  {
+   "country": "KR",
+   "category": "부동산",
+   "title_ko": "'10·15 부동산 대책' 취소소송, 국민의힘 패소",
+   "title_en": "People Power Party Loses Suit Against Oct. 15 Real Estate Measures",
+   "summary": [
+    "서울행정법원 행정1부는 27일 국민의힘과 서울·경기 주민들이 국토교통부 장관을 상대로 낸 소송에서 원고 청구를 모두 기각했다.",
+    "소송은 토지거래허가구역 등 지정처분을 취소해 달라는 내용이었다.",
+    "원고 측은 정부가 9월 주택가격 통계를 반영하지 않고 6~8월 통계로 규제지역을 지정했다고 주장했다."
+   ],
+   "summary_en": [
+    "On the 27th, the Seoul Administrative Court dismissed all claims in a suit by the People Power Party and Seoul and Gyeonggi residents against the Minister of Land, Infrastructure and Transport.",
+    "The suit sought to cancel the designation of land transaction permit zones and other areas.",
+    "The plaintiffs argued the government designated regulated areas using June–August data without September housing price statistics."
+   ],
+   "expressions": [
+    [
+     "dismissed all claims",
+     "dismiss all claims",
+     "청구를 모두 기각하다"
+    ],
+    [
+     "land transaction permit zones",
+     "land transaction permit zone",
+     "토지거래허가구역"
+    ],
+    [
+     "regulated areas",
+     "regulated area",
+     "규제지역"
+    ]
+   ],
+   "media": "아주경제",
+   "url": "https://www.ajunews.com/view/20261127160635922",
+   "date_evidence": "URL 시각 2026-11-27 16:06, 27일 선고"
+  },
+  {
+   "country": "KR",
+   "category": "모빌리티",
+   "title_ko": "자율주행 시대, 서울 골목·주차장 달라진다…\"도시공간 재설계 요구\"",
+   "title_en": "Seoul's Alleys and Parking Lots to Change in the Self-Driving Era",
+   "summary": [
+    "서울시는 '자율주행이 바꿀 서울의 도시공간'을 주제로 내부 강연을 열었다.",
+    "강연에서는 차량이 다니던 골목 일부를 보행로와 녹지로 바꾸는 방안이 소개됐다.",
+    "주차 수요가 줄어 비게 될 지하공간을 에너지·데이터 허브 등으로 바꾸는 방안도 제시됐다."
+   ],
+   "summary_en": [
+    "The Seoul Metropolitan Government held an internal lecture on how self-driving will change Seoul's urban space.",
+    "The lecture introduced plans to convert parts of car alleys into walkways and green space.",
+    "It also proposed turning underground spaces emptied by falling parking demand into energy and data hubs."
+   ],
+   "expressions": [
+    [
+     "urban space",
+     null,
+     "도시공간"
+    ],
+    [
+     "green space",
+     null,
+     "녹지"
+    ],
+    [
+     "parking demand",
+     null,
+     "주차 수요"
+    ]
+   ],
+   "media": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611270820516611",
+   "date_evidence": "URL 시각 2026-11-27 08:20"
+  },
+  {
+   "country": "KR",
+   "category": "모빌리티",
+   "title_ko": "오세훈, 2.3조 서부선 재가동…18년 표류 끝내나",
+   "title_en": "Mayor Oh Se-hoon Revives 2.3 Trillion Won Seobu Line Project",
+   "summary": [
+    "오세훈 서울시장은 12월 2일 5개 자치구 지역 의원과 서부선 도시철도 추진연합회 관계자들을 만난다.",
+    "서울시는 총사업비를 2조3252억원으로 늘려 26일 제3자 제안 재공고를 실시했다.",
+    "이번에도 사업자를 찾지 못하면 민자사업을 취소하고 재정사업으로 전환할 방침이다."
+   ],
+   "summary_en": [
+    "Seoul Mayor Oh Se-hoon will meet local lawmakers from five districts and Seobu Line railway campaigners on Dec. 2.",
+    "The city raised the total project cost to 2.3252 trillion won and reissued a third-party proposal notice on the 26th.",
+    "If no operator is found again, it plans to scrap the private investment project and switch to public funding."
+   ],
+   "expressions": [
+    [
+     "total project cost",
+     null,
+     "총사업비"
+    ],
+    [
+     "private investment project",
+     null,
+     "민간투자사업"
+    ],
+    [
+     "public funding",
+     null,
+     "재정 투입"
+    ]
+   ],
+   "media": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611270932592220",
+   "date_evidence": "URL 시각 2026-11-27 09:32"
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "title_ko": "뉴욕증시, 블랙프라이데이 랠리…다우 2022년 이후 최고의 한 주",
+   "title_en": "Wall Street Rallies on Black Friday as Dow Posts Best Week Since 2022",
+   "summary": [
+    "27일 다우지수는 591.99포인트(1.18%) 오른 50,774.94에 마감했다.",
+    "S&P500은 1.6% 오른 7,297.49, 나스닥은 2.31% 오른 24,129.50에 마감했다.",
+    "다우지수는 2022년 이후 최고의 한 주를 기록했다."
+   ],
+   "summary_en": [
+    "On the 27th, the Dow Jones Industrial Average rose 591.99 points, or 1.18%, to close at 50,774.94.",
+    "The S&P 500 added 1.6% to 7,297.49, and the Nasdaq advanced 2.31% to 24,129.50.",
+    "The Dow closed out its best week since 2022."
+   ],
+   "expressions": [
+    [
+     "closed out",
+     "close out",
+     "마무리하다"
+    ],
+    [
+     "best week since",
+     null,
+     "~이후 최고의 한 주"
+    ],
+    [
+     "advanced",
+     "advance",
+     "(지수가) 오르다"
+    ]
+   ],
+   "media": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+   "date_evidence": "URL 날짜 2026-11-26(ET) 라이브, 11/27 13:00 ET(11/28 03:00 KST) 마감 수치"
+  },
+  {
+   "country": "US",
+   "category": "경제",
+   "title_ko": "엔비디아, 동남아 4개국 AI 서버 출하 중단",
+   "title_en": "Nvidia Halts AI Server Shipments to Four Southeast Asian Countries",
+   "summary": [
+    "엔비디아가 말레이시아·싱가포르·태국·인도네시아로의 AI 서버 출하를 중단했다고 FT 등이 보도했다.",
+    "엔비디아는 현지 파트너의 미국 수출 요건 준수 여부를 점검하는 동안 델·슈퍼마이크로 등에 출하 보류를 요청했다.",
+    "보도 이후 27일 엔비디아 주가는 장 초반 상승폭을 줄였다."
+   ],
+   "summary_en": [
+    "The Financial Times and others reported that Nvidia halted AI server shipments to Malaysia, Singapore, Thailand and Indonesia.",
+    "Nvidia told partners such as Dell and Super Micro to hold shipments while it assesses whether regional partners meet U.S. export requirements.",
+    "After the report, Nvidia shares pared gains at the open on the 27th."
+   ],
+   "expressions": [
+    [
+     "hold shipments",
+     "hold a shipment",
+     "출하를 보류하다"
+    ],
+    [
+     "export requirements",
+     "export requirement",
+     "수출 요건"
+    ],
+    [
+     "pared gains",
+     "pare gains",
+     "상승폭을 줄이다"
+    ]
+   ],
+   "media": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/technology/articles/nvidia-halts-chip-shipments-southeast-221523356.html",
+   "date_evidence": "검색결과: 11/27(블랙프라이데이) 개장 시 주가 반응 보도, 12/1 하원 출석 수일 전"
+  },
+  {
+   "country": "US",
+   "category": "정치",
+   "title_ko": "美 법원, FCC의 ABC 방송국 면허 조기 심사에 제동",
+   "title_en": "U.S. Judge Blocks FCC's Early Review of ABC Station Licenses",
+   "summary": [
+    "로렌 알리칸 연방판사는 25일 FCC의 ABC 방송국 면허 조기 갱신 절차를 막는 가처분 명령을 내렸다.",
+    "판사는 ABC가 보복이라는 주장에서 승소할 가능성이 높다며 \"어려운 사건이 아니다\"라고 밝혔다.",
+    "FCC는 판결이 사실관계와 법리 모두 틀렸다며 최종 승소를 기대한다고 밝혔다."
+   ],
+   "summary_en": [
+    "U.S. District Judge Loren AliKhan issued a preliminary injunction on the 25th blocking the FCC's early license renewal process for ABC stations.",
+    "The judge found ABC likely to win its retaliation claim, calling it \"not a close case.\"",
+    "The FCC said the ruling was wrong on the facts and the law and that it looks forward to prevailing."
+   ],
+   "expressions": [
+    [
+     "preliminary injunction",
+     null,
+     "가처분 명령"
+    ],
+    [
+     "not a close case",
+     null,
+     "판단이 어렵지 않은 사건"
+    ],
+    [
+     "looks forward to prevailing",
+     "look forward to prevailing",
+     "승소를 기대하다"
+    ]
+   ],
+   "media": "CNN",
+   "url": "https://edition.cnn.com/2026/11/25/media/trump-fcc-carr-disney-abc-stations-judge-blocked",
+   "date_evidence": "URL 날짜 2026-11-25(ET), 판결 11/25(수)"
+  },
+  {
+   "country": "US",
+   "category": "사회",
+   "title_ko": "추수감사절 폭풍에 메이시스 퍼레이드 사상 첫 연기",
+   "title_en": "Thanksgiving Storm Forces First-Ever Postponement of Macy's Parade",
+   "summary": [
+    "메이시스 추수감사절 퍼레이드가 강풍으로 사상 처음 연기돼 28일(토)에 열린다.",
+    "뉴욕주와 뉴저지주 주지사는 비상사태를 선포했다.",
+    "추수감사절 당일 미국 항공편 400편 이상이 취소되고 1900편 이상이 지연됐다."
+   ],
+   "summary_en": [
+    "The Macy's Thanksgiving Day Parade was postponed for the first time due to strong winds and will be held Saturday, the 28th.",
+    "The governors of New York and New Jersey declared states of emergency.",
+    "On Thanksgiving Day, more than 400 U.S. flights were canceled and more than 1,900 were delayed."
+   ],
+   "expressions": [
+    [
+     "strong winds",
+     "strong wind",
+     "강풍"
+    ],
+    [
+     "declared states of emergency",
+     "declare a state of emergency",
+     "비상사태를 선포하다"
+    ],
+    [
+     "were delayed",
+     "be delayed",
+     "지연되다"
+    ]
+   ],
+   "media": "NPR",
+   "url": "https://www.npr.org/2026/11/26/nx-s1-6054079/storms-expected-on-both-coasts-as-millions-travel-for-thanksgiving",
+   "date_evidence": "URL 날짜 2026-11-26(ET) 추수감사절 당일"
+  },
+  {
+   "country": "US",
+   "category": "부동산",
+   "title_ko": "美 10월 신규주택 판매 14% 급증…올해 최고",
+   "title_en": "U.S. New-Home Sales Jump 14% in October to Highest This Year",
+   "summary": [
+    "10월 미국 신규 단독주택 판매는 14.2% 늘어 연율 70만1000건을 기록했다.",
+    "이는 블룸버그 이코노미스트 조사의 모든 전망치를 웃돈 수치다.",
+    "신규주택 판매 중간가격은 1년 전보다 3.2% 내린 39만1300달러였다."
+   ],
+   "summary_en": [
+    "U.S. new single-family home sales rose 14.2% in October to an annualized rate of 701,000.",
+    "The figure topped all estimates in a Bloomberg survey of economists.",
+    "The median new-home sales price fell 3.2% from a year earlier to $391,300."
+   ],
+   "expressions": [
+    [
+     "annualized rate",
+     null,
+     "연율"
+    ],
+    [
+     "topped all estimates",
+     "top all estimates",
+     "모든 전망치를 웃돌다"
+    ],
+    [
+     "median new-home sales price",
+     null,
+     "신규주택 판매 중간가격"
+    ]
+   ],
+   "media": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/new-us-home-sales-climb-to-highest-this-year-topping-forecasts",
+   "date_evidence": "URL 날짜 2026-11-25, 11/25 10:00 ET(11/26 00:00 KST) 발표"
+  }
+ ],
+ "headlines": [
+  [
+   "코스피가 증안펀드 확대 기대감 속에 4.34% 급등한 4915.68로 마감하며 4900선을 회복했다",
+   "The KOSPI surged 4.34% to close at 4,915.68 on hopes for a bigger market stabilization fund, reclaiming 4,900"
+  ],
+  [
+   "올해 주택분 종부세 고지 인원이 72만6000명으로 지난해보다 34.5% 늘었다",
+   "This year, 726,000 people were billed for comprehensive real estate tax on housing, up 34.5% from last year"
+  ],
+  [
+   "뉴욕증시에서 다우지수가 블랙프라이데이에 1.18% 오르며 2022년 이후 최고의 한 주를 기록했다",
+   "The Dow rose 1.18% on Black Friday, capping its best week since 2022"
+  ]
+ ],
+ "verified": {
+  "parent": true,
+  "categories": {
+   "KR-경제": true,
+   "KR-정치": true,
+   "KR-사회": true,
+   "KR-부동산": true,
+   "KR-모빌리티": true,
+   "US-경제": true,
+   "US-정치": true,
+   "US-사회": true,
+   "US-부동산": true,
+   "US-모빌리티": true
+  }
+ },
+ "channels": {
+  "news": {
+   "channel": "C0C6NRNGE81",
+   "parent": "📰 **Daily News Brief** | 2026-11-28 (토)\n_수집 기간: 11/25 06:00 ~ 11/28 06:00 KST_\n\n**오늘의 핵심**\n• 코스피가 증안펀드 확대 기대감 속에 4.34% 급등한 4915.68로 마감하며 4900선을 회복했다\n• 올해 주택분 종부세 고지 인원이 72만6000명으로 지난해보다 34.5% 늘었다\n• 뉴욕증시에서 다우지수가 블랙프라이데이에 1.18% 오르며 2022년 이후 최고의 한 주를 기록했다\n\n🧵 상세 뉴스는 스레드에서 분야별로 확인: 🇰🇷 한국·🇺🇸 미국 (경제 · 정치 · 사회 · 부동산 · 모빌리티)",
+   "parent_ts": "1795813795.196969",
+   "replies": [
+    {
+     "id": "news-KR-경제-1/1",
+     "text": "🇰🇷 **한국 · 💰 경제**\n**1. 코스피 4.34% 급등해 4900선 회복…코스닥 8% 뛰어 700선 탈환**\n• 27일 코스피는 전 거래일보다 204.47p(4.34%) 오른 4915.68에 마감했다.\n• 코스닥은 8.13% 오른 708.99로 700선을 회복했다.\n• 증안펀드 확대 기대감 속에 외국인 매수세가 돌아왔다.\n🔗 [이투데이](https://www.etoday.co.kr/news/view/2654023)\n\n**2. 李대통령 \"자본시장 정상화는 핵심 국정과제…김용범 위원장에 전권\"**\n• 이재명 대통령은 자본시장 정상화를 핵심 국정과제로 꼽았다.\n• 이 대통령은 김용범 위원장이 이끄는 자본시장대전환위원회에 운영과 위원 구성의 전권을 줬다고 밝혔다.\n• 이 대통령은 부처가 이견을 내면 위원회가 대통령실에 직접 보고하도록 했다고 설명했다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611280002555700)",
+     "ts": "1795813801.621739"
+    },
+    {
+     "id": "news-KR-정치-1/1",
+     "text": "🇰🇷 **한국 · 🏛️ 정치**\n**1. 與, 조희대 탄핵안 12월 3일 공동 발의·9일 처리 유력**\n• 민주당은 12·3 비상계엄 2주기인 12월 3일 범여권 정당들과 조희대 대법원장 탄핵안을 공동 발의하는 방안을 유력하게 검토하고 있다.\n• 민주당은 7일이나 8일 본회의에서 탄핵안을 보고한 뒤 9일 표결하는 방안을 검토 중이다.\n• 대법원장 탄핵안은 재적 의원 과반 찬성으로 가결돼 161석의 민주당 단독으로도 처리할 수 있다.\n🔗 [세계일보](https://www.segye.com/newsView/20261126516912)\n\n**2. 李대통령 \"내란 책임자에 합당한 책임 물을 때 완전한 내란 종식\"**\n• 이재명 대통령은 27일 사회대개혁위원회 출범 1주년 간담회에서 발언했다.\n• 이 대통령은 내란 책임자들에게 헌정 유린의 합당한 책임을 물을 때 완전한 내란 종식이 이뤄진다고 말했다.\n• 이 대통령은 돌봄·일자리·주거와 기후위기 대응의 '3+1 메가 프로젝트'를 동시에 추진하겠다고 밝혔다.\n🔗 [서울신문](https://www.seoul.co.kr/news/politics/2026/11/27/20261127500251)",
+     "ts": "1795813805.650459"
+    },
+    {
+     "id": "news-KR-사회-1/1",
+     "text": "🇰🇷 **한국 · 👥 사회**\n**1. 경찰, '임플란트 환자 2명 사망' 강남 치과 압수수색**\n• 서울경찰청 광역수사단은 27일 사기와 의료법 위반 혐의로 강남구의 한 치과병원을 압수수색했다.\n• 이 치과에서는 지난해 12월 30일과 올해 8월 3일 임플란트 수술을 받던 환자 2명이 숨졌다.\n• 이 치과는 본인부담금 할인을 미끼로 보험금을 빼돌리고 환자 소개비를 지급했다는 의혹도 받고 있다.\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/27/20261127500095)\n\n**2. 남경필 전 경기지사 아들, 스토킹·협박 혐의로 체포**\n• 경기 성남수정경찰서는 남경필 전 경기지사의 아들 남모씨를 자택에서 체포했다.\n• 남씨에게는 성폭력처벌법·스토킹처벌법 위반, 폭행, 특수협박 혐의가 적용됐다.\n• 전 여자친구는 남씨가 헤어지자고 하면 성관계 영상을 유포하겠다고 여러 차례 협박했다며 고소했다.\n🔗 [경향신문](https://www.khan.co.kr/article/202611271053011)\n\n**3. 화성서 화물차 돌출 적재물에 스리랑카 노동자 2명 참변**\n• 경기 화성에서 화물차의 돌출 적재물에 도로 가장자리를 걷던 스리랑카 국적 노동자 2명이 숨졌다.\n• 경찰은 50대 화물차 운전자를 이들을 숨지게 한 혐의로 조사하고 있다.\n• 경찰은 적재 기준 위반 여부도 확인하고 있다.\n🔗 [세계일보](https://www.segye.com/newsView/20261127506898)",
+     "ts": "1795813813.714009"
+    },
+    {
+     "id": "news-KR-부동산-1/1",
+     "text": "🇰🇷 **한국 · 🏠 부동산**\n**1. 올해 주택 종부세 대상 73만명…1년 새 19만명 늘어**\n• 올해 주택분 종부세 고지 인원은 72만6000명으로 지난해보다 18만7000명(34.5%) 늘었다.\n• 서울 고지 인원은 45만9263명으로 40.1% 증가했다.\n• 1세대 1주택자 고지 인원은 23만1000명으로 53.0% 늘었고 고지 세액은 1679억원에서 3660억원으로 급증했다.\n🔗 [서울신문](https://www.seoul.co.kr/news/economy/2026/11/26/20261126500267)\n\n**2. '10·15 부동산 대책' 취소소송, 국민의힘 패소**\n• 서울행정법원 행정1부는 27일 국민의힘과 서울·경기 주민들이 국토교통부 장관을 상대로 낸 소송에서 원고 청구를 모두 기각했다.\n• 소송은 토지거래허가구역 등 지정처분을 취소해 달라는 내용이었다.\n• 원고 측은 정부가 9월 주택가격 통계를 반영하지 않고 6~8월 통계로 규제지역을 지정했다고 주장했다.\n🔗 [아주경제](https://www.ajunews.com/view/20261127160635922)",
+     "ts": "1795813819.789789"
+    },
+    {
+     "id": "news-KR-모빌리티-1/1",
+     "text": "🇰🇷 **한국 · 🚗 모빌리티**\n**1. 자율주행 시대, 서울 골목·주차장 달라진다…\"도시공간 재설계 요구\"**\n• 서울시는 '자율주행이 바꿀 서울의 도시공간'을 주제로 내부 강연을 열었다.\n• 강연에서는 차량이 다니던 골목 일부를 보행로와 녹지로 바꾸는 방안이 소개됐다.\n• 주차 수요가 줄어 비게 될 지하공간을 에너지·데이터 허브 등으로 바꾸는 방안도 제시됐다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611270820516611)\n\n**2. 오세훈, 2.3조 서부선 재가동…18년 표류 끝내나**\n• 오세훈 서울시장은 12월 2일 5개 자치구 지역 의원과 서부선 도시철도 추진연합회 관계자들을 만난다.\n• 서울시는 총사업비를 2조3252억원으로 늘려 26일 제3자 제안 재공고를 실시했다.\n• 이번에도 사업자를 찾지 못하면 민자사업을 취소하고 재정사업으로 전환할 방침이다.\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611270932592220)",
+     "ts": "1795813825.857409"
+    },
+    {
+     "id": "news-US-경제-1/1",
+     "text": "🇺🇸 **미국 · 💰 경제**\n**1. 뉴욕증시, 블랙프라이데이 랠리…다우 2022년 이후 최고의 한 주**\n• 27일 다우지수는 591.99포인트(1.18%) 오른 50,774.94에 마감했다.\n• S&P500은 1.6% 오른 7,297.49, 나스닥은 2.31% 오른 24,129.50에 마감했다.\n• 다우지수는 2022년 이후 최고의 한 주를 기록했다.\n🔗 [CNBC](https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html)\n\n**2. 엔비디아, 동남아 4개국 AI 서버 출하 중단**\n• 엔비디아가 말레이시아·싱가포르·태국·인도네시아로의 AI 서버 출하를 중단했다고 FT 등이 보도했다.\n• 엔비디아는 현지 파트너의 미국 수출 요건 준수 여부를 점검하는 동안 델·슈퍼마이크로 등에 출하 보류를 요청했다.\n• 보도 이후 27일 엔비디아 주가는 장 초반 상승폭을 줄였다.\n🔗 [Yahoo Finance](https://finance.yahoo.com/technology/articles/nvidia-halts-chip-shipments-southeast-221523356.html)",
+     "ts": "1795813832.242519"
+    },
+    {
+     "id": "news-US-정치-1/1",
+     "text": "🇺🇸 **미국 · 🏛️ 정치**\n**1. 美 법원, FCC의 ABC 방송국 면허 조기 심사에 제동**\n• 로렌 알리칸 연방판사는 25일 FCC의 ABC 방송국 면허 조기 갱신 절차를 막는 가처분 명령을 내렸다.\n• 판사는 ABC가 보복이라는 주장에서 승소할 가능성이 높다며 \"어려운 사건이 아니다\"라고 밝혔다.\n• FCC는 판결이 사실관계와 법리 모두 틀렸다며 최종 승소를 기대한다고 밝혔다.\n🔗 [CNN](https://edition.cnn.com/2026/11/25/media/trump-fcc-carr-disney-abc-stations-judge-blocked)",
+     "ts": "1795813837.360269"
+    },
+    {
+     "id": "news-US-사회-1/1",
+     "text": "🇺🇸 **미국 · 👥 사회**\n**1. 추수감사절 폭풍에 메이시스 퍼레이드 사상 첫 연기**\n• 메이시스 추수감사절 퍼레이드가 강풍으로 사상 처음 연기돼 28일(토)에 열린다.\n• 뉴욕주와 뉴저지주 주지사는 비상사태를 선포했다.\n• 추수감사절 당일 미국 항공편 400편 이상이 취소되고 1900편 이상이 지연됐다.\n🔗 [NPR](https://www.npr.org/2026/11/26/nx-s1-6054079/storms-expected-on-both-coasts-as-millions-travel-for-thanksgiving)",
+     "ts": "1795813842.073609"
+    },
+    {
+     "id": "news-US-부동산-1/1",
+     "text": "🇺🇸 **미국 · 🏠 부동산**\n**1. 美 10월 신규주택 판매 14% 급증…올해 최고**\n• 10월 미국 신규 단독주택 판매는 14.2% 늘어 연율 70만1000건을 기록했다.\n• 이는 블룸버그 이코노미스트 조사의 모든 전망치를 웃돈 수치다.\n• 신규주택 판매 중간가격은 1년 전보다 3.2% 내린 39만1300달러였다.\n🔗 [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-25/new-us-home-sales-climb-to-highest-this-year-topping-forecasts)",
+     "ts": "1795813846.992109"
+    },
+    {
+     "id": "news-US-모빌리티-1/1",
+     "text": "🇺🇸 **미국 · 🚗 모빌리티**\n_해당 기간 새 기사 없음_",
+     "ts": "1795813850.184039"
+    }
+   ]
+  },
+  "english": {
+   "channel": "C0C6KR1MEEP",
+   "parent": "📚 **Daily News English Brief** | 2026-11-28 (토)\n_수집 기간: 11/25 06:00 ~ 11/28 06:00 KST_\n\n**Today's Headlines / 오늘의 핵심**\n• The KOSPI surged 4.34% to close at 4,915.68 on hopes for a bigger market stabilization fund, reclaiming 4,900\n  _코스피가 증안펀드 확대 기대감 속에 4.34% 급등한 4915.68로 마감하며 4900선을 회복했다_\n• This year, 726,000 people were billed for comprehensive real estate tax on housing, up 34.5% from last year\n  _올해 주택분 종부세 고지 인원이 72만6000명으로 지난해보다 34.5% 늘었다_\n• The Dow rose 1.18% on Black Friday, capping its best week since 2022\n  _뉴욕증시에서 다우지수가 블랙프라이데이에 1.18% 오르며 2022년 이후 최고의 한 주를 기록했다_\n\n🧵 Category threads / 스레드에서 분야별 확인: 🇰🇷 Korea·🇺🇸 US (Economy · Politics · Society · Real Estate · Mobility)",
+   "parent_ts": "1795813860.735249",
+   "replies": [
+    {
+     "id": "english-KR-경제-1/1",
+     "text": "🇰🇷 **Korea · 💰 Economy / 한국 · 경제**\n**1. KOSPI Surges 4.34% to Reclaim 4,900; KOSDAQ Jumps 8% to Retake 700**\n_코스피 4.34% 급등해 4900선 회복…코스닥 8% 뛰어 700선 탈환_\n• On the 27th, the KOSPI closed up 204.47 points, or 4.34%, at 4,915.68.\n  _27일 코스피는 전 거래일보다 204.47p(4.34%) 오른 4915.68에 마감했다._\n• The KOSDAQ rose 8.13% to 708.99, reclaiming the 700 mark.\n  _코스닥은 8.13% 오른 708.99로 700선을 회복했다._\n• Foreign buying returned amid hopes for an expanded market stabilization fund.\n  _증안펀드 확대 기대감 속에 외국인 매수세가 돌아왔다._\n📝 `closed up` (close up) 상승 마감하다 · `reclaiming the 700 mark` (reclaim the ... mark) ~선을 회복하다 · `market stabilization fund` 증시안정펀드\n🔗 [이투데이](https://www.etoday.co.kr/news/view/2654023)\n\n**2. President Lee: \"Normalizing the Capital Market Is a Core Policy Task\"**\n_李대통령 \"자본시장 정상화는 핵심 국정과제…김용범 위원장에 전권\"_\n• President Lee Jae-myung named normalizing the capital market a core national policy task.\n  _이재명 대통령은 자본시장 정상화를 핵심 국정과제로 꼽았다._\n• He said he gave full authority over operations and membership to the capital market transformation committee led by Chairman Kim Yong-beom.\n  _이 대통령은 김용범 위원장이 이끄는 자본시장대전환위원회에 운영과 위원 구성의 전권을 줬다고 밝혔다._\n• He explained that the committee will report directly to the presidential office if ministries raise objections.\n  _이 대통령은 부처가 이견을 내면 위원회가 대통령실에 직접 보고하도록 했다고 설명했다._\n📝 `core national policy task` 핵심 국정과제 · `full authority` 전권 · `raise objections` (raise an objection) 이견을 제기하다\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611280002555700)",
+     "ts": "1795813869.723449"
+    },
+    {
+     "id": "english-KR-정치-1/1",
+     "text": "🇰🇷 **Korea · 🏛️ Politics / 한국 · 정치**\n**1. Ruling Party Likely to Co-Sponsor Impeachment Motion Against Cho Hee-de on Dec. 3, Vote on the 9th**\n_與, 조희대 탄핵안 12월 3일 공동 발의·9일 처리 유력_\n• The Democratic Party is strongly considering co-sponsoring an impeachment motion against Chief Justice Cho Hee-de with pro-government parties on Dec. 3, the second anniversary of martial law.\n  _민주당은 12·3 비상계엄 2주기인 12월 3일 범여권 정당들과 조희대 대법원장 탄핵안을 공동 발의하는 방안을 유력하게 검토하고 있다._\n• The party is considering reporting the motion at a plenary session on the 7th or 8th and voting on the 9th.\n  _민주당은 7일이나 8일 본회의에서 탄핵안을 보고한 뒤 9일 표결하는 방안을 검토 중이다._\n• A motion to impeach the chief justice needs a majority of sitting lawmakers, so the 161-seat Democratic Party can pass it alone.\n  _대법원장 탄핵안은 재적 의원 과반 찬성으로 가결돼 161석의 민주당 단독으로도 처리할 수 있다._\n📝 `impeachment motion` 탄핵소추안 · `plenary session` 본회의 · `sitting lawmakers` 재적 의원\n🔗 [세계일보](https://www.segye.com/newsView/20261126516912)\n\n**2. President Lee: \"Insurrection Fully Ends Only When Those Responsible Are Held Accountable\"**\n_李대통령 \"내란 책임자에 합당한 책임 물을 때 완전한 내란 종식\"_\n• President Lee Jae-myung spoke on the 27th at a meeting marking the first anniversary of the Social Reform Committee.\n  _이재명 대통령은 27일 사회대개혁위원회 출범 1주년 간담회에서 발언했다._\n• He said the insurrection will fully end only when those responsible are held accountable for undermining the constitutional order.\n  _이 대통령은 내란 책임자들에게 헌정 유린의 합당한 책임을 물을 때 완전한 내란 종식이 이뤄진다고 말했다._\n• He said he will simultaneously push a \"3+1 mega project\" on care, jobs, housing and the climate crisis.\n  _이 대통령은 돌봄·일자리·주거와 기후위기 대응의 '3+1 메가 프로젝트'를 동시에 추진하겠다고 밝혔다._\n📝 `held accountable` (hold accountable) 책임을 묻다 · `constitutional order` 헌정 질서 · `climate crisis` 기후위기\n🔗 [서울신문](https://www.seoul.co.kr/news/politics/2026/11/27/20261127500251)",
+     "ts": "1795813879.232909"
+    },
+    {
+     "id": "english-KR-사회-1/1",
+     "text": "🇰🇷 **Korea · 👥 Society / 한국 · 사회**\n**1. Police Raid Gangnam Dental Clinic Where Two Implant Patients Died**\n_경찰, '임플란트 환자 2명 사망' 강남 치과 압수수색_\n• Seoul police's metropolitan investigation unit raided a dental clinic in Gangnam-gu on the 27th on charges of fraud and medical law violations.\n  _서울경찰청 광역수사단은 27일 사기와 의료법 위반 혐의로 강남구의 한 치과병원을 압수수색했다._\n• Two patients died during implant surgery at the clinic on Dec. 30 last year and Aug. 3 this year.\n  _이 치과에서는 지난해 12월 30일과 올해 8월 3일 임플란트 수술을 받던 환자 2명이 숨졌다._\n• The clinic is also suspected of siphoning off insurance money with out-of-pocket discounts and paying patient referral fees.\n  _이 치과는 본인부담금 할인을 미끼로 보험금을 빼돌리고 환자 소개비를 지급했다는 의혹도 받고 있다._\n📝 `on charges of` ~혐의로 · `siphoning off` (siphon off) 빼돌리다 · `referral fees` (referral fee) 소개비\n🔗 [서울신문](https://www.seoul.co.kr/news/society/2026/11/27/20261127500095)\n\n**2. Son of Former Gyeonggi Governor Nam Kyung-pil Arrested on Stalking and Threat Charges**\n_남경필 전 경기지사 아들, 스토킹·협박 혐의로 체포_\n• Seongnam Sujeong Police Station arrested Nam, the son of former Gyeonggi Governor Nam Kyung-pil, at his home.\n  _경기 성남수정경찰서는 남경필 전 경기지사의 아들 남모씨를 자택에서 체포했다._\n• Nam faces charges under the sexual violence and anti-stalking laws, plus assault and aggravated intimidation.\n  _남씨에게는 성폭력처벌법·스토킹처벌법 위반, 폭행, 특수협박 혐의가 적용됐다._\n• His ex-girlfriend filed a complaint, saying he repeatedly threatened to leak a sex video if she broke up with him.\n  _전 여자친구는 남씨가 헤어지자고 하면 성관계 영상을 유포하겠다고 여러 차례 협박했다며 고소했다._\n📝 `aggravated intimidation` 특수협박 · `filed a complaint` (file a complaint) 고소하다 · `broke up with` (break up with) ~와 헤어지다\n🔗 [경향신문](https://www.khan.co.kr/article/202611271053011)\n\n**3. Two Sri Lankan Workers Killed by Truck's Protruding Cargo in Hwaseong**\n_화성서 화물차 돌출 적재물에 스리랑카 노동자 2명 참변_\n• In Hwaseong, Gyeonggi Province, two Sri Lankan workers walking along a roadside were killed by a truck's protruding cargo.\n  _경기 화성에서 화물차의 돌출 적재물에 도로 가장자리를 걷던 스리랑카 국적 노동자 2명이 숨졌다._\n• Police are investigating the truck driver in his 50s on suspicion of causing their deaths.\n  _경찰은 50대 화물차 운전자를 이들을 숨지게 한 혐의로 조사하고 있다._\n• Police are also checking whether loading regulations were violated.\n  _경찰은 적재 기준 위반 여부도 확인하고 있다._\n📝 `protruding cargo` 돌출 적재물 · `on suspicion of` ~혐의로 · `loading regulations` 적재 기준\n🔗 [세계일보](https://www.segye.com/newsView/20261127506898)",
+     "ts": "1795813890.763919"
+    },
+    {
+     "id": "english-KR-부동산-1/1",
+     "text": "🇰🇷 **Korea · 🏠 Real Estate / 한국 · 부동산**\n**1. 730,000 Billed for Housing Comprehensive Real Estate Tax, Up 190,000 in a Year**\n_올해 주택 종부세 대상 73만명…1년 새 19만명 늘어_\n• This year, 726,000 people received comprehensive real estate tax bills on housing, up 187,000, or 34.5%, from last year.\n  _올해 주택분 종부세 고지 인원은 72만6000명으로 지난해보다 18만7000명(34.5%) 늘었다._\n• The number billed in Seoul rose 40.1% to 459,263.\n  _서울 고지 인원은 45만9263명으로 40.1% 증가했다._\n• The number of single-home owners billed rose 53.0% to 231,000, and their tax bills soared from 167.9 billion won to 366 billion won.\n  _1세대 1주택자 고지 인원은 23만1000명으로 53.0% 늘었고 고지 세액은 1679억원에서 3660억원으로 급증했다._\n📝 `comprehensive real estate tax` 종합부동산세 · `tax bills` (tax bill) 세금 고지서 · `single-home owners` (single-home owner) 1주택자\n🔗 [서울신문](https://www.seoul.co.kr/news/economy/2026/11/26/20261126500267)\n\n**2. People Power Party Loses Suit Against Oct. 15 Real Estate Measures**\n_'10·15 부동산 대책' 취소소송, 국민의힘 패소_\n• On the 27th, the Seoul Administrative Court dismissed all claims in a suit by the People Power Party and Seoul and Gyeonggi residents against the Minister of Land, Infrastructure and Transport.\n  _서울행정법원 행정1부는 27일 국민의힘과 서울·경기 주민들이 국토교통부 장관을 상대로 낸 소송에서 원고 청구를 모두 기각했다._\n• The suit sought to cancel the designation of land transaction permit zones and other areas.\n  _소송은 토지거래허가구역 등 지정처분을 취소해 달라는 내용이었다._\n• The plaintiffs argued the government designated regulated areas using June–August data without September housing price statistics.\n  _원고 측은 정부가 9월 주택가격 통계를 반영하지 않고 6~8월 통계로 규제지역을 지정했다고 주장했다._\n📝 `dismissed all claims` (dismiss all claims) 청구를 모두 기각하다 · `land transaction permit zones` (land transaction permit zone) 토지거래허가구역 · `regulated areas` (regulated area) 규제지역\n🔗 [아주경제](https://www.ajunews.com/view/20261127160635922)",
+     "ts": "1795813899.907619"
+    },
+    {
+     "id": "english-KR-모빌리티-1/1",
+     "text": "🇰🇷 **Korea · 🚗 Mobility / 한국 · 모빌리티**\n**1. Seoul's Alleys and Parking Lots to Change in the Self-Driving Era**\n_자율주행 시대, 서울 골목·주차장 달라진다…\"도시공간 재설계 요구\"_\n• The Seoul Metropolitan Government held an internal lecture on how self-driving will change Seoul's urban space.\n  _서울시는 '자율주행이 바꿀 서울의 도시공간'을 주제로 내부 강연을 열었다._\n• The lecture introduced plans to convert parts of car alleys into walkways and green space.\n  _강연에서는 차량이 다니던 골목 일부를 보행로와 녹지로 바꾸는 방안이 소개됐다._\n• It also proposed turning underground spaces emptied by falling parking demand into energy and data hubs.\n  _주차 수요가 줄어 비게 될 지하공간을 에너지·데이터 허브 등으로 바꾸는 방안도 제시됐다._\n📝 `urban space` 도시공간 · `green space` 녹지 · `parking demand` 주차 수요\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611270820516611)\n\n**2. Mayor Oh Se-hoon Revives 2.3 Trillion Won Seobu Line Project**\n_오세훈, 2.3조 서부선 재가동…18년 표류 끝내나_\n• Seoul Mayor Oh Se-hoon will meet local lawmakers from five districts and Seobu Line railway campaigners on Dec. 2.\n  _오세훈 서울시장은 12월 2일 5개 자치구 지역 의원과 서부선 도시철도 추진연합회 관계자들을 만난다._\n• The city raised the total project cost to 2.3252 trillion won and reissued a third-party proposal notice on the 26th.\n  _서울시는 총사업비를 2조3252억원으로 늘려 26일 제3자 제안 재공고를 실시했다._\n• If no operator is found again, it plans to scrap the private investment project and switch to public funding.\n  _이번에도 사업자를 찾지 못하면 민자사업을 취소하고 재정사업으로 전환할 방침이다._\n📝 `total project cost` 총사업비 · `private investment project` 민간투자사업 · `public funding` 재정 투입\n🔗 [파이낸셜뉴스](https://www.fnnews.com/news/202611270932592220)",
+     "ts": "1795813908.945159"
+    },
+    {
+     "id": "english-US-경제-1/1",
+     "text": "🇺🇸 **US · 💰 Economy / 미국 · 경제**\n**1. Wall Street Rallies on Black Friday as Dow Posts Best Week Since 2022**\n_뉴욕증시, 블랙프라이데이 랠리…다우 2022년 이후 최고의 한 주_\n• On the 27th, the Dow Jones Industrial Average rose 591.99 points, or 1.18%, to close at 50,774.94.\n  _27일 다우지수는 591.99포인트(1.18%) 오른 50,774.94에 마감했다._\n• The S&P 500 added 1.6% to 7,297.49, and the Nasdaq advanced 2.31% to 24,129.50.\n  _S&P500은 1.6% 오른 7,297.49, 나스닥은 2.31% 오른 24,129.50에 마감했다._\n• The Dow closed out its best week since 2022.\n  _다우지수는 2022년 이후 최고의 한 주를 기록했다._\n📝 `closed out` (close out) 마무리하다 · `best week since` ~이후 최고의 한 주 · `advanced` (advance) (지수가) 오르다\n🔗 [CNBC](https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html)\n\n**2. Nvidia Halts AI Server Shipments to Four Southeast Asian Countries**\n_엔비디아, 동남아 4개국 AI 서버 출하 중단_\n• The Financial Times and others reported that Nvidia halted AI server shipments to Malaysia, Singapore, Thailand and Indonesia.\n  _엔비디아가 말레이시아·싱가포르·태국·인도네시아로의 AI 서버 출하를 중단했다고 FT 등이 보도했다._\n• Nvidia told partners such as Dell and Super Micro to hold shipments while it assesses whether regional partners meet U.S. export requirements.\n  _엔비디아는 현지 파트너의 미국 수출 요건 준수 여부를 점검하는 동안 델·슈퍼마이크로 등에 출하 보류를 요청했다._\n• After the report, Nvidia shares pared gains at the open on the 27th.\n  _보도 이후 27일 엔비디아 주가는 장 초반 상승폭을 줄였다._\n📝 `hold shipments` (hold a shipment) 출하를 보류하다 · `export requirements` (export requirement) 수출 요건 · `pared gains` (pare gains) 상승폭을 줄이다\n🔗 [Yahoo Finance](https://finance.yahoo.com/technology/articles/nvidia-halts-chip-shipments-southeast-221523356.html)",
+     "ts": "1795813919.090669"
+    },
+    {
+     "id": "english-US-정치-1/1",
+     "text": "🇺🇸 **US · 🏛️ Politics / 미국 · 정치**\n**1. U.S. Judge Blocks FCC's Early Review of ABC Station Licenses**\n_美 법원, FCC의 ABC 방송국 면허 조기 심사에 제동_\n• U.S. District Judge Loren AliKhan issued a preliminary injunction on the 25th blocking the FCC's early license renewal process for ABC stations.\n  _로렌 알리칸 연방판사는 25일 FCC의 ABC 방송국 면허 조기 갱신 절차를 막는 가처분 명령을 내렸다._\n• The judge found ABC likely to win its retaliation claim, calling it \"not a close case.\"\n  _판사는 ABC가 보복이라는 주장에서 승소할 가능성이 높다며 \"어려운 사건이 아니다\"라고 밝혔다._\n• The FCC said the ruling was wrong on the facts and the law and that it looks forward to prevailing.\n  _FCC는 판결이 사실관계와 법리 모두 틀렸다며 최종 승소를 기대한다고 밝혔다._\n📝 `preliminary injunction` 가처분 명령 · `not a close case` 판단이 어렵지 않은 사건 · `looks forward to prevailing` (look forward to prevailing) 승소를 기대하다\n🔗 [CNN](https://edition.cnn.com/2026/11/25/media/trump-fcc-carr-disney-abc-stations-judge-blocked)",
+     "ts": "1795813925.328799"
+    },
+    {
+     "id": "english-US-사회-1/1",
+     "text": "🇺🇸 **US · 👥 Society / 미국 · 사회**\n**1. Thanksgiving Storm Forces First-Ever Postponement of Macy's Parade**\n_추수감사절 폭풍에 메이시스 퍼레이드 사상 첫 연기_\n• The Macy's Thanksgiving Day Parade was postponed for the first time due to strong winds and will be held Saturday, the 28th.\n  _메이시스 추수감사절 퍼레이드가 강풍으로 사상 처음 연기돼 28일(토)에 열린다._\n• The governors of New York and New Jersey declared states of emergency.\n  _뉴욕주와 뉴저지주 주지사는 비상사태를 선포했다._\n• On Thanksgiving Day, more than 400 U.S. flights were canceled and more than 1,900 were delayed.\n  _추수감사절 당일 미국 항공편 400편 이상이 취소되고 1900편 이상이 지연됐다._\n📝 `strong winds` (strong wind) 강풍 · `declared states of emergency` (declare a state of emergency) 비상사태를 선포하다 · `were delayed` (be delayed) 지연되다\n🔗 [NPR](https://www.npr.org/2026/11/26/nx-s1-6054079/storms-expected-on-both-coasts-as-millions-travel-for-thanksgiving)",
+     "ts": "1795813939.542739"
+    },
+    {
+     "id": "english-US-부동산-1/1",
+     "text": "🇺🇸 **US · 🏠 Real Estate / 미국 · 부동산**\n**1. U.S. New-Home Sales Jump 14% in October to Highest This Year**\n_美 10월 신규주택 판매 14% 급증…올해 최고_\n• U.S. new single-family home sales rose 14.2% in October to an annualized rate of 701,000.\n  _10월 미국 신규 단독주택 판매는 14.2% 늘어 연율 70만1000건을 기록했다._\n• The figure topped all estimates in a Bloomberg survey of economists.\n  _이는 블룸버그 이코노미스트 조사의 모든 전망치를 웃돈 수치다._\n• The median new-home sales price fell 3.2% from a year earlier to $391,300.\n  _신규주택 판매 중간가격은 1년 전보다 3.2% 내린 39만1300달러였다._\n📝 `annualized rate` 연율 · `topped all estimates` (top all estimates) 모든 전망치를 웃돌다 · `median new-home sales price` 신규주택 판매 중간가격\n🔗 [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-25/new-us-home-sales-climb-to-highest-this-year-topping-forecasts)",
+     "ts": "1795813945.610679"
+    },
+    {
+     "id": "english-US-모빌리티-1/1",
+     "text": "🇺🇸 **US · 🚗 Mobility / 미국 · 모빌리티**\n_No new articles in this period / 해당 기간 새 기사 없음_",
+     "ts": "1795813949.077909"
+    }
+   ]
+  }
+ }
+}
